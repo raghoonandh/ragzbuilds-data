@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-24T16:06:45.403807Z",
-  "article_count": 18,
+  "generated": "2026-02-24T16:06:55.388204Z",
+  "article_count": 17,
   "categories": [
     {
       "id": "chennai_metro",
@@ -16,7 +16,7 @@
           "pub_date": "2026-02-23T14:00:30Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Lens Wins Gold"
+          "short_title": "Startup Soars"
         },
         {
           "id": "15c9f7d8f88d",
@@ -37,15 +37,15 @@
       "color": "#ff6d01",
       "articles": [
         {
-          "id": "b27f76c8da3d",
-          "title": "Thai University confers honorary doctorate to VIT vice-president in Vellore",
+          "id": "0c4b9a578012",
+          "title": "Residents pool funds to donate 60 CCTV cameras near Katpadi in Vellore to prevent crimes",
           "source": "The Hindu",
           "district": "Vellore",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGp5UllTbUg3ZDdiN0lmMWdGVk9raUQzTER6OUp1dzk4QS1FSW9lamxCQzdncjcyeEtqQVgwYjMzMDQyY0pZNFJDQ0ItN0lHUTZQbDd4LS00a1Y2a2NKWGt4TkpvNnJ5QUlrS0xUUGtlNHNCUnhZME1wYUgwcTZSM1dreXBtRVlzMzhCX2wtWndZbkd5QU92azVjX2w2MlJod2hiQTlNWTJpQ1NOVWJrekMzNWJRV2o0bVM3TUVjQXNlRW5XZll2WVRWNm5Ub0tuT1YybkI1YVJvUzBYM3fSAeQBQVVfeXFMTXg3T1JIdUF6TnIwSnc1bHExekNVLXpmeTFPbzdwaTd6U2U1eHN4dFdvVHFTY2pQeGh3STJ2Zk93aldxYmZsUmVEVk1EekVCaU5iajY0TENfdTNoUEZCSEJtU1FiM3NoWFZkQkxkcUZ1X2FSV0VNXzRleWNmTFlpWEtvV0ZYTFV2SzNiMkpMWloyX0tIeXVRczNqV1NTY0s5V3h6clAyNC1JWnJ3alYyWGRSSlhKcjV1SzYzVFp3N2VtSDMyVEUySm5LYnMyTEJJQXR3akJXdVczaUVVSDhYNGtVcmhX?oc=5",
-          "pub_date": "2026-02-21T18:05:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3JPbnFMQUxVOEZITlBPX3ZGZ0h4eWctVEJub2pMLUgyZWRmVGZ4SzBOUHBmSk45bzVGU0xWaUgtT1B3MUxMREdnR093cjBWNk9qLXBnYklDejF2eDVIcHdQQWtnQlZxZlhOcGtGc0xTZTRFWi1xWFhTRzVFdWx6RnpRM3ZUR2xES0R4WHVadlY3Yy1KZ3VrR0wwNzdNQ0d3a0d0MEQwbGpRUEtYMjlfTlB0RWxCUnZVanAyMWEtWmRyM3c1WFVKOFFoUTZlTWprLXd2ckZINlM5ZFpoUTc3azJWNGxQbGhQY1IyWWtUVdIB9gFBVV95cUxOdEJDdlFjcXgyS2lZWEZCUHVDeWtGZDZ2Ym5xV0xXUjItWGN5cVlxRmhpWk9HaVFhN0xMTDBCV2pmSlQydDhYa0lLTXJtb1BQTUJKLU40NXFrNXVBMEZrN0VBNmhvc2xaSW42WjRyT0ZSRDdWOE9rdEhoSG0wOXpHbVhJc2NGOWZ4ZlM1anc5d3otSF91QU5DeGVvV2dYVmNOTkFoNmNPTTRYallueHg2M2kweTFpcGpDNTFuR29IbHJCTVp0aS1zZmwyUDV0Qkw4NzRoOHd2eGdWZ2h1R05yOEhIeEp6OWZRRW5tQ21pb0pHdDc3aWc?oc=5",
+          "pub_date": "2026-02-18T00:00:00Z",
           "weight": 10,
-          "sentiment_score": 0.34,
-          "short_title": "Honorary Heights"
+          "sentiment_score": 0.18,
+          "short_title": "Camera Solidarity"
         },
         {
           "id": "8ad766862349",
@@ -67,7 +67,7 @@
           "pub_date": "2026-02-22T14:41:49Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Shield Rising"
+          "short_title": "Shield of Hope"
         }
       ]
     },
@@ -85,7 +85,7 @@
           "pub_date": "2026-02-23T04:00:00Z",
           "weight": 10,
           "sentiment_score": 0.87,
-          "short_title": "NMMS Soars"
+          "short_title": "NMMS Victory"
         },
         {
           "id": "ffa65602b65d",
@@ -96,7 +96,7 @@
           "pub_date": "2026-02-20T13:03:00Z",
           "weight": 10,
           "sentiment_score": 0.3,
-          "short_title": "Vitamin Victory"
+          "short_title": "Vitamin Vibe"
         },
         {
           "id": "211b155b4acd",
@@ -118,7 +118,7 @@
           "pub_date": "2026-02-24T00:47:22Z",
           "weight": 10,
           "sentiment_score": 0.46,
-          "short_title": "Chess Crowned"
+          "short_title": "Chess Checkmate"
         },
         {
           "id": "e8144738621c",
@@ -147,7 +147,7 @@
           "pub_date": "2026-02-23T18:35:00Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "EV Dreams"
+          "short_title": "EV Spark"
         },
         {
           "id": "c78f6cfdd928",
@@ -158,18 +158,7 @@
           "pub_date": "2026-02-19T15:00:00Z",
           "weight": 10,
           "sentiment_score": 0.28,
-          "short_title": "Hearts Reunited"
-        },
-        {
-          "id": "a031276b6d6b",
-          "title": "Central University team discovers hero stone in Tirunelveli district",
-          "source": "The Hindu",
-          "district": "Tiruvarur",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkJjREdra20xU1ZORmF0ZzA0bTMtVGIzaUZnanlVYWhOUDBhY3VPTGlNS1JXTEZTeTdNdGNvTHVEb3R3QnhEV2s2R19sYVlhb2pqaXg1Nkx4VkhNNkdDS190cjlOY0lzSk9fazRJaEozS2VTS3psUTdqWkNSeGhnNGVraHhHRUdWbGVWNzNwQ1B6dXVxMXVrM095ZktyalQ5OWZINDNVamRHbTlrRGFiaXcyblVqU0JLcjd0cEl1WnVSNkJMbjc1MmVXaVJFTzNUU0V4MzA4ZklkVWPSAdsBQVVfeXFMT1ZCY0RHa2ttMVNWTkZhdGcwNG0zLVRiM2lGZ2p5VWFoTlAwYWN1T0xpTUtSV0xGU3k3TXRjb0x1RG90d0J4RFdrNkdfbGFZYW9qaml4NTZMeFZITTZHQ0tfdHI5TmNJc0pPX2s0SWhKM0tlU0t6bFE3alpDUnhoZzRla2h4R0VHVmxlVjczcENQenV1cTF1azNPeWZLcmpUOTlmSDQzVWpkR205a0RhYml3Mm5ValNCS3I3dHBJdVp1UjZCTG43NTJlV2lSRU8zVFNFeDMwOGZJZFVj?oc=5",
-          "pub_date": "2026-02-23T11:55:00Z",
-          "weight": 10,
-          "sentiment_score": 0.71,
-          "short_title": "Stone Found"
+          "short_title": "Compassion Wins"
         }
       ]
     },
@@ -209,7 +198,7 @@
           "pub_date": "2026-02-23T11:55:00Z",
           "weight": 10,
           "sentiment_score": 0.71,
-          "short_title": "Stone Found"
+          "short_title": "Stone Story"
         },
         {
           "id": "b0218302dd6e",
@@ -220,7 +209,7 @@
           "pub_date": "2026-02-21T23:09:39Z",
           "weight": 10,
           "sentiment_score": 0.57,
-          "short_title": "Chip Rise"
+          "short_title": "Silicon Dreams"
         },
         {
           "id": "3c0cad62bee5",
@@ -231,7 +220,7 @@
           "pub_date": "2026-02-23T07:02:00Z",
           "weight": 10,
           "sentiment_score": 0.32,
-          "short_title": "Co-op Gold"
+          "short_title": "Co-op Kingdom"
         }
       ]
     }
