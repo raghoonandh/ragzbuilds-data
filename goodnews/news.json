@@ -1,0 +1,239 @@
+{
+  "generated": "2026-02-24T16:06:45.403807Z",
+  "article_count": 18,
+  "categories": [
+    {
+      "id": "chennai_metro",
+      "label": "Chennai Metro",
+      "color": "#4285f4",
+      "articles": [
+        {
+          "id": "89d58b471099",
+          "title": "T20 World Cup: Another black soil challenge awaits India in Chennai?",
+          "source": "The New Indian Express",
+          "district": "Chennai",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSEVwcUZ1enM3d2FrelptZFdtNVVTMGRHdGZoODFJQ0JDWHRXUVhQTWhTREhsdDA3bUVBdF90YXM0N1hDNTlSTnh6UGJhWjA3QmZPUjVKOURNbFVXQXEzb2VHTWZTbHRlRnkyeWdEeEk2YXNsbG80eGx4Q1I0RUZvbExFaTZHbmZlTDVZbFJEenN0TlNfc1I5WkkwdmhqZmtaZjZ4YTNydm5WMnQzMm5NMUlzZEhfYzJaN3Zma3lyQVdla1XSAdABQVVfeXFMTnpkSEdETzB3Z1hKOHBLcV9Ja1ZlZUtieGRJTEZrVzRQY25FbEZHZ1B1UFZVaVg0UFAyMWFIVmhGcGQ0b3hlX1dlSWRKSkdZZmxHYnRzQ0NRenR1VmZkZERzT1lHV0ZYNVpiUVh3cEhUanZEU0ZwZUZPT1BPSXZuR0UwTGNOZ2JFRW95Zmk5bUNmeWV6cThoTFdEaW0tcEZTZW55RVppTGNnQkV4Qjg3WmZDYm1IbjNSSy1uZlU2RERic0N0OHlQTk5sVEpEX0ZPaA?oc=5",
+          "pub_date": "2026-02-23T14:00:30Z",
+          "weight": 10,
+          "sentiment_score": 0.15,
+          "short_title": "Lens Wins Gold"
+        },
+        {
+          "id": "15c9f7d8f88d",
+          "title": "GI-tagged handloom textiles of India that define regional craft",
+          "source": "The Times of India",
+          "district": "Kancheepuram",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNnpmM2Y4bFh3NkJ1V29Rdklzc0N3ZUNKeWV6RlJ4bzl0SW5mU19MM1hNQmRMSVFmNUN3QVpnZF9pdi1lQWN2ekV6ZEpmbjlQbWljd2wyRy1KekhObHdPRDMxcXpvcUNWLW04YzVSUFZERkRjQ3ZPZEgxb3N5LTRJMV9zcWhXbm12Q05LenRnTklMMzFTdXJoWWNkdFdwYW9VOGJLbUFuLTB1Rmk5T0pzYzMyTzQyM0QxbENMeVRNUWFCSk56RlhJZXBYckxtcDJ4S0lndVpsRTBxVzZ0YjBlZ1BFWGhDQW40dWdF0gHrAUFVX3lxTE82emYzZjhsWHc2QnVXb1F2SXNzQ3dlQ0p5ZXpGUnhvOXRJbmZTX0wzWE1CZExJUWY1Q3dBWmdkX2l2LWVBY3Z6RXpkSmZuOVBtaWN3bDJHLUp6SE5sd09EMzFxem9xQ1YtbThjNVJQVkRGRGNDdk9kSDFvc3ktNEkxX3NxaFdubXZDTkt6dGdOSUwzMVN1cmhZY2R0V3Bhb1U4YkttQW4tMHVGaTlPSnNjMzJPNDIzRDFsQ0x5VE1RYUJKTnpGWEllcFhyTG1wMnhLSWd1WmxFMHFXNnRiMGVnUEVYaENBbjR1Z0U?oc=5",
+          "pub_date": "2026-02-24T00:30:00Z",
+          "weight": 10,
+          "sentiment_score": 0.15,
+          "short_title": "Threads of Pride"
+        }
+      ]
+    },
+    {
+      "id": "north",
+      "label": "North TN",
+      "color": "#ff6d01",
+      "articles": [
+        {
+          "id": "b27f76c8da3d",
+          "title": "Thai University confers honorary doctorate to VIT vice-president in Vellore",
+          "source": "The Hindu",
+          "district": "Vellore",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTGp5UllTbUg3ZDdiN0lmMWdGVk9raUQzTER6OUp1dzk4QS1FSW9lamxCQzdncjcyeEtqQVgwYjMzMDQyY0pZNFJDQ0ItN0lHUTZQbDd4LS00a1Y2a2NKWGt4TkpvNnJ5QUlrS0xUUGtlNHNCUnhZME1wYUgwcTZSM1dreXBtRVlzMzhCX2wtWndZbkd5QU92azVjX2w2MlJod2hiQTlNWTJpQ1NOVWJrekMzNWJRV2o0bVM3TUVjQXNlRW5XZll2WVRWNm5Ub0tuT1YybkI1YVJvUzBYM3fSAeQBQVVfeXFMTXg3T1JIdUF6TnIwSnc1bHExekNVLXpmeTFPbzdwaTd6U2U1eHN4dFdvVHFTY2pQeGh3STJ2Zk93aldxYmZsUmVEVk1EekVCaU5iajY0TENfdTNoUEZCSEJtU1FiM3NoWFZkQkxkcUZ1X2FSV0VNXzRleWNmTFlpWEtvV0ZYTFV2SzNiMkpMWloyX0tIeXVRczNqV1NTY0s5V3h6clAyNC1JWnJ3alYyWGRSSlhKcjV1SzYzVFp3N2VtSDMyVEUySm5LYnMyTEJJQXR3akJXdVczaUVVSDhYNGtVcmhX?oc=5",
+          "pub_date": "2026-02-21T18:05:00Z",
+          "weight": 10,
+          "sentiment_score": 0.34,
+          "short_title": "Honorary Heights"
+        },
+        {
+          "id": "8ad766862349",
+          "title": "Lakshmanan stars in Friends CC win",
+          "source": "DT Next",
+          "district": "Viluppuram",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MGFVeDh6S1lSN2Q1ZGhRdEtJTERxZ3FsRV8xNkFHTWhWZTR4ZWZ3Q2hpVG9OUXpnTHFrWFJreXVvVlc4MWZUUnIzeGJpenpvd3FtSmxUU2g4Z25yRFZieVZOeVNVTVhPSUxvRkJIaUJMYnAySHNr0gGEAUFVX3lxTE5SMUVyeEhsY19tRWFPSTFRMTNFNTY4c3pzQU5SVEUyWE9wMjNkWmpsWmhkRGNzNmljdnBST3pXUTRrSzZTam5teldicHVuX2pKcm1IaXZsUTYycjBDVF9zTUs5QmFpUWJYeGRQRU5CTUVQVUlmQ2puZXZsVjJiNm1hd09wNg?oc=5",
+          "pub_date": "2026-02-24T03:12:38Z",
+          "weight": 10,
+          "sentiment_score": 0.78,
+          "short_title": "Cricket Glory"
+        },
+        {
+          "id": "8f9d03ec0c70",
+          "title": "Tamil Nadu develops 2km coastal bioshield in Cuddalore to protect from sea-level rise, erosion",
+          "source": "The Economic Times",
+          "district": "Cuddalore",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRFJZbkh0cXgwSk42ZUtoc184QzN4UnZ4OUljeWowZVRPbUR6OEpQeEZ4UlZKYlQxUXJqUjJrakR4eEF0U2NaNHU3eFo5bktBMG9yY2l2WURUX2p6YzdzVGxoZ3dRUi1qMTJ1RC1XUXRPQmtydEpCS3lUWVFxSDM1V2pSN0JMSDNUeE5aM1FzMXJONXRNbnFqREhIamNoa3laMTEtWU1UWkJ6LWI0M1pNOWg1bzhGbzlkU2oxVFdFRXRCQ3gybEU0UjZTTk5ZV3V1dUNqRE9XTzljams2My1Pajl6TDh3cG5ZbWZWdTB4Y9IB9AFBVV95cUxQYm9uRWZ3YVdpLUFsZDRXeXJ3M1JjdUxFeThLY19xcDN2cmNrOFdZbG5fUlM2ei10MUVvZXEyUTVVcXJQemNUX1VIX2F1S2VPYTBPTmswbVhTcDZ4RHY0T01odmtpQ3V6WEFCekdWU3UtNEh5Y1pEcnNtSFg5UEVXaHluWTl1QW12aHZoemo3ekpuWWhXN1hDYmE0QU9qTXNKR2xaOGVoY2Y3UVV3R3JPbmFOb1dEcmVCVF9zenpoTUxib1JpMUhhZkd1bTVvS3BiUjZNRk10QVBDTGtVZ3MxQ0VmN1NDUVJtQUp3dzl2d0lBTEJQ?oc=5",
+          "pub_date": "2026-02-22T14:41:49Z",
+          "weight": 10,
+          "sentiment_score": 0.38,
+          "short_title": "Shield Rising"
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "label": "West TN",
+      "color": "#34a853",
+      "articles": [
+        {
+          "id": "be862afbb1ab",
+          "title": "Record surge in NMMS success for Coimbatore corporation schools",
+          "source": "EdexLive",
+          "district": "Coimbatore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVdzSnIwWU0xRnoxYV9IN0NDT1JJNF9IRW1mQVpSRXF2WEprVDR6NGFkWWpCcjhScjNYeHFEZE1uXzZTY1hXYldhU2xVRE1IclZDT2J3Q3RaX0o3TWgxZlg1aUlPcWV0aFpzbHBhQjFwcVI2ZjBTbURnY1BFbGgwZGE2Ync4YjJjUVlWNEtzQkFRRkVDQV9YSdIBpgFBVV95cUxOYmdKTUthc3lLRzBFTF9PLWR6RW92YXFjSVFFRGk2Q3FQdDJzUVFMU3RrcGVNQm4wOUhVaXdEZUVzd0haSDhuVlFmejR5M2VKZDBaR1g4MkpmMnZoRTVXTk9NeDBQTEJvUTMzd3BRMjAyeGladTVBWmJENTBPbVVNMHdubmlacnRiSTZua0NrSzV1Z0FMY3RwY05jQ19scDJ4d2doWktR?oc=5",
+          "pub_date": "2026-02-23T04:00:00Z",
+          "weight": 10,
+          "sentiment_score": 0.87,
+          "short_title": "NMMS Soars"
+        },
+        {
+          "id": "ffa65602b65d",
+          "title": "Vitamin ‘A’ drops to be administered to children",
+          "source": "The Hindu",
+          "district": "Erode",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3Zfb1dzbjhVNzRlSjFYQ0lxbUZqM3JuRmNmMGEya0VQWE9WbjlvWEdFVkdmRWtocmwtSzB6ZldHV1Q0UnRFWWk3dE9NQW1kZHI1cl9oUjUwbDM4NzVNRWIzVHIzZDNySENCcWJjTm1Id1J4VXZrNUpNMTZsWW05VFJZT2NNcVpMM2dMVUhPZ3FoUncxZm5mWVpmMlJxalNjTlp6Q0xWSElPT3FxZ1hmUtIBtwFBVV95cUxPRlV6bXRsUEdHTElJVWRnbjJZNzJiaWZ0el8tSURHQlh5UkliSVBxM1laMmx4aEhycG1RYWttUDBzTGlZZFQtRHJkRDlpZW1NWHNUMFlVYm5BSVhlZldHeEVDbnUzcXFWaUxXdXItd2pLbmM4Uk5sQUFudTlxa3pHU1NFT3F5bDBOQUp3dVl0c0s4Mk9XRHBYcjJqRHhuSC1fRmJQSllkQXFZZkhubWJaYmd4WWtUVVk?oc=5",
+          "pub_date": "2026-02-20T13:03:00Z",
+          "weight": 10,
+          "sentiment_score": 0.3,
+          "short_title": "Vitamin Victory"
+        },
+        {
+          "id": "211b155b4acd",
+          "title": "Kauvery Hospital, Salem Achieves Major Milestone by Successfully Removing a Life-Threatening Airway Tumour",
+          "source": "ThePrint",
+          "district": "Salem",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONl9OdVFCejdrQ3FmQk1UWGsyNEJDOFNweFdBY2xKMFdlQUZTTnJZOGRhNkhGdkE1azlDeDNodVVPbHRGRUgwS3N5NGw3dGk3VFFkbnYxaWR6MThYaHpZTUhQZTVrMS1Cb1lRemUxSXpaZUJEX09DR1ZmMXlIRUNCWDgteWFIWFZNM2JYQ0tmTm9Wbjc0b1hQaFNad0xnRGJyT1RENURvWWhjTlNySk1fcFp2NzVzaFNKZENQUnZpWmswcFVhVjFPaWIyWGI3X3RrdnoySkhKQkZDaWZWaEVQWE1fY0hfR2lM0gHuAUFVX3lxTE9rTXUwOHNfLV91M21zcW5IcE82VVQxT19UVHBfVkU0UVY4eVh1SjJoejk3X0lEWmRFNkFNbFY2STBxSlBfNVBjcllmSWFsR21yYldvRXh0M0ZlUm01Tkg4MTV3aG1UbUZPQnVJZVhDNlZ0bTNDN1loMFlfejh2dnZhZTEtQ3M5dXZqV2tvX0Y5MHVLc0RaeTA1Mi1VWkFXcFE2S3RjeXl3RnRkeDB4YnlueEVFeWc1M2UzQkpqR1prSXdTODN4ZlhKMmVUb0R0cGNzQTJ2d0hXSGZDYlRjVWhuNUJwWUIya3N6S0NxUnc?oc=5",
+          "pub_date": "2026-02-24T10:30:58Z",
+          "weight": 10,
+          "sentiment_score": 0.69,
+          "short_title": "Tumor Triumph"
+        },
+        {
+          "id": "eb4cd19030a1",
+          "title": "FM Pranav K P triumphs at AIM Rapid Rating 2026",
+          "source": "ChessBase India",
+          "district": "Namakkal",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM25Gamc3dmNldzV0OF9MdFZIX3lWWXVIb3lDMTY1U09YYmNrOFlzZnRLdURabmVRTGxKd0hSaUhGRmNZSERiWHR4MkcxQUUwM1IwMjNIUDZ2WDlSLUM5S0RNWGpTU1dGSWRCY1pIWm9RNUZqZ3RlaF9CTFFWSXFMRkJoNA?oc=5",
+          "pub_date": "2026-02-24T00:47:22Z",
+          "weight": 10,
+          "sentiment_score": 0.46,
+          "short_title": "Chess Crowned"
+        },
+        {
+          "id": "e8144738621c",
+          "title": "Weed to wealth: Lantana camara revs up tea factories in Nilgiris",
+          "source": "DT Next",
+          "district": "Nilgiris",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUt4QmtOY2UzY096YVhBREFGYzF3aVJ3OHZtZE9LbHdMdXoxcFZyaW1ZVE1taDlGbE5WNFBVSkF5ekthQ0xyUEY5Qm0tZGZ4NGN6Q3RzWHJtVHc0R0VzbVhJcjFrc2hYUFh3N2k1dzl0RDFlLUNiZFRubncxRnh5dEt2UTZhbFNfWGdJS2FnczI2aG8wd2FIWFVfUl9mdzAta1HSAa8BQVVfeXFMUGVRSEw1NHlYV2JRbmJQWXgyRDgyR01ZOWpheDJyYU9nZU9XdXpYUzFaeDRsTVExUG9MWUkzNkxWVU10OWxuVUhTb1ZtQ1V3M2hoWEd5S3JPNmNNaW12eDE3NFhXZGVGN3EtaWRGLVpPa1dZa1djTmZQempMUnBFNkNoSkl3bTdMR1o5TEpSN0xTRmVib1NUcTJ0Y2l0dWJfamliZXFHOFZvRGVKaS1aMA?oc=5",
+          "pub_date": "2026-02-23T01:30:00Z",
+          "weight": 10,
+          "sentiment_score": 0.49,
+          "short_title": "Weed Wealth"
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "label": "Central TN",
+      "color": "#a142f4",
+      "articles": [
+        {
+          "id": "2028aa7168d9",
+          "title": "Trichy EV startup gets 25cr state funding",
+          "source": "The Times of India",
+          "district": "Tiruchirappalli",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaldSMUg0VDFKbFloMTRuWWIxcXgyNDZlV3hJdFV5d2JkS1pBTFBWOHZjaU9OUEJCWTNUS1FZLWRldGFUZmwtMGpwSk5qX2NURkVRbWFiOFRVdVhlU2ZEWk5pXzBTQzJfMjN0UW9LV0cxMHJFeC14eVJwVTBnQWQ5QTAySXNNNHRLUXZLbnVpWW9fTW5aaER4eWlzcXJySDgwLVhMcUotMW5RcTRzS1h2WHJEUlVnQdIBuwFBVV95cUxNUko1eS1wZmxLSlQ4OVN1S3poU0xjX0duR2x0R1dWbXVjSm9lRVlTeFpnV3hNLVMwbGd6d3BSM1IzVklKUzRhSEtDSVM1NjRwN3B5NWJKc1dhc2x0LU5qSE1RQVNEMFQxSWoxTTM2NURqX09wcUF5MnlZRzhjdEl3M2x2WHJtLWZpVUpPMWxXTlR1MU5GNGpiZkt0OWxya3FqWTRiNW5WUEktb1FtZGRnR20wQzZNcTFYOHJ3?oc=5",
+          "pub_date": "2026-02-23T18:35:00Z",
+          "weight": 10,
+          "sentiment_score": 0.15,
+          "short_title": "EV Dreams"
+        },
+        {
+          "id": "c78f6cfdd928",
+          "title": "Perambalur police in T.N. rescue 24 wandering mentally ill persons in one year, reunite 11 with families",
+          "source": "The Hindu",
+          "district": "Perambalur",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMV84WFJjV2tyS2RNV0lyNFYyZ0RYTm93UVNTQnFmUUtHOWNsY3lRSWdha2EzVUZ4Z0tJMDlFR0k4RXQtcnRlWUJhX0pYcVU2OHRBSXVRVEJGVGREcjAtWm11bi0wSllfWmZrLWZBV2UwV0dEd3JaVGFnSUdDWkNZUk1RWk1kbWNQbHZ4aXBhXzAwVUZwa1hxdGZ5Qlp3R2RBQ3hJbl82NkluQlU5QXI5WlRqSC1FQzBKQW9xX1lSX2JvSkpXWnVUbjJwbjNwdG1fT0psTGgtQWh5bFBmdlhTbnUzN1ZXVFlNcFVfa3l6M3lZOVo4aWh4Q0hucnBJN2M2NEhsVEQ4Y1RLbU3SAZICQVVfeXFMTUdLQkF5OG50ZFF1REZuRFZBNmhFUWJPTmZJdURqb1RLV2dKcktrSVZBZ2Y5eE9ZejdkQjNVU0JiVzJMQl8yNkxxQk1FWFJwQ2lBMC0zOUNxeE81NDJwYmVyZDkzelZkOV9PNkhrRE1fOFZTaE1aOU9pZ0ZYb1VyQ2EzbnRTenp3Z09Ld0kwOVhJSmhpdnpKa1cyTmRzQVh4SDlIOGFwMHowUWZHeGhTbTRtQVhKNEpUVEt3LWxqMG5kTEFWUUg2MmYxU2MwWS1ELS1kY2JBTGthdDJQX1JVWWdtVE5rZEptUW5ILW5qdHRqQ0NudVpiWXVJUGdqWjduWjJqOHg1VFhTRHR1bTB4T2JPUQ?oc=5",
+          "pub_date": "2026-02-19T15:00:00Z",
+          "weight": 10,
+          "sentiment_score": 0.28,
+          "short_title": "Hearts Reunited"
+        },
+        {
+          "id": "a031276b6d6b",
+          "title": "Central University team discovers hero stone in Tirunelveli district",
+          "source": "The Hindu",
+          "district": "Tiruvarur",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkJjREdra20xU1ZORmF0ZzA0bTMtVGIzaUZnanlVYWhOUDBhY3VPTGlNS1JXTEZTeTdNdGNvTHVEb3R3QnhEV2s2R19sYVlhb2pqaXg1Nkx4VkhNNkdDS190cjlOY0lzSk9fazRJaEozS2VTS3psUTdqWkNSeGhnNGVraHhHRUdWbGVWNzNwQ1B6dXVxMXVrM095ZktyalQ5OWZINDNVamRHbTlrRGFiaXcyblVqU0JLcjd0cEl1WnVSNkJMbjc1MmVXaVJFTzNUU0V4MzA4ZklkVWPSAdsBQVVfeXFMT1ZCY0RHa2ttMVNWTkZhdGcwNG0zLVRiM2lGZ2p5VWFoTlAwYWN1T0xpTUtSV0xGU3k3TXRjb0x1RG90d0J4RFdrNkdfbGFZYW9qaml4NTZMeFZITTZHQ0tfdHI5TmNJc0pPX2s0SWhKM0tlU0t6bFE3alpDUnhoZzRla2h4R0VHVmxlVjczcENQenV1cTF1azNPeWZLcmpUOTlmSDQzVWpkR205a0RhYml3Mm5ValNCS3I3dHBJdVp1UjZCTG43NTJlV2lSRU8zVFNFeDMwOGZJZFVj?oc=5",
+          "pub_date": "2026-02-23T11:55:00Z",
+          "weight": 10,
+          "sentiment_score": 0.71,
+          "short_title": "Stone Found"
+        }
+      ]
+    },
+    {
+      "id": "south",
+      "label": "South TN",
+      "color": "#46bdc6",
+      "articles": [
+        {
+          "id": "e631f3247bd5",
+          "title": "A bold new production of Antony and Cleopatra at Madurai's Mannar Thirumalai Naicker College",
+          "source": "The Hindu",
+          "district": "Madurai",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2o2dXUwUllIbFBNLU5IUWdTQS1GVi1PM25IMjM3RnRVdTFRblZzekVhdzFPOE13REVMREQ5TlRaN3huRF84MUN4ZHluamJ5SFZKMF9zTXc1ZXl2d0JOa0NZZXJqODA1T2p3UUxEeU1RbnRHV1BEd2JFQzdLX0J2Y2hKOWczeUhkRHlDVlBhWE9ESmNQdW5SdEpKaGlCSFA1MllUSnVLem9ZMVhkQnYzbkdsQ1l6VzA3aEgzcGJR0gHEAUFVX3lxTE9SdnNvemlJYXRpSHJ4a3NzMG9EUUFFTEhEN18ybWpsaWd2S2lKZEpCQ05IX09xRGQyOTlNaGxLTWs0Q1EtdndPUmV4VXEwSnIzRktrN2U2Z0lYMTNIanBtcDRMSmZMR3BQN3ZsdXFLNjFwUjhXbjN2ZlJxdHNoOGVGVmtvUGpUTG9MTW81QkozcGZUVTR3NGNUNU0zaEUyUGppb2J0OEpobm80LV9HYmFvRjlmd1R5QXBLeFBDM2FrZDk1Tm0?oc=5",
+          "pub_date": "2026-02-24T10:48:00Z",
+          "weight": 10,
+          "sentiment_score": 0.38,
+          "short_title": "Stage Magic"
+        },
+        {
+          "id": "3f841c8e6e40",
+          "title": "Thoothukudi: 10 'Pink Autos' for fisherwomen to boost empowerment",
+          "source": "Asianet Newsable",
+          "district": "Thoothukudi",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjVtZ2xzWU9KdUlldlhYS29GREV5N3ZpX1ZWbnNaclBYWEpOb3lpckNOZWl3c2twZ2lraG42ckkwU3V3UjY2RWFKSDlFNk91MGV0WENoa1IzWWpucmZFeEdOSVp0LXRFeHpwa0ZiNTdjeG5Ub0o1WE9ycGZVYktnNTIyN0k1cG04WVhhbzh5TXBic1BTZnl4azFBMlhsaXRjVFBCU0VCMlRybktfQlRLaHZTcDZRZGNSRjl6eV9R0gHDAUFVX3lxTE91Y2xkY3VFcmpudnluSW9oUG5PeVRHdVJQWDhQcVdXV1hRMnpSSXNaUU1mV29CdVhPY00tZGJGRjRpMVRQaHF3QXFPUlM3a0xORzRxR0dKS3plNmdJU0hHbWt6dE9WWVVCbkdveXFVWF91bjFKQTl1MWRKQllOR3FYdjgxdEQ0SHJDZ0dfcTd5SEhfS1Q2bjJjVVEtbWtQUlhHd3E0RVREN1NHU2FpcjRkTUd4TUt2YmRzMkFVYkR4RkhmVQ?oc=5",
+          "pub_date": "2026-02-23T13:30:55Z",
+          "weight": 10,
+          "sentiment_score": 0.55,
+          "short_title": "Pink Power"
+        },
+        {
+          "id": "280c0086adb2",
+          "title": "Central University team discovers hero stone in Tirunelveli district",
+          "source": "The Hindu",
+          "district": "Tirunelveli",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0RKMkVFaUNqeGsyT0JsV0p2M1kyOU9YOGV2Y2RRTTZLMU1UYy10NmpySmJNQV9yOU5EQ0VNN2lpM3pBck45QnpOVHBGaGZmSkpPT0lMNFU1TXJYcnZVZDBFTWI4T1hvMDh2VDdraHBrVHdxbm9RSkJNZGdwYXVZSkNaNnpuMGFaV0w3NU9tajVXYUlodjY4NFJ6RERuUDlOV2pQeWstdmh4VzlXUHhRWkQ5WllNLXBUUmxrbzNPR01OR1d1aFhSTkRxZF81ODBfbHNnX9IB2wFBVV95cUxPVkJjREdra20xU1ZORmF0ZzA0bTMtVGIzaUZnanlVYWhOUDBhY3VPTGlNS1JXTEZTeTdNdGNvTHVEb3R3QnhEV2s2R19sYVlhb2pqaXg1Nkx4VkhNNkdDS190cjlOY0lzSk9fazRJaEozS2VTS3psUTdqWkNSeGhnNGVraHhHRUdWbGVWNzNwQ1B6dXVxMXVrM095ZktyalQ5OWZINDNVamRHbTlrRGFiaXcyblVqU0JLcjd0cEl1WnVSNkJMbjc1MmVXaVJFTzNUU0V4MzA4ZklkVWM?oc=5",
+          "pub_date": "2026-02-23T11:55:00Z",
+          "weight": 10,
+          "sentiment_score": 0.71,
+          "short_title": "Stone Found"
+        },
+        {
+          "id": "b0218302dd6e",
+          "title": "India's semiconductor talent is finding a new home in this small Tamil Nadu town",
+          "source": "MSN",
+          "district": "Tenkasi",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFZkcXhQLWwyZi1TLXltSUZaSTVCem5tTkRwRDhqTzZ1X19iWUUzc1RBaldGUzJWcjBmbUlzOWVMVldwQUFGdzNleXlZRTNLTDB2QUxMWEVabWlJZkwtMzRydHd4alFlUlNic3lVdUdyRnFkQmU2N3h4bmVMOGFjc1F3TDhBWWRSQVZJQlVPMmxlTlljbFkwZy1hYnJqa3hUdFg4cGVIS3Rya3VRS0ZtZzZOSV9OTmZjSUZrc01jaHhsZ0RBMTc0?oc=5",
+          "pub_date": "2026-02-21T23:09:39Z",
+          "weight": 10,
+          "sentiment_score": 0.57,
+          "short_title": "Chip Rise"
+        },
+        {
+          "id": "3c0cad62bee5",
+          "title": "Prosperity through Cooperation: 1,500 high-tech M-PACS to strengthen the rural economy",
+          "source": "Prokerala",
+          "district": "Kanyakumari",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wa0xuZjFZUDVnTFRjMTF5eW9XVFVReGFtMmI1NFVxSWg0QmdTZlNsM1dqYlRLRWlpZG9abUF4MWpnbmxzVlZwcjFPQ2swcFNHeXljWkNYeXFSUFpEazhLY3E0dklnS2NLaEJJ0gFrQVVfeXFMTjBrTG5mMVlQNWdMVGMxMXl5b1dUVVF4YW0yYjU0VXFJaDRCZ1NmU2wzV2piVEtFaWlkb1ptQXgxamdubHNWVnByMU9DazBwU0d5eWNaQ1h5cVJQWkRrOEtjcTR2SWdLY0toQkk?oc=5",
+          "pub_date": "2026-02-23T07:02:00Z",
+          "weight": 10,
+          "sentiment_score": 0.32,
+          "short_title": "Co-op Gold"
+        }
+      ]
+    }
+  ]
+}
