@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-24T16:06:55.388204Z",
-  "article_count": 17,
+  "generated": "2026-02-25T00:57:31.325528Z",
+  "article_count": 13,
   "categories": [
     {
       "id": "chennai_metro",
@@ -16,18 +16,7 @@
           "pub_date": "2026-02-23T14:00:30Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Startup Soars"
-        },
-        {
-          "id": "15c9f7d8f88d",
-          "title": "GI-tagged handloom textiles of India that define regional craft",
-          "source": "The Times of India",
-          "district": "Kancheepuram",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNnpmM2Y4bFh3NkJ1V29Rdklzc0N3ZUNKeWV6RlJ4bzl0SW5mU19MM1hNQmRMSVFmNUN3QVpnZF9pdi1lQWN2ekV6ZEpmbjlQbWljd2wyRy1KekhObHdPRDMxcXpvcUNWLW04YzVSUFZERkRjQ3ZPZEgxb3N5LTRJMV9zcWhXbm12Q05LenRnTklMMzFTdXJoWWNkdFdwYW9VOGJLbUFuLTB1Rmk5T0pzYzMyTzQyM0QxbENMeVRNUWFCSk56RlhJZXBYckxtcDJ4S0lndVpsRTBxVzZ0YjBlZ1BFWGhDQW40dWdF0gHrAUFVX3lxTE82emYzZjhsWHc2QnVXb1F2SXNzQ3dlQ0p5ZXpGUnhvOXRJbmZTX0wzWE1CZExJUWY1Q3dBWmdkX2l2LWVBY3Z6RXpkSmZuOVBtaWN3bDJHLUp6SE5sd09EMzFxem9xQ1YtbThjNVJQVkRGRGNDdk9kSDFvc3ktNEkxX3NxaFdubXZDTkt6dGdOSUwzMVN1cmhZY2R0V3Bhb1U4YkttQW4tMHVGaTlPSnNjMzJPNDIzRDFsQ0x5VE1RYUJKTnpGWEllcFhyTG1wMnhLSWd1WmxFMHFXNnRiMGVnUEVYaENBbjR1Z0U?oc=5",
-          "pub_date": "2026-02-24T00:30:00Z",
-          "weight": 10,
-          "sentiment_score": 0.15,
-          "short_title": "Threads of Pride"
+          "short_title": "Lens Triumph"
         }
       ]
     },
@@ -37,28 +26,6 @@
       "color": "#ff6d01",
       "articles": [
         {
-          "id": "0c4b9a578012",
-          "title": "Residents pool funds to donate 60 CCTV cameras near Katpadi in Vellore to prevent crimes",
-          "source": "The Hindu",
-          "district": "Vellore",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3JPbnFMQUxVOEZITlBPX3ZGZ0h4eWctVEJub2pMLUgyZWRmVGZ4SzBOUHBmSk45bzVGU0xWaUgtT1B3MUxMREdnR093cjBWNk9qLXBnYklDejF2eDVIcHdQQWtnQlZxZlhOcGtGc0xTZTRFWi1xWFhTRzVFdWx6RnpRM3ZUR2xES0R4WHVadlY3Yy1KZ3VrR0wwNzdNQ0d3a0d0MEQwbGpRUEtYMjlfTlB0RWxCUnZVanAyMWEtWmRyM3c1WFVKOFFoUTZlTWprLXd2ckZINlM5ZFpoUTc3azJWNGxQbGhQY1IyWWtUVdIB9gFBVV95cUxOdEJDdlFjcXgyS2lZWEZCUHVDeWtGZDZ2Ym5xV0xXUjItWGN5cVlxRmhpWk9HaVFhN0xMTDBCV2pmSlQydDhYa0lLTXJtb1BQTUJKLU40NXFrNXVBMEZrN0VBNmhvc2xaSW42WjRyT0ZSRDdWOE9rdEhoSG0wOXpHbVhJc2NGOWZ4ZlM1anc5d3otSF91QU5DeGVvV2dYVmNOTkFoNmNPTTRYallueHg2M2kweTFpcGpDNTFuR29IbHJCTVp0aS1zZmwyUDV0Qkw4NzRoOHd2eGdWZ2h1R05yOEhIeEp6OWZRRW5tQ21pb0pHdDc3aWc?oc=5",
-          "pub_date": "2026-02-18T00:00:00Z",
-          "weight": 10,
-          "sentiment_score": 0.18,
-          "short_title": "Camera Solidarity"
-        },
-        {
-          "id": "8ad766862349",
-          "title": "Lakshmanan stars in Friends CC win",
-          "source": "DT Next",
-          "district": "Viluppuram",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MGFVeDh6S1lSN2Q1ZGhRdEtJTERxZ3FsRV8xNkFHTWhWZTR4ZWZ3Q2hpVG9OUXpnTHFrWFJreXVvVlc4MWZUUnIzeGJpenpvd3FtSmxUU2g4Z25yRFZieVZOeVNVTVhPSUxvRkJIaUJMYnAySHNr0gGEAUFVX3lxTE5SMUVyeEhsY19tRWFPSTFRMTNFNTY4c3pzQU5SVEUyWE9wMjNkWmpsWmhkRGNzNmljdnBST3pXUTRrSzZTam5teldicHVuX2pKcm1IaXZsUTYycjBDVF9zTUs5QmFpUWJYeGRQRU5CTUVQVUlmQ2puZXZsVjJiNm1hd09wNg?oc=5",
-          "pub_date": "2026-02-24T03:12:38Z",
-          "weight": 10,
-          "sentiment_score": 0.78,
-          "short_title": "Cricket Glory"
-        },
-        {
           "id": "8f9d03ec0c70",
           "title": "Tamil Nadu develops 2km coastal bioshield in Cuddalore to protect from sea-level rise, erosion",
           "source": "The Economic Times",
@@ -67,7 +34,7 @@
           "pub_date": "2026-02-22T14:41:49Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Shield of Hope"
+          "short_title": "Bio-Shield Victory"
         }
       ]
     },
@@ -85,18 +52,7 @@
           "pub_date": "2026-02-23T04:00:00Z",
           "weight": 10,
           "sentiment_score": 0.87,
-          "short_title": "NMMS Victory"
-        },
-        {
-          "id": "ffa65602b65d",
-          "title": "Vitamin ‘A’ drops to be administered to children",
-          "source": "The Hindu",
-          "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3Zfb1dzbjhVNzRlSjFYQ0lxbUZqM3JuRmNmMGEya0VQWE9WbjlvWEdFVkdmRWtocmwtSzB6ZldHV1Q0UnRFWWk3dE9NQW1kZHI1cl9oUjUwbDM4NzVNRWIzVHIzZDNySENCcWJjTm1Id1J4VXZrNUpNMTZsWW05VFJZT2NNcVpMM2dMVUhPZ3FoUncxZm5mWVpmMlJxalNjTlp6Q0xWSElPT3FxZ1hmUtIBtwFBVV95cUxPRlV6bXRsUEdHTElJVWRnbjJZNzJiaWZ0el8tSURHQlh5UkliSVBxM1laMmx4aEhycG1RYWttUDBzTGlZZFQtRHJkRDlpZW1NWHNUMFlVYm5BSVhlZldHeEVDbnUzcXFWaUxXdXItd2pLbmM4Uk5sQUFudTlxa3pHU1NFT3F5bDBOQUp3dVl0c0s4Mk9XRHBYcjJqRHhuSC1fRmJQSllkQXFZZkhubWJaYmd4WWtUVVk?oc=5",
-          "pub_date": "2026-02-20T13:03:00Z",
-          "weight": 10,
-          "sentiment_score": 0.3,
-          "short_title": "Vitamin Vibe"
+          "short_title": "NMMS Soars High"
         },
         {
           "id": "211b155b4acd",
@@ -107,7 +63,7 @@
           "pub_date": "2026-02-24T10:30:58Z",
           "weight": 10,
           "sentiment_score": 0.69,
-          "short_title": "Tumor Triumph"
+          "short_title": "Tumour Triumph"
         },
         {
           "id": "eb4cd19030a1",
@@ -118,7 +74,7 @@
           "pub_date": "2026-02-24T00:47:22Z",
           "weight": 10,
           "sentiment_score": 0.46,
-          "short_title": "Chess Checkmate"
+          "short_title": "Chess Royalty"
         },
         {
           "id": "e8144738621c",
@@ -129,7 +85,7 @@
           "pub_date": "2026-02-23T01:30:00Z",
           "weight": 10,
           "sentiment_score": 0.49,
-          "short_title": "Weed Wealth"
+          "short_title": "Weed Gold"
         }
       ]
     },
@@ -139,15 +95,15 @@
       "color": "#a142f4",
       "articles": [
         {
-          "id": "2028aa7168d9",
-          "title": "Trichy EV startup gets 25cr state funding",
-          "source": "The Times of India",
+          "id": "d1ca9ea7dca7",
+          "title": "IIM Trichy conferred Institutional Excellence Award 2025",
+          "source": "Dinamalar",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaldSMUg0VDFKbFloMTRuWWIxcXgyNDZlV3hJdFV5d2JkS1pBTFBWOHZjaU9OUEJCWTNUS1FZLWRldGFUZmwtMGpwSk5qX2NURkVRbWFiOFRVdVhlU2ZEWk5pXzBTQzJfMjN0UW9LV0cxMHJFeC14eVJwVTBnQWQ5QTAySXNNNHRLUXZLbnVpWW9fTW5aaER4eWlzcXJySDgwLVhMcUotMW5RcTRzS1h2WHJEUlVnQdIBuwFBVV95cUxNUko1eS1wZmxLSlQ4OVN1S3poU0xjX0duR2x0R1dWbXVjSm9lRVlTeFpnV3hNLVMwbGd6d3BSM1IzVklKUzRhSEtDSVM1NjRwN3B5NWJKc1dhc2x0LU5qSE1RQVNEMFQxSWoxTTM2NURqX09wcUF5MnlZRzhjdEl3M2x2WHJtLWZpVUpPMWxXTlR1MU5GNGpiZkt0OWxya3FqWTRiNW5WUEktb1FtZGRnR20wQzZNcTFYOHJ3?oc=5",
-          "pub_date": "2026-02-23T18:35:00Z",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc09OVUliSXltOVdackNQVmdpQ3FKdGhiVWRTbGYyVFUzNXR0N0VEeTlYV3JWRVRRZHBYVGNnTzVpNmluUW45X0g3XzRkaDh1THNvRnNjbjd2eE9FSmwwUF9Lb2xIaGlSUW1rTkxFTFJRSV82V3JOZU80QmdhWVVpY3h3RFgxU01kT1BKUTRzVU1uNTI5SWNFR3VBMVNrMlFLUHVJY0xUQmRFTG52ak1YcHMtdWxVUU0?oc=5",
+          "pub_date": "2026-02-24T18:25:22Z",
           "weight": 10,
-          "sentiment_score": 0.15,
-          "short_title": "EV Spark"
+          "sentiment_score": 0.97,
+          "short_title": "IIM Excels"
         },
         {
           "id": "c78f6cfdd928",
@@ -155,10 +111,21 @@
           "source": "The Hindu",
           "district": "Perambalur",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMV84WFJjV2tyS2RNV0lyNFYyZ0RYTm93UVNTQnFmUUtHOWNsY3lRSWdha2EzVUZ4Z0tJMDlFR0k4RXQtcnRlWUJhX0pYcVU2OHRBSXVRVEJGVGREcjAtWm11bi0wSllfWmZrLWZBV2UwV0dEd3JaVGFnSUdDWkNZUk1RWk1kbWNQbHZ4aXBhXzAwVUZwa1hxdGZ5Qlp3R2RBQ3hJbl82NkluQlU5QXI5WlRqSC1FQzBKQW9xX1lSX2JvSkpXWnVUbjJwbjNwdG1fT0psTGgtQWh5bFBmdlhTbnUzN1ZXVFlNcFVfa3l6M3lZOVo4aWh4Q0hucnBJN2M2NEhsVEQ4Y1RLbU3SAZICQVVfeXFMTUdLQkF5OG50ZFF1REZuRFZBNmhFUWJPTmZJdURqb1RLV2dKcktrSVZBZ2Y5eE9ZejdkQjNVU0JiVzJMQl8yNkxxQk1FWFJwQ2lBMC0zOUNxeE81NDJwYmVyZDkzelZkOV9PNkhrRE1fOFZTaE1aOU9pZ0ZYb1VyQ2EzbnRTenp3Z09Ld0kwOVhJSmhpdnpKa1cyTmRzQVh4SDlIOGFwMHowUWZHeGhTbTRtQVhKNEpUVEt3LWxqMG5kTEFWUUg2MmYxU2MwWS1ELS1kY2JBTGthdDJQX1JVWWdtVE5rZEptUW5ILW5qdHRqQ0NudVpiWXVJUGdqWjduWjJqOHg1VFhTRHR1bTB4T2JPUQ?oc=5",
-          "pub_date": "2026-02-19T15:00:00Z",
+          "pub_date": "2026-02-20T04:48:00Z",
           "weight": 10,
           "sentiment_score": 0.28,
-          "short_title": "Compassion Wins"
+          "short_title": "Lost & Found"
+        },
+        {
+          "id": "62ef5725c9a4",
+          "title": "Muthuswami Dikshitar’s birth anniversary celebrated at CUTN",
+          "source": "The Hindu",
+          "district": "Tiruvarur",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEl4a0JHQ2JHcDczejcxeHhndE9qd2ljMUlaeDB1M0NIcHhQR0czNVZBX2pBNGpjZmRkX1ZLRTFUT1VmU1lHcjBCb2FBcXo0d2tmVnVBbVZ5QXlocEpUR2p4YWVlTWZvUVlRRWt0MkZ3V2VqeS1LNWhqMEttSnJoNUlQaWkwa0pKYjlJV1hBQ1RHbjBWQ3RBMGxoMVU0dnRrdWVtVTljTzVwWHNhcnRMbURWTk5CT21hZDlmR3l1cERVM2FpaXAwMG91SER0U0hL0gHQAUFVX3lxTE4wSXhrQkdDYkdwNzN6NzF4eGd0T2p3aWMxSVp4MHUzQ0hweFBHRzM1VkFfakE0amNmZGRfVktFMVRPVWZTWUdyMEJvYUFxejR3a2ZWdUFtVnlBeWhwSlRHanhhZWVNZm9RWVFFa3QyRndXZWp5LUs1aGowS21Kcmg1SVBpaTBrSkpiOUlXWEFDVEduMFZDdEEwbGgxVTR2dGt1ZW1VOWNPNXBYc2FydExtRFZOTkJPbWFkOWZHeXVwRFUzYWlpcDAwb3VIRHRTSEs?oc=5",
+          "pub_date": "2026-02-24T14:20:00Z",
+          "weight": 10,
+          "sentiment_score": 0.57,
+          "short_title": "Dikshitar Lives"
         }
       ]
     },
@@ -176,7 +143,7 @@
           "pub_date": "2026-02-24T10:48:00Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Stage Magic"
+          "short_title": "Shakespeare Shines"
         },
         {
           "id": "3f841c8e6e40",
@@ -190,17 +157,6 @@
           "short_title": "Pink Power"
         },
         {
-          "id": "280c0086adb2",
-          "title": "Central University team discovers hero stone in Tirunelveli district",
-          "source": "The Hindu",
-          "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0RKMkVFaUNqeGsyT0JsV0p2M1kyOU9YOGV2Y2RRTTZLMU1UYy10NmpySmJNQV9yOU5EQ0VNN2lpM3pBck45QnpOVHBGaGZmSkpPT0lMNFU1TXJYcnZVZDBFTWI4T1hvMDh2VDdraHBrVHdxbm9RSkJNZGdwYXVZSkNaNnpuMGFaV0w3NU9tajVXYUlodjY4NFJ6RERuUDlOV2pQeWstdmh4VzlXUHhRWkQ5WllNLXBUUmxrbzNPR01OR1d1aFhSTkRxZF81ODBfbHNnX9IB2wFBVV95cUxPVkJjREdra20xU1ZORmF0ZzA0bTMtVGIzaUZnanlVYWhOUDBhY3VPTGlNS1JXTEZTeTdNdGNvTHVEb3R3QnhEV2s2R19sYVlhb2pqaXg1Nkx4VkhNNkdDS190cjlOY0lzSk9fazRJaEozS2VTS3psUTdqWkNSeGhnNGVraHhHRUdWbGVWNzNwQ1B6dXVxMXVrM095ZktyalQ5OWZINDNVamRHbTlrRGFiaXcyblVqU0JLcjd0cEl1WnVSNkJMbjc1MmVXaVJFTzNUU0V4MzA4ZklkVWM?oc=5",
-          "pub_date": "2026-02-23T11:55:00Z",
-          "weight": 10,
-          "sentiment_score": 0.71,
-          "short_title": "Stone Story"
-        },
-        {
           "id": "b0218302dd6e",
           "title": "India's semiconductor talent is finding a new home in this small Tamil Nadu town",
           "source": "MSN",
@@ -209,7 +165,7 @@
           "pub_date": "2026-02-21T23:09:39Z",
           "weight": 10,
           "sentiment_score": 0.57,
-          "short_title": "Silicon Dreams"
+          "short_title": "Chip Dreams Rise"
         },
         {
           "id": "3c0cad62bee5",
@@ -220,7 +176,7 @@
           "pub_date": "2026-02-23T07:02:00Z",
           "weight": 10,
           "sentiment_score": 0.32,
-          "short_title": "Co-op Kingdom"
+          "short_title": "Co-op Prosperity"
         }
       ]
     }
