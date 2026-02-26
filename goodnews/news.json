@@ -1,179 +1,33 @@
 {
-  "generated": "2026-02-26T11:04:12.930664Z",
-  "article_count": 27,
+  "generated": "2026-02-26T11:09:14.764909Z",
+  "article_count": 3,
   "categories": [
-    {
-      "id": "chennai_metro",
-      "label": "Chennai Metro",
-      "color": "#c96d4f",
-      "articles": [
-        {
-          "id": "f2ac13c90e1d",
-          "title": "Chennai’s own supertree gets ready; opens in coming weeks",
-          "source": "The Times of India",
-          "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3pGMTdJYUVRU1o3WGo3UE1zZjNMUkgwUWYyS0owWWRUTjFYY0xtR25SY1NKcWV0OGFlVjE5NXdqX3ZtR0liSURvSmkxRUVtNjNYdFZ6bmt2TXc3ODJ3T1BwaFlOYVRwbFJFR2g1X1NhazVNSzNMc2xXY0lmaWw3bXU0WUNzWmhfZFFvck5RbjVZVk1mS0lySDJyUU9ySm8xT1NlNjZkYWNobEhsQ3BBWnVkZ19EUGlhX0diUUVxbFRyQm5mX3J1Rkh30gHPAUFVX3lxTE5KcDF0aUUyMXNiQVpYRmlnSllRRmFEUmU5QVdULVg1aEN5bGI3c3VtcUNabUZUQ0lwbXRYNHk3akVWMERjY2xyLS1uc3BxZHBxNUtGRGJGRHdoeGNoYktReWFDU19KLXVPOXp4M0NDTnpWZ1FZVi1OWjBhU09lQnZXVzBEMjhrYTVwMXNBZnYtQnIwRk5sZ0lXbzRDLUExVHpCeWcyeWkxODR0Z1hLdjhYaGNHZ0lSMWd5aEEwM040X3R4ZWtzQzlpNHRiVE01VQ?oc=5",
-          "pub_date": "2026-02-24T22:06:00Z",
-          "weight": 10,
-          "sentiment_score": 0.36,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "2128a32ba9c0",
-          "title": "The Rise of Artistic Intelligence",
-          "source": "Open Magazine",
-          "district": "Kancheepuram",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BUXhYVm5JWFNKWWVxZGNGSVAwNTZfQlZLU0dBWUprclYyd0xPSzlWeWdSR25FTzlxdkhueUJiRC1TR041R1lMbG0wMnlRemxRMUtvcWVpUDI1S3V3OFozZVUySzBNTlpEbWNjNDBYM1pVYm0xQ3c?oc=5",
-          "pub_date": "2026-02-20T06:08:28Z",
-          "weight": 10,
-          "sentiment_score": 0.48,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "4b46fbc15020",
-          "title": "Road Works Delay Chennai–Tirupati Drive; ORR Route Offers Some Relief",
-          "source": "LiveChennai",
-          "district": "Tiruvallur",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OOWQyMFBCUVlFbEZZTVRhZUtCQlZhU002dFpRbXVWSXFfNUdENS01LXE5VXhkbTU3WFpiTk1ONUVqdE5WRzlSajZnak9jbkxfOFNmZUdjOU1sVUhQTENnUXFmREZFUQ?oc=5",
-          "pub_date": "2026-02-24T11:02:45Z",
-          "weight": 10,
-          "sentiment_score": 0.2,
-          "short_title": "SKIP"
-        }
-      ]
-    },
-    {
-      "id": "north",
-      "label": "North TN",
-      "color": "#d4a057",
-      "articles": [
-        {
-          "id": "9470e8a06838",
-          "title": "Top Colleges for B.Tech in Artificial Intelligence (AI) in India – 2026",
-          "source": "Times Now",
-          "district": "Vellore",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDhZQXFWbm5ZZDM0SV9QMHE2QmV1R0w1TXhjcGZUblcyZ2lFTlNBa1UxZnpsNFBlSERkMG9EU21teWpMUDZWX00zMHBpWDVSUDVYR0E0RVk4M01wX0M4Y2otNkR6NFpaOTdlTnpsQjd5RkFQLWRFaGZJUjVPazQ3MWJGdXhpNlVpbWlOXzNwcmNEUGNKTHJUM0Q1OXhNUDlPamtoZk15RS1UcHUxR2h3VFdqTzVfX0Z1VmlrVGQ5TmZUQdIBxwFBVV95cUxQaFpYQlQ4UmVLbk1LNms4SElVcWtuS2RaNUlYMkNJYmRyNjZKN0pJbGtSNVA4cUVvaERPakNSVGt3S3VMM2FQbGNMeDREUy01SFB0cUJEMXJ3LXFKTjlfZ1ZNVFllc2VNaDRpQkRqZDVyTHMxOF9IUnVlX1hUaFJXUnBoZ1ZvdTdMZHBra0Y4X3Z0MGFjeGpWM1NVR2t4U3dVZndTa0dXMEVmRm9ibU1uOFJyZ1Z6Wm1maG5fdUI3MHhYRC1iYkRN?oc=5",
-          "pub_date": "2026-02-20T06:59:00Z",
-          "weight": 10,
-          "sentiment_score": 0.6,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "518b352a642f",
-          "title": "Chennai-Tiruvannamalai Expressway: Land Acquisition For First Stretch Nears Completion; How Will It Boost Connectivity?",
-          "source": "The Daily Jagran",
-          "district": "Tiruvannamalai",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZUNWc1RwbXJzY2hmNTU5SzIwMktsQkh0OTROU201ZE5OM2Y4d21XRm5SR1ozcGZwcWkxSGtFd3R0MVpDazZwZlpDaVhpQ09ZY0ROeTB4OGd2T0ZBZ3Izc0pDbGRFQWhjVHQ5UVdfeGd3NUZNZE5zem8tandRU3ZTVm1Ed0paeWlmbkFuRDJ6UUhucnFwNmVuaV83Y2hSbmZ0UDZYZkd5Z2lYcXdXdGhoRlF3bFlDN0Rvb0VXVk8yNGxBM19HaTdZQ0dHRjR3Uk9udzlOMTNFd0lKUkIwQ2FtRWlEbW9tWGlnSS1fRWRGcXJadzU5?oc=5",
-          "pub_date": "2026-02-24T10:23:00Z",
-          "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "5faa3333aa61",
-          "title": "Arvind Dharmapuri appointed team leader of India–Ukraine Parliamentary Friendship Group",
-          "source": "The Hans India",
-          "district": "Dharmapuri",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWdTUUNIN2tUNV9qLS1XY2ZMYmRkRVZ2UTR6RXpaTi1ZNVEzX2ZEeGRNazJvWDZLUGpzVmx1WmQyNUFTMDJPSzBEc210cW1GdUsxZGJLN1N0alh0Qkt5VUljRFZCczMzVV9LTnJMQkZtNUVheWsxY0o1bHpmZWFRTGJHRlUwVGFlN2V5Mnp3b0QySjNfbVJlQ1BrUC1LUmU2TnVjOVRfMy1UMXhVNWc3TzI4czV4UXlQUFIxQ0Voa1Rxc0lLUTl4djR5OWVMMnBzSVlJ0gHTAUFVX3lxTFBFZ1NRQ0g3a1Q1X2otLVdjZkxiZGRFVnZRNHpFelpOLVk1UTNfZkR4ZE1rMm9YNktQanNWbHVaZDI1QVMwMk9LMERzbXRxbUZ1SzFkYks3U3RqWHRCS3lVSWNEVkJzMzNVX0tOckxCRm01RWF5azFjSjVsemZlYVFMYkdGVTBUYWU3ZXkyendvRDJKM19tUmVDUGtQLUtSZTZOdWM5VF8zLVQxeFU1ZzdPMjhzNXhReVBQUjFDRWhrVHFzSUtROXh2NHk5ZUwycHNJWUk?oc=5",
-          "pub_date": "2026-02-24T22:57:57Z",
-          "weight": 10,
-          "sentiment_score": 0.44,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "8ad766862349",
-          "title": "Lakshmanan stars in Friends CC win",
-          "source": "DT Next",
-          "district": "Viluppuram",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MGFVeDh6S1lSN2Q1ZGhRdEtJTERxZ3FsRV8xNkFHTWhWZTR4ZWZ3Q2hpVG9OUXpnTHFrWFJreXVvVlc4MWZUUnIzeGJpenpvd3FtSmxUU2g4Z25yRFZieVZOeVNVTVhPSUxvRkJIaUJMYnAySHNr0gGEAUFVX3lxTE5SMUVyeEhsY19tRWFPSTFRMTNFNTY4c3pzQU5SVEUyWE9wMjNkWmpsWmhkRGNzNmljdnBST3pXUTRrSzZTam5teldicHVuX2pKcm1IaXZsUTYycjBDVF9zTUs5QmFpUWJYeGRQRU5CTUVQVUlmQ2puZXZsVjJiNm1hd09wNg?oc=5",
-          "pub_date": "2026-02-24T03:12:38Z",
-          "weight": 10,
-          "sentiment_score": 0.78,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "dee11bbf57cf",
-          "title": "Tiruchy-Tambaram special train to run weekly from March 1; timetable announced",
-          "source": "DT Next",
-          "district": "Cuddalore",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1A3eG9IdkZaQzc0WjVjYjU2cU5CdGRJbXk3OFh5UkZkaUY5RGNPQnVQSXZvOWptRU5ON09DY0NQSGNvRm5sRVlvNjZ5bFRrZXJ6U2xPQjJYaV96cmQ5empmMVJaUDlZSTB5MEE0Qk8tVHJXOVdZbmVMZFZxX2ZXMTVnelZQc2x4UU9VMU93Q0pFLTl5M3BITkNPUVM5X2QxVFVKZk1mMVE0ZHZ3S3ppYzlB0gG_AUFVX3lxTE5jOEtnaXZqeU1SeHp4bjZrdWJMRV9yZFJBWmJ5bE9XYkVqVkwzd0pXY0JEM2xPZTlQOWFuMU1CcV9QTm55eDJuRk1GanlVcGE1LTNqbERUMEYxLVR3dkJmSnVDOWtiaDBONFJRSVdXeHItZGF2NjczUFg5UW5rbmZQUmVCLTdtd0FmRi1mZGs5amlvbXF2Z0FVd1haRmQ3MU1YeWNZWG8yai1GTWtNaHJfZ3UwcXVhWkZqeTFXQ1BZ?oc=5",
-          "pub_date": "2026-02-21T11:48:26Z",
-          "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "SKIP"
-        }
-      ]
-    },
     {
       "id": "west",
       "label": "West TN",
       "color": "#8aab6e",
       "articles": [
         {
-          "id": "7aab767beb0f",
-          "title": "CBA felicitates Justice C. Kumarappan, 27 senior lawyers",
-          "source": "The Hindu",
-          "district": "Coimbatore",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRTIyLU05R0NVaEZjaUxoOFVJRmRKQ0E0S3BLT0VQVkp3Y1RkV2c3OEVzLUpfaUo4OHJtTVA0OUxLbWx5V2pTRjZnZE5pdVZ0UzFLWGt6RGg3R1BkeHdqdlgzNnBvZVFhS2cwU1d0SjUyYWZiYVBVeFR4NUNsNkdCRHBVN0dPWURGb05FbldwbzM5blJHdHF3U1U3dHhvdkg0VzlYNEtvXzNnbUFSbl9nSmJrQW9TS0ZDeGdtTnlPQdIBxgFBVV95cUxNSkZzS1BEY1M2VnlSSnFHUXZBN0FTbUpRLVFXeVJnYjNqUldPWDhfWTlxcW92aVRmZDI3UVFFT3FUV1pyRkkyek9YN1ZtX0NnLTZyQnd4OGN4eHpsNTJNZTBpM2huZWtra2wxRFR4RG9ONmlvYXNPRWpjUjZHVVVEeXpTbkswR214amRiT2h2X2FDbHZQX3FkcVg2T0IzNWxURlk2RDBqYzN4ZFNSNjlzOHI5NmZjNFhTaWtOOEltSFRCbzNlN3c?oc=5",
-          "pub_date": "2026-02-20T16:52:00Z",
+          "id": "211b155b4acd",
+          "title": "Kauvery Hospital, Salem Achieves Major Milestone by Successfully Removing a Life-Threatening Airway Tumour",
+          "source": "ThePrint",
+          "district": "Salem",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONl9OdVFCejdrQ3FmQk1UWGsyNEJDOFNweFdBY2xKMFdlQUZTTnJZOGRhNkhGdkE1azlDeDNodVVPbHRGRUgwS3N5NGw3dGk3VFFkbnYxaWR6MThYaHpZTUhQZTVrMS1Cb1lRemUxSXpaZUJEX09DR1ZmMXlIRUNCWDgteWFIWFZNM2JYQ0tmTm9Wbjc0b1hQaFNad0xnRGJyT1RENURvWWhjTlNySk1fcFp2NzVzaFNKZENQUnZpWmswcFVhVjFPaWIyWGI3X3RrdnoySkhKQkZDaWZWaEVQWE1fY0hfR2lM0gHuAUFVX3lxTE9rTXUwOHNfLV91M21zcW5IcE82VVQxT19UVHBfVkU0UVY4eVh1SjJoejk3X0lEWmRFNkFNbFY2STBxSlBfNVBjcllmSWFsR21yYldvRXh0M0ZlUm01Tkg4MTV3aG1UbUZPQnVJZVhDNlZ0bTNDN1loMFlfejh2dnZhZTEtQ3M5dXZqV2tvX0Y5MHVLc0RaeTA1Mi1VWkFXcFE2S3RjeXl3RnRkeDB4YnlueEVFeWc1M2UzQkpqR1prSXdTODN4ZlhKMmVUb0R0cGNzQTJ2d0hXSGZDYlRjVWhuNUJwWUIya3N6S0NxUnc?oc=5",
+          "pub_date": "2026-02-24T10:30:58Z",
           "weight": 10,
-          "sentiment_score": 0.53,
-          "short_title": "SKIP"
+          "sentiment_score": 0.69,
+          "short_title": "Tumor Triumph"
         },
         {
-          "id": "2cc456546c7f",
-          "title": "Special DRO appointed for Tiruchi, Tiruppur districts",
-          "source": "The Hindu",
-          "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeFh5SHlxZ3p4aUlZNGFEbklyNWRoUF96Wk9ScFNXX3Y1aXBOanJsY1RsRHZpOHNRWHJOZmxlaXNwWVhoemJtdzRzaEtxUXZzUXdTcGtldDFqNFRmODJzOHdUb25vYzAwQUp1cS1RZUtJanNFaW9VWWlMZkthQllwNHUyaDZtYlNEN2VVbFFBOS10cmdRQlB1aGdKMlRreHRzVU0wRlA2MEMwdDY0NkNTQzJ0bmRhbkR0Y0kyeWtuZ9IBxgFBVV95cUxNaGFzZldSM09TNWtyM1VrUC01UFc1MG9iemhtUmdsb3pfQ1A4S1hDSUJqSkFFbVNndmxVRF9iTFIzeUl3d2NIb0l1R1BGNzFsbXA1dUNfZGlzOE4xSC1vNVpCbURXcjBKdFRIZmFnS3RtVmpYUzJQRTZkT1FxelFrWWhiWlZhbGNZZDFvd3U5N1U3Y0x3cVJ3bWZsVWlKcjZVRXRuLUtHUGd6RFctY3VHUEdSSE1GV2pyN3FqOUx2V0xhLUktOXc?oc=5",
-          "pub_date": "2026-02-20T14:53:00Z",
-          "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "7b304e0cb83c",
-          "title": "Zanzibar moves to protect Stone Town’s heritage amid tourism pressure",
-          "source": "thecitizen.co.tz",
-          "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWVpaTFmWWVTS3JCNFc2YnZlcTNzb2VXRHlWbnNyUENkZFJhVXFWM0VNbDY1dVBjTXJGVGVXTHJHN2JmMzg2TVB1S1dLbE1mUUNQWXJRY1hBbndtMTJRaWdJQzFiN3lkWThpNFBZOW1TWHdWZldTczFZWUZGUGxWVmJpWjA1YjhGaG5La094WFZ0RGtPeks5eFZDazV1TTAwUVRMaE1HZDRRWks5Y0Y5UmxzV0Raczk5dWg2eXVuTnllUQ?oc=5",
-          "pub_date": "2026-02-25T10:17:56Z",
-          "weight": 10,
-          "sentiment_score": 0.25,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "f01ce2fd007c",
-          "title": "Namakkal farmers undergo training on banana fibre extraction, value addition",
-          "source": "The Hindu",
-          "district": "Namakkal",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRnlRZ3ZKeFhmTTRfMHRzYS1EbXNoSTBvZW9MSUJ6alJxWW1OWjZfUHFKc2FEWDBxVDZvQ1FlTUJJMlFnSkI1VTg0MkVRRjg5RHNrdW9JQzh3YWJxNkVwZHd2ZGp4YW1CLVlaLUpCNkRDQmZFdnBlNXN3U012TVN3MEhDNHdmVWswWkJBekg5djhMZnRzMzRxZ2pxRnh5bllhS0dSWXlvRnhwaGNuSEdJVGRZSlBub1d2NVdQSnhRcEprcExXbzlzdFdxRUExQTEwRU15N0t4ZVZzVDBiZ19DYtIB5wFBVV95cUxOU0xvQzlGSFc3dVFXTkh1RW9nM01HLWNmTHNwRmUtTW9kYVZzM3hjZUxud2RCX3NJRVJMQzZtVWJRbmRad2pLNFBsSE5oWnZfWVRnRDh1d3ZWYjY2UHd1NTdHalVoRWJ5Vkc0YTVZYTl5Ql8zS2YyWXdtcHgzbmhBS0dEN0pVSlRaRTJOSE5zbTZwRi1pYmFYZzNEc0dobmhTQ29wWkVibGRRMDFhOWozZWM5bjA2OE1zOVc3MUVBVy1KcWZzUDdNYUpTYjVDaVE2ZV9iQnBKZHU0eGtUcXZEVV9SLXV1Zzg?oc=5",
-          "pub_date": "2026-02-21T12:20:00Z",
-          "weight": 10,
-          "sentiment_score": 0.34,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "582e4b2afb61",
-          "title": "7 Cool Cation Destinations To Escape The Coming Heatwave",
-          "source": "femina.in",
+          "id": "50d08010d3a9",
+          "title": "The Nilgiris teen saved by successful Liver Transplant by PSG Hospitals",
+          "source": "The Covai Mail",
           "district": "Nilgiris",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjVfTS1Gci1WYmJTLUtrZjhJbGVva2Q2ekVsSW5OeXAwMEh5bE9DMnV4Mkh4cjRNRDItdUVyUUxWaVl1V2hVZ3Jkb0swTUFPdGpIeFdiZGpDcGJUamdEeXhpSmJKLTRJUHp0WFZrZE80LVdYOTZnRW0tRVhqeDExY0xIc1l6UWpxZ0s2emVHX05BdVBxZ1BYSUpoNVVkRDdnUnFNNHJIVV85cEg5emhRend1TXFxOWRy0gG4AUFVX3lxTFBaNV9NLUZyLVZiYlMtS2tmOElsZW9rZDZ6RWxJbk55cDAwSHlsT0MydXgySHhyNE1EMi11RXJRTFZpWXVXaFVncmRvSzBNQU90akh4V2JkakNwYlRqZ0R5eGlKYkotNElQenRYVmtkTzQtV1g5NmdFbS1FWGp4MTFjTEhzWXpRanFnSzZ6ZUdfTkF1UHFnUFhJSmg1VWREN2dScU00ckhVXzlwSDl6aFF6d3VNcXE5ZHI?oc=5",
-          "pub_date": "2026-02-20T05:52:34Z",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1lzX3AwNDZBaFpCaEpkYk05bWp3Sk5Bd1huQ2FGMElXVTBoVk1Gc19EVGYzZGM4a2ZfSTlBajJsbWhaazAyNWtuSFA4eGlKMURMNG1IWWE5cS1SM2lIRDk5b3B1aFZLVW81clhfY25DbEZjYTNIZGtNLUFJN0luNnMyaVlaWFV3NmVXSTU1MGpndzBSTGc1RE9n?oc=5",
+          "pub_date": "2026-02-21T11:24:19Z",
           "weight": 10,
-          "sentiment_score": 0.46,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "76f165e5908d",
-          "title": "India News | ⚡Heavy Rain Alert for South TN; Fishermen Advised to Stay Ashore",
-          "source": "LatestLY",
-          "district": "Dindigul",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUJJcmpuMVB6dG1LOF9tNy1fMElyRWx6cTNURllZa28tOFlKUkZnMDBiTFNIR2E4d2UwYmxMckRwMU5YS052RnNjam1nRG1mV3JRTWRWNlZnZlRjeHBFOVNhRzJPZ0NJYXBaZGZ3eldhNGIxS3Y3bnBBUVQtSllnRWVaemZ4M3BNZzF0czBrUldkVTFDUHJYbm1adlRNUGo3bTljcmVDVDlwSVdQVkhnakk0TGdyNjZhTUpN0gG7AUFVX3lxTE5hQklyam4xUHp0bUs4X203LV8wSXJFbHpxM1RGWVlrby04WUpSRmcwMGJMU0hHYTh3ZTBibExyRHAxTlhLTnZGc2NqbWdEbWZXclFNZFY2VmdmVGN4cEU5U2FHMk9nQ0lhcFpkZnd6V2E0YjFLdjducEFRVC1KWWdFZVp6ZngzcE1nMXRzMGtSV2RVMUNQclhubVp2VE1QajdtOWNyZUNUOXBJV1BWSGdqSTRMZ3I2NmFNSk0?oc=5",
-          "pub_date": "2026-02-22T03:27:25Z",
-          "weight": 10,
-          "sentiment_score": 0.3,
-          "short_title": "SKIP"
+          "sentiment_score": 0.92,
+          "short_title": "Liver Lifeline"
         }
       ]
     },
@@ -183,17 +37,6 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "d1ca9ea7dca7",
-          "title": "IIM Trichy conferred Institutional Excellence Award 2025",
-          "source": "Dinamalar",
-          "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc09OVUliSXltOVdackNQVmdpQ3FKdGhiVWRTbGYyVFUzNXR0N0VEeTlYV3JWRVRRZHBYVGNnTzVpNmluUW45X0g3XzRkaDh1THNvRnNjbjd2eE9FSmwwUF9Lb2xIaGlSUW1rTkxFTFJRSV82V3JOZU80QmdhWVVpY3h3RFgxU01kT1BKUTRzVU1uNTI5SWNFR3VBMVNrMlFLUHVJY0xUQmRFTG52ak1YcHMtdWxVUU0?oc=5",
-          "pub_date": "2026-02-24T18:25:22Z",
-          "weight": 10,
-          "sentiment_score": 0.97,
-          "short_title": "SKIP"
-        },
-        {
           "id": "c78f6cfdd928",
           "title": "Perambalur police in T.N. rescue 24 wandering mentally ill persons in one year, reunite 11 with families",
           "source": "The Hindu",
@@ -202,135 +45,7 @@
           "pub_date": "2026-02-19T15:00:00Z",
           "weight": 10,
           "sentiment_score": 0.28,
-          "short_title": "Minds Reunited"
-        },
-        {
-          "id": "aa2aecf412bd",
-          "title": "Narcotic tablets worth Rs 9cr seized in Pudukkottai",
-          "source": "The Times of India",
-          "district": "Pudukkottai",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmdvZFFHUVhHczBMZ1NOR2JjRlhCbTBEWjBtTnEtNnN3OXpjTWQ5NlhueFdCS0FXVm0zZXYwZmpOM0o5cUFPSFFJbFhMVHRxTHBlRmJqbDJUaDhjSlktUlgzSHFnRG1UTmw2Qms4UV9mZ0ZTWHU5WmFESVdYbzNpOFd6OTVwU1dWalV0YTVGOEVFOG94VlNZNy1nWERmRkZQZko3UjMyMTRKZzZGV19SSWE5eC1TMFF5UzVlTkliYlV2QUXSAcgBQVVfeXFMTmFZNW5PZlNCSHZLR2hsWjFtX3RzNDZOSERUN1o3emdRVzZjQ0V5c3pITjByNHFHOGppNVdqcmVPM1Nnb3FWVDJUWkdSTjI0MnU5VC1IZVY2R1Q3MVBNNmZUbFFMX3N3aDQ1SEZKdktqTF9LMWw4UjFzU3NleEtCSENFZDdVWjE5R245Qml4TGtOZGVCNlRzd21RZk5RUWNDRnpod29Lejd4TjEwc1VydDl0bzhMMkhPcld6dzhWNFB6MGg1V0w2ekk?oc=5",
-          "pub_date": "2026-02-22T21:05:00Z",
-          "weight": 10,
-          "sentiment_score": 0.23,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "a064c217a717",
-          "title": "Relief for commuters as land acquisition for Palpannai service road expansion begins in TN",
-          "source": "MSN",
-          "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdGxrQ3M1LUNENW5RSmZFZU9NRDV2ZDNZTEhRWW11bGxlM05uMG5hbDBRZDV3Z2c5Y2RQQkl6Rm5WWmhZQnh4XzZONENIWFVNdGktNFpRVXhaTmU3Y1M0S3c1SjNDVjNoa05IcjNSMFlTWW9MODNEWUltODVqMEdQb1VtZlh5SVRDTERwRklRb1BTMF9kb2tDWi1raFJyM0RKa1U5QVZaZnU1V3Q0VkU2LVM4VDBNYkprb29aVVhEbXVSTlRaSERoUnpRXzJodUdMQ2lkUzRB?oc=5",
-          "pub_date": "2026-02-19T12:58:19Z",
-          "weight": 10,
-          "sentiment_score": 0.48,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "d9e065b99186",
-          "title": "Tamil Nadu: Central University team discovers hero stone in Tirunelveli district",
-          "source": "The Hindu",
-          "district": "Tiruvarur",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0RKMkVFaUNqeGsyT0JsV0p2M1kyOU9YOGV2Y2RRTTZLMU1UYy10NmpySmJNQV9yOU5EQ0VNN2lpM3pBck45QnpOVHBGaGZmSkpPT0lMNFU1TXJYcnZVZDBFTWI4T1hvMDh2VDdraHBrVHdxbm9RSkJNZGdwYXVZSkNaNnpuMGFaV0w3NU9tajVXYUlodjY4NFJ6RERuUDlOV2pQeWstdmh4VzlXUHhRWkQ5WllNLXBUUmxrbzNPR01OR1d1aFhSTkRxZF81ODBfbHNnX9IB2wFBVV95cUxPVkJjREdra20xU1ZORmF0ZzA0bTMtVGIzaUZnanlVYWhOUDBhY3VPTGlNS1JXTEZTeTdNdGNvTHVEb3R3QnhEV2s2R19sYVlhb2pqaXg1Nkx4VkhNNkdDS190cjlOY0lzSk9fazRJaEozS2VTS3psUTdqWkNSeGhnNGVraHhHRUdWbGVWNzNwQ1B6dXVxMXVrM095ZktyalQ5OWZINDNVamRHbTlrRGFiaXcyblVqU0JLcjd0cEl1WnVSNkJMbjc1MmVXaVJFTzNUU0V4MzA4ZklkVWM?oc=5",
-          "pub_date": "2026-02-23T11:55:00Z",
-          "weight": 10,
-          "sentiment_score": 0.71,
-          "short_title": "SKIP"
-        }
-      ]
-    },
-    {
-      "id": "south",
-      "label": "South TN",
-      "color": "#2e7d8c",
-      "articles": [
-        {
-          "id": "f8781adb0367",
-          "title": "Southern Railway announces special train between Kanpur and Madurai for Holi",
-          "source": "DT Next",
-          "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHBnN1k2RlZiU1Iya1hPY1YtbjZXa3M1TUQ5QlJOZDdSU2ZFVTBJUUZ6QkdPa21WWjJjY2FaRjhnbkNKU0p5OVdsQjU5M2h6N1ZwRmtSNmNmQWZubmdjaDZxY1dXLWdnTTRISXFHU2xFUW5WTHpEVjJNX1BQQmNJcjJQWTRoUktUb1dKamVSNTFnNEdLb0VacFV0ZDBkVmh0VnUxZ19Xa3FiVXYweFpzbHBGNNIBwAFBVV95cUxNMldsM2JRUHl6NzZmVllyeDZRT01HeXZUdVR1NHkxX3FYYzdvMDFXRGxLQ1NNbko4S3YwYWVIbUJqLVZBa2JSQkdHM0gxYk5aUkRBQ1BPODlLQjN4TGtMYWxud2xoSEtfNlJFdWRGVkFKZWJXcEZyckNhZUc1Tmc0YmtBRnJPM1BzeE5xcWt5QUlBb3ZUMFdHa2trTjJkVEctMHotVm5YUm9FTnRsWDJIUmRuMEFKbzF0THZnaG1sV2g?oc=5",
-          "pub_date": "2026-02-24T11:21:34Z",
-          "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "03cb0fd9bc0e",
-          "title": "OPS Rules Out Floating Separate Party",
-          "source": "Deccan Chronicle",
-          "district": "Theni",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTFULXRlcGZ2eGdTZklrQXBTdnZic2h5VGxDWEg1Z0Rlal8wTjA5SXZRTEp6bm11MVlQUlRSZHRDbWowZHV5STNJNTZxSUVHcFZQemZUenEyd080cW5fbXVFUnJGdzJqSk5XWlliUkNVdDRMRG9zNDUyV2pidWYwdDdoYnd1Y1FDb2VSRTNyWFl0T0ZaQzcxTEk2U3hQYTlvbUNXRzF1RdIBrAFBVV95cUxNaWp2cTItUVdxMjVTRVRGXzVVZlpkWGxvTlA2SlFVTkxhZHJZRnV6dGszNGZRaThGcUthTUNYc3lUckpGQ0hsMmQ2UkdrWlczQlpFLW9JcmUxeGFOSWlsUFdVMnVlTTNsRHlfS2JoQjBtZjRiR3NYZ3ByMHJKcGR5NmF4R0p2dG90X19UUmNnb2dLTjhoSlZvQlhETHJ2X2Z0dTcxU0hlX2xTTHdo?oc=5",
-          "pub_date": "2026-02-24T21:07:36Z",
-          "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "2dd40b3fb334",
-          "title": "Vice President Radhakrishnan honors Rani Velu Nachiyar in Sivaganga",
-          "source": "Hindusthan Samachar English",
-          "district": "Sivagangai",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY29nWTRXMkEyUm9lMy1ZdWhybGhlZGdvdzhLVFhSQkxUdFpqbWJVVFl5V0pEN3ZIa2puZ3hLOWNrR1otc2JTR2RaN3gyYVFJN3plb1p1bDlLSFl1Tk9yNnB1c3ktdGZfUnd5YzFZa3FoV3FQYzZKYlVFR3I4YlAtVkVLMmk3MU1sUzZvVjgwREhmUQ?oc=5",
-          "pub_date": "2026-02-22T13:55:54Z",
-          "weight": 10,
-          "sentiment_score": 0.51,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "19e82e3a2309",
-          "title": "Fishing prohibited for four days in Ramanathapuram for Katchatheevu annual festival",
-          "source": "The Hindu",
-          "district": "Ramanathapuram",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdzA5aVRteldDMW93QXZNYUk0NG5aVm1lZG1RaDlvYUhZcF83aktVRkZjRlRnRnBmZVY5aFBRbDZEMTU1cTFQc0NDZkVsZmUtMUdyMlRONUVrWV94ZGtueGFoc1VtN2Iyak5ack15enlnYTFudTY4MFdVZ3RkMDZfd0oxaWVVREFrbFhhbG1hbGxXUXZVM09XbTdkVFFrRmplSmVLN0dmSThvRVRzbUlUdTFsUHVDZk80T2hWaG1wSkxXS3dQQ2wxRngxcWlfWjM5UjZBSHpyWDgxOS16c0ljYm1B0gHoAUFVX3lxTFBhR2w1WW9sMnFYTkRrWXZXTlRja25Xb3RxOUJzREhtSW9TV0ZFbi1OV2c3cTFfaGVDNzlWbG1YNzFEV21TeGxaQ0pMaEVCdmwwdFNEQ2ppYTJFQkJfSHVaQjlWVTJ3dWN1NzdXLVh4Z1p5TFpZX1JpVktMNkdZamZkUEIzSGtWUE1HYnZkdUpLMnRmVHhUaFZBV2xzeDhuWU1fX1RCLWVkbUp0bjFZS3VoWjJ5WDhFbVp5S0xuVUl1cjQ1WGhwdDdaWnk0Y1g5RnVRcDVkRnZaeTBxbmhWQ21zYU1iNUl4Q0w?oc=5",
-          "pub_date": "2026-02-24T14:06:00Z",
-          "weight": 10,
-          "sentiment_score": 0.64,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "f3d74881ce5c",
-          "title": "Madurai’s true potential needs to be tapped",
-          "source": "The Hindu",
-          "district": "Thoothukudi",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOXzd4NGtTc0VydUF0YkFVYjdHdlk2TXdRY1haU1JYaS1KMVJtbFhiXzVmd20teFBhdUwtZF9JWFRTalowTzVRLU1IY3FIdDZVY2wwbWVKUmFkSVZQcnRTcHhNeUM1Vk9pMXJSOU9FcEdGcUR0YllzQ2ZnSTNtSVY1X0dkanZRS0tFaWZGX2lLZG5ZVV9xcXhUdmpWN1J5bEZWTDZBLW4yeDIxNFXSAbIBQVVfeXFMTmFwUE1CdjdrSHhiT0RGd1B2dWJxUVpSaXZfNTVTeXo3a1dMb0Q2SndVMUZVMHcyNkMzNVhreDFCQ3lQVjFtZUxEN2lPWmtfVU9pQkJMQnFGdGpEbVhaS0FOaFl1RW5PQkk3blJpR19yRnZ3ZlNvandMLVBUN2JJSkhKZzhTVGd2Zk9nWmw0TXRwSGVjVkh3UWtHTEpWSzFTZGw2aUNqRWh4VVpUaW1mVXFEUQ?oc=5",
-          "pub_date": "2026-02-22T15:01:00Z",
-          "weight": 10,
-          "sentiment_score": 0.42,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "7c3254b0ef8c",
-          "title": "Tamil Nadu School Holiday: Schools And Colleges To Be Closed On This Date Due To 194th Birth Anniversary Of Ayya Vaikundaswamy; Details",
-          "source": "The Daily Jagran",
-          "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWkhzd3dfQllvZjVVWnRRdHhhYUh2Z21fUlJHUERBTTlnMlJsUU1MSjhwU29ZV3F1VHc2RjRRV19FQTZvVThvTHZORFVpbEVRX1M4eDlMQ1BTZzJlNzFfY1BBYTJUdktZQlZvV2R6eC14SHc4dnp3TllIZ3pGaHZPbmhhbWJaalByYVBHclFXS1pOUG9xbUg4cko2cVo2c01vVGloZ3pyM09QSmVCNFdWcDhZQXozeUxYN0pxNm9jTGVIS2t6U2hjTkItYWkxUUl3OHJWSFBNNHFQQVdpZWJJa3BkNmhZY0FrOURTSzlCcFM1cmFBN1RxYzJIZVdHZmI4eXcwalB4bFI3b21PN290Tg?oc=5",
-          "pub_date": "2026-02-24T13:40:00Z",
-          "weight": 10,
-          "sentiment_score": 0.15,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "c6fe32102d7f",
-          "title": "Bond money recovery from Tamil Nadu doctors who quit mid-way begins",
-          "source": "MSN",
-          "district": "Tenkasi",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGxUakF1WUNIdmp3NzU4azY5YS1FVXlrVHRTQnhuVlVnM3lfMVNZYy1iQzNyNWJGOFNRcXZOem5ocS1zNlZreVM0TWF0MWUwbGJVYmVVMnJha1ZmazhUcHhBLXh1b1Y1WWNUTk15Xzl3STVJN2J0UWNuU0FTQ01qNTVqWTRWRWJvWkkzeDRJemhGWHB2N1VqV3Babm5sbnZNRGE4cmNiaWlBbm90Z0lPRGhJVjlVbU0?oc=5",
-          "pub_date": "2026-02-20T01:58:23Z",
-          "weight": 10,
-          "sentiment_score": 0.15,
-          "short_title": "SKIP"
-        },
-        {
-          "id": "057ee4685bef",
-          "title": "Celebrating a Century: RSS's 'Shatak' Set to Inspire",
-          "source": "Devdiscourse",
-          "district": "Kanyakumari",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGstY2twYmU3alpPUlMySmJ1MFN4SXlfNU94VkU3UWhCdDBoaDJpZ1M4TFJ0Sll0WjVmRUF2cmVOY3FCajJ2ZGNHSmFKMGNKcEF2OG5PY2FKUmgxd1BIRU0yT01qYmpSa25HQzJoOUd1QTlOVUo5eEpkSFB3VVYxMm5ReDVSaGp2Y0xnUzlHNkpTOUo5SWNScTVjdW5RN2FnVEdiSUNvWFUwZ2PSAbABQVVfeXFMTXZuTHVTMG9xdXU3bGtsZWM2THhlQzVBQ2lzeGFjeDBpZnlNdXZPNnRaSFg0enpsR0FzX0lnWjY1R1ZNVHBNYlBNbTNtdl9wUVBfcktiU3RwUm4zNzY1b2RwZFV1UXVCYW1BNmV6eHBFU1ZGd3JLaHlydjhnT183czA3U2F5bndyaFl0Zlh1NDMwNGo4a1ZtN2oyWllNMVFSbUxpaklsM092LWM4dDc2bS0?oc=5",
-          "pub_date": "2026-02-23T10:29:38Z",
-          "weight": 10,
-          "sentiment_score": 0.96,
-          "short_title": "SKIP"
+          "short_title": "Hearts Reunited"
         }
       ]
     }
