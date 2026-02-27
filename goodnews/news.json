@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-27T07:44:15.646263Z",
+  "generated": "2026-02-27T12:45:59.784831Z",
   "article_count": 34,
   "categories": [
     {
@@ -16,7 +16,7 @@
           "pub_date": "2026-02-27T04:30:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Minimalist home makeover"
+          "short_title": "Metro speeds up"
         },
         {
           "id": "539f2a35c860",
@@ -27,7 +27,7 @@
           "pub_date": "2026-02-25T18:02:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "MRTS expansion launched"
+          "short_title": "MRTS returns"
         },
         {
           "id": "3cd92dfafc32",
@@ -38,7 +38,7 @@
           "pub_date": "2026-02-25T04:30:08Z",
           "weight": 10,
           "sentiment_score": 0.32,
-          "short_title": "Job fair opportunity"
+          "short_title": "Jobs fair"
         },
         {
           "id": "2cdde526078d",
@@ -49,7 +49,7 @@
           "pub_date": "2026-02-27T00:22:30Z",
           "weight": 10,
           "sentiment_score": 0.27,
-          "short_title": "5,000 new jobs incoming"
+          "short_title": "JLR hiring"
         }
       ]
     },
@@ -59,15 +59,26 @@
       "color": "#d4a057",
       "articles": [
         {
-          "id": "8142b6eb1b55",
-          "title": "VIT’s Riviera kicks off as Mithali gives a pep talk",
-          "source": "DT Next",
+          "id": "dec3d0263703",
+          "title": "Mithali Raj inaugurates Riviera 2026 at VIT in Vellore",
+          "source": "The Hindu",
           "district": "Vellore",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejI3SXg2LUZ2SWRjTXp6aEt1aEJjeEllY1hfMnJfRmE3M1BGWllaeFJieko0emdNdktQZmZGZEdkdHhqRkhRWUxDMldJWElFREZsb0l4c3JfbXIwVUZhcUZZQXNfOGtfX1dDZmlEWGRySmZXbFZITmd3d1RnSDhmejNHUlRkVzNqMTJid1Vn0gGbAUFVX3lxTE5WMUc2OWVuWnRyMUFNa2xSSmdxZWx3NTlWd1RDRWJ0d3EweUROOXZ0OXk2NHRzS1dUMGx4a3p3RHNka2RUeWpiU0s5VERzdTJocWhZN2JIN0VScEZuRkp3VmJyWkk4YnNqT1NYN2xDcU55MllWV3JGNktMSC1oc0lGaWMyTFVSLWlIaFh0S181dElOT2pTcFZ5a0dz?oc=5",
-          "pub_date": "2026-02-27T02:43:35Z",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDVTcFhJTU84X2lrWVV3VThfOFNudl84aTk4MEdsUTF6NF8tZzFCMGNzdGVOVElzYklvemxvaTFKOXJpNGhDMWFNMGozNEJ3SVZyd3FHcG80UF9Oak9OZG1UNHRNY0tpeDVqUzV2b0c3UXNxazJJV0JKNzE2cVludnN5OTFucWRfSjgtRldTV2hJOEFDY1dXR3lIQlhXS1RWdkFKenRVeGh4d3EyZnRNcVdRdkh0d2owMllKaTJRSjdYd2tKVlhtMtIByAFBVV95cUxNNDVTcFhJTU84X2lrWVV3VThfOFNudl84aTk4MEdsUTF6NF8tZzFCMGNzdGVOVElzYklvemxvaTFKOXJpNGhDMWFNMGozNEJ3SVZyd3FHcG80UF9Oak9OZG1UNHRNY0tpeDVqUzV2b0c3UXNxazJJV0JKNzE2cVludnN5OTFucWRfSjgtRldTV2hJOEFDY1dXR3lIQlhXS1RWdkFKenRVeGh4d3EyZnRNcVdRdkh0d2owMllKaTJRSjdYd2tKVlhtMg?oc=5",
+          "pub_date": "2026-02-27T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Riviera kicks off"
+          "short_title": "Mithali inspires"
+        },
+        {
+          "id": "43cba1b332cd",
+          "title": "Vice-President lays stone for constructi­on of V.O.C. statue",
+          "source": "PressReader",
+          "district": "Tirupathur",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWZfbExTLUxMUkJFZ3lRb0J3cGlPWC1MUEVSbnZobldieFVSWENGX1ZyYWN1U2ROQlhyd01RSVlldWpGQ3pkN2ltMksxb05HRTBVVDhiUDkxNnhYUGVpbHdLWEtkb2pEQUl0Y0pWR0ZEMjVkWGFGTzYwOU9xdjlKUmF5VjdYU2pK?oc=5",
+          "pub_date": "2026-02-23T00:18:03Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "VOC statue"
         },
         {
           "id": "f8b9d8cd9552",
@@ -78,18 +89,18 @@
           "pub_date": "2026-02-26T01:30:00Z",
           "weight": 10,
           "sentiment_score": 0.36,
-          "short_title": "Jawadhu Hills tourism boost"
+          "short_title": "Eco-tourism hub"
         },
         {
-          "id": "c6740df75fde",
-          "title": "Workshop on integrated pest management for mangoes conducted in Krishnagiri",
+          "id": "ec5cfdd4adc7",
+          "title": "Collector inaugurates workshop under Beti Bachao-Beti Padao Scheme in Krishnagiri",
           "source": "The Hindu",
           "district": "Krishnagiri",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQlN3Si04TUp4eEFjSHhYTE5OTVlUcEQtbHpPM3hyZjN5QXU2aExuaTlfQXM3cTUxXzNuN2ZSVDl6MjlnTmo4MEhHeDRBbEJaXzNlYW4zcEhJMWxkZnJ4bnA1THNLSHptelAzcE5RVlQ1S2I3bGlaRU9tOTBqVE54R2FFZUMzV1F4SzhVdjJhNlE2Q2g2Ym5rRGF4eXVadzNUTXRSVktwT1pHbHd4Q1V2RDM0U0ZuR3YwZFhBbkUzbDNsTnpEMXdKOUpXMlVNbS1NckE1dXp3WEZ0UDZnWWdDNTRB0gHiAUFVX3lxTE9CU3dKLThNSnh4QWNIeFhMTk5NWVRwRC1sek8zeHJmM3lBdTZoTG5pOV9BczdxNTFfM243ZlJUOXoyOWdOajgwSEd4NEFsQlpfM2VhbjNwSEkxbGRmcnhucDVMc0tIem16UDNwTlFWVDVLYjdsaVpFT205MGpUTnhHYUVlQzNXUXhLOFV2MmE2UTZDaDZibmtEYXh5dVp3M1RNdFJWS3BPWkdsd3hDVXZEMzRTRm5HdjBkWEFuRTNsM2xOekQxd0o5SlcyVU1tLU1yQTV1endYRnRQNmdZZ0M1NEE?oc=5",
-          "pub_date": "2026-02-24T14:11:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajJGVXEtcVVsMzNEMDZwR1Q1enhhUTlxSEJWYlVaYU82ZEd4RFNVTWs5OUhSMkVfN1pXdC1zd1Jtd1p2dG4zeE9xeE5BN09fZXA3VXZUN2ZyX0dPRlBMRDM0TWoxR0xUVlBIU3pvM1RuVjFpLVZrU21HdVl4TmVtNHN3cGZheEFZUWZnQ0lUYW1MeFBIX2VxZ3NBOGdCQXBLOE9hT195dHg0bXkxSTRCUFJhZGVuY3NONlJINXR2cUpsZ3lwUFVDMjBHR2t1WHF1U0F3VGFyOG82TGljRXF6aHRFWdIB6gFBVV95cUxQeTNYWHBZWEhxX3c2eEx2bmV2Y3lIYVFXSG8xNTR6NnZjTWJDQjlSenk1ZUwzdHg0X2JvRy1LQUhxYzRiWGxIZnpFc0FRSlhWX0FWUDdPd2I3TjdKUlk3QzMxeGFzcG1NTDlPcjFxMWpCMkswUEFSV3dSQmNiNlhreWN2aElTZjNfQTktb19JMnU1UUp6WDl1cUYtQzUzRGdWZjJVY3NwLVJyUzY2SFFSaFVnZGF1WllMWnpVSlRGbWZ5T0t4QmtDNHRTNktPV2xQZ0U5V3ozcnFONjVpLVEtVlR6eXFnQm91Y2c?oc=5",
+          "pub_date": "2026-02-24T14:29:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Pest management training"
+          "short_title": "Workshop launched"
         },
         {
           "id": "6e6630dad756",
@@ -100,7 +111,7 @@
           "pub_date": "2026-02-25T17:28:30Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Swachh initiative launched"
+          "short_title": "Swachh initiative"
         },
         {
           "id": "237211e7a194",
@@ -111,7 +122,7 @@
           "pub_date": "2026-02-24T09:05:20Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Rapid transit progress"
+          "short_title": "RRTS coming"
         },
         {
           "id": "64582dc88141",
@@ -122,7 +133,7 @@
           "pub_date": "2026-02-23T03:18:49Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Green mission targets"
+          "short_title": "Green mission"
         },
         {
           "id": "de4bacb1339c",
@@ -133,7 +144,7 @@
           "pub_date": "2026-02-27T02:06:17Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "School infrastructure boost"
+          "short_title": "School upgrades"
         }
       ]
     },
@@ -151,51 +162,51 @@
           "pub_date": "2026-02-26T03:08:44Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Organ donation saves lives"
+          "short_title": "Organ donation gift"
         },
         {
-          "id": "5ccd6b863b54",
-          "title": "ASI initiates excavation in the vicinity of 26-feet Menhir at Kumarikkalpalayam hamlet in Tiruppur district",
-          "source": "The Hindu",
+          "id": "7266b8940a89",
+          "title": "Tiruppur eyes $10 billion exports as trade doors open in Europe",
+          "source": "BusinessLine",
           "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQmhrUzVqX2xOdks2RFJkcHEtTEJkaTZ4MFdlbDlTMDJuUmdsR2dFT1pzNHdmcGNxanhfeXVFS0RnNnU0YlFzU21oaDdJY21ZcEJyT1VBTzlSYjRqMWVfLXBFRHFONF9LWWxqYUwyYlpIM1ozTHpwclEtTXNfMkIxOWtWUlRYRzJHQUxGTDE4NlYxRE5aTG95aWdjeUJ2ZkJGNjQ3VWZZSVI3RVcwWVpFU19BeDdZSnBoU3BobnFlemZDT0h5WDVZNmRSZGk4VENhOEFmeV9zV1Y3aE83N2dUVHFrZWVXSzVZUGNfb3I3OG8wMTNnUjJKdXhrWHJybDVScmJ6WW9ESEQycFNl0gGMAkFVX3lxTE1CaGtTNWpfbE52SzZEUmRwcS1MQmRpNngwV2VsOVMwMm5SZ2xHZ0VPWnM0d2ZwY3FqeF95dUVLRGc2dTRiUXNTbWhoN0ljbVlwQnJPVUFPOVJiNGoxZV8tcEVEcU40X0tZbGphTDJiWkgzWjNMenByUS1Nc18yQjE5a1ZSVFhHMkdBTEZMMTg2VjFETlpMb3lpZ2N5QnZmQkY2NDdVZllJUjdFVzBZWkVTX0F4N1lKcGhTcGhucWV6ZkNPSHlYNVk2ZFJkaThUQ2E4QWZ5X3NXVjdoTzc3Z1RUcWtlZVdLNVlQY19vcjc4bzAxM2dSMkp1eGtYcnJsNVJyYnpZb0RIRDJwU2U?oc=5",
-          "pub_date": "2026-02-26T14:48:00Z",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOam1XMWlnU3QyYUR1OWVHUnJvaGFmN04wX1Q2SVhUNVU0WUJqcTdXY0lfS0xmTFFpX3BHTDg0blBXajRNS2dkWkdqRmVxOTdESEY1ajYzdnZleFZCNldNRE55Y08ydzdad3dNTm44R3VzUGtMZlo1SjF4UnlsQmZaaXBwMl9zVHhUemNzSFlrN05ieHVQMXJNdk5HNVFZNXNLcndfcGZqeV8yLVo4QmlETHpxOTdNaUFJVkhxSVd1dFhPbmtGRmFBcmFRZU9vd9IB1AFBVV95cUxPTDZNd2FkazFxQklIZjlCS1pJNzhkX2ZrU05sX3BYR3hnMGVCaDFFYlAyRzlQSDE4dlZMc1hyMmpxMXF1X2VsX21aVWpobGZ3UzlxWDVDV0Nydl9DQVh2V0R2Z3FscTdEdzFPczVmUU9DTlBLYjhSRlNUc1FYRmtpRXotc1k3WGtxN0tTTUtnLWxnSjZTSUUxU3BkS1RVRlh3NmphY1h6cEJ1QXF2QlhNWXpHd2FrazRfT19tSXdDeFBFTTVjTC1OOFVaZzBRczJsM3Rzbw?oc=5",
+          "pub_date": "2026-02-24T12:56:20Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Archaeological excavation begins"
+          "short_title": "Export boom"
         },
         {
-          "id": "8781280aff39",
-          "title": "Elephant undergoing treatment in Thalavadi hills",
+          "id": "a1482c002d0b",
+          "title": "Vitamin A supplementation camp in Erode from February 23 to 28",
           "source": "The Hindu",
           "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkVaVzRvY0lnaDhkQUpLMEctUG1JbkUwRlVRWkR2M29FdkNMTEM1U0xKcTlkTFJwM0hSWXVEWng5NVlEZGN3VVZyNmlObnhsNVFOcTNFb24zQjBoSDNiS3g1dmNHR01mZHpWd3dfc2l2SkJ4TnhwMXpKTU5xTjkxaTlEc3o4dV9Seko4bDJ6UnBLWEVkZEJaWEpsMHY3ZlVpUWNDbmpocW1EQ2x5UnlweElxMNIBugFBVV95cUxNZ2J1cDB0LVBvUWh4LXJBVEwxX0FvejI5MGcyWVFUYWJRdExrLWRSRHktN2I0dlVCRkJPYlk5VDlkeUs1blZGaUtlS2liNDlCaW1SVWtvVHdCbVpJWDFiSjZMQ2tQYjBud09QYldxS1JzOHhuTUtfLW9KZGVLcEg3X3pZVFBvdXZ4UlFjTFlzUkRFU3I3aHpOeW9YMm81M0J6OU9rUUpBVDJpaUhvSmlCTDVXTjgwTmVWS1E?oc=5",
-          "pub_date": "2026-02-24T12:10:00Z",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2RpdjVJNFItSVF2RnlZbzR5NmZrclA2eGNfMTV3QjVFd0Q5d0c4OGJxbUJLaU9yYVNwTUhFdGc2MlFqOUFEbUU5Zl9XVzBZWXdrNHpaVVNSWWhBODVyTU51V1E5SHo0TDFlWmVNbVBTUWh2ZDhNeE92ZzNOa3VSaTZ2aHJuWms4UUdjNFBTdkJwMl9tRGpxT3owdEtCR3VoSzFMMVhDQkN1RnRqNkQ0MGNDRWxtVkc0QVR5RmQ4QmFZQVg2aG5PTnVB0gHQAUFVX3lxTE93aS1TX3g2NUZDcGFtMFhyS1JoYVFSS2J0T2VNNWJLYjRDUnFUUUdoLWg5S3MyQ2N0Vk12V2c5Sy1aVlpmbmtEVW5xSXM0V0pnN2xKZUQzcGg1eV9VWElReWRCTzRLWUc3eVl5bk5yT0dSQnFIWGVCR18xMGd4RGdZa2V4bTY2cDFpMm9JNmJ2ZGMwSmNiRUtyYXBpYXpIWUtQUHBYZGY1RGhmWXZDMDFlZ0lMb0lTUXNiaS1GYjlUb1prVFNkMHVCNHIwdy1QeUw?oc=5",
+          "pub_date": "2026-02-21T12:14:00Z",
+          "weight": 10,
+          "sentiment_score": 0.3,
+          "short_title": "Health camps"
+        },
+        {
+          "id": "1a2dfb7b853c",
+          "title": "In Salem, Tamil Nadu, SUEZ will serve over 1 million people with quality drinking water, making it the Group’s largest water supply contract in India",
+          "source": "SUEZ Group",
+          "district": "Salem",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejZuWmlSQnFWRU5rblRIb2p4MTZuVHE4YlRUQlRqSk9VS1Y4ZS1aUUpaakZibDNfV3U2Y08wbDlmaG94M1pfVmxiemc1RWxxdkFfbnFoVlBUR19oOW1UN1lqM1JlMkMtclpPYkhJaTE3ZFRUQlpHRDBaeUlmd3J1UEl5UEM2SFh4T2x2WDdla1BXTWRHM2NsajBEVXQ3M0l2NGc?oc=5",
+          "pub_date": "2026-02-25T09:50:51Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Elephant gets treatment"
+          "short_title": "Water security"
         },
         {
-          "id": "6c1708955d18",
-          "title": "Kauvery Hospital, Salem Achieves Major Milestone by Successfully Removing a Life-Threatening Airway Tumour",
-          "source": "TheWire",
-          "district": "Salem",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYnZLZG9abU1xNjI2OGh5Tl9SY205WHljOENfMHhZTTliUU0zT0ZFMjR1dFk1STg1S1pzMTUxeW1CcmM0N3E5akRUOFlVNnFXR2FEcnBIMjRwYTdUTW1VT2kwLXVrQ1FKSm5SSHZld0ZsMk9VWVAwSWxGZlZfMXNUS0dYR3pLYXVKX09ZQVdzUzRBV1lYZ3dudWd1Ql9tdzBqQzdjY040c29oeGhQTE5IMFlmWmotbFNNMjN5aVh0bjRXWTdrT1VJMURIdnRlYzVNNWhJZnhzRWZ3TjQt0gHiAUFVX3lxTE9ac3M5M1RKT0NseUluM0JTYUZNOHdZZnNrUXREOUdnRUllRngtRElIYS1Nc251QkxEdENUUERXSjZyUFJwenhRR082X3c1Qi1rOW80OHVwLXBKQ1F2akZna3Y2ejFNWW5uTUh5c1FKemFBcDRoZWhHRjBRVWF5eVJBRnM3blluazRrbjVQMW1LMEtVMVhWYlJqSkVPMTJzam9FdGg2a014QmJFUVpVZGplclNTaVBtMFZPQWY4ejlqTTZVZXVoYXdiVGZWdjY0bVlYZHNTZW02SG0ySHV6ZFQ4YXc?oc=5",
-          "pub_date": "2026-02-24T12:15:00Z",
-          "weight": 10,
-          "sentiment_score": 0.69,
-          "short_title": "Life-saving tumor surgery"
-        },
-        {
-          "id": "9816adde3dbb",
-          "title": "Collector releases awareness short films on anti-drugs and road safety in Namakkal",
+          "id": "f01ce2fd007c",
+          "title": "Namakkal farmers undergo training on banana fibre extraction, value addition",
           "source": "The Hindu",
           "district": "Namakkal",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUmFiakYwVHBkTjd0bVpfX0wtNHBpWC11a19uVUNvbmdrUUh5OFJrSDRjYWRhVzhJQTNsVnlKTmtMbWV1WUctSGRlWmdrdWlRNndSZk5vWlVySEN3S3NkRjJCRDBRdWpORlZ4QUF6QkUyMVVvOTVzeC1yZUJNaGJDb1RKaHV4WDdSanJ2NmV4UHlqc3FhTHFLSGNRSzdKdndzZUlhUFlsX0M1NUF0ZnZfRUNKU3Uyc3R1ZE1YclF6WlVjYk1KcWJ1MGVhYUhJenNZcFVmMkd1emhFdWFETXRkVThR0gHoAUFVX3lxTE9LUTBwdjY0SGZHeC0yY2JNNk1WaGZtWTJabjhNR3BvV2hoZDFnUFlzdUlBSF9pQmtkWmktTU9aSy11OURad21QRnNRWHZIV3JWWWlCU2I0NERJc2xyRkNtRW9GQ3RuLXpwVzJyZGNDbUtqeEtubFNZdk1WZ1ltdEpkOUx6V2NtVmxFTEdrc3lTM0NzS3lsTldCcjNvY2hjbjE3V3dXcGhKempLbGtlcEhnUVcwVGRCLW9IS2txekNLSlN1UmxZZFVUVTdsS1ZFb0JCM1N3ZXpzV2J0Z0NhNzdJeEMwSFE0Njk?oc=5",
-          "pub_date": "2026-02-24T13:20:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRnlRZ3ZKeFhmTTRfMHRzYS1EbXNoSTBvZW9MSUJ6alJxWW1OWjZfUHFKc2FEWDBxVDZvQ1FlTUJJMlFnSkI1VTg0MkVRRjg5RHNrdW9JQzh3YWJxNkVwZHd2ZGp4YW1CLVlaLUpCNkRDQmZFdnBlNXN3U012TVN3MEhDNHdmVWswWkJBekg5djhMZnRzMzRxZ2pxRnh5bllhS0dSWXlvRnhwaGNuSEdJVGRZSlBub1d2NVdQSnhRcEprcExXbzlzdFdxRUExQTEwRU15N0t4ZVZzVDBiZ19DYtIB5wFBVV95cUxOU0xvQzlGSFc3dVFXTkh1RW9nM01HLWNmTHNwRmUtTW9kYVZzM3hjZUxud2RCX3NJRVJMQzZtVWJRbmRad2pLNFBsSE5oWnZfWVRnRDh1d3ZWYjY2UHd1NTdHalVoRWJ5Vkc0YTVZYTl5Ql8zS2YyWXdtcHgzbmhBS0dEN0pVSlRaRTJOSE5zbTZwRi1pYmFYZzNEc0dobmhTQ29wWkVibGRRMDFhOWozZWM5bjA2OE1zOVc3MUVBVy1KcWZzUDdNYUpTYjVDaVE2ZV9iQnBKZHU0eGtUcXZEVV9SLXV1Zzg?oc=5",
+          "pub_date": "2026-02-21T12:20:00Z",
           "weight": 10,
-          "sentiment_score": 0.42,
-          "short_title": "Safety awareness films"
+          "sentiment_score": 0.34,
+          "short_title": "Vaccine launched"
         },
         {
           "id": "262208425814",
@@ -206,7 +217,7 @@
           "pub_date": "2026-02-26T11:54:00Z",
           "weight": 10,
           "sentiment_score": 0.57,
-          "short_title": "Science day celebration"
+          "short_title": "Science Day"
         },
         {
           "id": "9a38da8140d0",
@@ -217,7 +228,7 @@
           "pub_date": "2026-02-26T11:55:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Bridge inauguration triumph"
+          "short_title": "Bridge opens"
         },
         {
           "id": "585d7c01dc6d",
@@ -228,7 +239,7 @@
           "pub_date": "2026-02-26T04:34:42Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "135 limbs distributed"
+          "short_title": "Limbs restored"
         }
       ]
     },
@@ -246,18 +257,7 @@
           "pub_date": "2026-02-27T03:52:10Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Jallikattu cultural pride"
-        },
-        {
-          "id": "4268f71df40f",
-          "title": "Drinking water works inaugurated",
-          "source": "The Hindu",
-          "district": "Ariyalur",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkxsYTdORmdxNi1JQXA3dnJjY1JPdVFNZkJsQ3NvT0pNNDRBSURPX3JERnRUN3VlUGh5VU1hMmw5SjRwbm9hdTJ4a2pfRFhfMXJVYWw2N1k0MVVZRnJYNmRvODYzZUpoVmJKLTFFR2tyV014Z1hvbXpMc1Z3dlZBWWxLU2lvbERUcXhGR1BrUk0wSTRaR2tLU2lpVmNiNTNxaDlYdjV3WW5EVElPd3fSAa4BQVVfeXFMTUJMbGE3TkZncTYtSUFwN3ZyY2NST3VRTWZCbENzb09KTTQ0QUlET19yREZ0VDd1ZVBoeVVNYTJsOUo0cG5vYXUyeGtqX0RYXzFyVWFsNjdZNDFVWUZyWDZkbzg2M2VKaFZiSi0xRUdrcldNeGdYb216THNWd3ZWQVlsS1Npb2xEVHF4RkdQa1JNMEk0WkdrS1NpaVZjYjUzcWg5WHY1d1luRFRJT3d3?oc=5",
-          "pub_date": "2026-02-24T16:14:00Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Water works inaugurated"
+          "short_title": "Jallikattu returns"
         },
         {
           "id": "de25144a4f23",
@@ -268,7 +268,7 @@
           "pub_date": "2026-02-25T15:04:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "First tribal graduates"
+          "short_title": "First graduates"
         },
         {
           "id": "5faa51d1d621",
@@ -279,18 +279,18 @@
           "pub_date": "2026-02-25T12:16:00Z",
           "weight": 10,
           "sentiment_score": 0.25,
-          "short_title": "Spine surgery performed"
+          "short_title": "Spine surgery"
         },
         {
-          "id": "d4e27e0f7123",
-          "title": "SETC, Torrent Gas open CNG station in Nagapattinam",
-          "source": "ThePrint",
+          "id": "f00b15ac07b7",
+          "title": "SETC, Torrent Gas launch CNG refuelling station at Nagapattinam",
+          "source": "DT Next",
           "district": "Nagapattinam",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclBPUV9kQ0lsUUl0OWQwMWRTc2hxMk80c254bjJrRTNBeTg4RlZNS09wUE9QdVBPR181bTdBSktvMnVEcExpR0dUSHpCSDN2YV9NXzdFMFR6RjQzQUt5dHZtRXBDS01jUHVlZnYyUk9UTVUtLWFMeUR0cHZIRFpITkpUZTlHNEowbFRaRdIBkgFBVV95cUxOcEJQa0huS3RBM2w1Ty1VSW0yTTRIZS16UTMzaXZUdTljdTN5b0ZleU9DVTczSHlEZ0Y1SnhHSThFM05uT3NHZktjNzJyTWhLQ09rd3JNbDVHRHJ4NHotNWZOQkJnNjF2UlhrQXFoazNrOEpyVWc4M3NibUtZclRBaEdDTmkwWTFnZ1J3aHpNUWdudw?oc=5",
-          "pub_date": "2026-02-26T10:50:15Z",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV3dTMWkxeTVUSFU4aHQxQjlVTFp2VWg2cUtoMUxMUENvMG02XzllU1BtOVlhMmtoTEI4ck5DTF9OOG5zem8xQUVlM0lIeDNGNlpsejNFaUVpNFJobURodFU1UG1nR215aGgybDE5TWZhUlRMZEtGLXc2ZUdMOXdOald5MkZiajBZYl93bE44RDIzbV8wdFI4clR2RGNud9IBqwFBVV95cUxQck1wMVVXWEdkWE5GdzVNSDRrTE1wdmNLcXVnTUxmUS1oYkZ5SmFjZzIzdlgyNFBaMVlkdENRODZlYUZ5dmlWS2llSExieEw1U3BCSDE1MW8wX1hDRGN4a2lvUFhGdmk4VFdtZ2NXU1g2bUc2eXhkMlNNcjNEdEh6dGRXMmZsd0VOdlkyR0tCZ0hKWC1pQmc1QzdyUjdhaWZINVJUOUFydU1sX2M?oc=5",
+          "pub_date": "2026-02-27T01:57:29Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "CNG station opens"
+          "short_title": "CNG station"
         },
         {
           "id": "27de585fa386",
@@ -301,18 +301,18 @@
           "pub_date": "2026-02-26T11:21:13Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Farmer-scientist interaction"
+          "short_title": "Farmer interaction"
         },
         {
-          "id": "0b01faf0e6c4",
-          "title": "Tamil Nadu govt inaugurates statues of former president and freedom fighters",
-          "source": "The New Indian Express",
+          "id": "902b2c0440dd",
+          "title": "Foundation stone laid for bypass in Mayiladuthurai",
+          "source": "The Hindu",
           "district": "Mayiladuthurai",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcUIxS0dub3ZBWjMxSEpJeXdiZ2NNMUNxSkE5YjFmTUUxUmFKYmZQTmE2VEpwMmVwVXBiVDhqTU1femF1U1MwcW45QVdZLW1NQ1NyZzU2OHVqVHNMUFpXN1cyM3ZDakdaaTBPTGVNTk5qSmpSQWwxZ284RjVMd3RqR3lHWGpwbjZRdWtiT3ptajdEcGF5bG9SaDJ3OHlEeTZIZFl2Z3Z2NkRSWnJ6ekZaSUs5WjJ0WmZ1QWdhZVBHU0RiQndIZ3NpdjMtdE9rZUpXTnc4MjJKc0VUYktWSzhXYTNTZ9IB4wFBVV95cUxPcUIxS0dub3ZBWjMxSEpJeXdiZ2NNMUNxSkE5YjFmTUUxUmFKYmZQTmE2VEpwMmVwVXBiVDhqTU1femF1U1MwcW45QVdZLW1NQ1NyZzU2OHVqVHNMUFpXN1cyM3ZDakdaaTBPTGVNTk5qSmpSQWwxZ284RjVMd3RqR3lHWGpwbjZRdWtiT3ptajdEcGF5bG9SaDJ3OHlEeTZIZFl2Z3Z2NkRSWnJ6ekZaSUs5WjJ0WmZ1QWdhZVBHU0RiQndIZ3NpdjMtdE9rZUpXTnc4MjJKc0VUYktWSzhXYTNTZw?oc=5",
-          "pub_date": "2026-02-27T02:26:00Z",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmo5dW0wVEdYTEJsM3RMZjAxbjdVdF9ZZS1jRmxHd0JVVDlNTHhYZ2ZuN3hRdnY0YjM4LWpWQ200LVFtSGE2aEI1bGhOU3dhRDVkRC1odDM3eS1TUm1obzdCc1BEOXZQVVJVa3pPeVlqZjFfRnZvdElLUW5yMW14djBXakowSzl3Y1dzZXN2VkRKVjV4NG5UdWpWNjdFTjFMSF9BbnY0YmFSUEk3dl9hQjU5MlJwdE05Zzl2aWNhWdIBxgFBVV95cUxNLUZSWnlsU1FKV2JzcVdNbXoyWTVZTkNXRjFDVThNeThBMlZoVDhtNGhSZGhCU1A3SFZxQnM5UktPMklSeWxfSWt0YVo5ZldYa2Q4aVhwUTJOZGJ0YzM0M2lSSmNFMzhMYVd4bmFiZ0VTbG05RkdrV2lSYmdZWW84UnpnVkxFb2ZNaXpGNG5qaGlJNFlqMWRFaktsWUZ2UVJuSUIxaGxKWWtkRk15bndjNFJUem85YWQ5X011NUpBYi1zNHVfeEE?oc=5",
+          "pub_date": "2026-02-26T13:58:00Z",
           "weight": 10,
-          "sentiment_score": 0.61,
-          "short_title": "Freedom fighter statues"
+          "sentiment_score": 0.0,
+          "short_title": "Bypass begins"
         }
       ]
     },
@@ -322,26 +322,26 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "92bd1017706e",
-          "title": "IHG signs agreement for Holiday Inn Express & Suites Madurai",
-          "source": "Hotel Management Network",
+          "id": "91e4d0cb8b9c",
+          "title": "Holiday Inn Express Coming to Madurai",
+          "source": "THP News",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnpyZVRrbi1tNTBXc1JHdklzZTIwSkRKeElHcUV0YldFVWZSMi1qanpyeWw2VEc0dmVBckdpR0tKOS1mYnVKQUNWRWE4MnBDTjZxOGJURDNBOGN6bm1xcUxUREktVGRBYW0tY3BRTklTMGJtUTNSWUtvWm9WTnhtSGpOd19iYlMzTk56ZWxB?oc=5",
-          "pub_date": "2026-02-25T10:31:19Z",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4Q3llYmUycmM3N211c1owa3N3Vk1FLVFDb1dxRkdGTkRCM1hHU0xWRTJyeXZpYUZ2Yzhxa0k3eEJoVy1xNUNTZ25xQlhCNU5pbUJBcXVLWXVnTjMxVG1ITmw1d1RnTE5md3p1UA?oc=5",
+          "pub_date": "2026-02-27T09:26:20Z",
           "weight": 10,
-          "sentiment_score": 0.71,
-          "short_title": "Holiday Inn expansion"
+          "sentiment_score": 0.4,
+          "short_title": "Hotel incoming"
         },
         {
-          "id": "2dd40b3fb334",
-          "title": "Vice President Radhakrishnan honors Rani Velu Nachiyar in Sivaganga",
-          "source": "Hindusthan Samachar English",
+          "id": "46018bf674b9",
+          "title": "Watch: High school students design and launch mini satellite to 22 km height",
+          "source": "India Today",
           "district": "Sivagangai",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY29nWTRXMkEyUm9lMy1ZdWhybGhlZGdvdzhLVFhSQkxUdFpqbWJVVFl5V0pEN3ZIa2puZ3hLOWNrR1otc2JTR2RaN3gyYVFJN3plb1p1bDlLSFl1Tk9yNnB1c3ktdGZfUnd5YzFZa3FoV3FQYzZKYlVFR3I4YlAtVkVLMmk3MU1sUzZvVjgwREhmUQ?oc=5",
-          "pub_date": "2026-02-22T13:55:54Z",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnBzSXBHQUFwSDJZbkZRUGtNMkRpMWRvM2s1YVFZZUExTVJ1TlNSUGFoOE9RcUxYQ0VUTmdGY1F5NDVIQk5SM1RtTkJQazlLRWRLTXhjaE0xOWtXb3ZFUFlVb1pjM0trM1FMb0g0MTc4MXFlb3JMbDBobGZ6MTJyZ0FiU3JvVFotNVFyaEIyXzk2QXpfNHpaVFdBSWlSMW9IRE1SNU9SWER1UGlaX25POUZLQXlxd0ZHaHpWMVhlNlVIVGw1N3RyRGhSOWRQdUZjYjI5NEhIdnBJY2d6Vy1GNmlOV1EzendZVUFQUdIB7AFBVV95cUxPYnBzSXBHQUFwSDJZbkZRUGtNMkRpMWRvM2s1YVFZZUExTVJ1TlNSUGFoOE9RcUxYQ0VUTmdGY1F5NDVIQk5SM1RtTkJQazlLRWRLTXhjaE0xOWtXb3ZFUFlVb1pjM0trM1FMb0g0MTc4MXFlb3JMbDBobGZ6MTJyZ0FiU3JvVFotNVFyaEIyXzk2QXpfNHpaVFdBSWlSMW9IRE1SNU9SWER1UGlaX25POUZLQXlxd0ZHaHpWMVhlNlVIVGw1N3RyRGhSOWRQdUZjYjI5NEhIdnBJY2d6Vy1GNmlOV1EzendZVUFQUQ?oc=5",
+          "pub_date": "2026-02-26T02:30:19Z",
           "weight": 10,
-          "sentiment_score": 0.51,
-          "short_title": "VP honors warrior queen"
+          "sentiment_score": 0.0,
+          "short_title": "Mini satellite"
         },
         {
           "id": "191acb67ffc9",
@@ -352,7 +352,7 @@
           "pub_date": "2026-02-26T14:21:40Z",
           "weight": 10,
           "sentiment_score": 0.69,
-          "short_title": "3,500 devotees celebrate"
+          "short_title": "Festival draws"
         },
         {
           "id": "a511c7b53fd1",
@@ -363,18 +363,18 @@
           "pub_date": "2026-02-27T07:36:36Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "TIDEL parks announced"
+          "short_title": "Tech parks"
         },
         {
-          "id": "dcd2b0cc9b89",
+          "id": "183d841d7764",
           "title": "Tata Motors, VOC Port to pilot green hydrogen trucks in Thoothukudi cargo operations",
           "source": "The New Indian Express",
           "district": "Thoothukudi",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUUdQamdLMjJDNmpLX2R6WThjVk1qQWRQdk9RZDdVYkhsQnN5RjRpd0pSRy1aR2JoUmE4OTRhTTN0aTdQeGV2a3FoMDNyMXV1ZFdaUGVrTmZHUngtNTM1RDVobDVabFVUOVdVNmw4V3I2WUZ2TzNhTWJmMHc3alN1OEEzdTdkZ3dGcFByZXRNUXV0Q0dQQWRFVnVzaTVLMWNsVjRaaDRSQUd3SHc4VmdGRV9wNk5oX0twS3owV0Z5NV9HV0lNVmE0NElEZU83Vl8wWFVNOXNuT1gxSnAxV1pVV3ZlRTRDN3FJY3p3Q2d4MNIB7wFBVV95cUxNUUdQamdLMjJDNmpLX2R6WThjVk1qQWRQdk9RZDdVYkhsQnN5RjRpd0pSRy1aR2JoUmE4OTRhTTN0aTdQeGV2a3FoMDNyMXV1ZFdaUGVrTmZHUngtNTM1RDVobDVabFVUOVdVNmw4V3I2WUZ2TzNhTWJmMHc3alN1OEEzdTdkZ3dGcFByZXRNUXV0Q0dQQWRFVnVzaTVLMWNsVjRaaDRSQUd3SHc4VmdGRV9wNk5oX0twS3owV0Z5NV9HV0lNVmE0NElEZU83Vl8wWFVNOXNuT1gxSnAxV1pVV3ZlRTRDN3FJY3p3Q2d4MA?oc=5",
-          "pub_date": "2026-02-26T14:59:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOVJ2WHZ1ak9hYTVvOVNBWndMRzV2R0F4blBXM1drS2NITV9SeS1ZTlgzbDhIa2ZUNF9KV1lQNGUtNlhNd2NOcEdESkw4ZEtxWlBDcTZMalU0MlBZYmtYdEt0OUZiTVhtc3RPRnRkOFBERUZCQjBvc2VYaTh2YWhKOUYyb1BlcW5yU2ZnV1h6SmdBNHpudzdTTGNuRFQ1OFhkVE9FTS1YT2J3TGJweFpnZ3hqcXYwTjVvTnpxODk5LU5Fa1hPbUlzamI0RTAzUWlIN2h5QjZCYVpQQWRQRlQwTlZB0gHvAUFVX3lxTE1RR1BqZ0syMkM2aktfZHpZOGNWTWpBZFB2T1FkN1ViSGxCc3lGNGl3SlJHLVpHYmhSYTg5NGFNM3RpN1B4ZXZrcWgwM3IxdXVkV1pQZWtOZkdSeC01MzVENWhsNVpsVVQ5V1U2bDhXcjZZRnZPM2FNYmYwdzdqU3U4QTN1N2Rnd0ZwUHJldE1RdXRDR1BBZEVWdXNpNUsxY2xWNFpoNFJBR3dIdzhWZ0ZFX3A2TmhfS3BLejBXRnk1X0dXSU1WYTQ0SURlTzdWXzBYVU05c25PWDFKcDFXWlVXdmVFNEM3cUljendDZ3gw?oc=5",
+          "pub_date": "2026-02-26T14:59:42Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Green hydrogen trucks"
+          "short_title": "Hydrogen trucks"
         },
         {
           "id": "5faa172c9316",
@@ -385,7 +385,7 @@
           "pub_date": "2026-02-25T12:39:32Z",
           "weight": 10,
           "sentiment_score": 0.08,
-          "short_title": "Stroke treatment breakthrough"
+          "short_title": "Stroke breakthrough"
         },
         {
           "id": "d559ae618875",
@@ -396,7 +396,7 @@
           "pub_date": "2026-02-24T14:10:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wetlands conservation conference"
+          "short_title": "Wetland conference"
         },
         {
           "id": "f71d1b7dc600",
@@ -407,7 +407,7 @@
           "pub_date": "2026-02-27T00:25:00Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Railway tunnel approved"
+          "short_title": "Rail expansion"
         }
       ]
     }
