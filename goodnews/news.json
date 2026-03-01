@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-01T01:00:42.004324Z",
-  "article_count": 38,
+  "generated": "2026-03-01T06:50:12.000853Z",
+  "article_count": 37,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,15 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "b726e2d1b8b7",
-          "title": "Educating the special educators in Chennai",
-          "source": "The Hindu",
+          "id": "978e28b1e88a",
+          "title": "50 Chennai doctors unite to launch The Universal Health Code for the human body",
+          "source": "Medical Dialogues",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2l1R0thalBRdDBpSHBxbGNkOTdIUzlRTkJlUWxucU93WW0zY0JZZWJycmZXalNFU1YxQkNsLVdPN2lyNVdsMmJLSzRNcHJ3V082YTJPYzg1MkxMNGFqZWRtcmgzRENsSUVuUnV0VlpGNm1sYVpZWEVvOEE3NDRTUUl2czV2NmlfdDkyLTRxV0tJSUNSdkVvUGN6TFA3dE5QSTJndHFhX0thaEnSAbIBQVVfeXFMT0dVbVNrQmtlWjdFMzV5eXhTUmFyLWJZak9lamlHWW9OZkxMN0QyeEwwcUVraE5DZEExcXFoTzNUODZ0cUk4U0JqUXg2RHQ4UzlGOGdMTFE5TDhCazJ5RjJuV1hjRnlhNlNBeDNfMEZnSHdqMFZ5UV9pU21XZTctM0JUNTZHODlaMlVGTmZOZ2VQMXhhTkJOMmxFaHA3cThITkhEanozYVdjWnV3QXV3TmZwdw?oc=5",
-          "pub_date": "2026-02-28T11:44:00Z",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlAxdkI1TXVnYXIwYTEteDhIWnpqZFcwZ3d2UGhfdE44LWZjN0tiSUEyVXQxQzNQc3gyamVIYTNTdUxTOWxBTU0wNFRibVNkRmwzZm5wemFUQ3BMSUlnYWZkWkxlMUZROG9uYnNyZnplQURUMzJLSXZSSTNEVjFkWWRZTUtCanFBYUp1bmFIa0dVTVVCSlcxYzV0M2dWUXZ0dlcxX3dWOF8xM09VN05oNUhfVVpXWktTWlA3cEVYc2xIY084SWxRd0FR0gHKAUFVX3lxTE1SUDF2QjVNdWdhcjBhMS14OEhaempkVzBnd3ZQaF90TjgtZmM3S2JJQTJVdDFDM1BzeDJqZUhhM1N1TFM5bEFNTTA0VGJtU2RGbDNmbnB6YVRDcExJSWdhZmRaTGUxRlE4b25ic3JmemVBRFQzMktJdlJJM0RWMWRZZFlNS0JqcUFhSnVuYUhrR1VNVUJKVzFjNXQzZ1ZRdnR2VzFfd1Y4XzEzT1U3Tmg1SF9VWldaS1NaUDdwRVhzbEhjTzhJbFF3QVE?oc=5",
+          "pub_date": "2026-03-01T05:00:37Z",
           "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "Special educators trained"
+          "sentiment_score": 0.0,
+          "short_title": "Health Code Launched"
         },
         {
           "id": "142e8b086ef9",
@@ -27,18 +27,18 @@
           "pub_date": "2026-02-28T18:09:40Z",
           "weight": 10,
           "sentiment_score": 0.1,
-          "short_title": "Senior living launched"
+          "short_title": "Senior Living Expands"
         },
         {
-          "id": "3cd92dfafc32",
-          "title": "Kanchipuram Private Job Fair on March 2 - Over 1,000 Vacancies Available",
-          "source": "LiveChennai",
+          "id": "282e3b5ce417",
+          "title": "Kanchipuram CCB distributes sports materials to students",
+          "source": "Indian Cooperative",
           "district": "Kancheepuram",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrc09kZjBpSFhyRklYb3hxMG5mN3NvcXFBLTRFUkdMUFBNc3htWFdHamE2WHd2eXU3VVkxRnN3OUdPS1JfVkwyNEY4Q1d0NVN5eVlwY0tFRVVWQUJaVm5RbUlicFBLdw?oc=5",
-          "pub_date": "2026-02-25T04:30:08Z",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEljdlJsVnQ4MlY5aHBDc0dLNG1tZFU5VU0yMjJnbjRROFNHVkFsaEMtbU5zbzhpVHBYN2JOT192STZPSDRwVk42c3hQRHhfa1Rydkdsbmp4bXhzUU50bTRGNnpkNmRRd1lyeFVIUDItVVFYUF9MSkw4bkhkcDZvbUZoSUtpMThBc0U2ZTl5cXBXZ3ZGa3RVSVlkamtYRXJ5WFo1MHVENkw5cmdCZ0FMR9IBtgFBVV95cUxPRWZQYlpsSER6U1JDd1BQLTVLTG9BV20yWTNrWm9WTy1iOHVKYU5tQm1GMFRvcTFSbC1EZUpvNHJRT1ZWcVJZa0VnUU5wbnlad2I2YUUzM1c5TUV3UTcwSGlFSW1fOEhVRWxFQWRvRTAzUjhlQnkzcS1UOW50b3M5ZDNVRDlqLWxRaWtBSzcwaWlGb3UtN0tueHRvemR2eWtQVnBQMTBBY1ZPeTBmSTlfbkJmOGV2Zw?oc=5",
+          "pub_date": "2026-03-01T04:18:29Z",
           "weight": 10,
-          "sentiment_score": 0.32,
-          "short_title": "Job fair opportunity"
+          "sentiment_score": 0.0,
+          "short_title": "Sports Materials Distributed"
         },
         {
           "id": "149428a7ed3b",
@@ -49,7 +49,7 @@
           "pub_date": "2026-02-27T15:41:48Z",
           "weight": 10,
           "sentiment_score": 0.34,
-          "short_title": "Multi-sectoral push"
+          "short_title": "Multi-Sectoral Progress"
         },
         {
           "id": "2cdde526078d",
@@ -60,7 +60,7 @@
           "pub_date": "2026-02-27T00:22:30Z",
           "weight": 10,
           "sentiment_score": 0.27,
-          "short_title": "JLR jobs coming"
+          "short_title": "5,000 Jobs Created"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "pub_date": "2026-02-28T06:15:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Robotic surgery success"
+          "short_title": "Robotic Surgery Success"
         },
         {
           "id": "386d84e2953a",
@@ -89,7 +89,7 @@
           "pub_date": "2026-02-28T14:40:00Z",
           "weight": 10,
           "sentiment_score": 0.72,
-          "short_title": "Science day celebration"
+          "short_title": "Science Day Celebrated"
         },
         {
           "id": "31c9fce48745",
@@ -100,7 +100,7 @@
           "pub_date": "2026-03-01T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Driving test track"
+          "short_title": "Driving Test Track Opens"
         },
         {
           "id": "ec5cfdd4adc7",
@@ -111,7 +111,7 @@
           "pub_date": "2026-02-24T14:29:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Girl child protection"
+          "short_title": "Pest Management Workshop"
         },
         {
           "id": "66f6fa0d28f5",
@@ -122,18 +122,18 @@
           "pub_date": "2026-02-28T14:11:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "HPV vaccine drive"
+          "short_title": "HPV Vaccination Drive"
         },
         {
-          "id": "ceb693c9080c",
-          "title": "NCERT, Auroville discuss integrating education into national framework",
+          "id": "b49aaa927f07",
+          "title": "It took a village to raise 15-year-old Perarivaalan, who carries the pulse of a seasoned shooter",
           "source": "The New Indian Express",
           "district": "Viluppuram",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWm9Dd0ZWRkhYVk9fSWhzSXVvRnhkdmdlM0pZbGZ1U0ZqanFMQjdDaW5kQ1NudDNTakFYU3pHOVZVVGI2LUpLeVJ0Q0I0R2YzUlZLUFU3WTFYMU0yZ0VHYkVuTVpfVkhhSzVKYUlrUVZXdFhoTUZHNHJVTi1tM0haNG1PcFRPd0tkTXFfczh0SU1oU3oxR2pfcEE5M1JRdTlJb1cwOThjZnM1YmIwT0RhSmVCWXhGRXhmLWNGUU5EY0lfakRyNlNYMDFxejXSAdoBQVVfeXFMUGdZbXdIUnhHNWlsdFhRdjNjbWJWVDF5MkZjSFBJcXUwVGlCeG5TOW5wZmVQR21Mdk9wX09pY0NJT2tMNTg4Y3N4QWVWc1BFcm8wcUI3UEQ4NHYtTVNlR1RvaV9ibGtnNENneE5Ec0lhTTg0cE1nd1UyT1Y5ZE5jcG1RMGkxSDVDcThid3dzek1seVlDTU00RUJFakpIeW1FWEJqNFhORWJkTHQ5M3VvZWhPcms0WUhHelNBQUJaWHpsclg1VnRyLXJzZlBhRTJLTzFINnc2RjRZdGc?oc=5",
-          "pub_date": "2026-02-23T03:08:48Z",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbkRvVmRLcERqZ3h0dlEwbDI5eUFVRnFUN3JEVEIwX0RJcHIzdm1mU0NIaV9WejZCdlNPa3h1SUNqZzVEeDU5ZHZ3clkzcjRlVDdJUHBIS2NrNHlpUVpkUTVxVFVxaXpkcUlUUlk2blhWMnRGaHVUQ29LQ1dSeG9pX2VRNHg5Y2M3QU9kNnU0NFdJX1A5VElSSV9sa0VHTUE4VHprYXN4WFhZVG4wZTdGMmNDTDNKRGZZYnpzY3JZcFAzWmxTbElfeUNsT3ZMY2RFSkFUOXpDa1M3cEZwX2JHejRMM0vSAfIBQVVfeXFMTVAyVTVpdVM2NUVQVlVzTUFQalNzdjlLbVZybmszajdWYTVSUkg4MkdERk5ETUJZV1pISWZ2TkU3dGN4TjRhUG9jeUJtdVIwUFYwYzlMSG0xNE1kZzRISTNFWFZnUzc5c3pkNUdBb2pJeXdPbXo1RE43ZGV5R1ZfeG1icHBtU3JYeW5qaU9kZGNUbEY1bmk1X3UwVzJaZGZGeXE0TDBsVWlLMlNmNzVEUG9mOWxUZDBIYjVTRGdpaWpRcEM1dVBQdnBxTVhJN2FFRklxc0VlLWpLYzZJTnptbV9ab0JJbENYdndfNkdzVzhLdkE?oc=5",
+          "pub_date": "2026-03-01T02:31:01Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Auroville education"
+          "short_title": "Young Shooter Shines"
         },
         {
           "id": "a0775a6a531a",
@@ -144,7 +144,7 @@
           "pub_date": "2026-02-27T11:57:00Z",
           "weight": 10,
           "sentiment_score": 0.46,
-          "short_title": "School van arrives"
+          "short_title": "School Van Arrives"
         },
         {
           "id": "de4bacb1339c",
@@ -155,7 +155,7 @@
           "pub_date": "2026-02-27T02:06:17Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "School infrastructure boost"
+          "short_title": "School Infrastructure Boost"
         }
       ]
     },
@@ -173,18 +173,18 @@
           "pub_date": "2026-02-28T21:36:00Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Elephant safety drones"
+          "short_title": "Elephant Protection Drones"
         },
         {
-          "id": "5ccd6b863b54",
+          "id": "1b463a9fc9b9",
           "title": "ASI initiates excavation in the vicinity of 26-feet Menhir at Kumarikkalpalayam hamlet in Tiruppur district",
           "source": "The Hindu",
           "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQmhrUzVqX2xOdks2RFJkcHEtTEJkaTZ4MFdlbDlTMDJuUmdsR2dFT1pzNHdmcGNxanhfeXVFS0RnNnU0YlFzU21oaDdJY21ZcEJyT1VBTzlSYjRqMWVfLXBFRHFONF9LWWxqYUwyYlpIM1ozTHpwclEtTXNfMkIxOWtWUlRYRzJHQUxGTDE4NlYxRE5aTG95aWdjeUJ2ZkJGNjQ3VWZZSVI3RVcwWVpFU19BeDdZSnBoU3BobnFlemZDT0h5WDVZNmRSZGk4VENhOEFmeV9zV1Y3aE83N2dUVHFrZWVXSzVZUGNfb3I3OG8wMTNnUjJKdXhrWHJybDVScmJ6WW9ESEQycFNl0gGMAkFVX3lxTE1CaGtTNWpfbE52SzZEUmRwcS1MQmRpNngwV2VsOVMwMm5SZ2xHZ0VPWnM0d2ZwY3FqeF95dUVLRGc2dTRiUXNTbWhoN0ljbVlwQnJPVUFPOVJiNGoxZV8tcEVEcU40X0tZbGphTDJiWkgzWjNMenByUS1Nc18yQjE5a1ZSVFhHMkdBTEZMMTg2VjFETlpMb3lpZ2N5QnZmQkY2NDdVZllJUjdFVzBZWkVTX0F4N1lKcGhTcGhucWV6ZkNPSHlYNVk2ZFJkaThUQ2E4QWZ5X3NXVjdoTzc3Z1RUcWtlZVdLNVlQY19vcjc4bzAxM2dSMkp1eGtYcnJsNVJyYnpZb0RIRDJwU2U?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcVd1SmJsbnlVYURNeE9aZ014M2s1WmtXeTljTXRFOV93N1RYQUFXUExGZ2VQOWRKQTlHS1FiZjV1amkxZ0J5cEFXdHpuV0NuUGdmV3BjM014WkIzZG5SNTh6NGZhblVQTHVVdTF3ejhtV0VkRTJZR1drNlFOa1Vwa1pkVjBINEcxcWhtQTU1SnFNRFZHTjB5WWJGWmdodnRtcUxObzkyWENiVnVuVXRHVmYweGRVLS02THd5TGxOS1VoaW82dkhPUHJvYnYtOHh1YTFPOG4wakktMXlMVFdDVDhneUNnT2luVGlKUUQtME9RVC1GTWhlV3NSbFU2Zm9JNlRxemhB0gGMAkFVX3lxTE1CaGtTNWpfbE52SzZEUmRwcS1MQmRpNngwV2VsOVMwMm5SZ2xHZ0VPWnM0d2ZwY3FqeF95dUVLRGc2dTRiUXNTbWhoN0ljbVlwQnJPVUFPOVJiNGoxZV8tcEVEcU40X0tZbGphTDJiWkgzWjNMenByUS1Nc18yQjE5a1ZSVFhHMkdBTEZMMTg2VjFETlpMb3lpZ2N5QnZmQkY2NDdVZllJUjdFVzBZWkVTX0F4N1lKcGhTcGhucWV6ZkNPSHlYNVk2ZFJkaThUQ2E4QWZ5X3NXVjdoTzc3Z1RUcWtlZVdLNVlQY19vcjc4bzAxM2dSMkp1eGtYcnJsNVJyYnpZb0RIRDJwU2U?oc=5",
           "pub_date": "2026-02-26T14:48:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Ancient menhir excavation"
+          "short_title": "Archaeological Excavation Begins"
         },
         {
           "id": "9ba85c6c5520",
@@ -195,7 +195,7 @@
           "pub_date": "2026-02-27T14:34:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Educational loans granted"
+          "short_title": "Educational Loans Distributed"
         },
         {
           "id": "5ee4d1ea5ffd",
@@ -206,7 +206,7 @@
           "pub_date": "2026-02-27T14:24:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Handloom institute opens"
+          "short_title": "Handloom Institute Inaugurated"
         },
         {
           "id": "32ba171ac728",
@@ -217,18 +217,18 @@
           "pub_date": "2026-02-27T14:57:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Dark Sky Park launched"
+          "short_title": "Dark Sky Park Launched"
         },
         {
-          "id": "8c6aeec9ffb3",
-          "title": "Ramakrishna Math in Ooty, Which Gandhi Visited, Turns 100 Today",
-          "source": "Deccan Chronicle",
+          "id": "e679e9403e0e",
+          "title": "National Science Day to be celebrated at RAC, Ooty",
+          "source": "The Hindu",
           "district": "Nilgiris",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcnZJckE3VFpqRUZyb0k3Qmo2RFphMjNjQS1KQ0JERV83d1ZZNmctVk56VUt3TTFGZ1JsR0JLb2N6a1U0Mk45UENFNjNFOUZOTkVxRFgxUVVBalVBR2JpT1ltR3dfSTZROVBQYVRZNFNXX0hXVHhpdnhHOHFpYkdwVU9UUzVEQ0hCek5HMTlxSG1pWmtoOWxYcUFfSjhpZGxaNWFLSXNnRkhrSnpDRHVRYkJ3RVZzNG15TkUyM3d2U1ZfSi1vQjI00gHMAUFVX3lxTE9VekRLMTFlb0ZPSWZvZVc5SDB1TTBaQXNYUWdTUmpHMDA3YlZmcjhtOWdoTU5SOUxNc052T2xmYnlzVS1pbmxyLW90amxzS0xJSFQyOHQzeGJyZXhCcnkwTE5IVlRSLUFDcVQ0d2xabmFNdXRXN2N3Z1VvbW9obEZDZVV1bnptTTUyTnd2MkRINHJYMjNEQ1V6cGxvM0FzSWFzLWJVT1VXME1WbkVEQlBGd3lBVUoyQzdtaUIyUTlGZkw3MlhOTVFYSzFUVQ?oc=5",
-          "pub_date": "2026-02-25T18:03:01Z",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGtkbmhZdWlWSmo2M0Z4allpZmVXbVRZOGo5a1JfOHZsYkhOMjdJOG11RTFvaFduRXdxTFdtSDRpRWstTlRCdmFSS2xMYnpOZXlibWZJSV8ycnZXZUZPMU90RFgxakctMkpXZGJCVjMyY0ctNFlxUzlrSk85RWVIT2thZ1N4c0lhLXRMM1kyX1hjS0VMRFZZQUZvSlNBdW12OUNnWGo5VGxTQzFmNndnajFWX1FMRXRK0gG_AUFVX3lxTE0wbFRBMTZtbHVLVi0wSDQ4ZDZFMzhtUnp4SGxWaEhObVgyTmZtM0p0cERBSjVkaEhWVlhNbnRtYzdFSWlQbmc0OFdmWmpWVHZsWEVUTXVMd04tQjVfZ2g0bGtfVlNlNUd6NXQyQTFrNTV6Tnc1dUIzQlF0N1hidEF2T0wzcUtSWlNiT2VHOEdnNEY1WTNwdG45bU1hbmlKUzBxSGpuZF9pODlJMno3MDFPR1pzZlRvT3NyaVVvYm4w?oc=5",
+          "pub_date": "2026-02-26T11:54:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Ramakrishna Math centennial"
+          "sentiment_score": 0.57,
+          "short_title": "Science Day Celebrations"
         },
         {
           "id": "9a38da8140d0",
@@ -239,7 +239,7 @@
           "pub_date": "2026-02-26T11:55:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Cauvery bridge opened"
+          "short_title": "Bridge Inaugurated"
         },
         {
           "id": "585d7c01dc6d",
@@ -250,7 +250,7 @@
           "pub_date": "2026-02-26T04:34:42Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Artificial limbs distributed"
+          "short_title": "Artificial Limbs Distributed"
         }
       ]
     },
@@ -268,18 +268,7 @@
           "pub_date": "2026-03-01T00:41:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Educational tree walk"
-        },
-        {
-          "id": "6d6b6b3d0590",
-          "title": "Over 6,200 girls administered HPV vaccine in Dharmapuri",
-          "source": "The Hindu",
-          "district": "Perambalur",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2t2b1lpSThhSk5nS1ZpWTdObUptSHp0R3ZSMERQdjV4UDJOZFlrbXB4NWZZNC1RSzlWMWthVmhkZEJhbndDMTVILURmQUExUDJ2bjhBSXNBS3BSZndjdlVlS3BORVI3OEQ1ZHNGTG1SU2N0eHlmWVVXQjl0OXlYdGxEQXFlUVJ0TGFtWTN3UzRVWWtNaV9QU0o4a1oxRWFDbFhTYm00alJMaEdzcVJId2lUOGN6anBpOUl6VmtmbnUzeVZSdFHSAcYBQVVfeXFMUFdrdm9ZaUk4YUpOZ0tWaVk3Tm1KbUh6dEd2UjBEUHY1eFAyTmRZa21weDVmWTQtUUs5VjFrYVZoZGRCYW53QzE1SC1EZkFBMVAydm44QUlzQUtwUmZ3Y3ZVZUtwTkVSNzhENWRzRkxtUlNjdHh5ZllVV0I5dDl5WHRsREFxZVFSdExhbVkzd1M0VVlrTWlfUFNKOGtaMUVhQ2xYU2JtNGpSTGhHc3FSSHdpVDhjempwaTlJelZrZm51M3lWUnRR?oc=5",
-          "pub_date": "2026-02-28T14:11:00Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "HPV vaccine drive"
+          "short_title": "Educational Tree Walk"
         },
         {
           "id": "1c4ba89d03ec",
@@ -290,7 +279,7 @@
           "pub_date": "2026-02-27T11:59:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Bus stand progress"
+          "short_title": "Bus Stand Stalemate"
         },
         {
           "id": "de25144a4f23",
@@ -301,7 +290,7 @@
           "pub_date": "2026-02-25T15:04:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "First graduates celebrated"
+          "short_title": "First Graduates Celebrated"
         },
         {
           "id": "2336355d69bc",
@@ -312,7 +301,7 @@
           "pub_date": "2026-02-28T13:23:00Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Temple car festival"
+          "short_title": "Temple Festival Begins"
         },
         {
           "id": "3f15e4b6aefd",
@@ -323,7 +312,7 @@
           "pub_date": "2026-02-27T12:21:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "CNG station opens"
+          "short_title": "CNG Station Inaugurated"
         },
         {
           "id": "91c3b5118b46",
@@ -334,7 +323,7 @@
           "pub_date": "2026-02-28T13:18:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Namasankeerthanam begins"
+          "short_title": "Religious Festival Planned"
         },
         {
           "id": "9294acf644bf",
@@ -345,7 +334,7 @@
           "pub_date": "2026-02-27T15:06:00Z",
           "weight": 10,
           "sentiment_score": 0.32,
-          "short_title": "Book fair launched"
+          "short_title": "Book Fair Begins"
         }
       ]
     },
@@ -363,7 +352,7 @@
           "pub_date": "2026-02-28T07:30:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "KVIC toolkit distribution"
+          "short_title": "KVIC Toolkit Distribution"
         },
         {
           "id": "9b504c58e162",
@@ -374,18 +363,18 @@
           "pub_date": "2026-02-27T14:44:44Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Bus service restored"
+          "short_title": "Hill Bus Service Restored"
         },
         {
-          "id": "2dd40b3fb334",
-          "title": "Vice President Radhakrishnan honors Rani Velu Nachiyar in Sivaganga",
-          "source": "Hindusthan Samachar English",
+          "id": "3ea0a6278f14",
+          "title": "Sivagangai Parish Commemorates Founding French Jesuit Missionary",
+          "source": "Catholic Connect",
           "district": "Sivagangai",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY29nWTRXMkEyUm9lMy1ZdWhybGhlZGdvdzhLVFhSQkxUdFpqbWJVVFl5V0pEN3ZIa2puZ3hLOWNrR1otc2JTR2RaN3gyYVFJN3plb1p1bDlLSFl1Tk9yNnB1c3ktdGZfUnd5YzFZa3FoV3FQYzZKYlVFR3I4YlAtVkVLMmk3MU1sUzZvVjgwREhmUQ?oc=5",
-          "pub_date": "2026-02-22T13:55:54Z",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2llQmhMLTJDMjRfVFk0OEJvN0FOMmZLYUdtWTN0OWVXWlNnRV9kUUM5bHY1YmhrcFlYVi1HaExjd3NSa0VWMUYtLUlZYXM4ZW9UVk14RzRaeGhrWkNCU2NsaTU5MkVyOS01UTZUVFI3MEppVGpsWFNFYzRDdDdnalNydF9BZEFFVGZFdkdqUmZJRzVrWmNwc3lGckE?oc=5",
+          "pub_date": "2026-03-01T05:48:45Z",
           "weight": 10,
-          "sentiment_score": 0.51,
-          "short_title": "VP honors Rani"
+          "sentiment_score": 0.0,
+          "short_title": "Missionary Commemoration"
         },
         {
           "id": "dea7744ada14",
@@ -396,18 +385,18 @@
           "pub_date": "2026-02-27T15:39:00Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Pilgrimage festival sails"
+          "short_title": "Pilgrimage Festival Flourishes"
         },
         {
-          "id": "a511c7b53fd1",
-          "title": "TIDEL Neo Parks to Be Established in Nellai, Virudhunagar, and Erode at ₹117.65 Crore",
-          "source": "indiaherald.com",
+          "id": "1394590eff3f",
+          "title": "Datuk Misbun Sidek to impart advanced training at Hatsun Badminton Centre",
+          "source": "The New Indian Express",
           "district": "Virudhunagar",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkpqbTZodTFNVFJVcy1SZlU4ZmhuOFBsUDVLX1VqajhTeUIyS25Fclk5VzRvM0FJS0J4M1VjTWpKV3AwX2lwUGhPOHJfRVVEVzl5dmMzS3VzVjQ4RFRSRm5xdUhpMWd5ZHloMWw3QWpGenpabWxTVDRWUXhCS3FmZ3ZpbHhkbFpnRkgyNVV3YlBFejhMT1JxOGRUSzZNaGktcGl5ZVpRZlRUbkxIX1RnRmg0V1k2TV9lam9kN29vUER2dS1WZmNZ0gHHAUFVX3lxTE1WSmptNmh1MU1UUlVzLVJmVThmaG44UGxQNUtfVWpqOFN5QjJLbkVyWTlXNG8zQUlLQngzVWNNakpXcDBfaXBQaE84cl9FVURXOXl2YzNLdXNWNDhEVFJGbnF1SGkxZ3lkeWgxbDdBakZ6elptbFNUNFZReEJLcWZndmlseGRsWmdGSDI1VXdiUEV6OExPUnE4ZFRLNk1oaS1waXllWlFmVFRuTEhfVGdGaDRXWTZNX2Vqb2Q3b29QRHZ1LVZmY1k?oc=5",
-          "pub_date": "2026-02-27T07:36:36Z",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcU5DVWUweG9iM0ZLRHBjdTFNNEE2NVlUWjVPRjVDVjJrNFByME1OWGVpdi1fT2VjY0VCQ0ZSQ21iLTdXWkI3SGw3ZDJ0MFpfeUQ5VlhCa0ZWcmNUSGZKaERiNTlQcWNlQnZzLW55VnBrdExFRGJqSmNkdWxfR3BKa3haOWdNeXQ0UUJ6Uzl5WDByTFN3bnlUMHVSZEM1MDdWM2VkNnVlUVpjZ01qTmpJY25KdDlnQ0pjc1ZTMnpiUU8wTzhCbnctY3JwTFA5UdIB2wFBVV95cUxPUDhqbHE0VkhMdkFhYlNPWHIxbjZCQU85dXM4YUVVTk9EZVV3YmQ4cVJlbUlRTlhId0N2bF9yZnJGYzVGRTRiRXhHSVRuMW5Xb1FEejItRk1wT3dxaTBzdllkc05xWFFndEZCTVVUTVBlWFBiYVBPRkhJaWxPTXhUQnhMWjNoM3l4anViR3U3c2VUQnNuNnZCNzV3UlZGNE56X0pwMTh5VzN0UEJtTlhtNVA4eTlNcWQyaU9RT2txR3lfY3hlUWl4d0w0WHhsNV92OC0wWVJ3dHRvOG8?oc=5",
+          "pub_date": "2026-02-24T00:30:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Tech parks planned"
+          "sentiment_score": 0.25,
+          "short_title": "Badminton Training Program"
         },
         {
           "id": "a77e95015202",
@@ -418,7 +407,7 @@
           "pub_date": "2026-02-27T14:46:00Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Green hydrogen trucks"
+          "short_title": "Green Hydrogen Trucks"
         },
         {
           "id": "f857d4f84d3b",
@@ -429,7 +418,7 @@
           "pub_date": "2026-02-27T13:09:00Z",
           "weight": 10,
           "sentiment_score": 0.49,
-          "short_title": "Neonatal babies treated"
+          "short_title": "Underweight Babies Treated"
         },
         {
           "id": "d559ae618875",
@@ -440,18 +429,18 @@
           "pub_date": "2026-02-24T14:10:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wetlands conservation"
+          "short_title": "Wetlands Conservation Conference"
         },
         {
-          "id": "b405ca9812f6",
-          "title": "800 police personnel deployed for Mandaikkadu temple festival in Kanniyakumari",
-          "source": "The Hindu",
+          "id": "e2969834bebc",
+          "title": "Indian Railways approves regularisation of Hyderabad–Kanniyakumari train services; check timings here",
+          "source": "DT Next",
           "district": "Kanyakumari",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbGN2NHNuZDdHbW82azlRNlRZSkpzT2d3eE5sXzJxUzdDb3Y5NndUdUszdHNfcUZRQ1prYXpJU0hUSVVqbUNvcjl4YzdOM0wtbVJUMUtEbnNxN2hUd1ZSYlRIRnBUNTdfWGRzODhtV2NkUTZxVmIyMXNHNzRVTFZvTW1aYXA4VjBPOVcyU1lnVjJDaldGUzA3OHRfUlhXczJ2cmNVRURhSzdCNVVrWnhqcU1lMmZpelZRTW13X2ZqLWlaZW1QNS1VcHhDakR0RzVDd2pTdTRmOENuaTJpVUtZdnVn0gHiAUFVX3lxTE9sY3Y0c25kN0dtbzZrOVE2VFlKSnNPZ3d4TmxfMnFTN0Nvdjk2d1R1SzN0c19xRlFDWmtheklTSFRJVWptQ29yOXhjN04zTC1tUlQxS0Ruc3E3aFR3VlJiVEhGcFQ1N19YZHM4OG1XY2RRNnFWYjIxc0c3NFVMVm9NbVphcDhWME85VzJTWWdWMkNqV0ZTMDc4dF9SWFdzMnZyY1VFRGFLN0I1VWtaeGpxTWUyZml6VlFNbXdfZmotaVplbVA1LVVweENqRHRHNUN3alN1NGY4Q25pMmlVS1l2dWc?oc=5",
-          "pub_date": "2026-02-28T14:02:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1FKellTUGFZb2NTcHdiZ19wbWJ6QkhudkdUYVltZHdtTmNGRGNKMHVjT2h3WnliUlE2YnJ0bmhZYTBvSXdjT2REOFVNWE5tLTRJRjlXQUUtZEZlZlZQS2Q4eHFWcXlxMVJfeXlFZTRHR1VBS2xKNjdQZ1BQMmVZMEltN0NpcV9TZUQ3S0MxNjJWOWxGZE9qNFdsNW12cExhNlQ1RTFCTTZjYktfWnRnRUdlVUJwWXJCcWtJcG91TV82ZC0xRFcyR191dXZqYjFG0gHeAUFVX3lxTFByc2Y3aElVbDM3NlJTd3lqbFR1TTdwd2dwa016VElVSkVNZFE5NEJyZkphUTZSOFFiR2lCZ2t6bVlZbk1WQ0pOVExjRXQzZzloVi1LSXRpMkVXZHhvMU9lT0xkYkF6ZnF6cWpSRnF2NEFzSUdjUEs4Y25MWXJrN09aZW9jYUJxcFBNSnR5SXhnUmhzdHA0RnE0RWt1UTFnd0tfdE9rSkRRY2xVdlB1dVM2UUgwRmNQakZjYV9RSXphMkIzWTZUTjllMExfdWNuNkJoWi1hT0tCSE5ZSmQzZw?oc=5",
+          "pub_date": "2026-02-28T13:01:43Z",
           "weight": 10,
-          "sentiment_score": 0.64,
-          "short_title": "Temple festival security"
+          "sentiment_score": 0.4,
+          "short_title": "Train Service Regularized"
         }
       ]
     }
