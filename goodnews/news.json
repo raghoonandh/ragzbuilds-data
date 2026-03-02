@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-02T00:54:42.616314Z",
-  "article_count": 37,
+  "generated": "2026-03-02T06:50:45.280881Z",
+  "article_count": 38,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,15 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "4438bc1ebbec",
-          "title": "Cruise terminal at Chennai Port to be ready by April after ₹29.8-cr. makeover",
-          "source": "The Hindu",
+          "id": "60b452a22fbe",
+          "title": "Check out petrol and diesel prices in Chennai on March 2, 2026",
+          "source": "DT Next",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNFcteHV6eDR1bkZQVjFlT2k0am1WY2pfal9iTFJDS1lQaVBTcldQOEtUdmc4VFU2MWc3cHJITlFwcFRuWXlrV094ZW1GUDRZM2pTU2drNDR0ZmhGMHJoWFhmZGVaUFNvRS1PMXRLUExiYTUtZzhpOFBrRldtQmdwNlVQNDhKWkxSeVdTak1leTlOTVQyU19WUUFoakdGR2lQWUdfQjY5UEhQZVZkcTFrN2xvTUNQSmxwSHpndzNmWFFuQi03ZnBMTUZVNVJveU1qWF80NHB30gHcAUFVX3lxTFBiclpaV0lMY1ZiN0JtYnlGUkNQSHhVQ0lRMExOeFZ6Ulc2cXFSaFRnOU5HNUVSNnlKdzltQWhucFVVV3BQVWcyVUpWM2YwcHp6eWdCYUlFVlpxN3ZrY0JHVFVsN3NUSmZQLXpUcmkwSEVtRHcxVmlhTlZ4WlMyNElIb292azVlcXE4aVFsUWI2UG81V2V0ZUpkZV9POGJBNzhTVXRVa243SG90MkVCR3pZMDVmUGtEUklfSV8wQXN5T2k1X2IyZmJGOHVIYTIyN25mYnlnNFJ1OTdlRUI?oc=5",
-          "pub_date": "2026-03-01T23:42:00Z",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWcyTUEzNk5yVWd1dDVpQVpTSGU3eVpYQmZrSzdqbUVDdXZNNmFVV1pjZUlxdWZuUjAyU3NiZWItTXdmZFBJVjAzNk9nVmlINkJOdGRLdXVPMnhkZmVWa3BTbUtPbXpDRWJzUnlQb1NhZlJXdnE0MUZzQVpBRDBsa19YQWJUZ2xTYlF5NTRaWlQzRWtnWEZJYlV2cVHSAaoBQVVfeXFMTnNZSnFuSndleXgzS25DVGtEazloN19tbkRTaS1tOXlmdm5BRTRnZm1yYXF0UGhVSW1FbkZESjllX0FVODU2SzdpQ2xfLXN6dmdRZzloc3R3SWFwX0hFYUlFc2g2djU2alQ1VVhTR0tZdzAxT19BbHVSbXg1ZktRZlF6eHFNRmdfYWREampjNi02LU1BYmNoaFZRdFdQSHFYUzRnX3hEek9wdWc?oc=5",
+          "pub_date": "2026-03-02T02:55:06Z",
           "weight": 10,
-          "sentiment_score": 0.36,
-          "short_title": "Port terminal ready"
+          "sentiment_score": 0.0,
+          "short_title": "Green Scheme launched"
         },
         {
           "id": "142e8b086ef9",
@@ -38,7 +38,7 @@
           "pub_date": "2026-03-01T04:18:29Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Sports materials gifted"
+          "short_title": "Sports materials distributed"
         },
         {
           "id": "149428a7ed3b",
@@ -49,7 +49,7 @@
           "pub_date": "2026-02-27T15:41:48Z",
           "weight": 10,
           "sentiment_score": 0.34,
-          "short_title": "Housing & water push"
+          "short_title": "Multi-sectoral push"
         },
         {
           "id": "63ac5cc8782c",
@@ -60,7 +60,7 @@
           "pub_date": "2026-02-26T19:49:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hallmark awareness"
+          "short_title": "Hallmarking awareness"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "pub_date": "2026-02-28T06:15:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Robotic surgery triumph"
+          "short_title": "Rare robotic surgery"
         },
         {
           "id": "386d84e2953a",
@@ -89,7 +89,7 @@
           "pub_date": "2026-02-28T14:40:00Z",
           "weight": 10,
           "sentiment_score": 0.72,
-          "short_title": "Science day sparkles"
+          "short_title": "Science Day celebrated"
         },
         {
           "id": "a21a4732e93b",
@@ -100,7 +100,7 @@
           "pub_date": "2026-03-01T08:57:34Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Driving test track"
+          "short_title": "Driving test track opens"
         },
         {
           "id": "a89654b33711",
@@ -133,7 +133,7 @@
           "pub_date": "2026-03-01T02:31:01Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Village raises shooter"
+          "short_title": "Young shooter shines"
         },
         {
           "id": "a0775a6a531a",
@@ -155,7 +155,7 @@
           "pub_date": "2026-03-01T15:37:00Z",
           "weight": 10,
           "sentiment_score": 0.53,
-          "short_title": "Mining innovation pact"
+          "short_title": "Mining innovation MoA"
         }
       ]
     },
@@ -173,7 +173,7 @@
           "pub_date": "2026-02-28T19:35:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Eco-tourism campsite"
+          "short_title": "Eco-tourism campsite opens"
         },
         {
           "id": "1b463a9fc9b9",
@@ -195,7 +195,7 @@
           "pub_date": "2026-02-28T00:41:28Z",
           "weight": 10,
           "sentiment_score": 0.46,
-          "short_title": "School van triumph"
+          "short_title": "School van delivered"
         },
         {
           "id": "5ee4d1ea5ffd",
@@ -206,7 +206,7 @@
           "pub_date": "2026-02-27T14:24:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Handloom institute opens"
+          "short_title": "Handloom institute inaugurated"
         },
         {
           "id": "1f12e9809e2f",
@@ -217,7 +217,7 @@
           "pub_date": "2026-03-01T20:20:00Z",
           "weight": 10,
           "sentiment_score": 0.49,
-          "short_title": "Dark Sky Park shines"
+          "short_title": "Dark Sky Park opens"
         },
         {
           "id": "d00ecdfef47b",
@@ -228,7 +228,7 @@
           "pub_date": "2026-03-01T13:25:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Pain-free programme"
+          "short_title": "Pain-free initiative"
         },
         {
           "id": "9a38da8140d0",
@@ -239,7 +239,7 @@
           "pub_date": "2026-02-26T11:55:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Cauvery bridge opens"
+          "short_title": "Bridge inaugurated"
         },
         {
           "id": "585d7c01dc6d",
@@ -250,7 +250,7 @@
           "pub_date": "2026-02-26T04:34:42Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Artificial limbs gifted"
+          "short_title": "Artificial limbs distributed"
         }
       ]
     },
@@ -260,15 +260,26 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "f5a421b3cfa6",
-          "title": "Trichy–Tambaram intercity train begins service amid celebrations",
-          "source": "The Times of India",
+          "id": "03f7222640a0",
+          "title": "Tiruchirappalli's Panjappur Lake: A vital wetland for migratory birds",
+          "source": "Asianet Newsable",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3NTLUh3Mk5ReXY1TnpVdTcyTlczX1BjOXVNZE9DLVFSM2xHM0FYS2FaWDZqZEdFaWViaThPN3E4SE1remV3MVJTQnpWT1lBV1YwcjJheklFcGxsTHk3S3dzVFl3UWFwVnJncklZQ0NzdUpfZUIwdE91WEE5bGdmZHlJbW9DRTU4c3JEd0xUczY1d0ZzZkxOZnZtQlNSNThDaWdlOGo5TTVBWkpfQ0c2RXliY1dzbHRJYkpfd0UySk5HcXVYM3ZlWEMxOU1DaG01Tlow0gHYAUFVX3lxTFBaMWJ2UElhYzdQc0NzY0M0VFlyVldrWXN1OHBMSW5WRHgxd3FDOURoNGZPUVlObW5uNlN6a3h3bHVBX2hNYXlmanBBTjFYVk1oeW0wN0JpbE5lQmhhZmJqRXJZYndDN0F1OVV0ckNwX0l0Sk9DUlRXY0lfNlAwVzVjSDNCNU1reHpPOEpMUFhUaGlrdmRqdE1BUkxhdFY2Z1R0RFluWFVDQVhPQlpFOTA4aHpvUjV3S3NFbWg2SEJyZWZNUzFvODdjSG43MHQzVkNDYWJXX1ZMNA?oc=5",
-          "pub_date": "2026-03-01T17:50:00Z",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPekJTTXNfRVNaT21yTU9vZzVBTDJtYW1BVkxpTHVySS1STDBkOGxzX0tfdXpDN0VZM2tDOU5FMXEtckhFVVFNd2Y2d3hOTmwwSUVndjFvQTVYVGJFSHNaLUtQa3dFWmV3bzZKRlVucUwyd2FKamEzeGg4YlFBb0dWbUVCOEFqZnExWEJhdkN6Y3Y5UC15SlN2cnJseW9WSlhTMElSY0VZXzVzQW15LXFNZkJ3ZXpOMEZPLVdIM2VFRlEzTkVF0gHKAUFVX3lxTE1YRHpoUHladU5qcEx5OUczVDhzTExHcGIxWHA4b0QwT0dpdXBCR0lfa0lwRjBuU2dzd2pDcGhzemctbDdoQmxWd1FNWUhkdkRPS0xxNmpMLWdKVGYtanYwbVlNc3NrNU1idGJLVXJhV2VUT0c4RmtQX2RZeVIzX3kxcHgxeEw4ZEtvbVRwRXdlYk5fdmZyczJ2Tk9DN1BEYmpZSmQtemhqelI4bGlDd1JMRU9lLVFnSkdpMHNwQjV4WVJIRkttdmdFalE?oc=5",
+          "pub_date": "2026-03-02T04:30:28Z",
+          "weight": 10,
+          "sentiment_score": 0.3,
+          "short_title": "Wetland vital hub"
+        },
+        {
+          "id": "6d6b6b3d0590",
+          "title": "Over 6,200 girls administered HPV vaccine in Dharmapuri",
+          "source": "The Hindu",
+          "district": "Perambalur",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2t2b1lpSThhSk5nS1ZpWTdObUptSHp0R3ZSMERQdjV4UDJOZFlrbXB4NWZZNC1RSzlWMWthVmhkZEJhbndDMTVILURmQUExUDJ2bjhBSXNBS3BSZndjdlVlS3BORVI3OEQ1ZHNGTG1SU2N0eHlmWVVXQjl0OXlYdGxEQXFlUVJ0TGFtWTN3UzRVWWtNaV9QU0o4a1oxRWFDbFhTYm00alJMaEdzcVJId2lUOGN6anBpOUl6VmtmbnUzeVZSdFHSAcYBQVVfeXFMUFdrdm9ZaUk4YUpOZ0tWaVk3Tm1KbUh6dEd2UjBEUHY1eFAyTmRZa21weDVmWTQtUUs5VjFrYVZoZGRCYW53QzE1SC1EZkFBMVAydm44QUlzQUtwUmZ3Y3ZVZUtwTkVSNzhENWRzRkxtUlNjdHh5ZllVV0I5dDl5WHRsREFxZVFSdExhbVkzd1M0VVlrTWlfUFNKOGtaMUVhQ2xYU2JtNGpSTGhHc3FSSHdpVDhjempwaTlJelZrZm51M3lWUnRR?oc=5",
+          "pub_date": "2026-02-28T14:11:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Trichy train service"
+          "short_title": "HPV vaccine drive"
         },
         {
           "id": "b4f67e14b8bd",
@@ -279,7 +290,7 @@
           "pub_date": "2026-02-27T11:59:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Bus stand stalemate"
+          "short_title": "Bus stand progress"
         },
         {
           "id": "de25144a4f23",
@@ -290,18 +301,18 @@
           "pub_date": "2026-02-25T15:04:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "First graduates emerge"
+          "short_title": "First graduates celebrated"
         },
         {
-          "id": "8d93e9445c5d",
-          "title": "Ernakulam-Velankanni weekly train regularized",
-          "source": "The Times of India",
+          "id": "2336355d69bc",
+          "title": "Aadhi Kumbeswarar temple car festival begins",
+          "source": "The Hindu",
           "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGI1bERickNtVkNqaTJSbnQwVUplc242TGNJYW0wbXE4MWRCYTIxX1J0WUxrQVRrVWdVNUNtQmU1Qm1oYTd4TDBmOVhSQ2lGSnk4WmhtRTByTTl6RDAyRHF6ZGttV1VHcnl4Ukd2b3lLbEtZUEJYZmdHY1VLYjFLQmxITE9heHhPaDhXU1Zza2VjaHRraFZad3BYanBjOHg3aEVJaWhfRDc0UzItUHRZeHp6eWJrakktLVJrRExoY9IBvwFBVV95cUxOcGI1bERickNtVkNqaTJSbnQwVUplc242TGNJYW0wbXE4MWRCYTIxX1J0WUxrQVRrVWdVNUNtQmU1Qm1oYTd4TDBmOVhSQ2lGSnk4WmhtRTByTTl6RDAyRHF6ZGttV1VHcnl4Ukd2b3lLbEtZUEJYZmdHY1VLYjFLQmxITE9heHhPaDhXU1Zza2VjaHRraFZad3BYanBjOHg3aEVJaWhfRDc0UzItUHRZeHp6eWJrakktLVJrRExoYw?oc=5",
-          "pub_date": "2026-02-28T21:00:00Z",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnc5UzVfVDYyRmxPbDY1MDJheWV3cnpsdkZvZ1A1ZWdMdzVVbjIyZWlhM05ETnlkS0xXMEV0Q21hd3M3cEx2Y2JPcUo1QUJnWGV0THV1V0FtRFYzLU44d2Vkb05FZDlqVzdKanZzUHo2SmFySEtBR0oyVVdob2VoUnMycFM1VDdGMDhxLTlZVkE2ZllnNUFmMEwtbS1oOW5rYW9ENE92eHFfcE9jLURNVmVMWFZMRVXSAb4BQVVfeXFMTng0Q3cwVHJSdFhWYlU0ZEU1Z1ZQd0pZQmQ1SkpYekt4LU5YMi1pdWVfUUVUcXNYeEJ6RHVGeHZlelVvcTNRcDB0N2NDbG1DSzh3ZlNmbVdMWkpqVDBycjVGQ3RwSzJTcEJCVVBVWVFLTzlBdGpNWk1sMkczeUxsX1IwS2RtcTFVWmgwdFN5UWROQzU1SVhpYklBVVFfTVFvbDNKcDFUOXRMZEpUc2Nkb0kxV1dQQ0dJN05GUTJMdw?oc=5",
+          "pub_date": "2026-02-28T13:23:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Weekly train regularized"
+          "sentiment_score": 0.64,
+          "short_title": "Car festival begins"
         },
         {
           "id": "9f12aa4be302",
@@ -334,7 +345,7 @@
           "pub_date": "2026-03-01T12:49:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Paddy procurement soars"
+          "short_title": "Paddy procurement success"
         }
       ]
     },
@@ -346,13 +357,13 @@
         {
           "id": "cdc982b8b2ec",
           "title": "PM inaugurates, dedicates to the nation and lays the foundation stone of infrastructure projects worth over Rs. 4,400 crore in MaduraiInfrastructure works in Madurai will improve connectivity and significantly benefit the people across Tamil Nadu: PM",
-          "source": "PM India",
+          "source": "PMIndia",
           "district": "Madurai",
           "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWGk0ckg2MU81bUxyZGNSSWE5R3BLcU5vODctN1VwajY0eEJ2aldkVUJMSmtCMGpXVjJSaHRwby12MlVzTUU2aFJ4bTZvUTJKOTZRV0hQc3BDNVdzNUNleHNKMWNUUTlKSzl0S1drMENDSmVCRVMzeExBd0dMVF9pc0U2QnJiZ2ZfV2U5Y1Q2UVZEQ3dhM01QamxEYmVrTnZxb0NsdVJZUDBHYU4tb2xlX3daNjd0S0JBQVhMcURxMzVlS1hGU3F2UldOVl9MZ0FncG1UVFBDYmhrbExUSlFwZUM3LVVpRDBHRldHcmQyRGE5cTdHNnlRSjRwV2h0ZGtHT1NXN2Z1MzhfQzZUSE4wamhVajZ5b3hFazJwbnVDT0ZPdFRLSFQ3V1dIVkJSOTJEWUVBLUhRZUlRdDlKZzgwUTdyTmM0QUc4a1d2cFJkNGlOQWFmNHBNVGZHWGhMbWlTRWdNUnAtY1BzS2hOSkxrVGJ2dw?oc=5",
           "pub_date": "2026-03-01T12:46:57Z",
           "weight": 10,
           "sentiment_score": 0.78,
-          "short_title": "Infrastructure worth ₹4,400cr"
+          "short_title": "Infrastructure worth ₹4,400 crore"
         },
         {
           "id": "9b504c58e162",
@@ -363,7 +374,7 @@
           "pub_date": "2026-02-27T14:44:44Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hill bus service returns"
+          "short_title": "Bus service restored"
         },
         {
           "id": "3ea0a6278f14",
@@ -374,29 +385,29 @@
           "pub_date": "2026-03-01T05:54:26Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Jesuit missionary honoured"
+          "short_title": "Jesuit missionary commemorated"
         },
         {
-          "id": "a894a7528e74",
-          "title": "Annual two-day festival: Nearly 4,000 pilgrims set sail for Katchatheevu",
-          "source": "DT Next",
+          "id": "dea7744ada14",
+          "title": "Nearly 4,000 pilgrims from India set sail for Katchatheevu for St. Antony’s Church festival",
+          "source": "The Hindu",
           "district": "Ramanathapuram",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVU1NOVRUMG5zRHlPNkRUWTl5dXJMYjVSaWxDZzdOdm9OVWJmWTh1WVFQb3BYcmZqSlpJY3ZrUXdWSW9MNFRYZG5sdFViNURpdF94S3ZVRU92VFhRSmtZdWFVLURsQnBMRE0tVGlIa1JjWjVNeURJZHI4dGxydElsTzlIM2toQ25LSVhfN3J6X0ZvYmhXWGxtbWg1OFZuc3Z2M0dtMXhLbXlFYy1mdXfSAbsBQVVfeXFMT3lZQXFhallKdHczb3lwdE9iV2pPaDd1T255NzlFOFVxMl8tUlVON0o4aXNrVWlOamprT1RNLXQtbWNrNHBzcER3YThzdlBWamllS2VFZFFiejNxemFPRlF3bVJFektUb2tqZ2F0U0Rfd3lqalBKenVOUDJwNEtHSmdsZXlSdmQ4WHUxbnJzaDEweDdOd0Z3VXAtSHJVZU11MnEzS0R4bXJST3VmQ0Y2NlBYc0tYdEJWU25HWQ?oc=5",
-          "pub_date": "2026-02-27T16:37:06Z",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWHMyd2NJV0ZnU3g3M0ZqVFQ0VVk0SUtCS1ZsYTZtb3FMRDNrS1luZnYzMjhiNjJLOXoyY2pYYWxiM093UDZUS0hWSy0zOXl0bGkwZUhuY1N3Yl9uendFQUxfb1lFOHpLeS1ZNDN3RmowT1VCdHc0QzRLcG9jbW9XZUp0STlBTm5wVFNGem5XLUp4UHdPU1VhaDJ0T3R4R3FCc3FKR1FEOFZJTzZ1VDZ5cDBoLTh1dGhaT2I4SmJCeGMxeTNvbzFaSGJwQVQwazRoZXdzU0Fhdl9KcllJTHpaUWtiMFNwRExsYjFPLUs0ONIB7wFBVV95cUxPWHMyd2NJV0ZnU3g3M0ZqVFQ0VVk0SUtCS1ZsYTZtb3FMRDNrS1luZnYzMjhiNjJLOXoyY2pYYWxiM093UDZUS0hWSy0zOXl0bGkwZUhuY1N3Yl9uendFQUxfb1lFOHpLeS1ZNDN3RmowT1VCdHc0QzRLcG9jbW9XZUp0STlBTm5wVFNGem5XLUp4UHdPU1VhaDJ0T3R4R3FCc3FKR1FEOFZJTzZ1VDZ5cDBoLTh1dGhaT2I4SmJCeGMxeTNvbzFaSGJwQVQwazRoZXdzU0Fhdl9KcllJTHpaUWtiMFNwRExsYjFPLUs0OA?oc=5",
+          "pub_date": "2026-02-27T15:39:00Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Pilgrims sail for festival"
+          "short_title": "Pilgrims sail to Katchatheevu"
         },
         {
-          "id": "6340fb55996e",
-          "title": "Nearly 190 acres allotted to 23 investors at PM MITRA Park in Virudhunagar",
-          "source": "The Hindu",
+          "id": "e6eadbdd50d6",
+          "title": "Srivilliputhur railway station renovated at Rs 8.84 crore inaugurated",
+          "source": "The New Indian Express",
           "district": "Virudhunagar",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPME1tX1JMRUswdzcyTnBxSHJteElCeWNaTTFNWnBIbExKUGRvWWtLT0pYTGJDMXV6bkd0SFM3blJFS3VWaGhKOWo2S3dQVDdsdlFQaDlhQmh4VWFnVUtJcVB4YU1VNU1IWHI1M1YyV2NxQV9FcXFxWlVzdEVnNTNFXzBsWjNKcUlybEJXNVRvQ3pBNmIzMC1WRnJLd2FkVWs0bXc3a1B3WTlmLS1pWTFJTldMeU1VTVJsZ3VJZmV4UEdObXRYT25WTXFoWmV1SkppZDFTeVVkNXFlUdIB4AFBVV95cUxQMmVVdGlfNkk2UUswMjhvSTROUXdPdzAtTXdxS09UYjBNakxKSzFZTEtxMTg5SkNEV0dRZEhicXpuczFOcTFLNXJ3SEV3TTlqVWJySkd4M2lxUnBJT1phSVpXbndTUGhCQ2dwV2FyRUY4TldNdmhrN2JmemRHdEhfSHBhbmttV0Q3NWJxeHN6aFYzN3dSVjN6TmVHOFhTWU1yVDNhbGdlYkM5bFk0TUFsOXIyaUlYdzk2UWdwZFVuTnJWT3RxQnJyeGV1UWhmOUplQTVBdEhBRnRYNTc1VzZtcA?oc=5",
-          "pub_date": "2026-03-01T15:19:00Z",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMTA0S1JFSXliSHppZHJrRDRFbUxtQ1hfMUpTX1lIOUNKZ3pFYkY0d05oQno4Ry15RW54X0JCZkMyR0hCMFNhYnVrYklMUEc1a3htWU9YMFA4bVhjbnpHQ193Q1NYQ1o3SHFKQ0tWQWVCTnBOZlNseWFnTE9RdXZCQjRheHAzY2FBQUNPU3liV051c0lOc1ZkLXVpa1R3WXlKZEpRU0VsVl8zQnZUTEg1b2tUQXFWbHhVVE1ERjF0LVZBNUdzNU81S3p6QdIB2AFBVV95cUxNUHZvOER3aXZ2V2RJMDhpeEpKVkpzRi03TXZRWlQteERKa2VGTTNHNnppcWw0T2VKRUVfUXZBMElDMGVpQUxjT1V5MmxYUWhYWDRNU1djcmN1OGFnc0d0MWVLZTVyMllCX1drQV9peXlqQTlIcGFzaU9oVXFvc3dIMTJTUi14T2ZwYmF3LUFXREVOMDRhVXQxeUhTaWt4VE9zSjBFeUxyWHJpVDl4eXpKRmRNQlBUSGlobWtXLWFKTDNadGt5a09NbDc1WmZvNUNkV2ZZU3ZxYXY?oc=5",
+          "pub_date": "2026-03-02T02:31:23Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Industrial park allotments"
+          "short_title": "Railway station renovated"
         },
         {
           "id": "953869773eac",
@@ -432,15 +443,15 @@
           "short_title": "Car festival celebrated"
         },
         {
-          "id": "e2969834bebc",
-          "title": "Indian Railways approves regularisation of Hyderabad–Kanniyakumari train services; check timings here",
-          "source": "DT Next",
+          "id": "cf87e0f1f73c",
+          "title": "Annual Koda festival at Bhagavathi Amman temple in TN’s Kanyakumari begins",
+          "source": "theprint.in",
           "district": "Kanyakumari",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1FKellTUGFZb2NTcHdiZ19wbWJ6QkhudkdUYVltZHdtTmNGRGNKMHVjT2h3WnliUlE2YnJ0bmhZYTBvSXdjT2REOFVNWE5tLTRJRjlXQUUtZEZlZlZQS2Q4eHFWcXlxMVJfeXlFZTRHR1VBS2xKNjdQZ1BQMmVZMEltN0NpcV9TZUQ3S0MxNjJWOWxGZE9qNFdsNW12cExhNlQ1RTFCTTZjYktfWnRnRUdlVUJwWXJCcWtJcG91TV82ZC0xRFcyR191dXZqYjFG0gHeAUFVX3lxTFByc2Y3aElVbDM3NlJTd3lqbFR1TTdwd2dwa016VElVSkVNZFE5NEJyZkphUTZSOFFiR2lCZ2t6bVlZbk1WQ0pOVExjRXQzZzloVi1LSXRpMkVXZHhvMU9lT0xkYkF6ZnF6cWpSRnF2NEFzSUdjUEs4Y25MWXJrN09aZW9jYUJxcFBNSnR5SXhnUmhzdHA0RnE0RWt1UTFnd0tfdE9rSkRRY2xVdlB1dVM2UUgwRmNQakZjYV9RSXphMkIzWTZUTjllMExfdWNuNkJoWi1hT0tCSE5ZSmQzZw?oc=5",
-          "pub_date": "2026-02-28T13:01:43Z",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVFwbS1ibGVPNkcySVd4T200ZGxGLWJpYm1qQnkwOURfLXR3dDRTNV8wUkQ5MTlNOHFKdVNxNGowdVJRWjZRQlVtOUZ6cmNXYUlFWjdHOEEtV2Rub1BnZGh2VEdlejZQVmIyWEVZS20yRXRtTGw2bjlBUFlWYmJWWEV5dnJJa1FHVjZrcU15ZUNpckl1aW0tSzhlOE04ckp2ek9hREhFemJmRWI50gGyAUFVX3lxTFBWZGlRVTdqbDZZZEM3V0lhdFNCQm9POWNsbF8tS3hUMVBpdVZRSDdWcjBrQ2lqWEVBS2lTMWRTdWR4eWo0VjhMUUw1OS15RnhSem0tRi1vMEFIbEE4MlB1ZzkwRTZoeWkyTWM1TWFvSWY5Z1RHaDltWC1YU2E2QmF1OENnMGJPWGcxYWkzMDEzLUI5YThsY2wzRnZyTWRNMkMzbUZ4WmNvNW5FZVVPN3VEUUE?oc=5",
+          "pub_date": "2026-03-02T04:45:03Z",
           "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "Train service approved"
+          "sentiment_score": 0.64,
+          "short_title": "Koda festival begins"
         }
       ]
     }
