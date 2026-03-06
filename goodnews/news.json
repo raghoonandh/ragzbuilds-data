@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-06T06:50:26.949590Z",
-  "article_count": 38,
+  "generated": "2026-03-06T12:45:31.401123Z",
+  "article_count": 37,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,15 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "1ec6d44bb86a",
-          "title": "From driving school trainer to Amazon truck driver: How Bhuvaneshwari built a career on the road",
-          "source": "About Amazon India",
+          "id": "7952ed0ad39a",
+          "title": "Chennai IIT BS degree student, who used Covid lockdown to get two degrees, is a teaching assistant at Harv",
+          "source": "The Economic Times",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlFsU2o2T1QwYTVtZnFGOFk3cjgzbUM5NkJFSkJvS013SHFJX2VvQUx4SlBvSnBWU3BCQ3VhbWs5cG9kMmt1aUhqaTlFYzM5Q3JEVmFSTDVpbG9tMGRsNzcxYkNQcFVrRlJQNDV4RHJhYTh4N1RRQVlFNHprRzJnSTJR?oc=5",
-          "pub_date": "2026-03-06T04:18:45Z",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPbUlRZ0kzaFNWVkJ0VERkOE83RUZ4THBoUmNydktPeTUzdjBCX0l3ODgxYlE4SDJZNk8yT0RkWl83em9vR25VRDZLTHVOTFZxbDl1M2IzWWhwRllkaDhIcWZINjVRUlF1U1NlTENkd2ZUMUotS2t2SzNDUVUwOUdmQUVaSm44WWhqeGxkSGEzcFNhSUt4M21rVDM3a1UtYlVVTGhNSzlFVGpJbDhJMlZTRC1oMDFFc2VCQmJuSTlvcndobHNXZ0ZpTE0zc25sUU9PX1ZVOXY1aWpnSm41UWdYWEMtM2xXZXlESFo4RzRQUlBWdWVyT3hDYVJXSnEtV205MWxacHpOaXFkTHBDRGIyZklidll1LVhOWjBXeHFFV3lBak92TGUwVGNyU1NoR1lK0gG2AkFVX3lxTE5iNXZlMUhZMkZIbnFDQjRNbGRsWkRfWElwaUI2MHA3cVozT2dUZllwQnlfNVRfaUl4SV9WTnRtT0NNQW9yUWZodV9SbExNTldMSkdDX3RQS1U0cTNMVThmeWRNM2Z5NTV1eWdHeWpsd2tHM3pNcnpSMFdQNEJsTFJoWHBWd3RJQ2lnbXNZOUNlTEs2V3JCWnlEQXJqQXNrM1d0YWdtMWxVYV9GcVNZX291S1BkajNUSDZadkF4SkZXNi11Ty1vbFVuWFdOMjBkQnJpOXFfcjM2TU0zT25xT0k1dGpOdGlnS3AyNDVnYjU2dHNGc1FsZkc3a1R4SWJVbUNBdWoxdm03SXJ4MlJ5M0VjUnppek11Qk9PeDZxUEZ3WlJoRlgxWnBWeEhGdFJkUmtydXlUd2c?oc=5",
+          "pub_date": "2026-03-06T11:01:15Z",
           "weight": 10,
-          "sentiment_score": 0.18,
-          "short_title": "Road to Success"
+          "sentiment_score": 0.0,
+          "short_title": "Two Degrees, Teaching Excellence"
         },
         {
           "id": "8d242641d026",
@@ -27,7 +27,7 @@
           "pub_date": "2026-03-05T12:01:00Z",
           "weight": 10,
           "sentiment_score": 0.42,
-          "short_title": "Village Learning Hub"
+          "short_title": "Library Learning Hub"
         },
         {
           "id": "282e3b5ce417",
@@ -38,7 +38,7 @@
           "pub_date": "2026-03-01T04:18:29Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Sports for All"
+          "short_title": "Sports Materials Distributed"
         },
         {
           "id": "62feb73be2f3",
@@ -49,7 +49,7 @@
           "pub_date": "2026-03-03T21:26:00Z",
           "weight": 10,
           "sentiment_score": 0.13,
-          "short_title": "Transit Milestone"
+          "short_title": "Bus Termini Launched"
         },
         {
           "id": "64a6f79734e8",
@@ -60,7 +60,7 @@
           "pub_date": "2026-03-04T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Viewpoint Towers"
+          "short_title": "Viewpoint Towers Inaugurated"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "pub_date": "2026-03-04T21:05:00Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Rare Surgery Win"
+          "short_title": "Rare Trachea Surgery Success"
         },
         {
           "id": "6c3af052385a",
@@ -86,10 +86,10 @@
           "source": "The News Mill",
           "district": "Tirupathur",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjgtdmpOOEZXc2FFTUFVZlpySnQ4SXdhVGU0X0tOMU5ia2JSUFpHeE05RkxjT2k0X09jVUFwSW1Rdmh2c0VEcXl5TFdMY1JKMi13SHE1RzI1elU0RWtKeWIyM1NOd21vSDd0dUx4bEtGU2htZVdXaEU5MkNfUHRIdEl5cktBUnk3N0ZlbGo4U09ueFhPa1NnZVBUR3p3Vk01RHhyakwxTGJuRjlCd1dF?oc=5",
-          "pub_date": "2026-03-05T16:02:29Z",
+          "pub_date": "2026-03-06T05:02:17Z",
           "weight": 10,
           "sentiment_score": 0.46,
-          "short_title": "Temple Celebration"
+          "short_title": "Temple Grand Consecration"
         },
         {
           "id": "a21a4732e93b",
@@ -100,18 +100,18 @@
           "pub_date": "2026-03-01T08:57:34Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Safety Track Opens"
+          "short_title": "Automated Driving Test Track"
         },
         {
-          "id": "95d2cb00a791",
-          "title": "Potential-linked credit plan released for Krishnagiri",
-          "source": "The Hindu",
+          "id": "89e473832b18",
+          "title": "Delta Electronics sets up Centre of Excellence in Robotics in TN's Krishnagiri",
+          "source": "newsdrum.in",
           "district": "Krishnagiri",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTQybV9XRGZXWV9IVVVvOTZBeGVySmI5NWt0SXFYdHhoMGhsdjRhellscXpIdDRWUW1ZdDZWWWRsN1ZEaHdNTFczZ1phUkNiamlkTE9hWG9zVXlRRFpVV21ybE1XclJlNHloQXdNS2llT01ZR0N4UHhSbUs0T3MwQVVMbkhNRkFQbzVUMGxmWDBpRDBmWUUyTDFRUEZfQXdkRjNrdTNIdW5md1diUzZWVGkwWUxoNXVDYTVqVWtB0gHEAUFVX3lxTE5VbEJFQUlfd1ZPdE9qY1dobTQ3a2Jhcy04a3JlekZqY3V5RHloM0hINmZJb0pjMXFpckRKRDl3YWFJaXJMMXZTWE5zWUE0VFVrTXJHNzdKLVdzMFRhYVpTOHRmdHp1RnRUM1ZnZGZZTWp0bWZRUTZwdzdqYzV6MWNtRmt2dDJ0WnJiUkpVdVQ0WEtveVM2RUQxTk5WamYwa3dGOFpWbDNfa2RkS0pYRXJBa3N0YzZOQTFDVDF6QllGQ3hIcUY?oc=5",
-          "pub_date": "2026-03-04T16:36:00Z",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUJtNUx5djdodzdwLWQ0NEY0MFctWk9Lc0ZKLXhqWnZXQ2Q5Q005M0tzS19RZ25lTXdUbHFCTldrQXgwRTdtNWN5em11SnVoSi1jei1kRTNiLU9WejlLOGx5dHNfSHJCc0tyMEY2LUg5ZURWTExlRUhqOWo2c05Va21xQ0h3ZFpzTHk1OERZYmRMZEJCWUNTZUxJUEdyWnp2SmRxd3lORF9HYWhkV0dRYUYyN2VLRERUMGhz0gG7AUFVX3lxTE9ZQm01THl2N2h3N3AtZDQ0RjQwVy1aT0tzRkoteGpadldDZDlDTTkzS3NLX1FnbmVNd1RscUJOV2tBeDBFN201Y3l6bXVKdWhKLWN6LWRFM2ItT1Z6OUs4bHl0c19IckJzS3IwRjYtSDllRFZMTGVFSGo5ajZzTlVrbXFDSHdkWnNMeTU4RFliZExkQkJZQ1NlTElQR3JaenZKZHF3eU5EX0dhaGRXR1FhRjI3ZUtERFQwaHM?oc=5",
+          "pub_date": "2026-03-05T11:10:36Z",
           "weight": 10,
-          "sentiment_score": 0.38,
-          "short_title": "Robotics Centre"
+          "sentiment_score": 0.62,
+          "short_title": "Robotics Centre Established"
         },
         {
           "id": "5c126c558a9c",
@@ -122,7 +122,7 @@
           "pub_date": "2026-03-04T11:30:37Z",
           "weight": 10,
           "sentiment_score": 0.51,
-          "short_title": "Forest Builders"
+          "short_title": "Mini Forest Grows Community"
         },
         {
           "id": "29baa2ac3616",
@@ -133,7 +133,7 @@
           "pub_date": "2026-03-05T15:20:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Bird Centre Plans"
+          "short_title": "Bird Centre Foundation Laid"
         },
         {
           "id": "596bd4bfa125",
@@ -144,7 +144,7 @@
           "pub_date": "2026-03-05T16:47:00Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Step Forward"
+          "short_title": "Stepping Forward Strong"
         },
         {
           "id": "b8d47f8b0f11",
@@ -155,7 +155,7 @@
           "pub_date": "2026-03-03T14:58:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Waterbody Revival"
+          "short_title": "Temple Pond Restoration Revival"
         }
       ]
     },
@@ -173,62 +173,62 @@
           "pub_date": "2026-03-05T08:59:04Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Wildlife Conservation"
+          "short_title": "Nilgiri Tahr Conservation Centre"
         },
         {
-          "id": "747190533171",
-          "title": "Part-time programme in apparel design, merchandising begins at NIFT-TEA College in Tiruppur",
-          "source": "Dinamalar",
+          "id": "914f988e42ea",
+          "title": "In-patient capacity in Dharapuram GH rises to 250 with latest inclusion 100 beds",
+          "source": "The Hindu",
           "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcWlRQjZqS0pLRjdyMmd2V1k3WjNseEhmU1Jtb1VvM1A4SHc4N1F5SmpDTnNVZmc5TWpMdUpoZFFIeXhjclMxeUZ1b1Y4NUJUSlZKMHVTUDJ0YktPV1I4dElReWluX0pLczBoRkJFajRpZEdSUDJtSUZBai1nNnJOODhmdEdWZkpfNnZ0SUZUSXpFOWlGSG1yVGtLMFpXYUdJYmxyTm5IOWJGbTZWZEZacU1LX3U4bUJ6ckxsR2tUb2t0V252dUhCS25Ec180b21zMlNyWDFyWTE3bzloSWlnTWlnN24?oc=5",
-          "pub_date": "2026-03-03T19:35:31Z",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZG9Za21YOG5OSVJrbG0zcDdyQXZGMGpqYlQyT1pPc3VPaWtnWXUwdWdmLVktUGpENzZNNXFRRmFZTTlzN0hmTXp6ak9VNElCUEpSaVVCLUkxeFFSclh3TWN3RHduLXctV2tac0k5MGJMc0szQWRvVS10VkRiTExzNHgzYll0U0lZTklwU0dITEZIZTZTOXd5OXJkU0xpRlVvTF9Ha3hJSkxmYjB0OWgyRlRJLVZCc2c3dlNoSVRnYXJPMnFKSnhPZ0picnc0VVhRMXNsT0NSNDFwbGhnWjBiMmhn0gHoAUFVX3lxTFBTMG5fSVYxU3lpNHlKVmU2T1RVdDl6Z0QtU05UbVdNQUJFU1JnLTR6MWlZbzNBYjdfYW1zRndVYUpYZF9QQ0x1VnFZX1ZYSU1rcFVMeUhtbjNha09yc0xlOGltM3JMRVdQSTk4MmNEZEQtVWJiNzFXbmo2LWZ5bkVKQmVIZUtaN0UyTkZRZ3d2bzNoZjdMQ2UwNVFqVFBObC1HM05KVGxKWlJXLW5fSWtMYlF1WUl2b0ktMGtJRDVRN1BGQThyMzdkOUFPQnFPWDRMc2JZSWdWUHRSa2pqeW1meGkxS19mc2Y?oc=5",
+          "pub_date": "2026-03-05T14:16:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Design Pathways"
+          "short_title": "Hospital Beds Expanded"
         },
         {
-          "id": "a88abf3209d8",
-          "title": "Smart water management system commissioned at 16 overhead tanks in Erode",
+          "id": "404cb3d4bbf8",
+          "title": "Community Conservation Leadership Award presented to seven persons in Erode district",
           "source": "The Hindu",
           "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0lpUE1TdVdVdWtNTmVjQnBNQTM4MGlfT3F6UGNURmhvWFptTXBleFlCUkJhRS0tdTBVU1dNZVpYQ0ZvTzZOVkNlSFB6N19teHJVQkJBcFV3NUVDbkhKZHc5dWczZjJ3WDRjTlhjYjVZTkYycjNvNFlxOGh2QTl0NUlxVlZyVXdSLWJLdmp1TXA3d05VNzdpOEt5NVhjbGpYc3ZEck4xTmhEWkVjWmxKZkdFd3JIc3dLQkl6WFdRWEcyZmUwVjN6d1NWb3RPZEY3VjEzN0hn0gHcAUFVX3lxTE1QazZUb2hQRXBmbHM3X1BldU0tWlZXYlVfcFNtZGZwOUNwQ3FhSVB5TXRiMUstbHNReTJqMkV0SVBBZjJQZndmTEtmajlRQ3l4eXc1NzU2S3VsdXdYRkRxZGJqcUpZdGxEM2NEdmdzX1ppelB4UUJQczBuVFBuNWNCdzJiLTZDUUNiRjN4b3A1WTU2NmFBcmZoSFloSDVWMVlndjQzWWpVX3RCM2hCdWtHaWdqQUhLazZndWI4a0UyLW1QbU9ab2JBMGRVbHpmVDN2XzhURWZ0eEZMVHg?oc=5",
-          "pub_date": "2026-03-04T12:05:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRE5SdnR4dFR3S0R1aUNHdkN5c01jby1aaTdpcFA5aHNya3d6aHpINUN0NkdHVkFoREVtTXZqQUtQTnA1Vm1IMDhkcUt4YTBnbmhvSzh3Ykx4b0FsSHczTTJoeU9ZaDU4cWhyc2NhTFJXY3NMVGNwU0RwVkhuUVBudmJFelNvOWNHSkVWN2Yxck5EQ3BOYTEtU0poUTBGaFZmZ1ZqWTVUNFNUOVZZMjBmTGZGUHlMUEVOd0U0aEY4LUwtbE5NSnQ5NUxDX2lYT1NseWh2VTlIX196UjFVR3U2NjIzZEE5SlXSAe4BQVVfeXFMUGJXY0U2dEpTV3BHcWpYdkFveXYwd0hZT25pb0tJd05GWHNieUlrTWlDMGZZal9iU0lvWEFZdVNNckF5V3M3dmFHUmQzV1lXV2U3dzYtTXJ4eTZhS2ttdUVmTW8xOFFtOXJSN2Fad21yNmlwNFZJaGl1U3JybzJlMmpzb243TVZzTUFHVkxZdk92cWxPUy1JeldITDFCcUVfVmFvb1p4UU90WUJrb2d2bThHM3hoUGtaLUVaZU9TTkpHUWZuSHhrRm5oYUNZMGc4Z3ZtVDZ1ejNkYVBmMEI5T0tvdVVqa1FNdjQ5NzE5Zw?oc=5",
+          "pub_date": "2026-03-04T12:59:00Z",
           "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "Smart Water System"
+          "sentiment_score": 0.84,
+          "short_title": "Conservation Leadership Awards"
         },
         {
-          "id": "049f9d3c2266",
-          "title": "Foundation stones laid for tourism development projects in Salem district",
-          "source": "The Times of India",
+          "id": "845117a5bc45",
+          "title": "Tamil Nadu sanctions `29.71 crore to improve tourism in Salem",
+          "source": "Trav Talk",
           "district": "Salem",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaG84SlkybF9Vb2dNT21pSDhCNTAyWXZpRGhtc05wejVYMVA1OEwzMTRUbWF4Y0dJeTN6N2VRcTNGeGhRdGdxa1Nua1ZObjRBN1ZPZ0w4b2NIWE9nblFZanVnLUZyaERyYzE0Z0hGeXZXOElManVKZENBR05aVVdfMzgybVVaSW5nY1JxcEVhVTJ2RmJNR2ZiQWVURF9MdGlJLURGTFFDNndLQmwwTXV6NTAzeUJUSXdyaHZ4RmQ0NkwwRVl1dHRUaktkQm9oY1kzZXpiRWpPMTkyaVBfQS1zZF9OTU1BUUHSAewBQVVfeXFMUHJ1a19zWVY5QXVUMlJRdTVyZGZ5WGc3T0k0bk8tYTRzOHN4S3lIaHFpZFZ6X2lzTE1mdndzakNfMGoyb3g3Qy1YMGw5NmdrR0pEWlVOWEpQdE1SUWNnTkhxckZqWjhsR2NyQjIwY3FrVGtLT05vLUg1bkxRcFZ6SzI4dWUxOTBwN0t6eUtoZngzNmU3N1hHeS1saXh0ejdsTmdDampWanhrNllUYUs3WWFBc1ZXZ3pXbG1LWmFiTWxhazBzaW0taFRZSDRPZnpfbEdrOEN6bEU2dkNQMU8wR0dya252RkF1WjV1bTE?oc=5",
-          "pub_date": "2026-03-04T16:23:00Z",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckhHT3JWdGEzM0hZbjlPOXlzRlRXZzVzMXFzY2R2UWRpMFVaaTlINkZReG56T0I3YzQyeGxVNzlQbHMydlNPa2pLMEp0RktXMTIxTDNYNWloTWdsV2NUU3VKVEp5TWJ2RFMwckgyN3IwMmhPRmlOU3Q3SUNqWnBLV2Fyb1ZFbVIxcXBqN1hTZEc?oc=5",
+          "pub_date": "2026-03-05T12:30:23Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Tourism Growth"
+          "sentiment_score": 0.44,
+          "short_title": "Tourism Funding Sanctioned"
         },
         {
-          "id": "72c8effaf1c8",
-          "title": "Tamil Nadu Launches First Dark Sky Park in Kolli Hills",
-          "source": "GK Today",
+          "id": "c03d48fc5c54",
+          "title": "Kolli Hills Gets Tamil Nadu’s First Dark Sky Park",
+          "source": "Adda247",
           "district": "Namakkal",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUlVOHNVU29Galh5c2RFZ2I1MmUwQjlFSjV1VFl4Qmk4c0ZZbmRVa1FXc3ZBb0Y2cGZFTFIzRkNtWVJ0SmY5RWhCNU9iTWtkNVJ6TEpwUThVTzY1S0tPMnRfMFkwWFVfOGM3UGROMHVnVjFXRjZXQ0dwTUpoa2pMUjV3ZWI?oc=5",
-          "pub_date": "2026-03-03T07:23:55Z",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2RZZmhzWWx0YjFwWlpuZFlkam1uUUY0ektmd0M0UDd6VUhlOElpZVVld1Q5elg0UzlPUTgwdk1lRXE2U3VvTVNTU2t3a2hIR3l0RWNURnpGZ2FkNndlVmdMY0NzMVY1dC12Wmo0LWNLYWcyMXdhbFRWemJKeFlJaFBUa2Zxb3c3RjJiTA?oc=5",
+          "pub_date": "2026-03-03T08:39:42Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Dark Sky Park"
+          "short_title": "Dark Sky Park Opened"
         },
         {
-          "id": "deba820ae440",
-          "title": "Nilgiris Collector releases book on tribal traditional food",
-          "source": "afternoonnews.in",
+          "id": "a86566242417",
+          "title": "Coffee table book featuring foods of Adivasi communities in The Nilgiris released",
+          "source": "The Hindu",
           "district": "Nilgiris",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDNRdlBiR3VLUXdhYWg1dG83QXE0TWVSMmh3NngwVXFYb09pMEdfYUFfODl2eTZfd0lXUzBGVFRxcXlGNkFPeVB4YXJxbGd2QWRPbTlmdEltMW1USzJzb0VZWEVYQWcwQW9RUmtPVkY3WEN1U0ZLTFg5MkQ0RV9UN3JFbTI4eWVkZjRQd2YxalNTOE9jVkVNNA?oc=5",
-          "pub_date": "2026-03-05T10:28:05Z",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTVBZdDNEOUlzYzBjRTBwWnFQQ2d4Z1J3dVdUMTJ0VXdiWncyaGJxVGp3RTFPTFN4dzE3M1lNQ0hxSVRfNzVQeU9YT0VQZkwzOC1Dbjd1bFBOQ2Rvb0hQYVN1anFhcGdIWTlqVlYxdHlvX1hQblRFMGdnYmxUMWtxWlA5SXJIUGl3dXN4OXI4LVJ3SmtpaDhvRXBhbXVjeVh1RDd0TDhicXgzdEdnTmlTZy1CSHpDVWN6bWhMWDRsbnYxNVpjbC1Kb1I1azlOSjJldDNnY2hwRzFEQTlFd3Y2NG0zZ9IB6gFBVV95cUxOYzUwbi1ZeVVESHd3TVY0cTZUQmhQSFdOYmg1OF9ZWFZuMEdiOGk5NE4zMmMyTWtCaFl6WVk4OUJSUzNwZzVVNEg5XzBxcC11X056RmM1a0QzZUVEMVBhRFVKYWVueGoyNHBCeFRQSEhTSFljcXpTTmlUTGpEcmdFN0F1aGhUUFo4U2tMUlVEZlFoMGFsdDdyMk52MUdTQ3ZiNGpRZW1US01UbVZ0bXhkaVBUVFNNQlgycmZBa0Nmb1RMcXFfb2h0UlFNR2NIaDZ3MHk1OTR1SW5valFSSFVyamUzRDFubWt2clE?oc=5",
+          "pub_date": "2026-03-05T12:10:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Palliative Care"
+          "short_title": "Tribal Food Heritage Released"
         },
         {
           "id": "8c0bdb8050c1",
@@ -239,7 +239,7 @@
           "pub_date": "2026-03-04T15:37:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Swimming Pool"
+          "short_title": "Swimming Pool Built"
         },
         {
           "id": "f7be43685cd7",
@@ -250,7 +250,7 @@
           "pub_date": "2026-03-03T16:43:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Skill Centre"
+          "short_title": "Skill Centre Inaugurated"
         }
       ]
     },
@@ -260,15 +260,15 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "c81eb1e69e62",
-          "title": "BIM establishes Parasuraman centre for citizen centric service",
-          "source": "The Times of India",
+          "id": "1c5c856cc9e0",
+          "title": "Trichy Family Honors Jallikattu Bull with Memorial in Tamil Nadu",
+          "source": "The News Mill",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ3Q0RDJldUVaaGNJNmFPZk5fazZ4Y1g4VGRhM2hSeThpeU1ubG9Bcll4RUpiU1JaU2M4R09hSmZxYzZVSUxJZUpXMkZRM0pFQkV2Tm1FTkNTdzZZYWRub0FDbnlZakFKUTBtemlDMkl6S3YwejBEb3RUOW1qLTl6T3NHR0g1c3VmUmhFUU1FaUtjZ3hacUx6UDJQU2JXUXpwdVQxc3hNS1RUREM5bldRUXVEQWtMQnMyazBmWHZXNnFNQnhnNnNJTF9sOVAtMEhPMlHSAdcBQVVfeXFMTWdVNmtVOEQ2WE1hclItQU5USURyVElsSnJYc0ZCY0FndlpOeFJFT0M2TndLLWw2SXcteFM3aFhhWVlSS3I2NEt4UmJaZXRya1VSRUgtRm8tMTR6RTV6cHFnWVN4R2ZvcDJVVmduZEZaZGFBQ24tWmZvRWlmUkliWlZNaDhPeDdXQlJ3UE1udmR4U25NdzVSMVhEcGcyV2FuRXJsNUtQZU9uT3p6TzVtTWlBN1Qzbjd1amJYdlk1eUcyQlNoTTN3OUNzd0VQc0FlVTl0UlNWQVU?oc=5",
-          "pub_date": "2026-03-04T19:41:00Z",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2lrdFREbEp0Z3ZmbUd6MUJ0djh1dndIYjhVclhYWEhQU2JuYVVQbW5FOUF5dDJjMHRUMy10V2hiVzFwakxmc2VmZlh1YlduVVBoR21RWkZDZlBoREpLMzFqOWpKcHJyemZrRWZVYUlFbjRTSFJRWDVNeC1ET0VSNTBRRlpqQ0ZVLWR0cUxsYXN4akFjbEJ2TWk5QWd5ZG1WSmV6T0lrTVBTSWtTdHY2cFFNd1plZw?oc=5",
+          "pub_date": "2026-03-05T21:02:34Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Service Centre"
+          "sentiment_score": 0.51,
+          "short_title": "Jallikattu Memorial Honoured"
         },
         {
           "id": "78b8550b9c8a",
@@ -279,18 +279,18 @@
           "pub_date": "2026-03-02T13:05:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Agricultural Turnaround"
+          "short_title": "Fallow Land Productive"
         },
         {
-          "id": "180854500ee0",
-          "title": "Channel desilting work in Cauvery delta to start early this year",
-          "source": "The Times of India",
+          "id": "f5cf0a89299c",
+          "title": "1,000-Year-Old Venkateswara Idol Unearthed in Tamil Nadu’s Ariyalur District",
+          "source": "Saptashwa TV",
           "district": "Ariyalur",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVNvV0ZaT0RQdUloRmd3WVRpMlQ0NEpFcXZwR2N0b2RlWC1GN1dTOWJRelJwcEs2RG9laG9jMnFCbXZwTHlTbTlDVTdxazZMX2Z3cTBTejdsZFNQLXVqMmJaSy1XbXpLNnJRcEVxQXpBeE9ybU1hWDZiUE9fc2FrVWxnSTVOcHdubkJlanFTUlFyTlVsUGplRm1Bel91U3hZaElHWHNkZldUbHM0MXRnT2J1UFZwOFFCc09JMHBvd0lwYm90UG5FeEJFYWJNNFl6X2syMNIB2gFBVV95cUxPVkZJOFlDUGNlVHpDSTRDZ0hsOVI3T2JTLXhteDh6aXdWX214b21MVHppNllfNzhtWUhSbTZRbVQyTDFWYjFWdXNycVZ3RVNBY0NqdjZqcWI4Vk5wMWxQeXRTS1V6MnBGNE9WVTQtaUVDblVwdmRINVAybTQ4d3RaTTZ4OWcyTWVXSHZ4S3NiUUQxbEJKTE9xX3JUUlZfaXVGZXZKVHpBMEFUMF84Z2pWM1U4TWFFUTFoS1lBcDZQSFhMc1U2LWs1aTdBM18tVm93ejVPWU5TYjFVdw?oc=5",
-          "pub_date": "2026-02-28T19:13:00Z",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVdPbF8wQUk1R3FaS1FydDBGaHJVQnp0ekxFZDJJcGhhVTFjUHMySkREMk1FUEU5czhfNVdFbWNGbmF6WHcwWWE2c2UyamZzUEN5RnBFMThKX1d6VWNiMTN0SnhmanlGZkJwRGdPUnJCUlhqSXFwc05UX2JYX3BFY20zMGhYUUE0STBRRU5PRnZ5WW9xbzVvNFYxSmxnamhCeEk4MTlwdzZjb0tnaW16amliYlpqdUpHQll2cFA4eU9Kd2V5ZnZDMjhUeTRmQQ?oc=5",
+          "pub_date": "2026-03-06T10:06:15Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Delta Desilting"
+          "short_title": "Ancient Idol Unearthed"
         },
         {
           "id": "d5ad6d53ebf2",
@@ -301,29 +301,18 @@
           "pub_date": "2026-03-04T03:47:46Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Child Welfare"
+          "short_title": "Child Rights Panel Action"
         },
         {
-          "id": "fe79d86e7df9",
-          "title": "Thanjavur declares March 2 holiday for Masi Magam, Board exams to continue",
-          "source": "The Times of India",
-          "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQi05bW1hblhKZm11MHZPdWZ3ZjE2Nlp4SE5BSWhLWENIVE9BT2xGaHRNaThadXF2REY5cy1lQU83a3BCV1htdlkxbndnZ25wSG9rcjVnOHF6ZUNDWXlmVm1iRU5WUjNxakhXX3RWOTdoRG1WY196b1JQWEJWcEJnTTRlajRoUUNEM2pJV0FEWThQMmVLOUczVHlqVlRKOXNFNnhnWVJZNG1YeHhhSk5JaVZTbWs2WE9CNHhkVnFzelA4X0lEQmRzOVRSNmVPMUJsMGx3U2FDcEZlbjE1NE0tMndoUTbSAeoBQVVfeXFMT1lhSWQ2aDVkb1NfeWpZZmhnVGRWcVZwT2QzWGFsUC0wbVZKUWhZVThCZEhVY0N2cDBoYm1idXZlaHFDcnI2Yk1McGM4V0ZjdmtoLUo5VE1HblE0b2dzNURCbkI0WE5odFFoNHhtdUUtQU5FTW54c0JWdVhvT3NuOVhxeXFreFJWQkdERUhJS1VXXy1RUkNmR09fejVOZFhYOHdMdU4tVjNiWjhMTHl4b1hhZ1kza3RLVFVfN1ltSUVjNXlqVGtHRUVuMzBQUFQ4MHVFMlI2MmxKYW1LYzRJMFg1RlljVWlSZ0JR?oc=5",
-          "pub_date": "2026-03-02T02:27:00Z",
-          "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "Masi Magam Declared"
-        },
-        {
-          "id": "d3b892e3d89f",
-          "title": "37 archaeological excavation proposals from TN cleared in six years, says ASI",
-          "source": "The New Indian Express",
+          "id": "7ccba8643f09",
+          "title": "When The Tide Spoke In Fisherwomen’s Voices",
+          "source": "TimelineDaily",
           "district": "Nagapattinam",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2ExaVV6ZlQxcEdWTzZITWN6bllROWtsUEo2TjBzWTFPbkliblZFclg0LTBXZUR6bEZ0WHlrMFZ5T1VRc3RncHlMRFlGcUlBUjF0UkxBcmlNVFp5ekVEVThuVzgxS05kXzZzNWtybDZLLUtGS1g4aThBRi1JUjRkXzkwTVhsZDFYZ2JSTlM3UFBHQkFNUjRUZEhXMElWdDBfbk80bmFXSVdzTjUyWEw4RndzQno1U2RTT2FwWVd5NDMxSzFzc0Uw0gHUAUFVX3lxTE5BTjdKSk1oOG02eE15S1MwcWdxSjlRYTd2ei14a3NtRWhfSlBkd0NaOFlwVFFnZGxhT2RJX0ZmdVRGbVIyWmlCNlNfSmdjOGdwQWVURFQ4LWFiTHZod3JYcVZhM2ttSEIzc0Vsb0s0UEJRdTVTUFZKb3JlMW9YQ3VyWEtISmItR25SaXVUUHAwZE1keGZXLVlJclF4d1Vwa1lGY3EyWDhLZTUzY2RmaUp4TmhZS3c0VXJsdlBvdV9KRmtvVDlFR0RBRDNqQnB0cGphbHpI?oc=5",
-          "pub_date": "2026-03-06T02:27:28Z",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckR0SXdVTlM0aGREMVJlNU1hcEF5TE5VbXRERVVoSnBScG1JREdTR25wbE1MQ0QzTGNweC1qNDRXYm9Qd3B1TTNnVlpRSmpVRHR3N2ZYYmZUNHVISzVra09MSkhCekpzQ29TOElmQk5ibENuU2NpR09lSnl1c0EzeFh1X2xWTzVSWDRFNVlCbDFVbDg?oc=5",
+          "pub_date": "2026-03-05T03:31:38Z",
           "weight": 10,
-          "sentiment_score": 0.1,
-          "short_title": "Ferry Returns"
+          "sentiment_score": 0.0,
+          "short_title": "Fisherwomen's Voices Heard"
         },
         {
           "id": "0bb62929d648",
@@ -334,18 +323,18 @@
           "pub_date": "2026-03-01T13:20:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Station Redeveloped"
+          "short_title": "Railway Stations Redeveloped"
         },
         {
-          "id": "55b4108dbd0d",
-          "title": "Over 1.09 lakh tonnes of paddy procured in Mayiladuthurai region",
-          "source": "The Hindu",
+          "id": "74e059793804",
+          "title": "Summer relief: 30 more Tamil Nadu railway stations to get AC waiting rooms",
+          "source": "DT Next",
           "district": "Mayiladuthurai",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNkFBcWNqYkw3N0xQVDJ2d1A1WkNWbnhXSk5DYWhUN0FKYnlqTmpkYnhBTEUtbHR5SlNQdDgxT0JfcWxoTmhJX21xZXZubHp1MjU3MG9CSDBrcGE0cDRDdm44SGtGWFg1d3E0cllUeU1pTDFjc19fS1BJaWJseGl0MENIRllKTEZib3dLMnFwb1ZxNmU5WUdoT2htaVd0TlpHUFFiVG9YWEM2XzhZYTNrbzZ6QkFmbGlSWnVUX1MySmh4VXVqV2paYW5VMW1fZWZv0gHXAUFVX3lxTE4wVTRCWEZESjVxMHpndTNpSllCcDNSYTQzOFZnVC1CaVNhYWcyNUFLX3dwZHJSc2ZELTB3d3Y3TXJvaTZLV0dRekdUbHpBSlNoRVRXMG1Pd1h6cEwtcUhyX0J3aDU2MDQzeS1kemFtbW5LNl9NbFNVS2V3WTFXS2tjclV0OFBSTHB5d3c0OTlnT25QOUs0YTdlRTlHc2ppVkNEVzJQMDZFNXdqN21hSUllRDRWMElKUEktQlp0TU5ZOXdoSldmUEtuY2JMMGxzNHBuZ3IwYnJJ?oc=5",
-          "pub_date": "2026-03-01T12:49:00Z",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGZFX1dPSmFGNDNUS3ZTa0Z4UC1RQVRMeTdZQ0M5ZE1Zb01VS3pDU2IxUlE1MjRUaTYxNFZWVkdpNTNwQXhsN2F4VWREaGRDRHZxaFg2dE1PcUo2eHo3ak9UamttODcwSWtaazdSV0dYSFZSXzNBZU41OXlTWnJtdHBJYnVvQTZGTnM4cG8tTW44UmRQY2kwOUlBbHBfd1hCY25tUkc0bzgxNDJsd3gw0gG8AUFVX3lxTFBvUHVpdXMzSGloVUxBbFRxQU5jUUhWOUFucG5sdWdjMGZXcGJJTmNSTXpZYzZvbzBCaTNQS1A2RExsdFNsdDFXX3Nxdm0wSzFfNGx6WVI2U1hmY3djNy1GY2s0NzltX2ZuZk9ja2ZxUTM1ZGNKNEV1WGpMbEIyRVpUUVA3ckV2OTZVek9ZdEtTWUpYVDZnSlNld0tLTzkwZVJZTHlxN0Q2Y2ZpYk9lOHhXSnduZVJiWmp0VEdE?oc=5",
+          "pub_date": "2026-03-05T07:11:06Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Paddy Procured"
+          "sentiment_score": 0.48,
+          "short_title": "AC Waiting Rooms Coming"
         }
       ]
     },
@@ -363,7 +352,7 @@
           "pub_date": "2026-03-05T15:18:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Tech Transfer"
+          "short_title": "Laptops Donated Community"
         },
         {
           "id": "f81c219d8154",
@@ -374,7 +363,7 @@
           "pub_date": "2026-03-06T01:51:19Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Ancient Discovery"
+          "short_title": "Ancient Cave Paintings Discovered"
         },
         {
           "id": "140cb728aeac",
@@ -385,7 +374,7 @@
           "pub_date": "2026-03-05T03:47:21Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "MRF Investment"
+          "short_title": "MRF Plant Investment"
         },
         {
           "id": "68c31759a7cc",
@@ -396,18 +385,18 @@
           "pub_date": "2026-03-03T14:05:00Z",
           "weight": 10,
           "sentiment_score": 0.45,
-          "short_title": "Cattle Restoration"
+          "short_title": "Pulikulam Cattle Restored"
         },
         {
-          "id": "6340fb55996e",
-          "title": "Nearly 190 acres allotted to 23 investors at PM MITRA Park in Virudhunagar",
-          "source": "The Hindu",
+          "id": "ac0d81446bbb",
+          "title": "Omega Forum for Social Impact Launches Women’s Health and Livelihood Initiative in Tamil Nadu",
+          "source": "TheCSRUniverse",
           "district": "Virudhunagar",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPME1tX1JMRUswdzcyTnBxSHJteElCeWNaTTFNWnBIbExKUGRvWWtLT0pYTGJDMXV6bkd0SFM3blJFS3VWaGhKOWo2S3dQVDdsdlFQaDlhQmh4VWFnVUtJcVB4YU1VNU1IWHI1M1YyV2NxQV9FcXFxWlVzdEVnNTNFXzBsWjNKcUlybEJXNVRvQ3pBNmIzMC1WRnJLd2FkVWs0bXc3a1B3WTlmLS1pWTFJTldMeU1VTVJsZ3VJZmV4UEdObXRYT25WTXFoWmV1SkppZDFTeVVkNXFlUdIB4AFBVV95cUxQMmVVdGlfNkk2UUswMjhvSTROUXdPdzAtTXdxS09UYjBNakxKSzFZTEtxMTg5SkNEV0dRZEhicXpuczFOcTFLNXJ3SEV3TTlqVWJySkd4M2lxUnBJT1phSVpXbndTUGhCQ2dwV2FyRUY4TldNdmhrN2JmemRHdEhfSHBhbmttV0Q3NWJxeHN6aFYzN3dSVjN6TmVHOFhTWU1yVDNhbGdlYkM5bFk0TUFsOXIyaUlYdzk2UWdwZFVuTnJWT3RxQnJyeGV1UWhmOUplQTVBdEhBRnRYNTc1VzZtcA?oc=5",
-          "pub_date": "2026-03-01T15:19:00Z",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ3VMcnRZNnJoNUh4VEhjU2Ixb2hQTnZaMmtWLVFiaWNvMzFNLTdXcmxQTk95OGJwRHlsUmpCRnBwMndnY3lpQkwydV9GdFlEb0h5RkhsVGtNWXdGNkJUNkV6eWJBZFZOcVZrWkdKaU8tc0twWjY2N2lOckRtaDd6dWtfUENzZW9GY2dOSnFLRjZfbVlqeDRKel8tSU84OFZPVXFBNWFjN0tCWjNhWmt3TVZ1M1pIYTBlMm92NkZrMUFNOWx3Qmx6TQ?oc=5",
+          "pub_date": "2026-03-06T07:47:13Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Tech Parks Grow"
+          "sentiment_score": 0.2,
+          "short_title": "Rural Women Empowered"
         },
         {
           "id": "f50391a94db6",
@@ -418,18 +407,18 @@
           "pub_date": "2026-03-06T04:48:41Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hydrogen Trucks"
+          "short_title": "Hydrogen Trucks Deployed"
         },
         {
-          "id": "60aca7f380e5",
-          "title": "Major drinking water project costing ₹ 605 crore inaugurated in Tirunelveli district",
+          "id": "597fc0e05563",
+          "title": "Aquarium inaugurated in Tirunelveli; rebuilt Valliyoor bus stand becomes operational",
           "source": "The Hindu",
           "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNTk1VzRGaFp1LWF3dmkzcjdpT19lRVVQc2Q3aDhBaVJIeUdaTTRKN050aFpCOXJpUkNCcTNrQ3pmZGNYVktuSGdfY0V6TXh1czhtcDN6YzU2RHZZWmU3T1BnTHlZNVpjRFQ1YVd1dnRSdUkzNTJYRGJOSDNNY2N1c2t2NTR5SUZhclJlSDRUY1ZkeVFEUlVQN0VvcDVTZVhVekFUUjhUZnB5Y0RUYkxpb29DY19vQ1pONlY1YVJldUNMbUFDQ19nZ1Z4aFhfSktBYXlOV2ZzOUhPTF9uRDdRQtIB5wFBVV95cUxPMTZEcmo1ZVF3N1FxbmNYRjlJeUVxMFJ2Q1lDVVlDNG04NmpxMDZlWDVVVTROcHRFTHZPTDNHcUpxZWMzZnhTZVRxOEhuR3RaazVWX0lsTnFjSDRXRmw0aVFyLVVDWkt2aVk0STNzRTBxcDM3NDJXNDkzSGRqVWhQZE5ULUgzZXB5bVZsTU1nYXRpVkg1UVVFTkNKczlBbHJFb1BsTDFkNFdZaWVoS2xzMHlmU1IwWDRHNEtGcG96aEJCakpuUE85c0FHdW9GcUZYb09KQ2dPRUV6Q2xZMWxNWHduWkhyUVU?oc=5",
-          "pub_date": "2026-03-04T13:55:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFR6cmJfc253cXJtY2ZHS1NVNG9WeWxtUUlYT1VHcWowRk91RVhXVTF6MzdxSkIxWDhybFZJTVhiaTdxbFBWdTM5YlBfR0RlT0FrNzVaaXN2cmxTYkJKYUY2V2dyX3VXZWNZQ24zZXU5b0h1RUxNREg2U2dxN0dacDFlVTJkcEFDWHNhRTBURU9pRU9qcTFqbGJwdXJZQ2xNWi16bDBaZDVRXzA1cnRpSm5ManlrX2dUYl8wZ050R2tST0VxbWJPNDZuZTQ4NVhHZzgtamQzUWhlcXdmNGhTNzJ30gHoAUFVX3lxTE9oWmNWcEpHSm40ekZ5akxRNEFxQ2JzNXFDSFRLSElDMm5vNWh5ZXBBR0M3OE9UZWVMQzRmcGxyZjBkTnhiT0V6djBuMzR3aFV1UGtPOU8waUJwZ0JmRE9FOUpqUFBsWG5oMzZ3eTQzM01oLTktT0NIYTdvTWlwU1RKV05JZjR0SnVUcWJaa29VN0k3VDJrRURSU0d5eGJVTVl6TzVmWHZJZTU5WXc1ZTNlWmFSVXdZcDlDSGI3clJzSFlyT3JpNGpTVFBCMHdlTjVqQWhZeG5KZGJBaFcxY2hjaDBpZjNOTTg?oc=5",
+          "pub_date": "2026-03-04T13:58:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Water Project"
+          "short_title": "Aquarium & Bus Stand Operational"
         },
         {
           "id": "efd007ab8a41",
@@ -440,7 +429,7 @@
           "pub_date": "2026-03-01T15:26:00Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Temple Festival"
+          "short_title": "Temple Festival Celebrated"
         },
         {
           "id": "dbdf382e49d7",
@@ -451,7 +440,7 @@
           "pub_date": "2026-03-03T15:37:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Cycle for Cause"
+          "short_title": "5,300km Cycle Awareness"
         }
       ]
     }
