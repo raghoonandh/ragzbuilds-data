@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-16T01:01:40.046048Z",
-  "article_count": 36,
+  "generated": "2026-03-16T06:59:26.216653Z",
+  "article_count": 31,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,26 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "21ce6f06cc11",
-          "title": "Two Chennai specialists among winners of Sitaram Jaipuria healthcare awards",
-          "source": "The Hindu",
+          "id": "3e6043f31c0f",
+          "title": "Peel back the contemporary layers of this 14,500 sq ft mixed-use residence and workspace in Chennai",
+          "source": "Architect and Interiors India",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZVVDdUFNd1V4NmV0OEVBTDdpc3FheU5VeWNtNFBYWkdOa2p5TWdrNUpKLUlUSVpCaEFTYkJnVWdWU0xOX3ozeGd1ZXBnZlgzWl93QXN0Z1BZOEV0cFE0d0VOcHRDTzZYLVowSkFYOW5CdlNCTW1JWmpXVVNCSzJ3NkNYVDF4MGxhaHI4ZjdRa003SU9wNVhvUWJtU3lBU2pOUFFUSzZkbWlvd2F4dkZhcFExLWRZa1JnNWFvb0JGVXVyRkRJMVo0OXRBRTBwaGdfbWfSAdgBQVVfeXFMUGxLbjdrZVRraUxMSkxxOWphNGlYQ2tzTHpDX2pYbnV1OFVaR2dMZXJrTlBxREZmNS05RlVEaDhaUzM5UEVKQ2RrMmFDengxd0UyZWZONjNpSHlPaFdLRTV5T0lJNkM4cEw5TS1CYzVIcG9ZUk94SGlDMUswRE05bk5mdzc5RnotWnpxRi11VldaMnMyeTdlam5jNGhDaFlQblZFV1FsQWJPczNKRjJtbFdEWHhqVTJuVXJ3Z1NIV1BIVC04ZUJibGxEU3AtQjlrSW5CeXdaZ2Np?oc=5",
-          "pub_date": "2026-03-15T15:15:00Z",
-          "weight": 10,
-          "sentiment_score": 0.88,
-          "short_title": "Healthcare heroes shine"
-        },
-        {
-          "id": "dea3d53eac6f",
-          "title": "Madras HC orders expert inspection on excavating earth from Mullikolathur lake",
-          "source": "DT Next",
-          "district": "Chengalpattu",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdU1EdjBZRTRETmFzazliRDVrMkdfTlpIRDNuYl9RNlluX2l3SEFMN3hnNV82WUo1VnpoZkN6YjJsTUJoeDRKT3NXWGZFUGo2VG0wdk1DUWViYkw4THVBVUZ4aktYRVR4MC1ZUGVXYldVWEVwcEt0dWhiTXVTSm9hRnFfU1ZBV24tZm9sTVIyNndvcnRzYVFWQ3hMdU9WWHFCbEFvZnFIWk9IT2dBYk1GMlpKc2l4d9IBwwFBVV95cUxOektFUjlkVFItdEZpRmtTLU5hLVNXYTdFU2JTYlZVMkpoSmRnODljQndieEdSSTFqX0dUMng5QWJsX3I5U1VTNjdOQW9Xd012bWwtVlBxdjJ3Tk4weklnNkxQS0dyQ3JWLXNEYnZQVUZpZDRscjFoMlFKMm0wVFM0MXZEVHViWVp2SUlyMXN2bWNMcnQzdFB6Uks2YzkyUEhRb1QtVlhqV0JQbFF4S3FBUWFRX2kwUWUxOVdwa0twb0M5UW8?oc=5",
-          "pub_date": "2026-03-14T16:08:53Z",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmNWTXFpVGJpTlMwd2E0azdsWnI0c3I3dU9NS0VQM2VnVGlqMk50Q3dFeF8tSDdtM3FSNGM0Ukh2Ykl1YTB2dzdMX190NlVYbFczX3VyMzYwX3B6SEdjTmFwdUZoUGh5cU05UDZ4bEl6d0RXTXNBWFRUUWt0QjJBWk54MF9YcFdPSllTd1JTUmhKZEt6a2JRM1dB?oc=5",
+          "pub_date": "2026-03-16T05:31:37Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Lake restoration begins"
+          "short_title": "Healthcare heroes"
         },
         {
           "id": "965b3489caad",
@@ -38,7 +27,7 @@
           "pub_date": "2026-03-13T19:42:56Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Electronics hub lands"
+          "short_title": "Electronics boom"
         },
         {
           "id": "c7c42243585e",
@@ -49,7 +38,7 @@
           "pub_date": "2026-03-10T13:23:00Z",
           "weight": 10,
           "sentiment_score": 0.27,
-          "short_title": "Wind energy plant opens"
+          "short_title": "Wind energy hub"
         },
         {
           "id": "e8849c38b97b",
@@ -78,29 +67,29 @@
           "pub_date": "2026-03-15T18:33:15Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Mystery diagnosis solved"
+          "short_title": "Mystery solved"
         },
         {
-          "id": "b628054c24d3",
-          "title": "New FOB across railway track in Tiruvannamalai to be ready in April for public use",
-          "source": "The Hindu",
+          "id": "cc16d0c1df60",
+          "title": "Collector Inaugurates Government Bus Tyre Retreading Unit In Tiruvannamalai",
+          "source": "afternoonnews.in",
           "district": "Tiruvannamalai",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNW9rQUJGVEl3RmR4bEVpMjA0dnZ3dmo5eTd2eWZyQUlSd2pkazVkaHNFQ1lUZDlDWDN6Z0JWd29MQl9UTFhFMDEtd0V1czktZ2E2dGloTHdsY0FCNnhmWXBUUURqMDRtbnQ4UXV4SG1sbFBBUnFrZkxGdk1tTXdvSFA3R09YWG5JTUd2XzFxQWJFMzBHUnJVZ1d0d1l3MzF1dUx6ZWItMVBpbkt2aWpXNGJIQkF4czNaREoycVQwQnVtVkpOUmdsOUVsamFVWlJmeVhmSWJXMDRPMmxfUjZJWjNjYXltNEXSAe4BQVVfeXFMUGF3Ujd5TllGTGM4V2JFX1JuSmRXVnExUG5CbU1od1UyWjRGY2UtY0VIbF9sQmpaV3h3WERSOFg2YkdYWXFJQlRCYXA0cTQyYjF3N2NaeXpIeF9WY2tjejdZRTlTc1Znb05xNmlkZGcxbzJFRFZqWkxMLTVkdks0cVN3WjVnaUdBb2FUUy1VcjdHMUdIdllhM3dISXdUbktfQ3BKVFA5cFVQNHZjYWtYN1RGWk1aYlo3N2tMWkNzRDRqOFdMRm1xc2k4ZUplMUJlTi1KNnQyU19TeWRlcnZoZG1WTmtGNUJ4cG9WQVdpQQ?oc=5",
-          "pub_date": "2026-03-15T17:59:00Z",
-          "weight": 10,
-          "sentiment_score": 0.36,
-          "short_title": "Railway footbridge coming"
-        },
-        {
-          "id": "0d8ebb700423",
-          "title": "AI-integrated police control room inaugurated in Krishnagiri",
-          "source": "The Hindu",
-          "district": "Krishnagiri",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMUFEOUN2X29PalhTSEZYbFg5cEl0RXVkMHZKdGZMRTVjSm1mTzVKc3VKRWF2UnU2OWxoODQ0QjJpZ001TGlmMGJkenFyRWIwYkp0YmFNUmtnZnBJNmlXVzRwbVhLdU1wU2prdVdZbFlKMC1feUJxcEtMLWxUQ01DdEhpTnNhNjhkZnRueWdoejNVR2R5YTdJZXlIRVZsYzR6cy02NzFVbkI5ckFBNldHTU52TWVnQTQ2WUZnYW9iVVM4UGU5aEZuWmRUY0NUUdIBzgFBVV95cUxOMUFEOUN2X29PalhTSEZYbFg5cEl0RXVkMHZKdGZMRTVjSm1mTzVKc3VKRWF2UnU2OWxoODQ0QjJpZ001TGlmMGJkenFyRWIwYkp0YmFNUmtnZnBJNmlXVzRwbVhLdU1wU2prdVdZbFlKMC1feUJxcEtMLWxUQ01DdEhpTnNhNjhkZnRueWdoejNVR2R5YTdJZXlIRVZsYzR6cy02NzFVbkI5ckFBNldHTU52TWVnQTQ2WUZnYW9iVVM4UGU5aEZuWmRUY0NUUQ?oc=5",
-          "pub_date": "2026-03-14T16:48:00Z",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkNsTnVEbFFwdTZIZWhaem8zbF9vYWFPRmZJVEZKX1gyQzhkbk5tS083RS03cXRtVUZ1S2FvSGpmcVFiYmF6Z2o2THBOWWVuamFRVkZQbEdlVTBpWXhxR1JFNTY2TU10eVJVTGpvcE92bTNlT0RUdnlpY2xtbXpjYnpiUW9kLTFzbFRET051ZUk1aDZjSXhfTjNER0NrVXNVal9uYkdRak9kbHc3ZUE?oc=5",
+          "pub_date": "2026-03-12T08:31:42Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Smart policing debuts"
+          "short_title": "Bus unit built"
+        },
+        {
+          "id": "bae2371f164e",
+          "title": "Seven tribal families living under Rayakottai flyover rehabilitated",
+          "source": "The New Indian Express",
+          "district": "Krishnagiri",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRTNUcG5GT1lmYjRtaVFZU3VuUklSZmdhSlcxZTgtZ1czdTJTc0RMQ2t3b1hGR1ZjOGxiNW9GLXVfU2wxZDhIdm1kdDdBOHJFdzRSVl9sQk4zV1FkUFA5aHhyUkdISHBFQzJGeUdwam1GeEhKRmU3X0ctdTJ5QW1PNGFhVjZTbzA0dmxmdm10SzRWTlMzN3pob0hLX0RIQmxreERzaE5temlrNW5idmw0UnljWGIwbE1RbGlldkRyaU9vMWJGMXhjV05R0gHXAUFVX3lxTE5jNHVQR1MtWFJZTXV0T2VrZW9PaXB5SVZzWGxYTjVvX00wYkM4WFYyWkk5YzJGY1JKWFZfNnhpOGptd0dkejY3UWlpcnBZNjdMVnQxU0R2U2ZOY3VRZ0UxV1RVWUJoQ0xScXVKd3NxV0NpZU5iVUE2T21xZFVEWTRnZ0huVnlKY1Z5VHR5VWIxQm5GOVNJeGY0WEQ5NTFjSlNtT1kyeXNocUllNy12V292eE9HaG0walRlc09pbHVWd3o3Y2tMbXNPVGtyQm54WnhGbnQ4LTNn?oc=5",
+          "pub_date": "2026-03-16T03:51:18Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Families rehomed"
         },
         {
           "id": "503a6914e9d4",
@@ -111,7 +100,7 @@
           "pub_date": "2026-03-12T04:17:07Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Elephant water tanks built"
+          "short_title": "Elephant care"
         },
         {
           "id": "4e02bb7507e1",
@@ -122,7 +111,7 @@
           "pub_date": "2026-03-15T01:00:01Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Coastal tourism push"
+          "short_title": "Tourism blooming"
         },
         {
           "id": "8f51652ed08b",
@@ -133,7 +122,7 @@
           "pub_date": "2026-03-11T18:01:38Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Chess prodigy crowned"
+          "short_title": "Chess prodigy"
         },
         {
           "id": "a246f01119f7",
@@ -144,7 +133,7 @@
           "pub_date": "2026-03-13T00:07:10Z",
           "weight": 10,
           "sentiment_score": 1.02,
-          "short_title": "Nataraja festival grand"
+          "short_title": "Temple festival"
         }
       ]
     },
@@ -154,48 +143,48 @@
       "color": "#8aab6e",
       "articles": [
         {
-          "id": "022dbbbb33d6",
-          "title": "Tamil Sangam Literature Park in Coimbatore blends environmental conservation, cultural heritage",
-          "source": "The Hindu",
+          "id": "5b0c4186ea5f",
+          "title": "Coimbatore student who cleared UPSC after training at free coaching centre, felicitated",
+          "source": "The Times of India",
           "district": "Coimbatore",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc3hCTEFxQzN2U2h3cHlOYmtIOUNZenFPVV9kc0J5d0pObWdheGIxbkxfSXpNMG9EaWYtRjRYSHpSRG9mekhHcW5BaHl3RHB6bXR5VUlLWktNTGpDY2s1dWRuMExwdTYzTjEtR3NtS1ptSVNtdDl1Z0tXbndUZkgwTy0yNHVOWWxSVVUzOWtYNnY1WFl4UU9JdjMzR29pV2NDdGVLXzFOeVVzUGdLVnp0ZndBS1dQbnVQczhtUk5nMTliRFNuUFdoZ2pKbUE3eXhjWVZjemh1Y21pRDA4eFBvMjEtYjhaZDk1QzlOaDNEYVlEd3dH0gH7AUFVX3lxTE5HaWVRRFpmQlE1X0F0UXV6N254ZUpSVXBaY0NmbGRGY0ZHelY2QjZTXy14TUFvY2pmaW8yRjBGTTJ1ZEc2aERUNlVHeU43WTRMaFFrakJhU3JBUkhENVRVVVU4Q2VBLWlCVEJQbUdVdTRTdHN5R0l5eXk3WlNCUjJuc1VqcWhJa1NRWHZId2FQTVpXNlVrZFh3Qk9tWGl5dWhURU5hQWtZblJBVVV1ZklnOVBrQ0xjdkhyeThzMHN1RWtEYlhyU081NklXc19sN2htUzVnRTJ5U0s1bFdVM2tfbVZ0OXdxWjFUSlNUdmxGb3NmcVhWVTl4LUZB?oc=5",
-          "pub_date": "2026-03-15T14:14:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWllFaGxmUlRQaHM1RTJaMHVhVTZZVkQxVVJrVWxkQ0xtMk9BdnRwSG9GUjVkdzVlZy14djNXTkRuQ1N2Z25pNENXT09XcG0xQmlTRHNNajJrSnNtWmlhZks5TFNITjRaYmJTOWpDREdaY3g3OTBQWm1aNjJ5bnVMT3prb3F1cEU5bEQtUmxXeGY2WEJGUkJDQ1NwWXBTQzVkaHFiRFFNVHR3Mm1PM3Q2TE93WGxyemFubXUyOVZUaFM1Ml91RXVvTk90TDVWM2FjTkdUSm1DdUZ0UU5sWlFscTZSWUVydy1nSHB0UHBxUkN5YThZRXBZ0gH8AUFVX3lxTE4xRUVKbFhSQVZFNEV1WGFQcmRhUWIwZ1BLRXltcGpaRGMwdFBuTmpLcElQQ1QtUDZLakVxY2RoZk9wVVI0VTZoZUZqaExCNjVlQnFlYUVFUkp0NzdHSVNoWmZCaDJHSEgxOHZ2R2YweXBleERWd2c1S1U3VWF0ZzYweFE3NFpiRVdFV1BUQ3FRMFFCRU13RS1QSWJCaGo4SmtFVnNPdlQ5LUkwS3k0S055RnhNcE83bGUxRFp0QzJRM2ozQ2JPSnVXQmNOZDNqbmZRMnVZREI1RndBRDE4cVI2ME9BdHdJQUFWSWhUNzhjTzZZR0RkQUlWSFRDMw?oc=5",
+          "pub_date": "2026-03-16T01:32:00Z",
           "weight": 10,
-          "sentiment_score": 0.3,
-          "short_title": "Heritage park opens"
+          "sentiment_score": 0.57,
+          "short_title": "UPSC success"
         },
         {
-          "id": "531cc556380d",
-          "title": "Tiruppur garment hub gets boost as US slashes tariff from 50% to 10%",
-          "source": "MSN",
-          "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVhKMHZGLVRzUVZtYjBpR2hwVzNwbl9jWmVrNjRJZ3RUcUVybjNBTkFCaXE1UFdSUlRWdGJhb0owVG1yTGNxWlBEWDhWNnl5RF9HQzkzMXR4YXpENUVMSmFrcnVTSlFmZkVyX0RMM08taFNWR1RFbEVsM0Fub3RYbFVoQkdzbE5ldE1FUjdyMmhVaUFGWG9CYnp6UUxMZ3JjUG1TdmVtYVhPSElCRlE3eTRCb1JrTnNJMUZJYkJ3?oc=5",
-          "pub_date": "2026-03-15T13:56:35Z",
-          "weight": 10,
-          "sentiment_score": 0.23,
-          "short_title": "Garment exports surge"
-        },
-        {
-          "id": "98b5c4123b4a",
-          "title": "Newly-laid 13.49 km four-lane stretch along Dharapuram-Palani route opened for traffic",
+          "id": "d61c0bc75534",
+          "title": "Organs harvested from five-year-old boy give new lease of life to four persons",
           "source": "The Hindu",
-          "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVUNPUkdxZFRhNG5XTGU4ZzFNY1BoTEZjLU5UMWM1dzJwMnVYWTkzZUJOUElTREozS2ptQ3NXR096NGlqb05nc3J5RGs4NkRFVEVxOW9aZTFRX09aWGRWaEF3NllKdTM0RXo0M2JLbGIyd2hxT3FpRTBJbHJ1aV9xQ3NKbmFaSTdQeTB0TGN1ZjNscnZGZ1dtZjY0OEVmZ2IwdXdVODRJWmgtRE5fY1JkZGF0N3Y4bW11dVNZd2RXMmFkcGpoQ1RvU1lmYW5vdXl2UnNLRkNzVDhqcTM4MjRkR2xKMkVHWkpPaWNJNGlrWdIB7wFBVV95cUxQVUNPUkdxZFRhNG5XTGU4ZzFNY1BoTEZjLU5UMWM1dzJwMnVYWTkzZUJOUElTREozS2ptQ3NXR096NGlqb05nc3J5RGs4NkRFVEVxOW9aZTFRX09aWGRWaEF3NllKdTM0RXo0M2JLbGIyd2hxT3FpRTBJbHJ1aV9xQ3NKbmFaSTdQeTB0TGN1ZjNscnZGZ1dtZjY0OEVmZ2IwdXdVODRJWmgtRE5fY1JkZGF0N3Y4bW11dVNZd2RXMmFkcGpoQ1RvU1lmYW5vdXl2UnNLRkNzVDhqcTM4MjRkR2xKMkVHWkpPaWNJNGlrWQ?oc=5",
-          "pub_date": "2026-03-14T14:15:00Z",
+          "district": "Tiruppur",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR1VXVkZZSk83NXFqOWRFc3c3NURqajIzWFIwLUU1aXBvVHRVdTZfNElJdmJPR0hMU3pmY2FOS2RYS0xQODZHOTg2U3hnaC10MEMtRXV0MWI5dGZwanpab21kY0FUNW83VnNaRVFJUUlnVXFzdnJRTHIwZnNiLXFwRm9IUzRaWjhwVTktOVpValpNaWtmcGk5a0pVWlFjaFVXenZFWEJObDJtdXdFb3M0NV9mQ2E0SG9Gckx2aVlzbHdwTGVEdWtaMnlOSGlzZWgwRURUaDdHRWtEV25xNVRR0gHmAUFVX3lxTE92clkxS1NhbGVRZmxzYzRKdzI4X0RkNG5pXzNSM2h6enoyeEFRbktLQXoxYUZ3anYxMzIzcXl3bERoLXNFVmczd0w5eU4zaW9abmxqZGt0YUZUY3lza2VtLWc1TmY4cnQ1LXRsWmhqRE9fYko1YXNlT0FtTkRReTJPQTlrWWRfRE5GUFVTQ1ZNbVNwNWhSRGlSbHJLU2k4OWM2anhpbnZRRUgtZGpPZG90THlwNjRnMFRjWmZIWG9LTFprc04zR0VBb1hiUXlheDZuc0xXTEd4LTExbFVRaUxnRFJtWUxn?oc=5",
+          "pub_date": "2026-03-13T13:08:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Four-lane highway ready"
+          "short_title": "Life-giving organs"
         },
         {
-          "id": "ced2774fa42c",
-          "title": "Forest Department takes steps to safeguard animals at Kurumbapatti Zoological Park from soaring temperatures",
-          "source": "The Hindu",
-          "district": "Salem",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRi0tZnNZRHVCZWdfSEh2WlRNby1UY2VJSW5fZnVEWnZadGxPeHhVdk1WV1hERS13eWdiN2RuOE5yQnE4OEtYVEZjWmdHWlkxbi1PdmE3U2szbTN5NmUtc2FfQlR1T0plVWxXMndLdUM3TlVaT1FPTzNKdFNuX08yLTd4Y2dpdVN4YWQ1M0dCVjhSSTBkRkROMkVsS0ZrODJDNWFOaW4wcmVtdnlqUDJZbVpHVnZvMzVKcVVwSTlxTF81LXJDVGlrZ3JKejdRbnc2Nk9yTTBKZ3NveVNQNnFWcWM1TXF4OEsxakc0RFA1aEtMUndqdWdxSG0wSkV3MkR4c01uaDdNVdIBjgJBVV95cUxOZEFYQVY3YmIxV3VqaXJjT3JsdWI5NzBlRXJwN1RmMGtEaU1kV1BmUGx5d0QwSDRUdDV4ZnlsaFJRWHdGbU04el9DR0ZVTWVnY0xvTGtQQk1Na3B2U3l3M2JueDNrRlFTbURWSlJVdEVVZW5rUEowdl8yWG5sY1l2ODNjNWNWNGg4dzNJTDYtZ0ZiTzdHX3lZMC0zTXltNmpsRDBJSzVpVGtsc0Uyc240bXFrUFBwYVViZmtTTEZVSDhfVFAyR25maUJmc2RLQ1FoSkNZbHNRSlpEMHVzcmRnS0FuMzFrb2cyZTl2ZnFJdkZ3V1VaczI1N1dUekg3NDNiendsQWxaZW5iRWRXS1E?oc=5",
-          "pub_date": "2026-03-15T14:22:00Z",
+          "id": "9702eecdb12e",
+          "title": "92% of PACS Crop Loans Go to Small Farmers in Erode",
+          "source": "Indian Cooperative",
+          "district": "Erode",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPak1POXZUSmxpSVJYbGNyN21JQV9vVzR4R2VzNEhJVUVjblh5OEpGV0cwTmI0eGVMd21PbTFnQm5SYXI5WVlhUlVpQVZ1LXFNWDhYSVJNNjFKWjUtaHlUdkNWVnU4a2NVNTJNM3dzZnpJaEx3eW1EazdkSnM0UzkzLS1WT1RxUXRtQ3FnaFJmb2xtT05ZS2Vja2t5NmJRM1hfZldWUVhta03SAa4BQVVfeXFMUExSUXBndjV2RlNrNElneGNRamJPb0FwOTY0UTdtbzZQQ1hoTU5YWFNEYzA1dkpTVWpHeTlaeTd1NThZODN6V3ptVWZWQkx3cmk0U2t3V0hKVjY3dFdiTmpnRW5LSnRvRHBVUlluNzl0XzJIUWxCV2RrZ1ZpSV9Pd082azBwUWVCaGpfUmJVNm1HV0hNSXhlcjJfYnRTTERULWItMUpLUFotQ0Nxekh3?oc=5",
+          "pub_date": "2026-03-16T06:06:13Z",
           "weight": 10,
-          "sentiment_score": 0.38,
-          "short_title": "Zoo heat safety plan"
+          "sentiment_score": 0.0,
+          "short_title": "Farmers thrive"
+        },
+        {
+          "id": "10fd0f8444c9",
+          "title": "27 rescued from bonded labour in Tamil Nadu village",
+          "source": "Daijiworld",
+          "district": "Salem",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83QmZzdDdUYWlYU2t2SmM0ZDdJVWIzNkU1emFTZXFZTzFkLTFnd29oc01rSmxlZzVLdmFVVUc3OU50VXdzdE45WWMwTDdwR0QzQlZzdnBnSC1qaDVPN2ZLZVF0S250eHpFWWxyWWFKaVZwRDBFT1pJ?oc=5",
+          "pub_date": "2026-03-15T05:31:18Z",
+          "weight": 10,
+          "sentiment_score": 0.57,
+          "short_title": "Bonded labour freed"
         },
         {
           "id": "7b7b09379e3d",
@@ -206,7 +195,7 @@
           "pub_date": "2026-03-14T12:00:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Dark Sky Park awaits"
+          "short_title": "First dark sky park"
         },
         {
           "id": "90d90dd6fc7e",
@@ -217,18 +206,18 @@
           "pub_date": "2026-03-15T17:17:22Z",
           "weight": 10,
           "sentiment_score": 0.72,
-          "short_title": "UNESCO railway heritage"
+          "short_title": "UNESCO heritage"
         },
         {
-          "id": "e5bf83a0d7fb",
-          "title": "TNERC Nod For Karur And Thiruvarur Solar Plus Battery Projects",
-          "source": "BW Businessworld",
+          "id": "9a7f961f3173",
+          "title": "Karur Aavin announces ₹1 per litre of milk as special incentive to member farmers",
+          "source": "The Hindu",
           "district": "Karur",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm1ra2VvbG1Rb2JBY2RuM1pxU3VMdnZWU3MwVlgxUmFEYURnTmk4ak9nX0hpWXF3cEJEY09rRDNVZktFbW1KRFFSdkI2OHFLV0k1elJqRE9ZMXJlMk5USTJIWUhjRWdhSjl2TWl4cndYQzlvMzBHWDh3cV9mb2ZpWFpNNGo4UjF1ck9PcThGZ1JqSVZQVDVDZExiVTRLMTJOa29pYTJpSF9GZw?oc=5",
-          "pub_date": "2026-03-13T11:11:09Z",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWUVOd2c3VFV4a0h0am02VlZmOFViZkFONy1VRjdqUzFLaVEyN0xKNjJQd1c1YVVNeGVwRk9XNHh6V0xVbEx1MVBuczlnbjhwY0U3WUhQa0d1UGlfTVpoeExyOTVxQUZTZkpaVDBaYUR3MU1BZjYzQ1RKMHc1VXNfeThYVkZUNDE0RGEyVnpSLWM3SDlDSTBSZlFNUzYzOEpfRm9aMlIyQmREdi1jNlJubmNVUUlnNVlRalpNcnhIWE12Q1F4aTRGaDI5SjZ0TGoyVFVyX1ZHU0h3MUFZTjJFTHhXSUhQQlRRclc3RFZB0gHuAUFVX3lxTE9ZRU53ZzdUVXhrSHRqbTZWVmY4VWJmQU43LVVGN2pTMUtpUTI3TEo2MlB3VzVhVU14ZXBGT1c0eHpXTFVsTHUxUG5zOWduOHBjRTdZSFBrR3VQaV9NWmh4THI5NXFBRlNmSlpUMFphRHcxTUFmNjNDVEowdzVVc195OFhWRlQ0MTREYTJWelItYzdIOUNJMFJmUU1TNjM4Sl9Gb1oyUjJCZER2LWM2Um5uY1VRSWc1WVFqWk1yeEhYTXZDUXhpNEZoMjlKNnRMajJUVXJfVkdTSHcxQVlOMkVMeFdJSFBCVFFyVzdEVkE?oc=5",
+          "pub_date": "2026-03-13T13:14:00Z",
           "weight": 10,
-          "sentiment_score": 0.15,
-          "short_title": "Solar battery projects approved"
+          "sentiment_score": 0.64,
+          "short_title": "Milk incentive"
         },
         {
           "id": "52b4361271ff",
@@ -239,7 +228,7 @@
           "pub_date": "2026-03-12T16:25:00Z",
           "weight": 10,
           "sentiment_score": 1.26,
-          "short_title": "Green Champion award"
+          "short_title": "Green champion"
         }
       ]
     },
@@ -249,26 +238,15 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "e40d58ca5cab",
-          "title": "NHAI to build 7km bypass to decongest Gangaikonda Cholapuram temple area",
-          "source": "The Times of India",
+          "id": "f850eb7e8484",
+          "title": "Trichy Master Plan 2045 Sets Vision For City Development",
+          "source": "SMEStreet",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVEd0UG8tWUpNQWs3LUJKdU91eEtXVEM1Q01nYlhmc2hvWHpHdGVUbHYwWkpnMXJOb1Y1aVI1NkZqeTNnV0dpZkdjbWlyX2prODBWa3N6RGFUQldXTmZIU2wzU3VZUmRFMkFYYXlST0h0NmYxLWY2TjNHaDJTWU9wZHZYOThTdFc5dzFlWVhIOURBWno5b2lfZ1htTGMyeHQyZGhwMFJBbkZJYnlUcmd2V3lOdXVUWXdiaWVWQldNRjNnSXEzR2N6TTNxMDlIZXdXQ0RzLVViMHZMWHcxQm1V0gHkAUFVX3lxTE9sVFZseEhoM1NuSmZ1N25IY3NrX3V2SnR0UGRoal9NbThDc1J0dGNNNFQxbXdVWHRYVVRPZnp6Q3Ywb2U2TkhJWm5ZLWpVa0FySkJKTC04TVZfcXA4RGZDUXd4WXFHQnRlakRIN2s3NFRJX3VuTDJ2Xy1qdGNJTVBrYUVSZDZIOHFkWThkUTNSaEJGRlI2WVdfcFJ1bUEzekZGXzBDa1QxMXVOamE4ME5tVU5mZk1vT0V3WmV4Y0FTQzNVSWJlQ05ZTUxZOTRYMFk3RmhFZUx0X19Ic0V1ZE9nR2pVeQ?oc=5",
-          "pub_date": "2026-03-15T23:51:00Z",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFZNdmZ1UVBfYjJZMGUyTExwdE1xM1Q4MHl4ZGZsZ2pMV29aaGwyZjJhV3pJS3dmNF94My12YTRrR3dRWFRZeGtVdjViOXpETUZxS1ZSWDh3djgzYXpKemtWYnhJaHF4ckI5OUZ1SlNTWDMwLXRKUEp1N3R0cnQ5dERXMHUxRDY3b1pwbTBOWVRmUDBqV25FTEVYQUxfa2_SAZ8BQVVfeXFMTlRWTXZmdVFQX2IyWTBlMkxMcHRNcTNUODB5eGRmbGdqTFdvWmhsMmYyYVd6SUt3ZjRfeDMtdmE0a0d3UVhUWXhrVXY1Yjl6RE1GcUtWUlg4d3Y4M2F6SnprVmJ4SWhxeHJCOTlGdUpTU1gzMC10SlBKdTd0dHJ0OXREVzB1MUQ2N29acG0wTllUZlAwalduRUxFWEFMX2tv?oc=5",
+          "pub_date": "2026-03-14T11:25:37Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Temple bypass coming"
-        },
-        {
-          "id": "d5cfcbdf7464",
-          "title": "Forest dept. to raise over 3.5 lakh seedlings in Tiruchi Circle under Green Tamil Nadu Mission",
-          "source": "The Hindu",
-          "district": "Perambalur",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTVZ0NFNydURvQkJzSEZYZlVOZFQtRjdyRVlJVm8zaTFfXzZFZGowcjVCaXFSRVNfUjB0WlgxbXBURUpmY2RvRi1jeHFqWUVkVzUtVVA0WURBUTJaaWp4STQyUVFfSWxzN1NySmEzOGktXzFuV05IM2RaaVA2clBRVG1wYjMwbGhuN0oyMDRDTWdLdURYaTdLd19PY3U5eXZ6UWVnbEN0bWViTzJwOV91RGJ6SFlac05tYllXLUVYcG84Q3BocjNNV2NSb1RDaUROM2t0SWY4b21nRzdPRnpFVlBRZ1NKUDI0VkcyV1dnZS13Q3lhQi05MGpoR3R3QdIB_gFBVV95cUxNTVZ0NFNydURvQkJzSEZYZlVOZFQtRjdyRVlJVm8zaTFfXzZFZGowcjVCaXFSRVNfUjB0WlgxbXBURUpmY2RvRi1jeHFqWUVkVzUtVVA0WURBUTJaaWp4STQyUVFfSWxzN1NySmEzOGktXzFuV05IM2RaaVA2clBRVG1wYjMwbGhuN0oyMDRDTWdLdURYaTdLd19PY3U5eXZ6UWVnbEN0bWViTzJwOV91RGJ6SFlac05tYllXLUVYcG84Q3BocjNNV2NSb1RDaUROM2t0SWY4b21nRzdPRnpFVlBRZ1NKUDI0VkcyV1dnZS13Q3lhQi05MGpoR3R3QQ?oc=5",
-          "pub_date": "2026-03-13T15:09:00Z",
-          "weight": 10,
-          "sentiment_score": 0.15,
-          "short_title": "Seedling mission launches"
+          "sentiment_score": 0.25,
+          "short_title": "Master plan 2045"
         },
         {
           "id": "1cdf61ca5923",
@@ -279,18 +257,18 @@
           "pub_date": "2026-03-11T10:42:12Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Fossil site attracts scholars"
+          "short_title": "Fossil discovery"
         },
         {
-          "id": "13273ba3a210",
-          "title": "Weekly Rameswaram-Ayodhya Train Will Now Halt At Pudukkottai Too, Announces Railway Board",
-          "source": "News18",
+          "id": "64f491665c1a",
+          "title": "Government health care gets a boost in Pudukottai district",
+          "source": "The Hindu",
           "district": "Pudukkottai",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd25fOHBoNDFXR1B6b2U1NDdJSW4wQXY5RWRNQ0EwaklNMmppd3FqOWN2RGxNdGR3N2RfSUtIZmFqNmN1NmlwSXRqOFFqTlZScGxXVmdpNUFIRUdkdTN6TWdUeEI0RDJTZWJNUVNycUNfYUtuQjh0SHRhMWpjTUVkWFg1QVM5U3FoTV9HbGItbDZ1Mld3UUV0RXRuUU5sdzJXOGVPNWRIVy1LQ0ZQQ3lTTS1sWVZPVDd2SmlsaGppdWl2M3dDa0xIcmhER0Y1WDhRMWJhcWxhb2dSemYxX3FRU2ZLaGxWQjFpaUNremZaVlNMcXNC0gH6AUFVX3lxTE9xZE5VMl91UTliSGYzTjFOSE1DbDJyVGliREdRQV8zckxDX3hucGVyOHdNUWFxZE5IM3MyZE1zYWIzQWNKRzNBM2Z1N2tKU3hZdkphaXlEX2l4Y1VnaG05M3ZvRGZBYTFVQWZSSVJaSVVlUXcxU0M1cUt4ZzhyV1Rnc2swOVczcHdxSXpHM2RuUWJRR1Z4Q1A3R05XTVNSN3pJS2paUGVaUlVfQTNlN0hIMGxaRW45Sy01Y08xLVFtaXE2ZW5fUnpPaHptZUVtNHhJZGpfS0FPTEFTQm1xZzJHN3JlYlQwTC00eUp3UWNUZ1dPWE5mQXpva0E?oc=5",
-          "pub_date": "2026-03-13T03:24:47Z",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY3l0aG9McVlTb3BEbHhSa010ajZpSTl2M2RNSEFoeXBYT2lCWm9ncTlueWUtWGRGWnpSWUhPN3MzdTZicFdCQ0RNeEk5SkhicFRMLVJXUHZ4UTVoWlVSbmE4RUZXOF8tdjdLMUdiY3ZQY2s3YjY4T0Qxb2xBWUxzeGkwZGlBdUJJOXgzV3MzUEJKSjAtQTJxcGZsSHFRYXJmRnlkVE5FbUNBc3VnUFVxRnhSbEhoVmE4VkdBblFUYnNPN0loX25sMkdZUE1CUFhX0gHQAUFVX3lxTE9jeXRob0xxWVNvcERseFJrTXRqNmlJOXYzZE1IQWh5cFhPaUJab2dxOW55ZS1YZEZaelJZSE83czN1NmJwV0JDRE14STlKSGJwVEwtUldQdnhRNWhaVVJuYThFRlc4Xy12N0sxR2JjdlBjazdiNjhPRDFvbEFZTHN4aTBkaUF1Qkk5eDNXczNQQkpKMC1BMnFwZmxIcVFhcmZGeWRUTkVtQ0FzdWdQVXFGeFJsSGhWYThWR0FuUVRic083SWhfbmwyR1lQTUJQWFc?oc=5",
+          "pub_date": "2026-03-14T15:04:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Healthcare boost begins"
+          "sentiment_score": 0.71,
+          "short_title": "Health care boost"
         },
         {
           "id": "e87f81069a1f",
@@ -301,7 +279,7 @@
           "pub_date": "2026-03-14T15:20:00Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Heart transplant success"
+          "short_title": "Heart transplant"
         },
         {
           "id": "92106c003982",
@@ -312,18 +290,18 @@
           "pub_date": "2026-03-15T03:20:00Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Art celebration inclusive"
+          "short_title": "Art celebration"
         },
         {
-          "id": "f3520f62548a",
+          "id": "0833b02e4760",
           "title": "Mannargudi bypass inaugurated",
           "source": "The Hindu",
           "district": "Tiruvarur",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd250SExidEFfWTl4cHF0UWNvVzhXOVA1U1RBRmEtMlVvMjBPdU5QcFBqa284ZXl4WWs5Mng3SnJ3YTZuWG5xeWtiMXE2R0k3S0hyamlVdUdwWHJ3RzRiRndNeFRqOVFBSjdrTGp2UEpFcHRJY3F5MGJ2RnFEYzhLTEZ1Vi1aYy15VDNUZ3ZQODB5Q0Y1a1pLWU9QNjdSMjNMcDR3b25tMU9md9IBqgFBVV95cUxNd250SExidEFfWTl4cHF0UWNvVzhXOVA1U1RBRmEtMlVvMjBPdU5QcFBqa284ZXl4WWs5Mng3SnJ3YTZuWG5xeWtiMXE2R0k3S0hyamlVdUdwWHJ3RzRiRndNeFRqOVFBSjdrTGp2UEpFcHRJY3F5MGJ2RnFEYzhLTEZ1Vi1aYy15VDNUZ3ZQODB5Q0Y1a1pLWU9QNjdSMjNMcDR3b25tMU9mdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjZiRHZnTE1GYmhua2dhSkpQZjRrSHBPcllpYnJVY0F6NHFmZFVkTnBTWkRSRk5JbkpmRDJUWDJENkVWc0NXWVU1VjRDcHpWX1Rvd0lFRzFwVDJyXzJpMG1HdzUwSWREZUl1Q2VqQXJwTTItMGs4U1U5b3gxbVpaSnZFdkk3Z3lCaU15R18yaTN1c0hiQUxkUWlQa1MwbmFhSmJR0gGqAUFVX3lxTE13bnRITGJ0QV9ZOXhwcXRRY29XOFc5UDVTVEFGYS0yVW8yME91TlBwUGprbzhleXhZazkyeDdKcndhNm5YbnF5a2IxcTZHSTdLSHJqaVV1R3BYcndHNGJGd014VGo5UUFKN2tManZQSkVwdEljcXkwYnZGcURjOEtMRnVWLVpjLXlUM1RndlA4MHlDRjVrWktZT1A2N1IyM0xwNHdvbm0xT2Z3?oc=5",
           "pub_date": "2026-03-13T13:18:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Bypass inaugurated"
+          "short_title": "Bypass opened"
         },
         {
           "id": "bd4dc3f1cef4",
@@ -334,7 +312,7 @@
           "pub_date": "2026-03-14T14:58:00Z",
           "weight": 10,
           "sentiment_score": 0.23,
-          "short_title": "Legal aid wins settlement"
+          "short_title": "Legal settlements"
         }
       ]
     },
@@ -344,26 +322,15 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "0bf2461d5a23",
-          "title": "Madurai Airport Set To Go International, Opening Southern Tamil Nadu To The World",
-          "source": "Outlook Traveller",
+          "id": "ee4518119af2",
+          "title": "Madurai airport gets international status; Tuticorin now Thoothukudi airport",
+          "source": "ANI News",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjVxWGpZd25GT3czbGFXQXdfRVFWcmpjdm1PaF8zZTZXdF9ZaUJhT08xVlZjOGF6YXNCb09Vamhva2JfMkYxMDA0M25NcFVyWHdadW1fSFVhRU9HR3dEV2JZM3Q1ZGRnUjZsT3BmcWZxMWo3RnVSYU5PbmJGU01meVZXT3lKbWJRYlNrU0pZaGxqelg0SHpwOWR5MHA4LXBzYmNwcm1yeEZFNTNOdWJSODBhRDVkRnpRNGfSAccBQVVfeXFMTWtYNXhWRXIxVTh4Uy1MaTgya1phampybDczSUxjN2tmUm43alFfUm5SOXB1b1ZkRk1oWUNsSmZ3WVBOdWM5dkpoNjREbnFpdERJRGQ3S2hfWDJ1SXlmY183TDBpSlJUU2ZKckQ4cXFudDAwX3pCcDhLU1NZd0JrZVhTUC0wTGdqaVB5d0J2N0c5c3lqblNQQ3E5blBzQkFuN2hLcEx1TllHZ1c4ajhHLS1KVUtYU1RMVlRVeTRRTlR3YUR4TmliYw?oc=5",
-          "pub_date": "2026-03-15T00:30:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnVITm5zVXZnZm0yT3kwdmJEaFozN2dGN01QV2NnMFpCbTNmS29Sdkd2TmNFVkRoSlFPd211SExRRndubWt5NDdqTDNPeGh6Yzg3cGZrMUxId29jNUw1d2VjQUlJWGw3YjdheU9HX2Nwc3lFdFNFa1ZuajdCU1Z0eDhCWTgyYzNvUUdtSDl0S0FVVzZLbEdOcTBEVkZES2ZHZTR0Z2N6OHRqajZZa0xpbWU1S003SmQtS2txajdGcUM3eXZWenU5a01MWjltamNq0gHYAUFVX3lxTE5waDRHRF9GQ1FLdFQ3T2x4T2JDcEJkcVJCS1Nkc1lzTF8zZ3o4RG9TMzI3dGJFZkg4NzhDbmxqLTNwcjNHaC11T1U2Y0xhcGhUZlZyLTVjVHl4dldyT1BXRmtaLVZBaktOSGpMZEYxTjVmaDk2Ui13SGZNY3FlUzFEcUw2YVItR2Y4UHFEa2lIWEFtNzZJVDFkNjVuZi1zSFVqdkRmcGQ0RF92aWVENWZuVFEyNmE1VUVNV19aUFBkcng3Qk41M2V0ZHhLOFFYSVQ4RmVZUTZYcw?oc=5",
+          "pub_date": "2026-03-14T19:15:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Airport goes international"
-        },
-        {
-          "id": "63f43673a4b8",
-          "title": "Flying squad teams flagged off in Theni: Collector",
-          "source": "The Hindu",
-          "district": "Theni",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXlITFp3eEcwd21lZHBmelpGVnpENVF4M3RXSjhzbHdibWNQYjBBMy15eHpianNEVE15LWg0RHdUMHlzZlJueDBVcmxpRjBtRzEweEgtR0VSMUp5a19qM25KQndPSXdXTE1NbkF0V2piRWpIOFRzdk5BS291a25mT1B4NUo3UWJUeVAzQU1wNTAwV0ZnMmE0Z3VIaGlicS05a0FLZG9CekNzSnF4UUx0Z1BBOFDSAbsBQVVfeXFMTXFkdUtXZl9wNXdmUFpjZVpDYS1RTVhhS1JCOWRwNjVFZHFFMlRkTWdsbjVmWnl6T0tFaE01X1F1MFN0T2lfR21fRzBYLXJFSi1XR0lDRFJhM282TG10bGxjNkU5UGFXUUxLXzlpSjF1VVp5NGljUHZEWTJvYWdSb0FLV19Sc253VW16eHFiT21ZN2xTWS1jOFlHM1l2V1RrMUpzNnAyV3BOc3Q2UzlsNUVYQ0dwYzdOTGROMA?oc=5",
-          "pub_date": "2026-03-15T15:09:00Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Election squad flagged off"
+          "short_title": "International airport"
         },
         {
           "id": "11b9adbe5518",
@@ -374,18 +341,7 @@
           "pub_date": "2026-03-13T03:54:49Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Tyre plant investment massive"
-        },
-        {
-          "id": "332aee1a94af",
-          "title": "SHIPBUILDING CLUSTERS IN TAMIL NADU",
-          "source": "orissadiary.com",
-          "district": "Ramanathapuram",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MRHhVZkhfR19EZzhnM2pfTFZScXNQTmk0ZjZ1ZFFhWGphWTJiYjBGenU3elI0YWtTMHlzeTVISFJOSHN1T0RNa0V0M2g1eHZhRkRBclNhbTVYcUNESExuVV8tTXZ6QWpfQkZEXw?oc=5",
-          "pub_date": "2026-03-14T13:04:54Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Shipbuilding clusters planned"
+          "short_title": "Tyre investment"
         },
         {
           "id": "184efb4d8eec",
@@ -396,29 +352,18 @@
           "pub_date": "2026-03-15T08:27:33Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "VinFast plant opens"
+          "short_title": "VinFast plant"
         },
         {
-          "id": "89742e853ff7",
-          "title": "Tirunelveli SP designates a policeman for every village to collect intelligence inputs and for effective timely action",
-          "source": "The Hindu",
+          "id": "b495402cc191",
+          "title": "Nellai tops Tamil Nadu again in NMMS; 659 clear exam",
+          "source": "MSN",
           "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMExVd1hSZUR2VkNUSk5rYmZyaVc5alA2YVhBOVNEcElJZ2JNbWhBNkRCdnBfV2d6ZXlmaWNFVUhXaTFHdG5DMHZZeTVVeV90T0h0ZEtmOWNEODNFb2FrMVZBS21iNWFZa2pBY0dfejctNEVXcnZKOUdfS0U5VzZIZmF3QTB0VUVUeFVUQjRFWjNwSXpTRDBid0tqbWxVdHVjdzdMSFo1ZGhjZ21IRVhZYTJDYTRfX3ZaeFBoNHltUEh4RnRTZXZUR0hBTWFyMTgtYUltRWFFZk1sUU1Yc3ItbVg0VDFZVlcwY1lGMFdsMFZVczlISGhWdXF4dldYNTJjVnVyWVczS2V2SUFnQjczNnFFNFpVVjDSAZcCQVVfeXFMTTBMVXdYUmVEdlZDVEpOa2JmcmlXOWpQNmFYQTlTRHBJSWdiTW1oQTZEQnZwX1dnemV5ZmljRVVIV2kxR3RuQzB2WXk1VXlfdE9IdGRLZjljRDgzRW9hazFWQUttYjVhWWtqQWNHX3o3LTRFV3J2SjlHX0tFOVc2SGZhd0EwdFVFVHhVVEI0RVozcEl6U0QwYndLam1sVXR1Y3c3TEhaNWRoY2dtSEVYWWEyQ2E0X192WnhQaDR5bVBIeEZ0U2V2VEdIQU1hcjE4LWFJbUVhRWZNbFFNWHNyLW1YNFQxWVZXMGNZRjBXbDBWVXM5SEhoVnVxeHZXWDUyY1Z1cllXM0tldklBZ0I3MzZxRTRaVVYw?oc=5",
-          "pub_date": "2026-03-13T13:31:00Z",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjVXUjVhd2JyRGhzLVVfY21pY1dZQUVaUV9YRGxXdnVwNzZEMkZKaW8tT3ZJRXdmUVFwb0xoYVhBbEN4OXpwNlZsQW9Lc2JMQ0FBaFQ1N1VOczFuLUlHeDBDS2VFNzZyV25OOC1HV1h2YWV5RXhGQkR3TklrMnFsR01wOTVHTHFTSHNfWko1ZF95NGNnWTN4YW5qNlMyd0ptUWctS0dvbTFXUWs3SUhOUkhLb0FxZw?oc=5",
+          "pub_date": "2026-03-16T05:21:14Z",
           "weight": 10,
-          "sentiment_score": 0.74,
-          "short_title": "Village policing initiative"
-        },
-        {
-          "id": "be3e64becdab",
-          "title": "Alangulam: Between Red Soil and Rising Sunlight",
-          "source": "newstodaynet.com",
-          "district": "Tenkasi",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RRHlnUXN4QVlhWUNPSV9OV0ItZVBfbExYS3k2c29FTFEzc3dEckwtSXdCR0Z5LWpHOGdqT0NZWXdYV2ZEYzBKM0RqdEp4NzhDZm1lZkZKaHhOZHlhWllBVm13LWlxT0s3d2ZsVkxWMGhlVHdCbWlSYzZITHJidw?oc=5",
-          "pub_date": "2026-03-13T04:58:20Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Red soil heritage tale"
+          "sentiment_score": 0.71,
+          "short_title": "NMMS toppers"
         },
         {
           "id": "871bccb0175e",
@@ -429,7 +374,7 @@
           "pub_date": "2026-03-14T15:02:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Sericulture market opens"
+          "short_title": "Sericulture market"
         }
       ]
     }
