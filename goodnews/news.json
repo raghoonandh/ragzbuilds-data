@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-28T00:55:22.430475Z",
-  "article_count": 38,
+  "generated": "2026-03-28T06:50:43.005216Z",
+  "article_count": 33,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,37 +8,37 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "0de9539f27a8",
-          "title": "Royal Challengers Bengaluru vs Chennai Super Kings, 11th Match, Indian Premier League 2026 - Squads",
-          "source": "Cricbuzz",
+          "id": "0ebceb3d1e60",
+          "title": "IPL 2026: MS Dhoni ruled out for 2 weeks; Chennai Super Kings suffer massive blow",
+          "source": "The Times of India",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVp4ZGpxaHdoT1VLckxpc0hHWmZ2d2s5cGpsMEUwcmpXX3ZINWtzYnF3MmRpeXhxLVJOVFFITXdRWTJraVkwbDdCOEhFRktGV2FuczA0OThHSW9GcHRiY3E5YzlGeE5MekN6dWZvcWVMVS1YWDFIQ3JzTzN4NGpYQXVvX2V5WEdPMFhpLW9TT25xbHp3OXFvd2hqUFgwNG1BWWh3?oc=5",
-          "pub_date": "2026-03-27T17:43:12Z",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ0t1ZzBwaTZPZnh4bVVxTmkzaW5PSkFKM3VwZ05nWGd4Wk1ha0lXYnprWlhtWXRpUmQ4TzhsWHNEQkxWZWNHTDdJY2U4ajlsYzBDSlZvQWo5ajE2WnpQd3c4WWVyNzdIZzJpc0M0ZjB6ZHJMbkU0MG5YUlpiSDhQSmtSQzkzM044MUI0aW5kNzl6UjFNdks1MnhEQzZhdzBqNzRJSmh2ZkFQVG1zWXFGRGd1ekJVUE04NkhSb3V3Zm9OTnpFdTRtbk1mT0w0bUx0Z01ldGJuRkVsR1NjYjJySjlZZkdoUXVGZW1wTU1EZWVIQdIB9wFBVV95cUxQd212Z0RJNVdRbUY3dkpmcWRBSE56eHA4ekJhOEczaGxmRGxPcWlGSVNWUjNNMDFuVWtKLTRKVXdYYVN1cG9Td2xQelJsdXE3alh6V0o5VGFUTEdDdG1ZdU44Z2NEZXF0UDhZLW1oYmYxSXVrSG13Ry01dHFfS05RSFplUjdwUmNWZGx5TEVjZHg3X3czM2ZHUFZwOHQyTUx5UW1RczAtdGFpdjFRQTJ5amdxdzlOY0U5UEE0cVNPZzRiZElrU0R3MzVXNGtkZjgwNGQzbWNTUlhSN0hjeFZ1Qmh6XzJ2TUR1ZTRRX1lyT0V6aEdua3dN?oc=5",
+          "pub_date": "2026-03-28T04:50:00Z",
           "weight": 10,
-          "sentiment_score": 0.65,
-          "short_title": "Alzheimer screening test"
+          "sentiment_score": 0.1,
+          "short_title": "Alzheimer screening breakthrough"
         },
         {
-          "id": "14b6b8f05675",
-          "title": "Railway plans Kavach 4.0 on Beach-Tambaram-Chengalpattu route",
-          "source": "dtnext.in",
+          "id": "a0ca9fb302f3",
+          "title": "Beach-Chengalpattu line to get Kavach cover",
+          "source": "The New Indian Express",
           "district": "Chengalpattu",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1pockRMWkNDQlF0YzBXNlo0cTZCTVhfcHlMQ1ZyakpUaFp4d0R0a3lnQlRkbDNxTWJudFAwMzRKTERsZDhPMUQ2ZmZYWFVLY1dINXdsUTRZdmFHb0RRUGFnZHJoNjlrZ0lnbVhwT2U0R1VfWUxacWtBMjNvZkdBNDdxZkRmWWlGM0RqSXRnRFNndHRZWlUwblB1VV9SSWFkakRn0gGwAUFVX3lxTE5zM1BNZHZkbzRZbXVZa3lTM0FHOUplZTM4Z3Z2blZ6RFFMSmNjd0d3emE1UUFGN2htQXFTaHEwcXgzZndKSmFiOE5iYkhRcXNfd3hidkFDUlB0RXVPWWhhejJ1SmV4UmlWMnpSZEFlWWZRbUtmR1RZNDNUWV93dy1LZXpqdW5hc0lXZ0NtVWxrUEdjMUtCS3RDTERhWXZJR0htZDg5aC1Fazlmc0NGbVRr?oc=5",
-          "pub_date": "2026-03-26T15:44:47Z",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjFFYUJnQWlNRVhnWTNtSkhIOXlDazBvSzVCVXgyUkZ1cEVhbHV1ZUFxdW0xWEhDb0lGSFR2enVxYWtfWU9ER0pjQjU2UTZRME00X29ISmhhUVY0UWpPYUNPNGVpTjJmZmRVNGlhQ1ZzS3NWbmdLMmF6dENYblRkREF5NFp0Um1BWGxXQ0t6OERkSVVYay1fTU1OWGlmdGtYUS02VmhZaXBHZEhpdk9ULVVGSdIBswFBVV95cUxPdjFFYUJnQWlNRVhnWTNtSkhIOXlDazBvSzVCVXgyUkZ1cEVhbHV1ZUFxdW0xWEhDb0lGSFR2enVxYWtfWU9ER0pjQjU2UTZRME00X29ISmhhUVY0UWpPYUNPNGVpTjJmZmRVNGlhQ1ZzS3NWbmdLMmF6dENYblRkREF5NFp0Um1BWGxXQ0t6OERkSVVYay1fTU1OWGlmdGtYUS02VmhZaXBHZEhpdk9ULVVGSQ?oc=5",
+          "pub_date": "2026-03-27T05:05:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Kavach safety upgrade"
+          "short_title": "Safety on tracks"
         },
         {
-          "id": "c7b1c5e55a72",
-          "title": "How to Spot a Pure Kanjivaram Saree: Top Tips to Identify Authenticity Easily",
-          "source": "MSN",
+          "id": "426c9c752eb9",
+          "title": "TNSHA invites tenders for 43.4 km highway linking Oragadam to Chennai",
+          "source": "The New Indian Express",
           "district": "Kancheepuram",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk4yMFJhSUQyNGxxVkowQkVPdnE5b0c1bC1HcDRjYi1uZEt3YWozSnVaZ3J4NTNualAtQjc3NTcxTDl4aVZuMjNfOHNhY2RRV2hGNnBvRVhLOE4tV1dONm9DOFdRNEtrZUZRdkJMdkdyV1FPbkRndjFMT2VNc3hVSkJKRTNyYUh6Xy15Qlp0OVZUd01FX1BJTXAwem1xTzRjMzZsVEZyRVpxeU9iYVRlRk0xTl9oYk44Uy1NUzRtYjM1ZVBzWnlPZ2lQSks5Z0Myd2lz?oc=5",
-          "pub_date": "2026-03-22T02:18:16Z",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd3VhNWJHQ0p0QlZzTkE5LWJVWkFKVGg0OGswZklYVjg4X0V1TXR5ZUpNc18zMnd5b2daWnZsMVFfQk40S2VpaXgtTGlXZ0w3M21mNG9jd3NHUW5HV2V2WXg5VEQ2djhQQjhGVElOa3NsdjdEZ0FQSWF3b3pQMjRkTGt4Nms4b1ZlUDdKOWZuRzVaOUdPcmJzMU05NGdLbGp5aUtkUXVBeUZMVU96eFpZNDVldjRubU9LQWZxZW9ZUWVscW1tb25LQUZkUdIB2AFBVV95cUxNOXFFMUNhdXB5YzI1WTB0VHFHZF9NRnByRHdMNi1EWHRvN0tnODVGRWYwVUtZQU1OaV8yTzQzQXg5NmRvaHNERWdFZTdfRmJESjFyQm1JbEJpdlEzZFBoTTBIWklISnFZUmdYMEFhVjA5ZW1ZVXNlbVBtZVQ4V09ZQWt2M2NQZlRtcnJWLXRKSXFGS1FOZndWaEstdWxySVlUZ0ZjOTZuWUp5RjdmaVZnNzc1Tmd0aHFTanM1dlUtQ0tvVHRtanl2dDVNWU44ZmJBZTc4SnJXUHI?oc=5",
+          "pub_date": "2026-03-28T05:02:16Z",
           "weight": 10,
-          "sentiment_score": 0.49,
-          "short_title": "Authentic saree guide"
+          "sentiment_score": 0.15,
+          "short_title": "Highway connecting Oragadam"
         },
         {
           "id": "46dec79631c1",
@@ -49,7 +49,7 @@
           "pub_date": "2026-03-24T23:00:00Z",
           "weight": 10,
           "sentiment_score": 0.49,
-          "short_title": "Highway handover progress"
+          "short_title": "NH handed to State"
         },
         {
           "id": "df71fbdc7074",
@@ -78,7 +78,7 @@
           "pub_date": "2026-03-28T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "AI seminar innovation"
+          "short_title": "AI seminar at VIT"
         },
         {
           "id": "6c3af052385a",
@@ -86,43 +86,32 @@
           "source": "thenewsmill.com",
           "district": "Tirupathur",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjgtdmpOOEZXc2FFTUFVZlpySnQ4SXdhVGU0X0tOMU5ia2JSUFpHeE05RkxjT2k0X09jVUFwSW1Rdmh2c0VEcXl5TFdMY1JKMi13SHE1RzI1elU0RWtKeWIyM1NOd21vSDd0dUx4bEtGU2htZVdXaEU5MkNfUHRIdEl5cktBUnk3N0ZlbGo4U09ueFhPa1NnZVBUR3p3Vk01RHhyakwxTGJuRjlCd1dF?oc=5",
-          "pub_date": "2026-03-24T00:02:11Z",
+          "pub_date": "2026-03-26T23:02:09Z",
           "weight": 10,
           "sentiment_score": 0.46,
-          "short_title": "Temple consecration grand"
+          "short_title": "Temple consecration"
         },
         {
-          "id": "15efeaf344a9",
-          "title": "Karthigai Nakshatra days 2026: Dates, meaning and Deepam rituals",
-          "source": "MSN",
-          "district": "Tiruvannamalai",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2VNM0pDU1YzOUZrNEFjTF9LeFhVS0k2TE1FVWZna3dfVFZlS0IzSnNiWmRTbXFwZzE4QTlZaG1YYThPUFByZm5teGRDNEJfWlMxX0l1WUtzOEVvc1U0cTRvY1RjM2JIVlhzaG9odFpaWHZYQWNSeG9GUjMzaXVYSWllci1JT09OU1J3VU1nWUNnRzdGRk82RGx1WFpfTldnVHlwTTk0SDdhTXlfSWdRUElB?oc=5",
-          "pub_date": "2026-03-23T06:41:10Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Nakshatra rituals guide"
-        },
-        {
-          "id": "286b52e0d595",
-          "title": "Officers take pregnant minor from an uphill village to hospital in Dharmapuri",
-          "source": "MSN",
+          "id": "0017ce0e62ba",
+          "title": "Four tribal kids from TN's Krishnagiri district rescued from bonded labour in Andhra Pradesh, Telangana",
+          "source": "The New Indian Express",
           "district": "Krishnagiri",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTJmZWJYbWRlSXlQOS1sMVc0b1RlR1BDMUo3WVprR2xJZWN0ZzZjNU5GTjFOeWI3dDB1cWZ5bDZvazFFSGJGeUJBSVg2ZkFpR0tvNE93enZTRlc2WU1CWmNpc3NnS0pCTUk5NXFZSHhWMDJ4am1kZGh0NkFEZlhaY1BrR3d4d1dTS0R2bVRCVUpiZFFZX3hnNVhQLVRaTndnNnlVWlpqMThJSjhLTTJLU0M3LUMtY1NkdzlOTUxRclRkaUNqdXBtUlByTWFRZjlCMnpkLQ?oc=5",
-          "pub_date": "2026-03-26T09:18:41Z",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOT25HOHpPdEU4N0RjZkhzeVNfNlRyZkNielFYc3pkS241RTlrZFVJN0I2cGdIaHU2Vkd2UHVkbEg5R3UtcmF5MjFWMFBYQnpzbk9HWUFsZUxNVzU0Wl9hUUJuT1dhNXpIUzJNSTRWVW9xcXZiY0pnTUNMOU9mOF92dzBINDRKb3c1QkY0TTR2a3pLb0xCMkRDVlVZUXFMSER0c08xVlVQcDJERVgzRVNURG5rYXdBZFc5THl0ZE5iUzIwZFJ5NWZuQjdISWg2UGJjQ0FBNUUzeG03dUxUZkR1VWZWamk2WDg3VVVPNjhFRGxjMEZGQlJsUWdWZ1hJZ2Npc3EwOdIBhAJBVV95cUxOT25HOHpPdEU4N0RjZkhzeVNfNlRyZkNielFYc3pkS241RTlrZFVJN0I2cGdIaHU2Vkd2UHVkbEg5R3UtcmF5MjFWMFBYQnpzbk9HWUFsZUxNVzU0Wl9hUUJuT1dhNXpIUzJNSTRWVW9xcXZiY0pnTUNMOU9mOF92dzBINDRKb3c1QkY0TTR2a3pLb0xCMkRDVlVZUXFMSER0c08xVlVQcDJERVgzRVNURG5rYXdBZFc5THl0ZE5iUzIwZFJ5NWZuQjdISWg2UGJjQ0FBNUUzeG03dUxUZkR1VWZWamk2WDg3VVVPNjhFRGxjMEZGQlJsUWdWZ1hJZ2Npc3EwOQ?oc=5",
+          "pub_date": "2026-03-23T02:13:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Pregnant minor rescue"
+          "sentiment_score": 0.57,
+          "short_title": "Tribal kids rescued"
         },
         {
-          "id": "c902b22ca399",
-          "title": "Tamarind output surges in Tamil Nadu; prices likely to fall as supply rises",
-          "source": "dtnext.in",
+          "id": "6d7015fad470",
+          "title": "5 of Irular family rescued from bonded labour in Dharmapuri",
+          "source": "DT Next",
           "district": "Dharmapuri",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmI4d2VvNTMyOWRRakxGRzZaNHYxR1lPVmVSUWNkdE5HclpMSDBZWERfRkxnNXZoNENCOUhhM1Jkem05RTg5Z3lyR1VhNDFhM2VaZlFTV1RBdHFjbWlMTTV6b3hEUm9veVhJR1NqV1Btd3BTV1ZSZUVsRUt2Y1k0cU9La0hDV28zNmVHY2RtNFpCRFItME5EVU5BczdkdjJRZ2E3TGp1QVZkQnRMREh3VtIBvgFBVV95cUxPaHdUMVVnVzFtTWNrWk5rbGFvMlZST1lqYnEyYm8zSFcyNUdlWVkyZ0NSTVdGWTNKYjdKay12YUU3Nkw2em4wV3ZsUGZQcGdqVWJYV2o0dlh4R3dTYTRXdlBFVnNESGZ4V1VLcE9vU1ZZak5vcC0yZUt0Z0pxOXNfVXgyWnd4RXJVYW9TaW44c1YtWWtCRU9ZS3pUaFN4ZmlzVms2bDF6SDBmSkwwaGxNVWI1ZjliMXlWTmR3WEpB?oc=5",
-          "pub_date": "2026-03-24T08:01:44Z",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1N6aGNEaHZrRXAyRmxNMEtnOVpSalctS1hvMmMxZU1YYWZnY0tPU2hqTmFKbVZRNjluMVZHVmtsLXIwS0xEMDBmZzFlUWN3WjVtX0oxRnNIeVdnWU1tbEZ1SDg1N3g5RG9ualNQYUJSYTlnQmxKQUxSc1h4ODQ2QmNuQy1fdHY4YkpuTk1FMUJlZDRwQ1M5TTFHVFTSAaoBQVVfeXFMTVpLSW9GNHhFS1d0ZUxNajZrOEtRR2JsNDNLMUg1RnpEcFd3ZlhXeHg0VzBoVDJRR3hfenNXZGstcmNIZWlxQ3VGcHhCRmg1V1M0cldjOG8wLTRtRjdXT25ZVFdQODBmOS1JNi1iTFYtZFZnVlRzY3liYTJkdHpMeXZURWxBWThJREloaTdLakNyTUdwYWJDd2JhOE5tMVQtUjMxOWlNMmRldHc?oc=5",
+          "pub_date": "2026-03-27T02:35:38Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Tamarind output surge"
+          "sentiment_score": 0.57,
+          "short_title": "Bonded labour freed"
         },
         {
           "id": "fb8c171a9606",
@@ -133,18 +122,7 @@
           "pub_date": "2026-03-24T11:25:39Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Bird centre opens"
-        },
-        {
-          "id": "b574b4ef5dc9",
-          "title": "Bajaj Pulsar 125 Price in Kallakurichi",
-          "source": "BikeWale",
-          "district": "Kallakurichi",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBySkszaXdEaTB0Uk5fejM4dWJYeDM2RGtNX1pWNVlYTTkwTjZaOUhDUlA2eVAtSnRvcmJJUE1ON1BuNDZ2ZUl0UFIyRGhSTXRHVXJhQlpDSGtITVluc2VaZnhKUm1MSnpjc2o2ek4tWGdfX3oyVWU3NGF3?oc=5",
-          "pub_date": "2026-03-23T03:28:39Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Bajaj price listing"
+          "short_title": "Bird Centre opens"
         },
         {
           "id": "940ff34e31d3",
@@ -155,7 +133,7 @@
           "pub_date": "2026-03-27T08:27:52Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "DMart expansion Cuddalore"
+          "short_title": "New retail stores"
         }
       ]
     },
@@ -165,15 +143,15 @@
       "color": "#8aab6e",
       "articles": [
         {
-          "id": "c3b1819a952d",
-          "title": "Coimbatore corporation launches webpage for junction improvement projects",
+          "id": "478debabf578",
+          "title": "‘Sensor Interfacing Techniques’ hackathon held in Coimbatore",
           "source": "The Times of India",
           "district": "Coimbatore",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbWhzZGlVNWhNVmFXUHQtNFVaM0hpSUdTMFBBTVM3Zm81UllsanNEMUJJMWI2VTYtUEpSZ2RtcWJKMDN0YXFzTi03R3M2cUNSS1MtZTlMOWpfakMyTkV4ZE84OWdiRlFQZGdMczBXOHRJYy0yaURjaEk2NmlHVENNM1RjSVk4SGkycEwySW1TUnBNaTNQekktZ0RJRHFCOGV6ZmNUX3F4M3piazcyay1TeUZOZnNQbVJhV3NEOWxMYTdvZU9kU0lhSUFBRXVOX094RlpBRE1YU0Fxb3hIZ3R2ZzFuME0xd9IB6wFBVV95cUxPZjBhYXVXYnE0SlpvcmtGZ1l2Zkh4WHZyek8xMGpPVjl2VHlJaVo2RGpvdnVqODBRdUJkTmF4eXhZQlJwZnp3dGZvclFtLXBEWmZSOWpWc3liNmJGUTNOZXlNT21tYnItbXdNX3NyUHF4NkxsWnlJUWl3M1A0c0llZ21NVjRfVWxZaDY2ZHhROTNodGtBd05YVUNOd2lXbVo1bkNwZFRkWWk2Wm1kMDBrRS1nWEVrSmRfZjZvVWhPMlM3YVRLN2RlS2ZjcWNDMjZfVlFMTVFmVnlrWHFvX1hmMjhXOXZ6aWZCMTBr?oc=5",
-          "pub_date": "2026-03-27T16:28:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUG51SjlFNzRGWnpyRXFxdW5Mcno3Q1BUUmg1UHprbDI5dmFHeExXX3h1SThDWlhWWXJyU1k5azdNTEo0dmZ2eWdxbDNWN3BUNTJ5UUQ0WmFsMjM5b1ZpeUw0UHVzcmRTTk1YRnJfenFqaEFTU2RmdktlbEFzdUFfQUZiWWJQVUdYbFV0RHVqREFad2REeE03X2F6NDR2cF9xOEV2WTBWMkw3M1ppSGRzeWo5N3o2VXZJU3RSd3BzbFRMUm1ucEdVNnh5UTVsa2l2Z1HSAdcBQVVfeXFMT3Y2d2JsYzEzYTVQOWsyMnBBaVNsbFE2Z0J0VUVmdU96VWtXem9WNGJ0V3RtaThVc3FYakVvTS11SXNPQVVQWktjbjE4MVR3RGt0WWtxTFFGcTBxZTNZOVBaandfcXN1NDJaS2d3TVR1SmhjME5EM3pBNjlPRDd5bnNqRVhkNVgxV2JFUF9XcTAzRVJfTEhURk4zUGlYNTRRbmtnOVBWbjd5Ulp2anR3UU82SzFsUTFUcWxFdE5vdU1QREx1b1dWT0RjdmRnRzlPbE1ZUWI2Q28?oc=5",
+          "pub_date": "2026-03-26T15:50:00Z",
           "weight": 10,
-          "sentiment_score": 0.46,
-          "short_title": "Junction projects launch"
+          "sentiment_score": 0.0,
+          "short_title": "Hackathon held"
         },
         {
           "id": "3d59f2883734",
@@ -184,7 +162,7 @@
           "pub_date": "2026-03-24T20:02:33Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wage hike victory"
+          "short_title": "Wage hike secured"
         },
         {
           "id": "2d2bde76bab6",
@@ -195,12 +173,12 @@
           "pub_date": "2026-03-27T01:52:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Leopard captured safely"
+          "short_title": "Leopard captured"
         },
         {
           "id": "eb6311a87c6a",
           "title": "Government engineering colleges at Salem, Coimbatore, Tirunelveli to become Centres of Excellence",
-          "source": "dtnext.in",
+          "source": "DT Next",
           "district": "Salem",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQml0bFVfdUc3QXJObnV5Y0IzUHJjVnhCN3BzOUMxbjNnU3FVNnVtTzB4RnRiTklULXdXQlgzRGZNWktOWWFxa1p1WGp2Qy1JV0xvck5HeS1CMWNMdGEyNXZPcXJrdDF6NF9yNXVJR1dCOTVSX1lsLVBvU2FpLUpmSFRxcmc0MmNnczZJRzRjb3V5REd4TGZqNWZtdl9yanlsS0JjUkRaVnV3V1pMbVBpS2NuWDlQS0hxWG1RdllPT0xWYnRiczJwM2JqbHnSAdoBQVVfeXFMUEFOLVBveXl1cmpoaGxjU3NVMFFvRElhV2FPQjhJSEwxZkc2SEpBYjRfQktjTVpqNWh5VEdRUmV0akR5T0gzcVV6V1dWUEw3aTZuS2xsTW9idFRDYVBXWmloTFc1VFhYTzRqOTNTSjRIeElLaXpGNkRmNHZJX2JMTW8zMVMzRXNYWjlGMGd5QVpEYnYwQ25XbXlwWFhBREFFSHZXVElWTnJwZjQyOWpVUmpRYlEwNlB0dV9TSkNEWUpETGZ4bTY2YlI1c0ZTeEJ0a1RESjdSSF9qc1E?oc=5",
           "pub_date": "2026-03-26T01:54:59Z",
@@ -217,29 +195,29 @@
           "pub_date": "2026-03-23T16:14:40Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Silver betel garland"
+          "short_title": "Festival decoration"
         },
         {
           "id": "ac72359fac2c",
           "title": "Tamil Nadu: 4 tigers spotted in tea estate near Ooty",
-          "source": "dtnext.in",
+          "source": "DT Next",
           "district": "Nilgiris",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFV3M1EzNU85MjBoZ0pidmVxS0o3bmFqWDFxNnpuNUNSQm9kX3hOX0lWcndJTlpLSTRYRzl4R1NsUmVqXzRudXBRblo0VUlvRkVzRGhhZGV4cFFta3RmVXl2Nl95QXl4bDY5RnQ0WXZfaTRKVWEzMFZHcFVWOXdBQVpGMkxBSUVTNlBVbjBpMS1UQdIBnwFBVV95cUxQV2lZMENISnBGeEVrMkZBTmNtYnZRYTBTUUNCVHVuSTdOUUIteVBsQnhXbVdDTnRDYzgyRlZkV2R2Z0ZWMzZTWkNLOFAwMk1BaWFHOVNkVlpmem1YVFplRUlORk1CVXVCRlB0MU9vdEZYQnRDMVhacWtDRGZnSlIxdWtzTS1yWEFlM2xhSlRaR3VRVS1nVjVKekRHd3VVVDg?oc=5",
           "pub_date": "2026-03-27T14:37:09Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Tigers spotted tea"
+          "short_title": "Tigers spotted"
         },
         {
-          "id": "591dcc867e03",
-          "title": "NHAI To Prepare DPR For Tiruchi-Karur-Coimbatore Greenfield Highway",
+          "id": "102e6a2f2278",
+          "title": "NHAI To Prepare DPR For Four-Lane Tiruchi-Karur-Coimbatore Highway",
           "source": "Construction World",
           "district": "Karur",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdDl6bE9EYVlHSlpIWnd3V0Z5NzN5M2N1R2RPTmh5bUpvam5GZ3FxdGFmdFJVZTViZzhxWE5wTVRUcVE2WFVJaWtSU2FxdkNfMUFjdUpVY004UndFTnNFZkRxUTVJM2JiaVo1ZndhaldxbGZtSHVyRi1DOGNNdjNDcWVMZ1FPMXowRmk5QUh4ZHE5QjQ4ZUt6MWZHWFY2UHJPMUhjcHRKLW1OZVpkemxxV21XN3NTUTRrNmJVQzlEeUZ3THlBX3V5OW9WR2IwY19JZDBrN2YwTUtEd0RRVTEtZVZrcnlUdThJQVN6LVdrUjByU1JsN1dPQw?oc=5",
-          "pub_date": "2026-03-26T12:06:55Z",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcWZCRzE5MEY0ejFiVzBRU2dIZWk5OWRYeUllbWN1MkRWazNUUFFUZ1ZOVEx1WHdLUHFiQkwwNjhMQi1mU2d3b085aTF6YktyUWJOWnV2d2V5clVTVHlNQmlQRkI2SnVSR0ItOHJLeVEtZWpjRUgxT3A2QU5qcGVaT0tOUkpsQmxaS2cwcURzWXZZRUF1cWhWNTlJQkpnWWJvdGxUd3UzZFBLb1NTNC1DODg4T1NEejdyQzhiaU5Nc1AwcnhJWXJzRUhTak1IZ2dvXzZBYnMtdHA1aU9iWWt1WklOcnlJbEs0MzdOMTIxVmE1WHRtTFFB?oc=5",
+          "pub_date": "2026-03-28T04:33:03Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Highway DPR planned"
+          "short_title": "Four-lane highway planned"
         },
         {
           "id": "63e4302f4fba",
@@ -250,7 +228,7 @@
           "pub_date": "2026-03-27T16:11:31Z",
           "weight": 10,
           "sentiment_score": 0.53,
-          "short_title": "Voter awareness carving"
+          "short_title": "Creative voter awareness"
         }
       ]
     },
@@ -268,7 +246,7 @@
           "pub_date": "2026-03-25T10:00:31Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hanuman idol 37ft"
+          "short_title": "Tallest Hanuman idol"
         },
         {
           "id": "2a1824204d1f",
@@ -290,29 +268,7 @@
           "pub_date": "2026-03-24T14:08:47Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Lakes rejuvenated nine"
-        },
-        {
-          "id": "e0358c1f3dec",
-          "title": "TVS Apache RTR 160 4V Price in Pudukkottai",
-          "source": "BikeWale",
-          "district": "Pudukkottai",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NRUlfeUdsc09TUURlM3pFSXNzdW16cXMwTVI4NEpZOU5kMkF0UVN6WHB1ck9EUEFqRTJtQ3FFVGozWEUwakN2RE53bkYtdVFYSTAyQTlsc3BLQmJRUHJCX2s0aGljaHAyelBxdzFVN1RtVGZOQXVRQ0pQYU15amM?oc=5",
-          "pub_date": "2026-03-24T23:45:35Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Apache price check"
-        },
-        {
-          "id": "ae2029498894",
-          "title": "Bring back idols: Ex-IGP to Centre",
-          "source": "dtnext.in",
-          "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6cnprOEZpc2NsMkxCLTBmazVnSzZWalNvOXFqZ01TNl93Y0N6VEdIOUNFX0s3X3ZOVkp3bjc0WXU1bFhXRlhmT1lwN1FDN3lNYVRTNGlMdnNiMEtkOEZzeUFoZEZiaHc2SXB3QUJXenpzLVlSclRxTFRR0gGHAUFVX3lxTE92VFc1OUpCczJObExfUWZjdUN1N3JzVTFXaGdrRWdpOE8tNzFHX3U4ZlUwUFZ5c2xmVm9NOVVzOEFsbjhmZTFIQmFuRHVBZ1Z4TVlTdW1lWjRzRFN0aXpOWnNOMDlIWWhoYThoOUFMUXVjRGhPSHFCd0EwZUlVUU9kV1MxcjkyNA?oc=5",
-          "pub_date": "2026-03-27T14:46:49Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Idols homecoming plea"
+          "short_title": "Lakes rejuvenated"
         },
         {
           "id": "1897d9c585e7",
@@ -326,26 +282,15 @@
           "short_title": "Turtle hatchlings released"
         },
         {
-          "id": "5aa9e1c2b866",
-          "title": "Bajaj Pulsar 125 Price in Thiruvarur",
-          "source": "BikeWale",
-          "district": "Tiruvarur",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GZXg4LVhXT2NIbVhjLUFLTi1rRWFYRy1OVlRnT0dFaUkyWHNjWlRFSkFQZ3hJZXI0OHBLSVdBSVJHUGw2NEJXbXFLTHR2MXJiNGxJTG5sdlpBVEpXV2pvWjNJVG42ZFZtUHdvVFhpWXhRNE9PbUEw?oc=5",
-          "pub_date": "2026-03-23T13:41:20Z",
+          "id": "7f70a5d8042d",
+          "title": "Voter awareness programmes intensified in Mayiladuthurai district",
+          "source": "The Hindu",
+          "district": "Mayiladuthurai",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlZFQkRiX084REFmWXdnbHFrVDlTSFVNaGpQMWVXRTdEbEZJRENYVXpFcGNQZGhIWVMxNmtYRHU4UVVnaXdhVURfWm1Zbi01SExVelk4MWU5ZXFlSjEta3Y1VFY1LXBJcDZQaGRxdVU1dzVkOGU0c3BWYjBVUXVHTXVqY2FjXzliLUpEcFBoVHNUWE1MdnZYa1NZR1gzSFBjRVF6ZTctTkJQSW8xc0FwY3dhQjNqT2R6Qy1NYTl6S0MtSG50ak5MZzl1OUtjTUFBTFR30gHaAUFVX3lxTE1DeEkyUHJ5VFR5QWQ4VnJzUlRlREFUN2l4NXdlaFBYQTl6WFRwMXJhaVVKTWppemxyNmRKeFc4czdrQmM1UEk3QUxQN1RJWGZUTkhQSkNBczJsYjR4N0Exa19jTXBzeWNUZmZlUVktN09JMXRqVkVSeklBN0FTRUNXMjExaFBGdmdOVVpCRVF0QW8ydG9qMEF4UG1MS0dfNWlEN2Z4bElfZ0NRWVBLUDFPWUg1Ym5FaXdDY2NwbTZZX3dacERtQlNZOVRXQkU0bzRxNVdMZlFuMVln?oc=5",
+          "pub_date": "2026-03-25T14:28:24Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Pulsar price listing"
-        },
-        {
-          "id": "355e5dd2c47f",
-          "title": "Tamil Nadu's 700-Year-Old Wonder: Quran Box That Withstands 2,600°C Stuns Scientists",
-          "source": "News18",
-          "district": "Mayiladuthurai",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWUJfWWFFWWVGaHlPMjRUa2hxZ3lmOUhWRHhrZVh1ZXlJQ0tXMzBSczc1dTFCSnhNMkNfN043LXFMYy01NVFkVnI4akZmcVdWOWx2VXVmTDcwcFZtMHR4b3o5dGJHQXBMNzdsU29PZ1lkcGwyZ1hycXB0dUxzRWpaeFFTT0E1NGNmcS1ZZ1FGX0Z2c3Y1RWg2T1FWRWRmVjd2NjZTX1JVbnRuRlNDRkRpdlUxdWFzU09ycGp2bkRpQll4MjJKWWYyd1VKUW9RZHJkN1JDc0tneTfSAd4BQVVfeXFMUE91eGhoVzdnalFxZElXdmcyekxTWVJKa1NTZS02NU80aEoyYUh1UzRGc1F2MmJXeWdoV2pZakh4dXFuZ3RoWE0wM2VxYUdXX1ZoMFp5MVZfVEFhQlkxcTdyS1hFMG9rT0dBbjQwcV9maTFQNTJhd2U3Y1VPR1ZqbUlIN21aTndDZGFNakVUeXRud2FwMFdJS0loRXZRVHJwQTRYSXJZX0lpYjY0UVd0RnNvaW9QYUxScXd5WmtvcTJVSkZEbjdwam9Ib0pwMlk0LW1oVmcwY3JxMThGSUtn?oc=5",
-          "pub_date": "2026-03-21T02:30:12Z",
-          "weight": 10,
-          "sentiment_score": 0.03,
-          "short_title": "Quran box wonder"
+          "short_title": "Voter awareness push"
         }
       ]
     },
@@ -363,7 +308,7 @@
           "pub_date": "2026-03-27T05:39:32Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Freight record broken"
+          "short_title": "Freight loading record"
         },
         {
           "id": "a1bff2b1f607",
@@ -374,7 +319,7 @@
           "pub_date": "2026-03-24T14:52:39Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Remote polling booth"
+          "short_title": "Remote polling booth set"
         },
         {
           "id": "e5896b662adc",
@@ -396,18 +341,18 @@
           "pub_date": "2026-03-27T19:17:11Z",
           "weight": 10,
           "sentiment_score": 0.3,
-          "short_title": "Coral reefs artificial"
+          "short_title": "Artificial coral reefs"
         },
         {
-          "id": "6e074057864b",
-          "title": "Summer swimming camps to be held in Virudhunagar from April 1",
+          "id": "dfd3dcdfc76b",
+          "title": "Over 100 medical students donate blood in Virudhunagar",
           "source": "The Hindu",
           "district": "Virudhunagar",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2prZVZZSTBPaWhuZlJzN3FRYTRUN2pZcW8tc0tfQ1ZxSVVzbkdxQ18tQ3VpSDdySVpDYkgzZHItdVBYVmZsVGpCSjZRZDBoa1ZMUXBnZjMtel93SVRmcl84Slp0SWRBSmc5UmF5NG0xQnZnanVvNDZiY0U4WmVJU1ZTZ0RjZ2lHMEl5dW1TVHpEc21FakN2NmwxZEM4VUltc0s4cEg5YVJzbzE0eHE4UVgzdWJhMHFjbFV1eVI2NlIxNFR60gHLAUFVX3lxTE1zMWl5a0VOWTFXV3Fwdk5mQmZkSWRHSXQxWXp6Z1NNMzlEUllPWTBFb1I3VWZfSnVRc0J1MzJXVk45d1pzaTh5ajVXVGo0N1ZPOGRUT2pRZ1dLN1F5R3I2c0pLczFaTG94eGNxOWFmUkVNV1B3VmFnT0ItVml4NEthX0dUUTIzbWp0V0p5NGM3TDk5VFdlSWlaRHc1ODg4OFVfQTVUbUVqLTcwQXlrY01Od3JvM2RtbGRoNFdhSDE5THlsOFVJMmtnN0hR?oc=5",
-          "pub_date": "2026-03-26T16:37:01Z",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd05VY1lsQ0E3STR5ekNhVUdSdVdJTllyZi1UdlZaOThWRy1YaWtKU3BFelp0ZEhUTnNMY3lfQ0hYeXJYS3djVjdIQVo5Wl9pY3F6bVhJZGhya3luNkV4VzQ2MTQ3NWJQQ3A2S0VFMkpkekR3bFM2VWhNTWZPNWZLTDNNN3ZqR29RY3VqazBEdlNIcERoSEZ6cmh2ZWhBUnphOEU0NlFkOWxtRXFVLUNqb3Q4YkgtanB4ajhz0gHCAUFVX3lxTFB2ZWhNY2lzVHlNd0VteU00MVJIVGlpa1lfdzh5TmdlcmtZZ3BBZk9rQVplUFAtUGFaQnVFbkY1THMwX0czYmxMY0NvWHd3UHRQXzlkT3dEcTRibWRSZ1pxdkJPUEdESjE4akdxUkJCWkUtZmExWXFyY2NvakhLZGE2WmNSUHAtcm5QenZpSG80dEVSc3g4OVlIczVnYm1UVUpZRXBJdTRHektnQ19tcWtzUjZudC1kQlJfNDB4NGFzZEFn?oc=5",
+          "pub_date": "2026-03-26T15:02:07Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Swimming camps begin"
+          "sentiment_score": 0.15,
+          "short_title": "Blood donation drive"
         },
         {
           "id": "f070ce4f1626",
@@ -418,7 +363,7 @@
           "pub_date": "2026-03-27T14:25:36Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hockey championship VOC"
+          "short_title": "Hockey championship won"
         },
         {
           "id": "4d18ea0cf194",
@@ -440,7 +385,7 @@
           "pub_date": "2026-03-25T17:20:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Monkey feeding ban"
+          "short_title": "Monkey feeding curbed"
         },
         {
           "id": "0b8ba5b6d38d",
