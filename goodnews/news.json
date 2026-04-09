@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T12:47:08.498120Z",
-  "article_count": 27,
+  "generated": "2026-04-09T00:52:50.671275Z",
+  "article_count": 24,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,26 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "ddc6bf30f98b",
-          "title": "In Chennai, Crafts Council of India celebrates the sari and more, at their annual textile showcase",
-          "source": "The Hindu",
+          "id": "92cfe27b73f8",
+          "title": "The 3 cheapest countries to visit from Chennai in May (with easy visas)",
+          "source": "Condé Nast Traveller India",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcWRFUnZ2dDNhTDhYUWUtRloxWEJzekFsQnRjZy1WZExSTXJKa1hHalRQQTlURXRGdEVnSlR0dElvSUtBV2Z5X2lVX2FRcVBxbVl3OVFMQ2dMejktVlUzRHJhVHdaLVZxekFYVHFzZUdEQjkxTldPdzRUWUU2RkFhWV9wVVRZM0pRTWR5cWlnMzQtT010cXdYNWVCaURjQTZDdzhZZzU0SXRSbkEzd2xPMEVSTXVENVBuUHRsX0JiX1hhckhYWjNIRXdxVHZlcEtUc2N1RWk1Y2NpX3NkeC1TbXpnWjNkSjdaaU1ES0taYUJhUWFpODcw0gH-AUFVX3lxTE83bndfNEM4dF9ZLV9qcGdhRDRRRzBld1UyT3dhd25wQ09FcnVrbUttMEktWFdzT1ZsZFNGYkFJMGhERGM5QWFiYnBqSVdqWEliemdIT0ZLeElPRWFCMlNpSERoa050dFgydEJsd0ZlV3lfRzVHd0pwMHFITW1sU2lncHRDZEp0ZGJjR0lDbzBGQlNnRnh2QmlVek16aDI4YW5GSmFNYnRwRmxqb3BEdzlSSkhFRy0tTmtXQzUzY3VCUkpCZktfSkdOaFdtY29wVXlEakRSeUFQa1J6MFVTV2FxOWZRelhhVG1mZHhtek15Z25Wa2FXZnBjZ05manV3?oc=5",
-          "pub_date": "2026-04-08T09:46:02Z",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUNCZi1DOEVhci01c3ZoU2J0cV8xem1MMVdvZFR5SE1pNWhqMUEzMUI3bnYxM29lazB6bElSTmR3Wl84VzRScWNjWlBfZEZjWmRZbm1XaVZrcjF0TlA2U3A4ZExCVjZvOU9RV0YxRFcxT1Z1bzVkSjBVUUtaX3QzRnBqSlI0aUUtSU15akJnaGxucUtZa0hvdEJCbTZLQzVQVzJtZzR3?oc=5",
+          "pub_date": "2026-04-08T23:30:00Z",
           "weight": 10,
-          "sentiment_score": 0.72,
-          "short_title": "Sari Celebrates Heritage"
-        },
-        {
-          "id": "580215726be1",
-          "title": "Remodelled Chengalpattu railway station to be inaugurated soon",
-          "source": "The Hindu",
-          "district": "Chengalpattu",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTThHMnZna1dDazBudlR1T210LUFYVU13Z2FvRlFMRWxIek9sdlpja29NYVpJU0prWU95aFp4VDZHUk5ZZVZSN0ZFSUlTSEYtaUR1Wi00SXhVZzRKYk16WVd6TlhDcTNSQmpDdGd4cWNMM0diZHFSNXBWN0xtcE9FXzB2b0laZ1VESFRzYVFuekZCUWFjb1plTG1qcXo5ZnRhVUtnMmFLSjNVS0hzRkhsWDl2Zm5IREdqZ2NnNk4tZ1ZFMWxVREHSAcwBQVVfeXFMTW5yU3hrWlRrb1c4a3BDMlo1X2JBeVIzcGhiVFNkVWdueVVVanpSRXlYMXJlUjl6N1p0TE5MM0VOdS03ZmUzQmdFbWJVOG9CU2xCbWdod3pTaXdDVTJJb25zN3g4cm5VNlFDc1ZMTDlkTnpZczN3WnMwTDNQdjF3LWZBSVBzTExVMnlBNmg1ZUZYYTYxeElVeHl3dWhKX1VSTC1RbjBNdUhTR1FOVDJjSDdHQXZpYWZ1bWd5SHI1dW50aGtvQVo3RFkxS2ZY?oc=5",
-          "pub_date": "2026-04-04T13:47:39Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Station Remodelled"
+          "sentiment_score": 0.44,
+          "short_title": "Textile celebration"
         },
         {
           "id": "2fd755ba44f6",
@@ -38,29 +27,18 @@
           "pub_date": "2026-04-08T06:15:54Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Ancient Idol Unearthed"
+          "short_title": "Ancient treasure"
         },
         {
-          "id": "777693bebba9",
-          "title": "CPCL’s first retail outlet opens at Nemam in Tiruvallur district",
-          "source": "The Hindu",
+          "id": "c62604acecc4",
+          "title": "Autism Day celebrated at Tiruvallur Collectorate",
+          "source": "DT Next",
           "district": "Tiruvallur",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFhpNE1CS3FQcncxaU1nOFVwRTZXWGZ4OFR6bDRQeU1xVlMtWTIxYUgyZ0VhOUY0a2h6Y2oyUFROeXBiNDl5Sy1XN2ZBUkxiLUx0eHZ5d1FKcG4yNGI1LXJoUG5ob203cGJzMXh5b19rNkZLZEd3Y1Z3eVFlVHJ2QjB5WEhIMjBBd3lBTWhWckRiY0FhdmpheWdiUWtoSzhyN3d1NWhuMHRNa0dPNU9uUmtJY3RCXzZ4VWNjTDZoSl9tN1FnNFA40gHOAUFVX3lxTE9DQ3hCZnpKcWNINkpPWFA4WngwcF9IRDhTbVk0ZVRUREVsODRvWUpwcW90NGI2NktYUkQ3OVZYV2txOVltamd2V1FLR0tzZ214Z0xQSVVQd2QzMlRjMTNaSGlpdko4VnBiVFhzTjQ2Zy1lT0pRQ19xR1h4Q2c1Q2YtUHpkZnVMaW1TMUhjRVZjYlRnc0drUUhIQjNndXNQX20zT1hwWXQ5ZTdoV2lEXzd4OXRRVGUyVzc5XzhiMm5FY1dEOVhvUUJsc2JPN29R?oc=5",
-          "pub_date": "2026-04-03T19:41:33Z",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUFEYXRhRUhkMDRDZnBmSzktNWs1bDFTMVlYaWNfZzVlNVdVSjZ0R3FiZGxhcVFmOGRGX3FtX2NJcS1wdmxtVkozZDBUX3FWaXFDWTk4d254UjlQZEZ6SjlkMTQtMGlRZV9IWjhMejN3WjhGcVo2WlVqWlZ5MDcyMlJMTEExWlE0WG1semJn0gGbAUFVX3lxTE9xMDdoV0VoTV9IMl8zZVBoeDR0Ti10dnM0VGplTjBWZ3ZEa0Z5ZlE1dloxTkozcHVOWElWT3pyNC1JU0o2TG05ck1EWEdBLUdHS0txMFI3dU82eVhGTEk0WXVGdjZ2TWRXNVNMR3dHTWJzYmdYZDBfVHlObDB6ckRvMlZNaHhmRDRuSy0zbjR2SmtLQmJ0QzdZQU44?oc=5",
+          "pub_date": "2026-04-03T02:02:56Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Retail Outlet Opens"
-        },
-        {
-          "id": "423c71700b1d",
-          "title": "Sholinghur: Residents seek better roads, want govt. to set up godowns to store sugarcane crop",
-          "source": "The Hindu",
-          "district": "Ranipet",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQ3FONXZDd0p0V2Iwd3ExTjZEU3FnaldzakxhNmxJSmg3YkZIQVI5YjFQV3VwV1ExaEcxNDh2RE1vTFZUSXJ3STEzLWhTUklhUEk5WkdHMnU0eWNrdklURFhDUm1MM3FIN0hITXVlMmRtb3Q5eHhCVmo3ZDNYMEVrSzhYOXM0Qk1tOFVjX09FOXJvWGFVMzhlTWdMNU5KRVRxeVdpLVRMbjhnZkR0dFdlVFZBX3NsU1V0a3o3OS0xaV9VZlpyRl9kUWdBbjI4YTIyZGFIQWtkWXY5SW14SFRkV1BrM0NNM0Y0Um16U0NUODZIY3NfMnBJM9IB_wFBVV95cUxQQlNJdUpnUHRvTlJXa2xITUtLVngzNjZhdUlCRXkxaXlxMVpXWVZEbnFzZG1BQjh2LTZ2Wk9JdWJxbjJSVUMtVlJWTjJYclFqOFBqcnpGc21YOFl6THNoRGwwS0N4a0h1VXUzQWlveXNTWTBFVXNidXVKVHI1QVpQQ2RXX0o0YVFFdEFValNWcC1xZmpxbmtnbGdtUmN0UDVyTGJjejVIMkdGRllGMl9WTmd2R3ZEdmpRdnNONnR1bUhheTFKcEhFMm5ITHItUUlvY1c3YXc0dmsyd0lPOUZUbHlaRlRxZ182ejZncXA5VWdlZXpTMVUyNGtORjhFeGc?oc=5",
-          "pub_date": "2026-04-02T19:17:13Z",
-          "weight": 10,
-          "sentiment_score": 0.49,
-          "short_title": "Better Roads Sought"
+          "sentiment_score": 0.57,
+          "short_title": "Autism awareness"
         }
       ]
     },
@@ -78,7 +56,7 @@
           "pub_date": "2026-04-08T02:29:08Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "University Day Celebrated"
+          "short_title": "University focus"
         },
         {
           "id": "711b0869c783",
@@ -89,40 +67,7 @@
           "pub_date": "2026-04-06T17:35:33Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Rock Paintings Found"
-        },
-        {
-          "id": "910059dbae40",
-          "title": "TNSTC to run special buses for long weekend, Tamil New Year",
-          "source": "DT Next",
-          "district": "Tiruvannamalai",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVkyT0ZPOFhoZ2RMY25tN2tLdzBkaHZpTDZNVVZRRV9KQVFfZ2FIZ1czLURCdzJUV0VhelFkSTk1TnA1MTJkUUtpSE9lY0twT0sySkhpc1FhNWVPY21jVFRwa01BTUtRZU9TSExaT0U2U0ZLQWg4amhWdTBHUC10Y0xqazg2LV9WWXdmdU9JUE1BLWRFcW50R3lnMNIBqAFBVV95cUxOeUFSRy1nZEhZUXpsMFU5Z1VmMmZ4YjRjTFpzLUZzY1drNnduRWJSZk5tT1BvYUoyTmludTRDbl9DWW93UXUwTndGNGE4M243V2dyNVZZb0dyaUhqS29YcExyOUZDLUxVRmZmSjNrLW9TNlhWU0xxQVB3WXBSMjRJdHYwOFE0VnZMZlNwMWtQUUItdldXNldTRl9VSzcyREpSWExxOWhuVFE?oc=5",
-          "pub_date": "2026-04-07T15:04:44Z",
-          "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "Special Buses Running"
-        },
-        {
-          "id": "5151c5464d71",
-          "title": "Precision Farming Yielded High Profits in Tamil Nadu",
-          "source": "Indian Council of Agricultural Research",
-          "district": "Krishnagiri",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QM0toZkVBR3l4eE0yR0gzQzF0N1E4RHp6Yy0xWU41b3BwM3BXUXpJYkdOa01EMW04Rk5uTUtUbS10cEVfN1RN?oc=5",
-          "pub_date": "2026-04-02T12:33:23Z",
-          "weight": 10,
-          "sentiment_score": 0.44,
-          "short_title": "Precision Farming Profits"
-        },
-        {
-          "id": "074b532beeb7",
-          "title": "Residents demand institutions for higher education, better civic amenities in Mailam",
-          "source": "The Hindu",
-          "district": "Viluppuram",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRkpNRHRvRy1EREQxNXNHS2FYSzFXR09pS3o3dFN1UWFwRHRucURpUE16cjhFenFQeUV2RktUd21qSGNBWFFYVVNpck1YYXlCbTdSRjYta180eWVJYXItaEY3VTFOSkI5UE5yZzh4LUVDWHZwazh1cTZrcmpWd1lKZEtVUnk1UjBScmw4b2ZpbHo1RTZnN3lYU0FybVhrZ0t4U3c4NnZDWmFZVlFrcXpXc2NNNk83NWJKWnJyUE52c1oxM0NYS3h4VlFQUC1YUjRNUks4RTNTM3hqRGpWRTRlM0dqbGJtQkt1VnZ2ZWJFZ9IB9gFBVV95cUxORWwzTnZHc0VCdzFnV3NibnE4d0Ftc1UyWkpnSkZ6M3U5Vmw1dW1KOFJqVjNTQkxKZ01pQUlTOGo0RUdqT1J0cXFvRzFfMEpZZ1c2TnhCWmxraVVjRXZzVDVfYkRvTXdLdTdnRUFiNGN3Ny1oQUI2WDBsaTBvdUFQSlFWVzNnbnIzaDhfV1VSTnB6QUVrX1U1eWM2MzBNUjE2c2JGU1B1RTNRb3hoRVpXN1BWdVRHc2lJTmVDQk5xMXlTbGZMbHg5UmNDTUhDVV9rSTJ4dXVITGlsaTl4RGZQdGdJRWV0WlZScEJ1alplcW1OT3Z4WlE?oc=5",
-          "pub_date": "2026-04-04T00:00:00Z",
-          "weight": 10,
-          "sentiment_score": 0.34,
-          "short_title": "Education Demanded"
+          "short_title": "Rock paintings"
         },
         {
           "id": "2329a68ad2a1",
@@ -133,7 +78,7 @@
           "pub_date": "2026-04-06T21:00:46Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Women's Nursery Blooms"
+          "short_title": "Women's nursery"
         }
       ]
     },
@@ -143,26 +88,26 @@
       "color": "#8aab6e",
       "articles": [
         {
-          "id": "48b1ef524f40",
-          "title": "Vi Brings 5G to Chennai, Targets Coimbatore, Trichy and More Cities by May 2026",
-          "source": "TelecomTalk",
+          "id": "ac2140552294",
+          "title": "Judge conducts hearing inside van for bedridden litigant in Coimbatore",
+          "source": "The Times of India",
           "district": "Coimbatore",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkFYS0RENnEyQlZlbnNPZ0JpYnlSVTNFSmZJNG9qTEpZaS0xb0NJcy16bHYzeE5VM1pvUWtaSnVBMnJUN1dYc2V6cjI2eFZlRzdRLVNjOEM2eWgyWFNkUGpJVVZKN3poMmVUSUw4QUNlMnctYlpGSThETWxyaE5RMTl2b01ZYzJu?oc=5",
-          "pub_date": "2026-04-08T09:17:23Z",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMVdHNjNXQlFLQjJFNGFaNnpEZzREUkF1b2VCMHVaTnF6LS1kclg1cU4tb0F1V2pWSDctYlVKYnV6R0NoVnNqVGRLNTVNUHFzN3BPc3hpdzJYNkZZcWFrZHkwOFhSSDZsTTBIMGZMVVAxa1dTcWJMdXdyck1DOUh4V09JRG1SZllxSU1BOURkSmZUOGlzTDlkbWxyTXRJUHhYWUNjbDVDZU9XWS1GcnZTT2NLaXFySzhtUWZSeHIyaUJnb1VzQUJJSWlVeVJiSlVROUczZEc5T08yMmh2OEJPUGR30gHnAUFVX3lxTE9zemkxUVlCb3lOSkFrcFRPVHRFdWN0NXFHRXFkSS1fb2tlV0w3MnZuSDRXemJEREItQW5Oa3VBOVB2UkpJNVdPNFZxMl9SRTEyeUs4ZjdZbjE0RmlhYzBYek5wQUY2N0RfbW9GRkhEUzY4ZzNlN01Vb0ZrTXZDLWY0eHpaaUtWN3c3bEtZajhOU2hubWhPQ3FXRnREQUpSSTQ4NFNkb3c0UlpoSFhOc0hVZUU0a2pSTGhmc3g1LXg2cjBwLURTOU8tUXNmUkhwQ3dYQXdGcmNnOGpfVXpjS05hMFo1LWFKNA?oc=5",
+          "pub_date": "2026-04-08T15:51:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "5G Expansion"
+          "short_title": "Justice on wheels"
         },
         {
-          "id": "5330b896b3ac",
-          "title": "Sunil Jhunjhunwala takes charge as Chairman of CII Tiruppur District for 2026–27",
-          "source": "MediaNews4U",
+          "id": "81a2a46978ca",
+          "title": "Sunil Jhunjhunwala named Chairman of CII Tiruppur for 2026–27",
+          "source": "Mediabrief.com",
           "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVhrYVlZR2ZURHZhWUw1SkNEZ3VBQ1dlQXFfeHF0Y1pMaGNmWWIxSnoyMlpDSjE4R3dURUJGekVBbDdkY3pQZ3duVkJBdThTUXJMckxyRkZSRkZic08tYTFhTjlfNGFUZm9HTTVTVHZGU2UwOWdwNGJmZ2Fjbm5EazdsWWdaTFJINWYtTTVsZFZ5Rk9odmQ5bU9QSEpveEVxTHpsRDNsZVFkWkh6cXc?oc=5",
-          "pub_date": "2026-04-08T07:03:50Z",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGdQOHo0SDlSblNFZkNFRUVmMEhLN3BNN2lOVmhSd2pKZ05JZDBWYU53UlQyUEdsVnhXSS14YmlKWmhYeVVsTlBDUDlpZm50VEdpZ3NJTjR1YlVubXVtQnRSWTluN0NoQ2gzbFpBVzVSWlAyTC1aYkdfTkhQNFJ0aU53?oc=5",
+          "pub_date": "2026-04-08T08:49:26Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "CII Leadership Changes"
+          "short_title": "Business leadership"
         },
         {
           "id": "0a03fa5234b6",
@@ -173,7 +118,7 @@
           "pub_date": "2026-04-08T03:07:10Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Temple Festival Draws Crowds"
+          "short_title": "Festival crowds"
         },
         {
           "id": "410633dfcb26",
@@ -184,7 +129,7 @@
           "pub_date": "2026-04-07T15:30:12Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Organic Veggie Farmer Thrives"
+          "short_title": "Organic farming"
         },
         {
           "id": "28011ff53802",
@@ -195,7 +140,7 @@
           "pub_date": "2026-04-05T05:37:38Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Roads Reach Tribal Villages"
+          "short_title": "Roads for tribes"
         },
         {
           "id": "bfdb989605c9",
@@ -206,18 +151,18 @@
           "pub_date": "2026-04-07T09:00:20Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Botanical Garden Blooms"
+          "short_title": "Botanical bloom"
         },
         {
-          "id": "4f7654129abd",
-          "title": "Magic of khadi comes to city",
-          "source": "DT Next",
+          "id": "4d8c4bace263",
+          "title": "At 100, Krishnammal Jagannathan’s Life Marks a Legacy of Dalit Land Rights and Resistance",
+          "source": "Frontline Magazine",
           "district": "Dindigul",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00bHBVTG95d3dwaW9lVEFvYXE3LW44NGp2NzdCTzZlU1dRdEItNnJLaENGSDN1WTlEbEFQX3ZUTURzQnRVUHhVaWd6dzZKd2lJaGpEMS1ONEZubVlIc21iN0tNZkVFSTJPc2FibEVrckjSAX5BVV95cUxQdWthbGxBS3Y2bU1QSVN3R0I3bldENHNMbXd5SEVRdm9XR2VaZEhyTUpLYjBKdVJVV3B6ejRZV2lLcTFJbW5QS21yYVlpaXU2dmFJM0lqODRLdHNsQnVsV1JwTFhRV0owZHhUc3d5dnNmMVJQbTJCVlhNNEFWa2c?oc=5",
-          "pub_date": "2026-04-07T15:05:51Z",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHM4NHhpdGZlaEZ2VXVIRWpJaUhLM0xma0QyYk5lemwtMnBycjFYYWJzYzZULXdKQmdtZjZLdWlzQ1IzM2ZwS0dLWXRzTy1BUWpHSFlFSWo3UF9OYzczVjJBOXAyQmxOODJhaVJxWjB1QXktZ2d0VHphdTl4WDZWM0FLYTgyTlg3Q3g0QzFJSEYyTDI3QkpOWWZxMmpZQTdXZU9HalJlamR3TmEyeHBINV80QTdkTlBfUkpOeVRRYnBtYWxoY0ZmaXJ1Y2taaXRubWliZ0gtQmtXVk9IYllIWW1TMEpiVnJVT2Yw0gHyAUFVX3lxTFBxREwtTzIta2czMC1XZFB6YzllZ2Y0a2JRNVZwVnQ4bEthTWtnYXo5eE9pUkt2TmowWmlZZTJWREZRQnVYdXZlcFNoLUV1X2FtZGFwYXJOVWFUa3RYekwxWktGNEVMN3JyYzNjTDZzZTJDb0s3cUlFQmdzQVVOSGd5YzU2dVNiT2todWNpTHRueklKNU1BQ0llMll1SjRiNUM1c21yc3VrTlRhUDFYOWlhUDR3dTlfbG5xVjkwbU5hTjgwenU2TVRSWU94cl9oR3hiQXU3UGpURG1tSTZFci1GVnVyWV95Qk9Za0RwbElUZEF3?oc=5",
+          "pub_date": "2026-04-08T07:38:52Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Khadi Magic Arrives"
+          "short_title": "Century legacy"
         }
       ]
     },
@@ -227,15 +172,15 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "17acd571cf9e",
-          "title": "Trains to hit 130 kmph on Tiruchirappalli-Thiruvananthapuram route after ₹92 cr upgrade",
-          "source": "Mathrubhumi English",
+          "id": "6341b4b9c689",
+          "title": "Rare woolly-necked stork spotted near Thanjavur",
+          "source": "The Times of India",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFJ5V3dlZjcxTmcweVZoWHBxR1Rqd3lSYzR2SWxMZE8tQnJ1amZsWXBGR214a3NOUkprVlVoX2lnM3l6R1JQSHpqNl9oTGRSRGw4bFE3ZDFOczMza0J5Q0ZiUnBSZmlWQW1QUTJ6UnVabkNZcHBUVVJlSlJNV3RSaVBndUFJZnQ1WFhjdGR3X3VLNU9MUlVHYXRqd0ZCVWEwZV9ES1ZaWUlrVGE3U1NsSkM1LUZDR2_SAbwBQVVfeXFMTjR1cnV1Ui11eW5lMngzVG96blRyNWRhdnVGdk5OWHJBVUlpTW1qalVOcGZzb011bU50cDZPdEo1eVExNURBU05fdjg2MThUS3cwRHJJYjliRm1wNHZSNUd0M1VLSTdDQ3FzdjJhaFJNTXI2T1pfZFVoOFpwMWdBekNEdExuQThabVJLSzNCb0pkMkNObEpzc3dpTFlsS1AySjJnSkR4MDVQZ21rOGlvc0YtNFc3dExELUhsekI?oc=5",
-          "pub_date": "2026-04-07T02:29:07Z",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkk5MEJDVGRLMVJzQ3BiWlFYbmhFTk11bmJ2SnFJd3F1NEYwS2dUelN4dnB5a0ZrZi00NmhoRVNLeEZGeS1xQTc5aXZmLXhITFJnN0ZjOU5nY1VoY3BFazhFUUZ6WmEwRnRLdUNzLWk2M0NzSlZzemZua0RsNEp3bHpBWkNmYU13WlJOOFRkN2lZblZqN0ZoQ2kwTDJVV2pMUDMxMFhGMEVkaGlubVRkUi0tbFJxeHNPLWFNa3Vn0gHDAUFVX3lxTE5vdGw2U2xOSjVJZ3RlZ0NOWmJINFBvSWJPbzc5US1tLWMya09fbFdRNWRwTnVhUWhIVkQxU2phM3hZWkNGeldGNGVTalFDVUFjemZYdW80VmlGZGZXZE1Fa3MydjBfaUtWeFFSanIwTVBRQmE4TEZCLWx1bENSUmhfcUgxSUNxb0NMU3VuSnNva2lWOUlsaVU1SWoyaWdKY2gwZzB4RVJWMjdTak9mVGtsYS14ZXRVRVBObGRoczRGd1ZEMA?oc=5",
+          "pub_date": "2026-04-08T16:54:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Rail Speed Upgrade"
+          "short_title": "Rare stork spotted"
         },
         {
           "id": "ffa985b5589e",
@@ -246,18 +191,18 @@
           "pub_date": "2026-04-07T06:16:49Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Teacher Digitises Books"
+          "short_title": "Blind students thrive"
         },
         {
-          "id": "f32a68957e30",
-          "title": "At 100, Krishnammal Jagannathan’s Life Marks a Legacy of Dalit Land Rights and Resistance",
-          "source": "frontline.thehindu.com",
+          "id": "ed3e2afb1f77",
+          "title": "Charitable trust deed stone inscription deciphered",
+          "source": "The Hindu",
           "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcURMLU8yLWtnMzAtV2RQemM5ZWdmNGtiUTVWcFZ0OGxLYU1rZ2F6OXhPaVJLdk5qMFppWWUyVkRGUUJ1WHV2ZXBTaC1FdV9hbWRhcGFyTlVhVGt0WHpMMVpLRjRFTDdycmMzY0w2c2UyQ29LN3FJRUJnc0FVTkhneWM1NnVTYk9raHVjaUx0bnpJSjVNQUNJZTJZdUo0YjVDNXNtcnN1a05UYVAxWDlpYVA0d3U5X2xucVY5MG1OYU44MHp1Nk1UUllPeHJfaEd4YkF1N1BqVERtbUk2RXItRlZ1cllfeUJPWWtEcGxJVGRBd9IB8gFBVV95cUxQcURMLU8yLWtnMzAtV2RQemM5ZWdmNGtiUTVWcFZ0OGxLYU1rZ2F6OXhPaVJLdk5qMFppWWUyVkRGUUJ1WHV2ZXBTaC1FdV9hbWRhcGFyTlVhVGt0WHpMMVpLRjRFTDdycmMzY0w2c2UyQ29LN3FJRUJnc0FVTkhneWM1NnVTYk9raHVjaUx0bnpJSjVNQUNJZTJZdUo0YjVDNXNtcnN1a05UYVAxWDlpYVA0d3U5X2xucVY5MG1OYU44MHp1Nk1UUllPeHJfaEd4YkF1N1BqVERtbUk2RXItRlZ1cllfeUJPWWtEcGxJVGRBdw?oc=5",
-          "pub_date": "2026-04-08T07:38:52Z",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1E5ZHZsMGNXa2tid2RfUFh6MW1VTWpoWDR5SzB0S19yZ21sOWpPTVZqQ0FKLXhwZndnMUFlR0RlS2hmUEZlQjQ2ZFZxdkRFaE9XTDdfQ0RoVVN5SXVtNVpaTzM5NHVLWDhZdXQ5clhCX0hndmhBSGxkckV4aDdxY3BnU04wODIzWTE3UnJnYnBqUGdrbVNNUWJpRkxleDRQSW03aWdNNWxuNGJqeE9IU01YM3dLR2J5WEZZLUEzWF9LbjJTblHSAcYBQVVfeXFMUG9ROWR2bDBjV2trYndkX1BYejFtVU1qaFg0eUswdEtfcmdtbDlqT01WakNBSi14cGZ3ZzFBZUdEZUtoZlBGZUI0NmRWcXZERWhPV0w3X0NEaFVTeUl1bTVaWk8zOTR1S1g4WXV0OXJYQl9IZ3ZoQUhsZHJFeGg3cWNwZ1NOMDgyM1kxN1JyZ2JwalBna21TTVFiaUZMZXg0UEltN2lnTTVsbjRianhPSFNNWDN3S0dieVhGWS1BM1hfS24yU25R?oc=5",
+          "pub_date": "2026-04-08T11:58:32Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Dalit Rights Legacy"
+          "sentiment_score": 0.72,
+          "short_title": "Heritage stone"
         },
         {
           "id": "f832b1247568",
@@ -268,7 +213,18 @@
           "pub_date": "2026-04-04T14:42:38Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Turtle Hatchlings Released"
+          "short_title": "Turtle hatchlings"
+        },
+        {
+          "id": "3a644221d38c",
+          "title": "Vegetable, fruit displays promote voter awareness at Uzhavar Sandhai",
+          "source": "The Hindu",
+          "district": "Mayiladuthurai",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNVZHQW01SmQ4RURuMDEyZ191Z3o3OUVmZHZ6NUpsSVFKUG40eHB5TUxhXzMyTVRmaUREcHdBb3lkb2loQjBCZUlRR2NVeVRYQnRaM3duV0xmUk1rX05SaFhHRDhlQng5S1FhXzNNTjR4TmdXLWc5MG54S3ZDbUgya0NvRnlXWEVjcnVfVzJYSmJCZWR5REFvcVN1RW93S0JDUkppbzRhNTBWaE9QeXFVcElLMHk1Vk92cklnMjZTakF6aEp4T0RIY3h4aUd2VFdnS205WHRB0gHcAUFVX3lxTFB0LVpTeTlFMjJJdDdOdnFFeG44WEhZVWF1MjFOa1FsOTVXbTlXNGpXWjRiYk5sUUxBNTM3NUlXS1F4RDdQTllTMmotR2E2elE5bEIybFVWam5mcWNUcmJtNzgwamh3a0hFbTFHaWk4aHJOYkZkSk54eGZkR1ZUcUd0WDhJdUg5NXVVT29lOHhlSFhJd0pSQUx1TjNpQkZBZlUwMUlKMk5OdGJCZG13WGdCUlRBeTJXczZuRTAtNmNwNWFIaWlLendYU00xX01rMzZMRGZseFJpUm1IRm4?oc=5",
+          "pub_date": "2026-04-08T15:46:38Z",
+          "weight": 10,
+          "sentiment_score": 0.38,
+          "short_title": "Voter awareness"
         }
       ]
     },
@@ -278,15 +234,15 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "5d4d730f8788",
-          "title": "Madurai collector leads marathon to promote 100% voter turnout",
-          "source": "timesofindia.indiatimes.com",
+          "id": "e3669f87cb1e",
+          "title": "Teen’s organs save five in Madurai",
+          "source": "The Times of India",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRldlN0E2NmFBZ29rcnUzaFNxcUFOY3dVQ1lNNXliUGtadDg5dXBTdWRndXNCVm5VMDFNY0FnNmRJeEd2bGpSNXhidnRucTJvTU9VTlpubklzWTJCejVUWld5U1FveERkTWY1Q0NUc09mM3pJNE9xN1I5YmpLc19HWm9sUU1HYjdlZGVySGdXN0JjVFJMTU9aLWNjOGI2NEwzWVZ2U2hNZzJwZTA3UkRhLUJueG01N01JTzhwX0pXV3Zvb1JhNlVVSjVXNFJLcVQ1WlHSAdcBQVVfeXFMTUM1OXJMRVh5STBOUEVJRndhSkdvZXo5aVB1UF9PenNrR0lTWVJlQVVmZUZKOE13T2t6eU1zcWUzN3ItLXgzbWkxZG93NTRUVHNReFJmX1RLOHNLck5PZk14WEY4MDFEOUFVWTRpX1QxSzZ5ZDhtM3JrSUFlMFZ2cXJQRk95T2hBRFdRczFSWVVuQUFxNlcwYkh6VWQ2cEJLdVQ2Ql9RYjNwSUs3TVlYUzJOa3NSODNWNTRPUXRsNUprNkhCTUJhLWhuRkJfUlFRZ0ltVUN3QkU?oc=5",
-          "pub_date": "2026-04-08T00:54:00Z",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2hKQ29aZlhvTXdkOTctTnhydHVEaUZycGwtVkptb0VRY09TUlJ6NXhQNERsb0hqMWpISURFU2dtaVdjbDlZU2RLVDJmcjZscUxvRkFQYi1wbm4zYVFXSzVxbUJpZ2tZbTh0R3lzaHgxMEV3NXlDaEp4YXpQSC1xVU5XcEpTdUlyRkdxd3ZUdHZHRVNjekE1YXB5QkZjb294ZGwzQlBhb2tqaC1a0gGyAUFVX3lxTE1MZ1Uyd3BLQTBpRVpYN2U3dk4wSmViOGVhMmdqdzRFQ0tidnVQQXhsel9sWEFGbHJNLUwwQm1fSFFfNG9SR0RnWjVLTFQ3c2xOUkUxWE5uX2pVYXBNc2tvcWpTVE1jUTJqQjJOck1EMGxvcHdqVHB0QmJxTi13OFRxX19YaS12WkMzcm44ZEdYNEtld0tiTWlDdHhZb29jRUNEd3M1Rkg3LW9wMXRDTjdXaWc?oc=5",
+          "pub_date": "2026-04-07T02:09:00Z",
           "weight": 10,
-          "sentiment_score": 0.53,
-          "short_title": "Marathon For Voter Turnout"
+          "sentiment_score": 0.49,
+          "short_title": "Teen's organs save"
         },
         {
           "id": "e25ae79890b6",
@@ -297,29 +253,40 @@
           "pub_date": "2026-04-08T07:14:49Z",
           "weight": 10,
           "sentiment_score": 0.42,
-          "short_title": "Faith Beyond Barriers"
+          "short_title": "Faith beyond barriers"
         },
         {
-          "id": "1f42a7ae3dee",
-          "title": "CII Proposes Port-Led Manufacturing Hub For Thoothukudi",
-          "source": "letsdatascience.com",
+          "id": "b7c093e16405",
+          "title": "Tamil New Year: Special trains between Egmore–Nellai and Chennai-Thoothukudi announced",
+          "source": "DT Next",
           "district": "Thoothukudi",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlZnZnljTVJOUzJoX0pXdWNHVmFEOE5pbmdRZHBhU1Z3VG50Q0hmUHE0Tmc2YlpZalNoemZJTlhoQTU1MG1IVmpsS19FSGxGRzJnSFVYRWs5UzZjclNvMlRxQXFvQmJtVWc0VHBpdHhhbXpVcFhGUkNLSms4M0xqek9VWGRCbW1CcUJUeUg0NldBaENjRWJBdDJMeFk2QQ?oc=5",
-          "pub_date": "2026-04-05T15:44:13Z",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWtJd3pBelVtNVdiUE5LWXB0ZUNUVWJGdy13MGtvUjZIVVE5S1pPdmtyelpkVmNhTGEwbE9xSG0yOXZLbERDeHhud2MtcU1nZUJ5Wl9aNWNMLW8xMmdweDVqUkZmZFhIb0d4WEQ1TlVreFJlSHE0YVk2VG9LbURvVm9yODBxWGk5ak9uTGFKSmctd0Itc2J5Z3N3VGZwdEtjdHd5cHZrNUpxdUhNWXVfUmhTSl9lQ2tzWjVEczVR0gHLAUFVX3lxTE1kMnEyU3UyVzZfdjcxc29YRkQxSC1PQU5lNEhpbzdjZXVOaDNaOGdGaGFYSFFYUjM3SDE5QlFxRzJNdS1yNExoZ2owSkloVkYzS3JwWWtGakJldjZNY3F1cXBjZWc4aVM3OVF2RGk0c1c5Sk1vR3h0eGdacmY3SVUwLWhNa2Q3MXE0dHdyNDE4R0RLNXlJUC1mMEluZmxUYW9RNmwyLW9mNi1xbkJad3loTzY5NkhlY0F4cjhZb3ZsVVNQSlJVMlpmYW1Z?oc=5",
+          "pub_date": "2026-04-08T05:53:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Port Manufacturing Hub"
+          "sentiment_score": 0.4,
+          "short_title": "New rail routes"
         },
         {
-          "id": "fe243c490673",
+          "id": "9802dd80ea2f",
           "title": "Easter celebrated with fervour at Tirunelveli's Sacred Heart Church",
-          "source": "Asianet Newsable",
+          "source": "MSN",
           "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0lBanpOd2ZkZlByNTcwbXFyYU5EbV9ma29BRDdNTEdKX3NQa1BuNk1OMHRVSmpuUWtrVkNZZ3pyc3Jvai1tYXJ3VnZwYnZfSmNIQVZzUU01bHJiOVd6dDR1Z3dqa09tZkFoaG5UdXVBNGtNenVrTUIwTEFyeGk0OHBzZ2N0UFRpQ0FvWGFnbXZuamg5YUJpWVozdGFad25Wd1lwVkJpOU83aGd0LUFPR0RyNS1LRm96OFJFcjBxbWVpWVnSAcgBQVVfeXFMUDRVeTZQUVlZdTlCUl8zNUM1VWRVVlVhQjdSWmprdk14cm9BNnRjX3JLMFVxWEpVRVp6aE5ZSUdLa2YyVnd6eGI2Y0U2TzlrclVlUWRwcnBxSDZuaEtHUlB2MUNRWUNTRzk0bXVVZHVrZVNFMHhCWTlhMDRsSzVtQUNfSFB3SXpLRXJ1WWd6Y2tXUVBXX1hpb3VkVjh1N2pPQXkyQUU4VGlOQVI5LXhaUm1YRUlqZ1dVYlB4eU8xTmdlZnRybl9rNW4?oc=5",
-          "pub_date": "2026-04-05T03:00:22Z",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNMDVEN3NJVWtsNXY0X05UcU9WeG5BaWhDeUxYMXNzTXNVa3Fla2dtY0hhRVFLc0x0T3lBenJBTHJMSTNKd2lFV3RkNURzbk9kVzJQdmVKUGVVNDUtcmN0QjhyLUFjdTVhelBXbU42UHhiZFNlRUVHQW1WY1Q2elZPeFdISjh6TGY1c1dzM0xDbndibjBfckhnTmtpbXRxQ0dUMTVuOFNUU1JyOXR2ZGRudzd5Ui1MTHZ2MlNWeG5Cck5mYkNuVzZfV01QQ2FzNVN1YlY4a3NOc1U2REo2dzNmeGhfWTZrdFhENzhMWW02OXRRc0Zvel84RFFQZy1MZUlIWEh2RWVoTVQ3Zi11akJKNW9JeW1NZ3dyM3BnYkJIWTY2RzR5R3o0bFE0T01LS2FCT05iT0FqQlZlMi1QMEpKZTY4NG1odnBGZkRrSnNkaw?oc=5",
+          "pub_date": "2026-04-05T04:21:54Z",
           "weight": 10,
           "sentiment_score": 0.84,
-          "short_title": "Easter Celebrations"
+          "short_title": "Easter celebration"
+        },
+        {
+          "id": "f053bc18c3b6",
+          "title": "This technologist is seeking votes to help make Tenkasi the ‘Estonia of Asia’",
+          "source": "BusinessLine",
+          "district": "Tenkasi",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVGlqZFc5ZTBYRlV5cFdFR0g4bVZVdDcxS2JsblhRMDQ5WUZuZXAySmdnVGg2c2pkbzFaQnRQaVlBai1wOVoxOVdvcnpVMDJ3MFV3MVIxZjY5RkV0NGtLcjVNd09iMWw1ZjZXekwtNEd5TmM2S1d6cHZ0bkpkb0VYUHJQWjBFWkZaTTRJeENQSnI1VkNwUkVrclZMRWVSYndUT2hOaEZNTldxNnV3RWRuc3V3akFld1Z1WnJrM3hDdEwzN3plWW1IcHpnaEMwVXFmTllFOFAyN0hQaW1pbGNr0gHmAUFVX3lxTE94azRVZ21pblVFUEFWWkdWMFFNNks1TjdjUnpIaWhaSXB4by1PMmJtZ3laNlhzM1RkY0lGa1k3RjFJT0lWZG1lYkx6Tl8wSE4zWmVuQTgyam9xdnowamJYejBzaERZV3BObXBJMHhaOHdETm40MmNtVUFjTU5odzAxaENzdVVvVENpb2VUZVk4ZlBkRFpNa1FJeHNfNkZSMWdmVHJvd1RDa1FRZ3RlWGVneWQ5dHFzRkwxU2dFNUF5YnFMSUpvaUZNY2VqQnRFNFBHS0Z1YW5TNWh0dzlhZFExcmdzVDJn?oc=5",
+          "pub_date": "2026-04-08T13:07:09Z",
+          "weight": 10,
+          "sentiment_score": 0.4,
+          "short_title": "Tech visionary"
         },
         {
           "id": "434a8cbee09a",
@@ -330,7 +297,7 @@
           "pub_date": "2026-04-05T15:11:30Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Beach Awareness Event"
+          "short_title": "Beach awareness"
         }
       ]
     }
