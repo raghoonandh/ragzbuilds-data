@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T12:49:13.479692Z",
-  "article_count": 28,
+  "generated": "2026-04-10T01:01:44.149422Z",
+  "article_count": 26,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,15 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "7a854369f350",
-          "title": "Cricket match squads | Chennai Super Kings vs Delhi Capitals, 18th Match, Indian Premier League 2026",
-          "source": "Cricbuzz",
+          "id": "ddc6bf30f98b",
+          "title": "In Chennai, Crafts Council of India celebrates the sari and more, at their annual textile showcase",
+          "source": "The Hindu",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3AyUWVnS3pwOXVndm9FcXQ2UmtYUW1zcXZYdy1fcUotUjRrTHEzWEVnSE5NQjlULUFOa0NuWDltY0hKMFpOWk1Nc1F0N3NmQncxM2dyeXk5ZlljSHFFU29oVmExTXFBUHpnaHZibnptRzlkSzRBOEVRX1J0WmRsSzRHNl9JS3NUMTV6X1J5bFNJWlVJblFKamVSVTFDdWM3bmc?oc=5",
-          "pub_date": "2026-04-09T10:58:45Z",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcWRFUnZ2dDNhTDhYUWUtRloxWEJzekFsQnRjZy1WZExSTXJKa1hHalRQQTlURXRGdEVnSlR0dElvSUtBV2Z5X2lVX2FRcVBxbVl3OVFMQ2dMejktVlUzRHJhVHdaLVZxekFYVHFzZUdEQjkxTldPdzRUWUU2RkFhWV9wVVRZM0pRTWR5cWlnMzQtT010cXdYNWVCaURjQTZDdzhZZzU0SXRSbkEzd2xPMEVSTXVENVBuUHRsX0JiX1hhckhYWjNIRXdxVHZlcEtUc2N1RWk1Y2NpX3NkeC1TbXpnWjNkSjdaaU1ES0taYUJhUWFpODcw0gH-AUFVX3lxTE83bndfNEM4dF9ZLV9qcGdhRDRRRzBld1UyT3dhd25wQ09FcnVrbUttMEktWFdzT1ZsZFNGYkFJMGhERGM5QWFiYnBqSVdqWEliemdIT0ZLeElPRWFCMlNpSERoa050dFgydEJsd0ZlV3lfRzVHd0pwMHFITW1sU2lncHRDZEp0ZGJjR0lDbzBGQlNnRnh2QmlVek16aDI4YW5GSmFNYnRwRmxqb3BEdzlSSkhFRy0tTmtXQzUzY3VCUkpCZktfSkdOaFdtY29wVXlEakRSeUFQa1J6MFVTV2FxOWZRelhhVG1mZHhtek15Z25Wa2FXZnBjZ05manV3?oc=5",
+          "pub_date": "2026-04-08T09:46:02Z",
           "weight": 10,
-          "sentiment_score": 0.6,
-          "short_title": "Textile Heritage Shines"
+          "sentiment_score": 0.72,
+          "short_title": "Sari Celebrates"
         },
         {
           "id": "580215726be1",
@@ -27,7 +27,7 @@
           "pub_date": "2026-04-04T13:47:39Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Station Reborn"
+          "short_title": "Station Remodelled"
         },
         {
           "id": "2fd755ba44f6",
@@ -38,29 +38,18 @@
           "pub_date": "2026-04-08T06:15:54Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Ancient Deity Found"
+          "short_title": "Ancient Durga Found"
         },
         {
-          "id": "777693bebba9",
-          "title": "CPCL’s first retail outlet opens at Nemam in Tiruvallur district",
-          "source": "The Hindu",
+          "id": "c62604acecc4",
+          "title": "Autism Day celebrated at Tiruvallur Collectorate",
+          "source": "DT Next",
           "district": "Tiruvallur",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFhpNE1CS3FQcncxaU1nOFVwRTZXWGZ4OFR6bDRQeU1xVlMtWTIxYUgyZ0VhOUY0a2h6Y2oyUFROeXBiNDl5Sy1XN2ZBUkxiLUx0eHZ5d1FKcG4yNGI1LXJoUG5ob203cGJzMXh5b19rNkZLZEd3Y1Z3eVFlVHJ2QjB5WEhIMjBBd3lBTWhWckRiY0FhdmpheWdiUWtoSzhyN3d1NWhuMHRNa0dPNU9uUmtJY3RCXzZ4VWNjTDZoSl9tN1FnNFA40gHOAUFVX3lxTE9DQ3hCZnpKcWNINkpPWFA4WngwcF9IRDhTbVk0ZVRUREVsODRvWUpwcW90NGI2NktYUkQ3OVZYV2txOVltamd2V1FLR0tzZ214Z0xQSVVQd2QzMlRjMTNaSGlpdko4VnBiVFhzTjQ2Zy1lT0pRQ19xR1h4Q2c1Q2YtUHpkZnVMaW1TMUhjRVZjYlRnc0drUUhIQjNndXNQX20zT1hwWXQ5ZTdoV2lEXzd4OXRRVGUyVzc5XzhiMm5FY1dEOVhvUUJsc2JPN29R?oc=5",
-          "pub_date": "2026-04-03T19:41:33Z",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUFEYXRhRUhkMDRDZnBmSzktNWs1bDFTMVlYaWNfZzVlNVdVSjZ0R3FiZGxhcVFmOGRGX3FtX2NJcS1wdmxtVkozZDBUX3FWaXFDWTk4d254UjlQZEZ6SjlkMTQtMGlRZV9IWjhMejN3WjhGcVo2WlVqWlZ5MDcyMlJMTEExWlE0WG1semJn0gGbAUFVX3lxTE9xMDdoV0VoTV9IMl8zZVBoeDR0Ti10dnM0VGplTjBWZ3ZEa0Z5ZlE1dloxTkozcHVOWElWT3pyNC1JU0o2TG05ck1EWEdBLUdHS0txMFI3dU82eVhGTEk0WXVGdjZ2TWRXNVNMR3dHTWJzYmdYZDBfVHlObDB6ckRvMlZNaHhmRDRuSy0zbjR2SmtLQmJ0QzdZQU44?oc=5",
+          "pub_date": "2026-04-03T02:02:56Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Retail Milestone Reached"
-        },
-        {
-          "id": "326942d6939d",
-          "title": "Orthodontic Study Group inaugurated in Vellore",
-          "source": "The Hindu",
-          "district": "Ranipet",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0llOWJHR3Z0Mll5dnBnRGhOZ2tMeE9OLUNKalN1Xy1jU2p6aDJrZWRPYXROb0lLbzZxa09JNUZJVGtLTmwwb25NdndLQ3piZ1ZYR2MtUjkzQ2NNVHM5X3dvZkJhSTZERzMyYmk0R29JNXJEQUFfNGdzQy1jd2hlRzNsSDR6MmFhbW5YYmxNTDFDZXZvUENDaWl0ZGVWRVd5bDd2MGRUWmdKWkJicTBacW1sbnVGRVHSAb4BQVVfeXFMTV9nbjAyQ2xIZGQ5by1Oc1JkVjE1TFE1cl93amt5N2R3UmpteWdLcEdPdUd3czRISVJuWWpSV3NySW1GakstdXZxOXN4UnY2LVFSUGFCUW9FMTZ5M3V2Q3pMd2h4YTBKcEdhbUlHU2d2aE1qejFVVVBNZl9waDhwRDFNcndsQXRxem95Z1hweDJBS1p2RWk0VW12eDlLdHJsYUdsU1J6TnFPMlVMWUM3YWdfVk9IUUY1VEZPem80Zw?oc=5",
-          "pub_date": "2026-04-02T19:30:15Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Study Group Launched"
+          "sentiment_score": 0.57,
+          "short_title": "Autism Awareness"
         }
       ]
     },
@@ -78,7 +67,7 @@
           "pub_date": "2026-04-09T06:23:05Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Forest Farming Flourishes"
+          "short_title": "Food Forest Dream"
         },
         {
           "id": "165d5b05275c",
@@ -89,7 +78,7 @@
           "pub_date": "2026-04-06T17:35:33Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "3000-Year Art Unearthed"
+          "short_title": "Ancient Rock Art"
         },
         {
           "id": "074b532beeb7",
@@ -100,7 +89,7 @@
           "pub_date": "2026-04-04T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.34,
-          "short_title": "Education Demand Rising"
+          "short_title": "Education Demand"
         },
         {
           "id": "2329a68ad2a1",
@@ -111,7 +100,7 @@
           "pub_date": "2026-04-06T21:00:46Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Asia's Largest Women Nursery"
+          "short_title": "Women Nurture Eden"
         }
       ]
     },
@@ -140,7 +129,7 @@
           "pub_date": "2026-04-09T09:33:35Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Industry Leadership Named"
+          "short_title": "Industry Leadership"
         },
         {
           "id": "0a03fa5234b6",
@@ -151,7 +140,7 @@
           "pub_date": "2026-04-08T03:07:10Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Festival Draws Crowds"
+          "short_title": "Festival Crowds"
         },
         {
           "id": "410633dfcb26",
@@ -162,7 +151,7 @@
           "pub_date": "2026-04-07T15:30:12Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Organic Veggie Venture Thrives"
+          "short_title": "Organic Abundance"
         },
         {
           "id": "28011ff53802",
@@ -173,29 +162,29 @@
           "pub_date": "2026-04-05T05:37:38Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Roads Reach Tribal Homes"
+          "short_title": "Roads Reach Tribes"
         },
         {
-          "id": "bfdb989605c9",
-          "title": "Summer Bloom Begins At Ooty Botanical Garden",
-          "source": "afternoonnews.in",
+          "id": "e0e89e91a020",
+          "title": "TTDC begins electric boat operations on Pykara Lake",
+          "source": "The New Indian Express",
           "district": "Nilgiris",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaUVOSndxYTZnOXpOZ2RtMy16NTNYbC1MTUFqSXZ5MVFvSU5GUXFYNkladl9yVEl6UFNoYXoxRS01SF9ZVWZ5Y3dISDNpQUNRVGlyanU2VVo1N09BT2tQMWxFNThlN0hVWUxGUWtraFpjZXkzdXhKWThjcnRDeHJKbUplVGs?oc=5",
-          "pub_date": "2026-04-07T09:00:20Z",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUxCYllqNTVpdkF3eU5JeVhncHNJOEJHNDc1RXI4TlZpMlRPb2pUVVptZjhiVzFQbElqYnNKZWJhYWtzc1k4R3FxcVlhMlctVU5XeURrcGxZdl9icVNRalRZcV9fUXY1UjZEUjdnTDFOWDBjRWhYb095SUVxeUpfRzlMUkljelhhME5qdE03NDhkTllOU0VGWlNsNk8zWmVzb1F0Tk9SSjlvTy05U21NM1Mzb2_SAcIBQVVfeXFMTnFpNTBNcGdOUVBpX21qalZjM2NHTjczWExGZ1NMT1hNbDR2SGVxSmhITFRRcmp3YjhsRVlWdXA2bzJ0dmkwb00zTkdpTG1Pam12bU0wbXQzNUR5NF9yZWpoYjRxSFRvWFpEVVBkWE1OOU9EcnJ6S2R5NXhpQjJ4aGRYaFF1LTRGWFVhd3JGLWxPZXZwUXVXZjhjTUpjQjZmdXRWSFNpZm9STGhWSWh0NHlSN2t3TU9XUjZHa1NrLUJuNEE?oc=5",
+          "pub_date": "2026-04-09T03:38:22Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Garden Blooms Spring"
+          "short_title": "Boat Goes Electric"
         },
         {
-          "id": "4d8c4bace263",
+          "id": "f32a68957e30",
           "title": "At 100, Krishnammal Jagannathan’s Life Marks a Legacy of Dalit Land Rights and Resistance",
           "source": "Frontline Magazine",
           "district": "Dindigul",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbHM4NHhpdGZlaEZ2VXVIRWpJaUhLM0xma0QyYk5lemwtMnBycjFYYWJzYzZULXdKQmdtZjZLdWlzQ1IzM2ZwS0dLWXRzTy1BUWpHSFlFSWo3UF9OYzczVjJBOXAyQmxOODJhaVJxWjB1QXktZ2d0VHphdTl4WDZWM0FLYTgyTlg3Q3g0QzFJSEYyTDI3QkpOWWZxMmpZQTdXZU9HalJlamR3TmEyeHBINV80QTdkTlBfUkpOeVRRYnBtYWxoY0ZmaXJ1Y2taaXRubWliZ0gtQmtXVk9IYllIWW1TMEpiVnJVT2Yw0gHyAUFVX3lxTFBxREwtTzIta2czMC1XZFB6YzllZ2Y0a2JRNVZwVnQ4bEthTWtnYXo5eE9pUkt2TmowWmlZZTJWREZRQnVYdXZlcFNoLUV1X2FtZGFwYXJOVWFUa3RYekwxWktGNEVMN3JyYzNjTDZzZTJDb0s3cUlFQmdzQVVOSGd5YzU2dVNiT2todWNpTHRueklKNU1BQ0llMll1SjRiNUM1c21yc3VrTlRhUDFYOWlhUDR3dTlfbG5xVjkwbU5hTjgwenU2TVRSWU94cl9oR3hiQXU3UGpURG1tSTZFci1GVnVyWV95Qk9Za0RwbElUZEF3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcURMLU8yLWtnMzAtV2RQemM5ZWdmNGtiUTVWcFZ0OGxLYU1rZ2F6OXhPaVJLdk5qMFppWWUyVkRGUUJ1WHV2ZXBTaC1FdV9hbWRhcGFyTlVhVGt0WHpMMVpLRjRFTDdycmMzY0w2c2UyQ29LN3FJRUJnc0FVTkhneWM1NnVTYk9raHVjaUx0bnpJSjVNQUNJZTJZdUo0YjVDNXNtcnN1a05UYVAxWDlpYVA0d3U5X2xucVY5MG1OYU44MHp1Nk1UUllPeHJfaEd4YkF1N1BqVERtbUk2RXItRlZ1cllfeUJPWWtEcGxJVGRBd9IB8gFBVV95cUxQcURMLU8yLWtnMzAtV2RQemM5ZWdmNGtiUTVWcFZ0OGxLYU1rZ2F6OXhPaVJLdk5qMFppWWUyVkRGUUJ1WHV2ZXBTaC1FdV9hbWRhcGFyTlVhVGt0WHpMMVpLRjRFTDdycmMzY0w2c2UyQ29LN3FJRUJnc0FVTkhneWM1NnVTYk9raHVjaUx0bnpJSjVNQUNJZTJZdUo0YjVDNXNtcnN1a05UYVAxWDlpYVA0d3U5X2xucVY5MG1OYU44MHp1Nk1UUllPeHJfaEd4YkF1N1BqVERtbUk2RXItRlZ1cllfeUJPWWtEcGxJVGRBdw?oc=5",
           "pub_date": "2026-04-08T07:38:52Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Century-Old Legacy Honored"
+          "short_title": "Century Legacy"
         }
       ]
     },
@@ -205,26 +194,15 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "846f867d8e3b",
-          "title": "Sri Lankan Tamil votes for the first time in Tiruchirappalli, India",
-          "source": "The News Mill",
+          "id": "6341b4b9c689",
+          "title": "Rare woolly-necked stork spotted near Thanjavur",
+          "source": "The Times of India",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUVoNU5wZFN3ZW9Qak15bzRWZ0c4eXlvbGdvX2JkNy1iR3dfb2tTbXREd1JQWTdJZDFGd3pRVFZzX2d0UkMxR3VSWWlKYUd1aGloanpPWGZWTkM1QnVvYzMxNXZUX1lvenhGX2NaRU1jeHhFWllMQjhsYkxvRXVPNlVPUmhjRnY4WVB3Q3RoRkpnTWh6Vm10TGdwNzJPMzJVaDBjR0ctdDZWUU1UajItTGcxRjVOdnVYRWxrWA?oc=5",
-          "pub_date": "2026-04-08T16:52:27Z",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkk5MEJDVGRLMVJzQ3BiWlFYbmhFTk11bmJ2SnFJd3F1NEYwS2dUelN4dnB5a0ZrZi00NmhoRVNLeEZGeS1xQTc5aXZmLXhITFJnN0ZjOU5nY1VoY3BFazhFUUZ6WmEwRnRLdUNzLWk2M0NzSlZzemZua0RsNEp3bHpBWkNmYU13WlJOOFRkN2lZblZqN0ZoQ2kwTDJVV2pMUDMxMFhGMEVkaGlubVRkUi0tbFJxeHNPLWFNa3Vn0gHDAUFVX3lxTE5vdGw2U2xOSjVJZ3RlZ0NOWmJINFBvSWJPbzc5US1tLWMya09fbFdRNWRwTnVhUWhIVkQxU2phM3hZWkNGeldGNGVTalFDVUFjemZYdW80VmlGZGZXZE1Fa3MydjBfaUtWeFFSanIwTVBRQmE4TEZCLWx1bENSUmhfcUgxSUNxb0NMU3VuSnNva2lWOUlsaVU1SWoyaWdKY2gwZzB4RVJWMjdTak9mVGtsYS14ZXRVRVBObGRoczRGd1ZEMA?oc=5",
+          "pub_date": "2026-04-08T16:54:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Sri Lankan Tamil Votes"
-        },
-        {
-          "id": "ecb95afbb636",
-          "title": "Ariyalur police seize 320 kg of gutkha",
-          "source": "DT Next",
-          "district": "Ariyalur",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnJZNGpKRWlfRUZxb2JWc2d1RnZPU2tDeVF1dEpOd1JtenNzV0tYaV9MZ2FlVXRjR0RlYktpM1lOVlpBVzFESVdhb21lLTczWDd6cG5DWDVQQ0ZJSUUyMlljWXE1WlhkUDdMbE5ZQ2VlQ1FMODAyUV9BWWlMdTAybtIBjgFBVV95cUxNZ1JXNDBkRW5WdmZNcnVYc1VDZmJycmlMLTk2V0k0X1Q2S2Niel9ZTzlabU9XUzdTcjlpeTAzQTMzOXJvQW1iMzNGYllFNTNtUnlRbXJiX3VucDczYmJMendjUXdYOHhDeDNyYUdBcjB5RG1aNGJjRFJZWEJ3d0pSazh4RWVGRm5OVkpmZy13?oc=5",
-          "pub_date": "2026-04-04T15:44:03Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Gutkha Seized"
+          "short_title": "Rare Stork Spotted"
         },
         {
           "id": "ffa985b5589e",
@@ -235,18 +213,18 @@
           "pub_date": "2026-04-07T06:16:49Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Blind Teacher Digitises Books"
+          "short_title": "Books Digitised"
         },
         {
-          "id": "ed3e2afb1f77",
+          "id": "1fe68ab92e7c",
           "title": "Charitable trust deed stone inscription deciphered",
           "source": "The Hindu",
           "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1E5ZHZsMGNXa2tid2RfUFh6MW1VTWpoWDR5SzB0S19yZ21sOWpPTVZqQ0FKLXhwZndnMUFlR0RlS2hmUEZlQjQ2ZFZxdkRFaE9XTDdfQ0RoVVN5SXVtNVpaTzM5NHVLWDhZdXQ5clhCX0hndmhBSGxkckV4aDdxY3BnU04wODIzWTE3UnJnYnBqUGdrbVNNUWJpRkxleDRQSW03aWdNNWxuNGJqeE9IU01YM3dLR2J5WEZZLUEzWF9LbjJTblHSAcYBQVVfeXFMUG9ROWR2bDBjV2trYndkX1BYejFtVU1qaFg0eUswdEtfcmdtbDlqT01WakNBSi14cGZ3ZzFBZUdEZUtoZlBGZUI0NmRWcXZERWhPV0w3X0NEaFVTeUl1bTVaWk8zOTR1S1g4WXV0OXJYQl9IZ3ZoQUhsZHJFeGg3cWNwZ1NOMDgyM1kxN1JyZ2JwalBna21TTVFiaUZMZXg0UEltN2lnTTVsbjRianhPSFNNWDN3S0dieVhGWS1BM1hfS24yU25R?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaTdmRWxrcG9PdjR5TXNyenk0emlvdHd5SXlqNkZPWDJtMmRncFdiMnZRa0JhZGlXSUk0Vk5sTGdrWVY4MG90N2t4eTN6SVowd0VQelROVDBhdmxZTDNrM2Y1VHFTRzdxZ0VTaW00Uk9hdER0SWRhenFEMXdQRy15T3FmZzRjd2ZSUHpBRVR5b1l2QXl3RnNjMkpONld6LU1zN3g1ZUtwc21JQU5ONUl3Y2VpNnJuMUJ4eFAzYUQ0MNIBxgFBVV95cUxQb1E5ZHZsMGNXa2tid2RfUFh6MW1VTWpoWDR5SzB0S19yZ21sOWpPTVZqQ0FKLXhwZndnMUFlR0RlS2hmUEZlQjQ2ZFZxdkRFaE9XTDdfQ0RoVVN5SXVtNVpaTzM5NHVLWDhZdXQ5clhCX0hndmhBSGxkckV4aDdxY3BnU04wODIzWTE3UnJnYnBqUGdrbVNNUWJpRkxleDRQSW03aWdNNWxuNGJqeE9IU01YM3dLR2J5WEZZLUEzWF9LbjJTblE?oc=5",
           "pub_date": "2026-04-08T11:58:32Z",
           "weight": 10,
           "sentiment_score": 0.72,
-          "short_title": "Charity Inscription Deciphered"
+          "short_title": "Inscription Deciphered"
         },
         {
           "id": "f832b1247568",
@@ -257,7 +235,7 @@
           "pub_date": "2026-04-04T14:42:38Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Turtle Hatchlings Released"
+          "short_title": "Turtles Released"
         },
         {
           "id": "3a644221d38c",
@@ -268,7 +246,7 @@
           "pub_date": "2026-04-08T15:46:38Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Voter Awareness Harvest"
+          "short_title": "Voter Awareness"
         }
       ]
     },
@@ -278,26 +256,26 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "e3669f87cb1e",
-          "title": "Teen’s organs save five in Madurai",
+          "id": "cc0725f2415d",
+          "title": "Human chain rallies held to emphasise 100% voter turnout",
           "source": "The Times of India",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2hKQ29aZlhvTXdkOTctTnhydHVEaUZycGwtVkptb0VRY09TUlJ6NXhQNERsb0hqMWpISURFU2dtaVdjbDlZU2RLVDJmcjZscUxvRkFQYi1wbm4zYVFXSzVxbUJpZ2tZbTh0R3lzaHgxMEV3NXlDaEp4YXpQSC1xVU5XcEpTdUlyRkdxd3ZUdHZHRVNjekE1YXB5QkZjb294ZGwzQlBhb2tqaC1a0gGyAUFVX3lxTE1MZ1Uyd3BLQTBpRVpYN2U3dk4wSmViOGVhMmdqdzRFQ0tidnVQQXhsel9sWEFGbHJNLUwwQm1fSFFfNG9SR0RnWjVLTFQ3c2xOUkUxWE5uX2pVYXBNc2tvcWpTVE1jUTJqQjJOck1EMGxvcHdqVHB0QmJxTi13OFRxX19YaS12WkMzcm44ZEdYNEtld0tiTWlDdHhZb29jRUNEd3M1Rkg3LW9wMXRDTjdXaWc?oc=5",
-          "pub_date": "2026-04-07T02:09:00Z",
-          "weight": 10,
-          "sentiment_score": 0.49,
-          "short_title": "Teen's Organs Save Five"
-        },
-        {
-          "id": "bbf34fb2d34f",
-          "title": "Archaeological Excavations in Tamil Nadu Expansion",
-          "source": "usthadian.com",
-          "district": "Sivagangai",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQlM3ZlZ3Y0VWMUoyRnhVLUhnYVhGVDZESFJLeUJxZ1BTUnpNaTJDV1ZVd1kzR0tNMVJzREE2bHZHdzdLSHN3THdTMkVfbERDU0RxRGJSTXhzVUFxaUhHUU1VTDJWcUE4MjJobk9wdWkzZEZ4cEFWeXJoTFNXX0EtbU05RQ?oc=5",
-          "pub_date": "2026-04-05T12:11:39Z",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnNoeXV2a1JwTnJaNmkxUjI0TzJ3VVVHcUNkNnZkalEwTHZLMVlzSkdXODJTVkh3MTJENVZSZVA1N1I4NVpfMS1pSWh4amFuMi1Ma2hVZGxPdzJIQUl2OUpGQWswTzVBTEgyTkdoT1AyOW0tWktSX2IzcXlRRXJyT0N3T2IxZEF2ZWtkT19ZTmx3ck90RHdPb1JxV1JVcUZyR3dOcHVZemdyVV9kUThrZEdBLVlCUXNaNnc0Z1pjWkJNbHI2eGJuN1V30gHPAUFVX3lxTE9NTG5zQ192X0tqT0pyN29uN0QwQUZSdkhaVGZLa0ZVSHNYQmxMRWhxZjNHYm9mN1A0ME1PcV9BLXJGWUtHS2Z0Vi1VU3ZNUFBZcXM4WlR6STZsaWtyRVBQTi1PaHZVVW5Oc2RLdXJFVGlyd2luWXlPTi0wV20wc1c3WFhfVUxROVZxSVBpQWEtQml0YU11a1ZjaTh0MzFTR2x6MjBfY3FpZkhidHY4aGRfY0ZmQURPY1JQdnBnM2JoYkliM19uaGNpdmhxSkZMVQ?oc=5",
+          "pub_date": "2026-04-09T19:21:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Archaeology Expanding"
+          "short_title": "Turnout Marathon"
+        },
+        {
+          "id": "885bb2ad2e0a",
+          "title": "Sivaganga: Crafting a 300-ft temple car rope with faith and labour",
+          "source": "DT Next",
+          "district": "Sivagangai",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXQxamxINnRfX2xBWENvRTREbXRwbWhwbldBMXhSZ1dlSUJ2VE5qbWdSTkhPZ00xOEl0dW84dUtsNlpQQWRnSFZxc1o4cjJjNGR4cThvOG9kbEhKc2tDTHk3eEc3aDZkeE9LNk1tckVPVFZYZG9YRWUyelZXRDh3OGJFZDM0cTJEOXBUME9FclpoVXNvTk91RFYzRVBPQkN5THJ2VdIBsgFBVV95cUxPUWQzS2YtM2dEak5hZzhGdXpsY1BlNk9lM2IwOE5JbHFteG1STFliQ0V2dVhKYnMtYmM5T2dyQTdsYklwRjNTX3Q0UWQ1N1dDQmpmT3NiWXdCanFFc3BNX0NPWDlZTHBZdTJHRWx1QVpub2tCVFZwa0haeUxOY2lDRm9VU3VyTC1JajVkcWM4SWd5MG9kSXJCWVdMbzB3Vzh1Ti1Bb21rQ3ZtZDdDMzVRM1Bn?oc=5",
+          "pub_date": "2026-04-09T13:44:07Z",
+          "weight": 10,
+          "sentiment_score": 0.42,
+          "short_title": "Temple Rope Crafted"
         },
         {
           "id": "e25ae79890b6",
@@ -308,18 +286,29 @@
           "pub_date": "2026-04-08T07:14:49Z",
           "weight": 10,
           "sentiment_score": 0.42,
-          "short_title": "Faith Transcends Sight"
+          "short_title": "Faith Proclaimed"
         },
         {
-          "id": "d9d15fe17b08",
-          "title": "Six feet python survives after surgery in Veterinary college in Tirunelveli",
+          "id": "c921559f3f86",
+          "title": "BSNL signs MoU with St. Mary’s College in Thoothukudi",
           "source": "The Hindu",
-          "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRE5ZeHd3eTBES3B3ZkM3UkZDYkw0NmJVbWFYRm4xUVFHV1dyQTVXcHNZRVBnN0Z2X3l3VHo1dEFOZ244RGprdTBCV1o3VTU5LXg0eG9zaUV4LU5MOWNBaVRaMkNjMXF4ZXo1WDVhZzdJcFl0TklnbVVWOXY4N3p4dmNYYUVKeHRWWjkxRHIyRUZhOG93dDdMNkFVOF82eXNTYlJmNG1HMlYzemV0Rl9jdWo1ZTNlWndzN1RSM0s1Z3NBM1pjNzQyMUNVY1RvejAzMmkxNkNsY0ZWNDdBbE9nUXVCd3V1VVXSAe4BQVVfeXFMTV92OHA1V3hMVzY5dGJzbWRwUEM4a3RSSWcxUTEwT1ZNNEphN2IwcXJ6dllpeG1YRnQ2bVdwa21tYnlEQU9oQndxRTVZR3A2a2xyNVJZTEZxWm1lT1B0dFNibUJTa0piOEJxOTNZMDE2aUt4eklCb2NVT29UWG80Sy02aXFTUEhxTDQzYzY3SmRrb1BPZVhGVUVfaFY4YWFDUHJzV1pXZjNlRUZ0VllUNmNEdmQteERlelB4SDNWRXNXNTk5WUw4cUgyZnpyQ2NBTWQxclh0SXhFQ2p6VjhqOXRYMlQxendJOWFoanFYQQ?oc=5",
-          "pub_date": "2026-04-09T12:35:31Z",
+          "district": "Thoothukudi",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDJ6Z1pMMXhLWGhJUVFyZ3NQR3h0a1l2Qmk0bER2LTlvRU5mYmp0ZkRXc2o4UHZtVW1rRk1fM01tYmhIUU5MZ3Y3WFVaazBERGlYSE52QThCWmNZQ2pIdk5pcC10RHRERmROeXNsdHVwSTZfR0RvemJVNlJ5RjlRU01SWE9vUjFRUWtlTkJsUlZNOHZSeVNXUnZ3d2xWWUhJZmJiVTA0bkhrNEFSZVgzOWw1VzlBQnPSAb4BQVVfeXFMTlZuQU1TSlZPYzlkdGNIbm9ZR0Q2ajdONHhKTUVqZGxtRVBLQ1BUSVc3TzFyWnlLS2MtLUZsNWlra0NIdHJzMXVGZnJUSWdiNHBSWUtEVU5aNWhzZ2otRjBORGFsWmNWZjRuQjB4OU5VdHVacWxvSkJsWHpHYjh1a0pUMC1US2hLZ0dkazBtZnJNMUxOQktXNXV3d2c3bEdGZDl5MWJXcTB3dU5NUmxtQWlaTTFRMWl3d1JKRDR6QQ?oc=5",
+          "pub_date": "2026-04-09T13:07:31Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Python Surgery Success"
+          "short_title": "College Partnership"
+        },
+        {
+          "id": "c273521e0bc3",
+          "title": "Six-foot python survives after surgery in veterinary college in Tirunelveli",
+          "source": "The Hindu",
+          "district": "Tirunelveli",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFhTX2NLQzhXcHpDMVo5OHpESUpqT2V0ZGhPaHQ1TXhhbWZ5Unk1N3RNS1lvNjhxNm5jVmVlV3VLaFRwemltcTlHSFpYemJ4d29qcTdwYXdWemZ0VVBRVW5TUUZDU2tuNGhLdnpKY21BWUQxc016eEdVXzJTbE9SSThyRWtCN0trZWp6aUJlamlVMHdHR09PMzdaQ1EzYlpYZS1EZmRTTGpSUFY1SF9CalV3R29rcUpRVGNlNENaMFF1VS1FWkHSAcYBQVVfeXFMT1BYU19jS0M4V3B6QzFaOTh6RElKak9ldGRoT2h0NU14YW1meVJ5NTd0TUtZbzY4cTZuY1ZlZVd1S2hUcHppbXE5R0haWHpieHdvanE3cGF3VnpmdFVQUVVuU1FGQ1NrbjRoS3Z6SmNtQVlEMXNNenhHVV8yU2xPUkk4ckVrQjdLa2VqemlCZWppVTB3R0dPTzM3WkNRM2JaWGUtRGZkU0xqUlBWNUhfQmpVd0dva3FKUVRjZTRDWjBRdVUtRVpB?oc=5",
+          "pub_date": "2026-04-09T17:53:57Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Python Survives Surgery"
         },
         {
           "id": "f053bc18c3b6",
@@ -330,18 +319,7 @@
           "pub_date": "2026-04-08T13:07:09Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Tech Leader Seeks Change"
-        },
-        {
-          "id": "434a8cbee09a",
-          "title": "SVEEP awareness event organised in Sanguthurai beach",
-          "source": "The Hindu",
-          "district": "Kanyakumari",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmI5TFMtY29NOFdINDRxTE9xek1pSnBOaEhhSnpkOTduUEVwNnVtUUZoSTdvSHNlTGM4bGQ3WGlobkVWTVlaNWhKUWRRckdLQW1ScUVxT2dRTHczcktBVmlwTnFoQlM5QTB4YzBCQk1VY3FtaFllUlJQNnlkTFVsRnVYZWFIZUhpRWY1amNSckxfLTVoSTd1MFpKMmpieGIwX25HUlNyNER5VV93MVVNeXhlUmx6ZTJ2ZWV0THpIc3lhUUpyNVHSAcwBQVVfeXFMTl9qMzNGVzZwUnRBN0xtcC05NmdjTVdCTTNmekhFR1Z1MHg3Vlc4bEs4N1Z0MjF4aGFwU2dyeGp6dmdCMjlrbWc2SVpuMVN5ZjdCU3BkNi1seTdxcWZnazFaNlh5TE9KV0t0djZTQjRveWFPXzBrZERDOWViSDlYRWg4WEJSdUlHT0lxMXlQa1pvclFjUDJ1cDJWZlFvcHZRWUlRTXRXc2g5d3lJYUU2UHNPazJXSy1GUnZHUDZXMXoxbUVtUlFfQ0lwYlVn?oc=5",
-          "pub_date": "2026-04-05T15:11:30Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Beach Awareness Blooms"
+          "short_title": "Tech & Vision"
         }
       ]
     }
