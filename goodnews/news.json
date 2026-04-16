@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-16T01:09:00.036942Z",
-  "article_count": 26,
+  "generated": "2026-04-16T07:08:21.292267Z",
+  "article_count": 28,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,15 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "38cc03ac8115",
+          "id": "68057db0d22b",
           "title": "Cleanliness, safety, housing top agenda of many women candidates contesting in Chennai",
           "source": "The Hindu",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMnJDYVhoMEFESVowSFE0dFVhUGpEbnQwc2FKTkQ3cl9pakhBN1Q3YTFYdk1sSjJ3TzQ1eFNpaFdGQmdSeWhKYmJiUzkybl9qWEk2QXZkOG1USnVyZzdGRm15ZnE1NWZsd2E2a1plZ0N0bnl6X0ZNMDFFeWloWDlzUk5obHFsTFJtcUNpeWp3YXEySkxoY3A5NEY4MTB2alJxMy1hNFFXWjZNWEFCLVI2Vm9xQklnT1RQR0lqWTlwZFRWSnNHMmhIQjFzWmVjZnFmZ2EtSE1aSG8wZ2VBMDN1M0pld9IB6gFBVV95cUxPcVdXOUk0U2hxZmRXTy1vWDRHR1FvUlZHOGtJQnQzVzNJd3MwQXdxc2RFVFNVRkp3YWtlM3ktZzV3NDVySWF5anlNeFdQeGxJc29Zb2pzMndJZmFNak9USVhsV2xPSmRlRlkyWkYyLXc1MDlob3pDRjFHM2FwSjdzVXIxTHFxeEhlQlJQOGpaRWVhWUFfVmVpOXp6RGlKaklGUUV5S3pfazNzVDR1SUJHVWxzcm1YbkUyS2swbzNZTnJfRWFoUng2dDBJSGRVMkJFUjhBTVoxNUlfMng2RzlpRHRiYmp4NjVKd1E?oc=5",
-          "pub_date": "2026-04-16T00:00:00Z",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0RkN2g4c1UtVVRLX3JrT05jc0pxN2xzUDUxeDhXWDVZQklLZGZNeG5YX0xvUDNkbGJZc1NFdUlKMThzV2dvbV9vT2ltY2VOVTN2N3J6MC1tb3U1QmxOa2J1aTliN0xLQUlpNG5sWXgwaW0wVGpwZjZQejF1eG56Z0E1bmVVRXZpR0JnMFliN1FSZV9ZcE9nOE5sem5iVEpTOVdIa2EydjZoQjdYLUJDQ2NmTWd5cnZRY2NsUHFZa0JxVmtXd09vYnpOakJxM3FLcUV5Rjk2YWxlMDNnM05MX0FNcHVWOWlPSnY2Y1doT2TSAfcBQVVfeXFMTW5OM3VJX3JVTGF6SkplRXhUZVdjYUdHWFVJQ3RXS0kzeVFiM1ZxTXVtRGkxQWlwQWR4V05QTFRpOXZjWnZBdXh6cGQ2bGpDYTF4X2EzN2lnQmROVXJ5VmNEYnU5am5SZzRuS2lDc3lqUE9mckhiQ1BmQUtTc2RLQXIwZDV3WnYtUjJaYUNyZ2hLQ1ducDZwZ2lGVFNQMkYyVVQyQ0F0NUxob1pYZ1IxZ2NMMTZ4LUIyWW1FNlA1WDVteFQ3aXk0dnZmUzk4aVhTR0o0NmxqOERoemJCY1hfcmgtaTI5dklCb0Z2dl91S2l0c1VSMkhucw?oc=5",
+          "pub_date": "2026-04-16T06:02:49Z",
           "weight": 10,
           "sentiment_score": 0.56,
-          "short_title": "Medical tech arrives"
+          "short_title": "CBSE Excellence"
         },
         {
           "id": "40670ceea909",
@@ -27,7 +27,7 @@
           "pub_date": "2026-04-13T16:33:37Z",
           "weight": 10,
           "sentiment_score": 0.32,
-          "short_title": "Life-saving rescue"
+          "short_title": "Heroic Rescue"
         },
         {
           "id": "5f5959115465",
@@ -38,7 +38,7 @@
           "pub_date": "2026-04-13T17:00:03Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Pilgrimage express"
+          "short_title": "Pilgrimage Tours"
         },
         {
           "id": "93bf55212a7a",
@@ -49,7 +49,7 @@
           "pub_date": "2026-04-15T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hospital upgrade"
+          "short_title": "Hospital Upgrade"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "pub_date": "2026-04-15T07:26:35Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Clergy wellness"
+          "short_title": "Clergy Wellness"
         },
         {
           "id": "6c3af052385a",
@@ -78,18 +78,29 @@
           "pub_date": "2026-04-10T16:12:26Z",
           "weight": 10,
           "sentiment_score": 0.46,
-          "short_title": "Temple blessed"
+          "short_title": "Temple Blessing"
         },
         {
-          "id": "b689018056b0",
-          "title": "Holiday rush: State transport corporation to run special services across TN from April 17-19",
+          "id": "ed38ebb873c0",
+          "title": "Back in the game: Railway Board revives three key line projects across Tamil Nadu",
           "source": "DT Next",
           "district": "Tiruvannamalai",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGo4QjVfMW5HR0E3dUI1YXpycFl4NDdUUEViVTJBRjA3SWoyblQ2WFF1Zk1JOHY5ei1FNFoyOHJrWXdxUXBKTTZQMmdpaGF5dDlPclVGcjdCdS1fa3JUS2VlM283Snc0Q3pUMFFtOWVzLWdEai10Q0xLbHJBTTJMWFFjQ21UeV9IOURwb2g4OFBDUUF3ZGNqcjcyQlVTalVnN1RfdlJCSi12Q2thRm9xaEN2UWFKa1I1Q3F6R3JwdEtPQmUyb2xv0gHUAUFVX3lxTFBYUmZ2eTdIRFpoRE8tdzdMNHJKMFZlT1Y4NlNVU2pqd0I5ZnhmelJEQ015RXdHUEE3MEVEdFhjRWNWbk5pMGtJaGZUc3prek5VZXVGMXFXTWJ5NjB4czBjTE9yQ1JyaHFYcC1vZWplSGZuZmJ4XzkySFFwa1pxaFdQWjUtVzI1VzJnNHhVTHpzMF9XaXRoaW9NV295THFha3BDWnYxcURtVlVlWGxFUHBENVRxeXpkUUpsLXhKMFVlVnJhTHF4WnVDNTh1QTlOOVlRUXJD?oc=5",
-          "pub_date": "2026-04-15T16:58:08Z",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3JwbUNDVF9uNEdDLTdGVXR2Q3VZcHhLdGpaUktDZXJsMTNUTGJzbXZWd05WMEgtX2xIOVF3b191UGJsQV95MGFNUUJ2bWxiR09OSnZRT3dVS0twNmdPa01WN3gyR2liZjYzR1FoOWVpSTNiQ09HdW9hb1ZwU0JiUmJlM2J5UEZUTkN6VWhYdXU0MW1BdG41RmpTc0dRcmdpU0FyZ2pOQk5JVjZRTkhhRlRTOEc4STFR0gHGAUFVX3lxTE55X2JrOGZyR3BRUUJMTlhycnJya1V5X3p0ZGNOTFNpRmxSa0pNeWxnanJOTzN5M2pOdUh6M0hXM3NadExVczNLRmp1dllNZXVPUFBwc2NQaUFUNWh6OWlLYjVmSTBjSDdJZXVkcXdOZjFzalJ6NzlFR1lwLVJaWU10NUozMHpBbURFZ1FCZWNQYi03bng5TlV4QnlDT0RLQjNqSERPN2cxSXRDYjJ2NUtVMGl0WUh1bFZtUzdCZjVqLTdjb1dwdw?oc=5",
+          "pub_date": "2026-04-12T02:17:19Z",
           "weight": 10,
-          "sentiment_score": 0.66,
-          "short_title": "Holiday express"
+          "sentiment_score": 0.38,
+          "short_title": "Railway Revival"
+        },
+        {
+          "id": "0ba6f556a7c1",
+          "title": "350 km Musiri–Chennai railway plan gets alignment clarity",
+          "source": "DT Next",
+          "district": "Kallakurichi",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenFTaV9SU0xFeWJXbl9qNkNJNDdIcUMtTS1CaWJTa1ZFbWdfanlKaXZUM3Q5T09TMXhtNl9tMmd4QjM3Qm5qQjRXQlRTSTdnbDk5UW11ZGVtd2xIY3ZPdDlPWDVGT1hiT1RJbnJnaGRlbWdfMlNoT1hfdVUtZ2k0NWlsaGJyU21rRnJLUVBNTE55UnNCUmNMetIBpgFBVV95cUxObzI1dEdPaTQ5NDlORnVUTWtpcUJobFdYQmlBSE9jSUcxTmtmbHpETW93QVY5Y09xVTZQUHBaSE9iNGduVWhIS2tpbFJqYVRtVU5DRE80dzV3U2V4WnNvakZUTFhVLV94WFZZeHFLOXlPbFp2eGludjd2Z2tmV2tMR3JrdFg0WGN5dEdMVEVWMjRGVnZPZWs1SE1tUmdsWHZjU1RQak1B?oc=5",
+          "pub_date": "2026-04-12T02:16:38Z",
+          "weight": 10,
+          "sentiment_score": 0.4,
+          "short_title": "Railway Clarity"
         },
         {
           "id": "2e0ec983fb39",
@@ -100,7 +111,7 @@
           "pub_date": "2026-04-09T11:56:40Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Port railway link"
+          "short_title": "Port Connectivity"
         }
       ]
     },
@@ -118,7 +129,7 @@
           "pub_date": "2026-04-13T16:03:40Z",
           "weight": 10,
           "sentiment_score": 0.13,
-          "short_title": "Snake rescue squad"
+          "short_title": "Snake Rescue"
         },
         {
           "id": "37901d32a632",
@@ -129,18 +140,18 @@
           "pub_date": "2026-04-10T15:04:51Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Dam water flow"
+          "short_title": "Water Planning"
         },
         {
-          "id": "ab8f08187ed7",
-          "title": "Farmers relieved as restrictions on land earmarked for bypass project in Coimbatore lifted after 4 years",
+          "id": "38c35fd7b94b",
+          "title": "Water troughs, ponds being filled up for wildlife in Kovai forests",
           "source": "The New Indian Express",
           "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOODlVNTdHODBGYlRoVlJ6LXRGVnZHbkhkLVFQeUx0N0dickl6czVPeHhQX1YzNnN2RlVWYjBZY0RRQkFOdnp2SC1SVmhPZ1RYS3YzdzJhclVIVHE5UnFhNElsdnhmdk11UVJuUmtNLVJmTkFBWGtiRjdQR192SDNVRG15bnkzcFlIdW12NHEzT1NTTGVXd0VLUlpFN3dyZkUyTFo4OGxXVlpxNjh3bXYydlgtUDd3MVlPMEVsZWJ3T1kxLUpkV1BXdHdxRURpVnF2cXYxaHFrVzNoeTV6R2Jib2FLeUZIaFBvTFJrX25taGZ6RjlrQnU3MEpsQdIBiAJBVV95cUxPQlpRcnVxeW41Qk9UandCcWVqWXViWWpiNTE4NmVBNmVpY2hIN1M5dTZjNlhDZnNCMk1GdUFyajNocUlaenk1NlZLXzBLMk9HS3RiYnJhLVM2UjNkVDFtN1A4bEtOZ3lhT2pYRWs3YUdURTFpLVFPaXd3dGtOcHd3cmdMSUt2T2dyNXl5cXN4c1N5UWVsX1ZhOUpYQ0M5endZdnRXY3R0WS1BSXJEN0RxZVp1U0V1MUwyYUtYblpsQ1BMbGFjWGdQSDJfd0tPdTNEeXNWNTRrcU1UU2RIVlhQZlc1QkFjRjdQbU1PT2Q2T1V5dlJ3N0x5LXpwS3FmQ3FVd0sxWGtCYkk?oc=5",
-          "pub_date": "2026-04-11T04:49:50Z",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFZuZkJRTFFLcGZ1YXFmTjhDaGx1NUpXejlPU0NnaGFtMjlnLXZXN0RYME56Q1h5S1ZQZEk1OURXdzAzME5ueWtoZ0MwQ0k2Q1o2TXdadTNlZ0ZFOUZJR2NOYTg4Wlowcml5VDktczB2NzdFazF5c1hPMmFGbWtkeTdzcXpabExiOXpxRzRDX3hNbmFUU0plWnVNVEZXbkVRbURJTWtaZmdFQVh5VUdIUEU5LWhHdkdMQVExRmJoWGdTakhROGMw0gHUAUFVX3lxTFBOd0ZnQU50SDNud1R6RjZ3bWw3REZMQlkxbVBEalZmbXFVcGFrMktxX0ZOalVwS1AxLUVaOXFZM2o4VkktTm9TX2gtNVZIRjJjaWI0c2FjREM5cFY0SDNyQnNLSElKVEwwWjlLd2hJM0NXSmxDV0tTdkV2MVNvMFl0TjJJXzA2T3docjRGaTlkMXRQWHVsemNWcC1mMnZGbEJVWDRGTGk4YTJPeG5oUWdibnRlRXVCTENGYm4ya1M1VUZOQXZVQVJaMnU5dXp4Sk93eUgw?oc=5",
+          "pub_date": "2026-04-10T01:33:00Z",
           "weight": 10,
-          "sentiment_score": 0.38,
-          "short_title": "Farmer restrictions lifted"
+          "sentiment_score": 0.15,
+          "short_title": "Wildlife Care"
         },
         {
           "id": "6d98c1b37747",
@@ -151,7 +162,7 @@
           "pub_date": "2026-04-15T03:28:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Poaching caught"
+          "short_title": "Wildlife Protection"
         },
         {
           "id": "bf4dcb55ebf3",
@@ -162,7 +173,7 @@
           "pub_date": "2026-04-14T10:17:10Z",
           "weight": 10,
           "sentiment_score": 0.32,
-          "short_title": "Egg prices rise"
+          "short_title": "Egg Economy"
         },
         {
           "id": "8e8c5cec2487",
@@ -173,18 +184,18 @@
           "pub_date": "2026-04-15T04:58:07Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Neelakurinji blooms"
+          "short_title": "Neelakurinji Blooms"
         },
         {
-          "id": "74b0ef2a6bb5",
+          "id": "b8df988f6ed8",
           "title": "Karur Vysya Bank announces bonus issue after 7 years; Q1 net profit rises 14%",
           "source": "MSN",
           "district": "Karur",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTFRDRmhSb3VwZFFOUGhPUmZyaEZXTkI3azgyUUZRTDJlZGhPUjBFdm51Xzh1MU5oZDZ0RnI2MWxvLU5GU2RCYjJOa19SbElHODNvMGw2c09iUFBwSmw2V0FQRlpwMGctd1lsT2xQUU1lQzRDZS10Q28zSVJ3dk5JbE9XNWZ1S1lCWWdab05IRWRKR2RQSE40NThfR1BWYmRkVjhoaG9oLTBrejRpUnNQU0Nqc1p1NWFneFViRHA5R3JmUzdqNU9PWURTdEZxWms5ZlJFYU5hODRTdXpFM1pocDZ6NXFpckd4N1UyVU5HUjdmQlNWWGxuMXhQamsxUEgwUERtMGJkbVlYMFFWNlk1YTYzUHRaV3hyR1M2TkNBeWxkU2tvOEFNMkZ0Qmw5TUg5Uzh6NURCdERudGhoVExYcVBENGtwRmh6NTFaSzQ4ZnBfRlhXc1RTdEtxV2VVYXM?oc=5",
-          "pub_date": "2026-04-14T15:45:59Z",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNLXhNSFo3Y19kYjRWVlh0cnVSbmxaOEFzRUMwTnktN1MzcVo4eml1NTUyeHVoMkRDTWdtZ1ZtZ3l0blFoTDZTTHJTdkozc0pHbzR5R1g0ZkcxOGhaU1c1R2l3eFRFaEU5NnNXeFN4NjRfdDdoTlRJNWtLWE50LTEzNE14alJ1WnF6d0djc2xfS3Vfa05nc2tfMlJMZDJOZDdITW5kY29oMmhrZUEweXczcnJUOTRCUUI3OUl5UF9IRm9XSV9BZkgyQk9MeWpsLTlnZnZVZmFjZHBndk5PTlJaaXpKYWE4WjJmLTVWX01McGE1WUtaRkVQbFpQWnZqcHpXb2lzcF95a05zNWFockc3dnJSWWpwNE4ya19GV1Ftb2pFczFZV1FXRUtZZEN2U21Cc0JROFM2ODB1N2F5NVMyckZFYVRSQ2FLVXJkejRzMzc5cldZY05sWWJsOTc5TkhS?oc=5",
+          "pub_date": "2026-04-15T15:54:48Z",
           "weight": 10,
           "sentiment_score": 0.75,
-          "short_title": "Bank bonus declared"
+          "short_title": "Bank Milestone"
         },
         {
           "id": "164600ecb079",
@@ -195,7 +206,7 @@
           "pub_date": "2026-04-13T17:40:30Z",
           "weight": 10,
           "sentiment_score": 0.33,
-          "short_title": "Mango tech startup"
+          "short_title": "Farm Innovation"
         }
       ]
     },
@@ -205,15 +216,15 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "a0e21bc44930",
-          "title": "Trichy railway division handled 41 million passengers in 2025-26",
-          "source": "The Times of India",
+          "id": "846f867d8e3b",
+          "title": "Sri Lankan Tamil votes for the first time in Tiruchirappalli, India",
+          "source": "The News Mill",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRk5POXFSVjBnT3VsWTl5TFU1UktydlF1cDlXWnY1ZGh4WjlJRWFuekNMbFBhR1M2WUVrSXJyUDdCOXZHQ1dDN18tN2xJb1hybk9QT2E4cGcwMzhYNWdwSGdubW12bkV4REQzWjAyMWdMVHh3OG5ZeXRhUTVSRlRMNW0xOGNIeG1fN0owTFhvSFcxM1VhdUIyUGZmN0J1WW5mMmVNMXVWMG54cHcxekFJT095SlVSaGE1Z3ZRakUxeHpPejRHVUN4NXJ1YmpIbjJkb3haQWk0X0l3d9IB2gFBVV95cUxNRk5POXFSVjBnT3VsWTl5TFU1UktydlF1cDlXWnY1ZGh4WjlJRWFuekNMbFBhR1M2WUVrSXJyUDdCOXZHQ1dDN18tN2xJb1hybk9QT2E4cGcwMzhYNWdwSGdubW12bkV4REQzWjAyMWdMVHh3OG5ZeXRhUTVSRlRMNW0xOGNIeG1fN0owTFhvSFcxM1VhdUIyUGZmN0J1WW5mMmVNMXVWMG54cHcxekFJT095SlVSaGE1Z3ZRakUxeHpPejRHVUN4NXJ1YmpIbjJkb3haQWk0X0l3dw?oc=5",
-          "pub_date": "2026-04-14T18:14:00Z",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUVoNU5wZFN3ZW9Qak15bzRWZ0c4eXlvbGdvX2JkNy1iR3dfb2tTbXREd1JQWTdJZDFGd3pRVFZzX2d0UkMxR3VSWWlKYUd1aGloanpPWGZWTkM1QnVvYzMxNXZUX1lvenhGX2NaRU1jeHhFWllMQjhsYkxvRXVPNlVPUmhjRnY4WVB3Q3RoRkpnTWh6Vm10TGdwNzJPMzJVaDBjR0ctdDZWUU1UajItTGcxRjVOdnVYRWxrWA?oc=5",
+          "pub_date": "2026-04-15T07:57:27Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Passenger milestone"
+          "short_title": "Historic Voter"
         },
         {
           "id": "77349d75a24e",
@@ -224,18 +235,29 @@
           "pub_date": "2026-04-12T09:31:46Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Railway growth project"
+          "short_title": "Railway Growth"
         },
         {
-          "id": "1d3c4c87e2b8",
-          "title": "Zoho's Sridhar Vembu urges rebuilding, revival of villages: Time to go back",
-          "source": "MSN",
+          "id": "bfc7f02bd86f",
+          "title": "Bharatanatyam dancer-scholar Indumati Raman’s new book turns the spotlight on Marathi Yakshaganams",
+          "source": "The Hindu",
           "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ2F2Q2hiTnRkVGFjTUJMX3VCdVFVdUNldU5oZVdlcFFlNWk5Sm5XOUVFRDZxTFJZd1BQTXVVQlNZMFIyYWRqNlJSVEZ6TkVzNHRQc0Q1YUFjLU11YnQ1S0FjVEw2SW1YbU9waVBLMjh6aWtNMlhMSndsSU81UVlzYzc3Y0VNNm5Rajh4NUFLTm9qejc3V0VSZDJRUmwyVTVDYUUxalJvdlhwUXgyUDhtNU9raVB3cnc1NjNEU3FvVHprSFVhOXo0SGNvWWRLUFkyYTVOZGF1TzJ0WDBRSTY3ZTdfUE5MVGpyajA1aW9fdXR6bGRDZkxoNzBBaFUxSUtQZnNnMDJHTQ?oc=5",
-          "pub_date": "2026-04-15T02:07:35Z",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbGNudnhzQ1NNV29DblF3UEFob2czb2pMTGVjZFY5NDJTbnFiUk1xdHh5ZG43NjlxcE1QQU5xNXZ0V1NCRTRTZGVvUzZwN2YzemVQRUl4QnRZdGNUQU1lbl92LXB1NjhyOTdwQkoyR0dIWS1rem55RFhxdGhVR2ZCR1RvTUV4Sl9SdHR5MnJBSjVvX18zamM5dWFWb1VBM0RPQlpoSTY1QmZXRHd3NU5ONktXamF1QTgtbHVValBGRDBnTkRIc1hOUV8wVnBseWhGUzBKc2kzX0xHSndGLUZ4ZVZB0gHoAUFVX3lxTFBiMndocXVJUjlaSEhZeW1HbFhwVUstNzFmVnZadzMtTUpXVWs3ZFdrTFRHRUQyRHctRXRKbHVfRGVRcVhtcjliMjlBanBlNTF1WGZVMDRHd3NOTFFFa3M1OHlUcURENWk0Mkp4Mm5oa0xnSURmZGFhekpMZ2drLW5waHZPQ3VVSXlsSmR3bDl5R2lQTndMQk0xY0MyNXNHeWE1YnU0cDlzOTZqZmdJOW5OX2RuUFRmYjdxVTdEVUxkbjdNM2NEU2ZDa0t1Z0RDWFkzU3JfTFRob2pKU2pKSmloNUFnU2d4R3k?oc=5",
+          "pub_date": "2026-04-13T09:27:17Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Village revival push"
+          "short_title": "Dance Heritage"
+        },
+        {
+          "id": "089a4fab3f9d",
+          "title": "IMD flags rain alert in TN, Kerala districts",
+          "source": "MSN",
+          "district": "Nagapattinam",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOamxMbUs3emxsM2VfdTRjaEoyWk1LWEFudHVsZ3gtaUtMZnNjOGlLY1d5TkpYdmpKS001Q3BZS0YwejFkVUdYQ3ZzRk0zQkU0V05FOG1tYmpsLTFXNWVuU095ZjFlRnN5RG5KTFY0ekNsTml2R0JrUTZBaXdKMWIwSm12VFY5b182UUVubFdyWTF3aDJ4Rk9RWkZvSjNFc1hyVnFqTUM3dWNLVU5DUFRoX19iZDJkN3BHTmJEbHZDVVhlTUxWcjVBczBXRE9wUEFRUTJsY1h1bmw0VHBlZ2xmUnVkS1V5c1oyZ0tKeEZsTGhzVHQ0dXFTMEYzUkpBMnVXV192WVY2SFJJM0YyNzlFRm02SFdyUHN2ODVQb2hvQVNMU1BIZ0dkWk5wRGF6dw?oc=5",
+          "pub_date": "2026-04-14T22:25:35Z",
+          "weight": 10,
+          "sentiment_score": 0.3,
+          "short_title": "Rain Alert"
         }
       ]
     },
@@ -245,15 +267,15 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "79bf943c710c",
-          "title": "60th Graduation Day of Lady Doak College held",
-          "source": "The Hindu",
+          "id": "c0c598e7b7b3",
+          "title": "Zumba voter awareness event held at Periyar bus stand",
+          "source": "The Times of India",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ19iQkpYSjQwdE1feTZwX1RDUTJTZkVCZUhTUjVRaHZiRl94a0VJbDA4Q21aMllzZUItYlFzZFh4R1BqT3Zib2pXOXBBTHdnR3NGYUZ4ZWdpUFZGQlRlaUpNbUtHT3h3bkE1ZzlobE1pTWtMT3VvN0tNckNrZkoyWGdYWHNjN0JQOUFOVlJULXc5S1ZFS0VjcWpyQ0pIVm01cnMxbGduU3h5TEZNTWl30gG2AUFVX3lxTE1yY19EeFIwcmlUSGZvV0RrQnRaRkIzQWlMLURnYUx4THVhOW1xX3FTN2NQN0pzajZqTGtsMjJqX3NNVjB6VzFWRUFqZUZMMENjQjBOWGNDdW50V0dSck1mZUdLNmJubWFJd1hFQnRyQXJGM0R2NTM2cTBfVUVsZXVTZWlxR2M0cGhmbkp0VlRYS1BacnJqeldfWVZvbXd1VHkycVNHY1VhUVhNbEJ4ZjJDaTJHSVlB?oc=5",
-          "pub_date": "2026-04-13T18:40:18Z",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2U5YkxTR0lMcmo0eTZQQTgzMWFyQnlpRVBTUDhSdlBxLXRMN3VWemxta19RWERUbTlLTTN3SGRSUU94bHE0dEQtSTVxSjRNeGFPVE9mN0FfUGVWZlhDZjRRb3J4UkY0WlFaYXhLVHpMRjhGVTBhN0NpN2lNLXQzTzVhLXZGRFpjR044V2c0UlV6VFRrb3Y2d2lYTzctcXlqSFBtbzJfMjdhY3V2TTd1ZkQwRTRCOXU4Z2FfYmprb2J2Q0c0ckRR0gHMAUFVX3lxTFAxUWV1Q1FJcWQtSmVFa1lIMXpyTHZLMUNDZlhva01XcTEyRHpBNTNVZmtjWGdtSm1RRVRBU2xNVXdMelBLdGtyLUNFTTl4VG5KWEYzOFJ5VGNFMFF6VFcwR2FHdDZ4T1Z4ZUlOeDY3bzNpWGZiZmZlNlR3MUExb3BfSGwwV19ITkhZS0hxNlU2NzhSbmhKN2ZDSTJTdWpScTZETy16ek8tbzJ4R09lRDZMbW9ITmltTV9VQ3NCR190Mjl5X0JPQ1k0bEJWZQ?oc=5",
+          "pub_date": "2026-04-14T17:17:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Metro plans announced"
+          "short_title": "Voter Engagement"
         },
         {
           "id": "885bb2ad2e0a",
@@ -264,18 +286,18 @@
           "pub_date": "2026-04-09T13:44:07Z",
           "weight": 10,
           "sentiment_score": 0.42,
-          "short_title": "Temple rope craft"
+          "short_title": "Temple Tradition"
         },
         {
           "id": "bf2f3613250e",
           "title": "JIPMER, Puducherry organizes Cyclothon to Promote Cleanliness and Fitness",
-          "source": "PIB",
+          "source": "Press Information Bureau",
           "district": "Ramanathapuram",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0al92TldQN2IybG56VUdGYVVESUo4d3VTZkYzbFVzQlFFMUxLTnZCazdOOG50S0JNb1ZHMC1zSFBXVnd0T0dKOE9XQnplWVpRXzRtSU9ON0JzUHI5d3dhTzNDTUVjR0E4SDBKeGQ0Z1Njdk51OUc0RnFn?oc=5",
           "pub_date": "2026-04-13T06:44:00Z",
           "weight": 10,
           "sentiment_score": 0.57,
-          "short_title": "Health fitness drive"
+          "short_title": "Cyclothon Event"
         },
         {
           "id": "d465840ea2e0",
@@ -286,7 +308,7 @@
           "pub_date": "2026-04-14T09:45:43Z",
           "weight": 10,
           "sentiment_score": 0.23,
-          "short_title": "Projects dedicated"
+          "short_title": "PM Projects"
         },
         {
           "id": "2dcb3a51afdc",
@@ -297,7 +319,7 @@
           "pub_date": "2026-04-14T05:01:16Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Summer rail service"
+          "short_title": "Railway Expansion"
         },
         {
           "id": "49ad5b4f0f72",
@@ -308,7 +330,7 @@
           "pub_date": "2026-04-11T15:05:08Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Sports coaching camp"
+          "short_title": "Sports Camp"
         },
         {
           "id": "f22592c820ee",
@@ -319,7 +341,7 @@
           "pub_date": "2026-04-15T06:19:55Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Express occupancy tops"
+          "short_title": "Express Success"
         }
       ]
     }
