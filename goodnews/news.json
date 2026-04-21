@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-20T12:51:21.799140Z",
-  "article_count": 21,
+  "generated": "2026-04-21T01:06:24.233129Z",
+  "article_count": 23,
   "categories": [
     {
       "id": "chennai_metro",
@@ -13,21 +13,32 @@
           "source": "The Indian Practitioner",
           "district": "Chennai",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVRwZUxaSVRlRkVlWmxDcVRjQkc4RUJXR0RMblFHakVoSUZYX1lTdEF2OUlLWDU2UlhOckRSeWVBb0VUTHQtenBzMG8xMFBrTjlmSW1nNklNWDNma1U1cDhoTmtJdkxSLUIyQU12Q2hHX1FkMTJ0OVBPR0dYNWYxblBqejhESF9XT1JQQUpUTnZ0T3NhMmc?oc=5",
-          "pub_date": "2026-04-20T11:34:45Z",
+          "pub_date": "2026-04-20T14:33:46Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "AI health monitoring"
+          "short_title": "AI health monitoring debuts"
         },
         {
-          "id": "40670ceea909",
-          "title": "RPF constable rescues passenger at Chengalpattu station",
-          "source": "The Hindu",
+          "id": "2ce163994c52",
+          "title": "Chengalpattu Greenfield Bus Terminus Opening Date & Features – See Full Video",
+          "source": "Live Chennai",
           "district": "Chengalpattu",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0pBZkJKNjdZZWRyTzVkTGtUTnlOYlhucFNudFpNYmEwT3VqR2EtYllCZ1p1V0s4WE9Oa2loTmNBUGtaNlZFOG1YNWx3dUpYNTRob3FINDg5YWUxZ2dRbC1VNkhVdF9wblU4QnNQcUJmSzE1SzQ1TjVTeEtERzVFa0FOS2htYmkwWW14Z2NOTm9CdDBLYW9NN2dqZjlwY2ZEdTEzVmdPX21MeG10bkhQSlJyZFhOSzFZWVcxT9IBwwFBVV95cUxQOGQ4WXprMlJvTjg1cGd2b08zSzd3aE9TWFBPWmNfdnJOU091M3JUak10dG41Y2F1ZWJyeVVCY2E0dklieV9sY29VMTY5Zmo3Wmh6bk1ocHhDMFZyc0VUTnlTVW5EMkpQc181bXJxcXJLSjhtc1pOdWZNRzNKMmZ5RUN5TkMyRk1CYVQ3UXRiLXN5V3dVZWFtYmRSVjAyR0xrcUNBOXUxRmM4bTUxOGtXU2JQaVNxYkZCd3plcU5BcnVDVUU?oc=5",
-          "pub_date": "2026-04-13T16:33:37Z",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9La25IeEpjZWxudWoyM3ZaMThUVHozZ0FuSWFGOTllNU1EYWNlR21yejRfWEt4U0RvMzM3YmFqNTRCQ3RnZkQ2Y2c4bmtITnRKOTdfSXRJZTFLbW5WNjROQjdOSVNsdkZLZWV4d3ZURQ?oc=5",
+          "pub_date": "2026-04-20T10:14:52Z",
           "weight": 10,
-          "sentiment_score": 0.32,
-          "short_title": "RPF rescue heroics"
+          "sentiment_score": 0.0,
+          "short_title": "Bus terminus opening soon"
+        },
+        {
+          "id": "788cff75715c",
+          "title": "Ancient weaves on a silky canvas",
+          "source": "The New Indian Express",
+          "district": "Kancheepuram",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnVZX21jY1FNUHhRZU9YTG9oOFMyMmhoSmFQZUVYNWhleUhVUVdwMWdsV0xxRkhMWGozb3AtZGNvd1lmZUlTRVlrbnlUM1F6ZFpPV0VsSnF5aGZSRDhBZU82VGVDWFgzMEdwRlhSNjJIcmlKTGN1RTVCVklXZkh3ek5DWjJGZTdxcWxTWDZhX2dvM0RHMkdB0gGkAUFVX3lxTFBfODlqczg5VUpDVENCTmtETDRFOE01NFF3dEpOVF9ZYms4UHA5RURTUGoyZ1d0eXhnaTlxdFRjUGxNbGRfMFNBUFc3QXpNd0F6UlkzbjYyR0RGMkxJaW1Ob05VVVNLTTN3bHZRS0dlMHFMdzd6T0RzaEFCYV9Rd3VIWnhsR003amE2R3pEclhpTXA2WVRsMm56MUF4amhwQzRKQTAx?oc=5",
+          "pub_date": "2026-04-21T00:30:00Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Silk weaving thrives"
         },
         {
           "id": "479452327be4",
@@ -38,7 +49,7 @@
           "pub_date": "2026-04-18T17:48:50Z",
           "weight": 10,
           "sentiment_score": 0.13,
-          "short_title": "Infrastructure momentum"
+          "short_title": "Infrastructure growth underway"
         },
         {
           "id": "93bf55212a7a",
@@ -49,7 +60,7 @@
           "pub_date": "2026-04-15T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hospital upgrade success"
+          "short_title": "Hospital upgrade complete"
         }
       ]
     },
@@ -67,29 +78,7 @@
           "pub_date": "2026-04-19T02:51:49Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Mystery diagnosis solved"
-        },
-        {
-          "id": "81145af83109",
-          "title": "Residents want creation of separate Arani district for better civic amenities",
-          "source": "The Hindu",
-          "district": "Tiruvannamalai",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMm5WaU1JNlN0elBGTy1WTkV5aHJZY2hUZDdOMnNxY0x5aVE4ZXFKVko2dm9LbEp6SlZmd1FiRDF6Sm1fQkt6bHVHaXczX3Z3czBmNWpkVzlidThNamt2eDNGT0k5QVQtNWRfbElDREF3SW9UZFJMaDREYnROQ1ZsNlhhX24wN093OWo4bkZKeFpEbER0dWRLS3NLbWM3c09PRUEteE1lSmVQNUczTDlBOEFZbmxZcXdpM25DWHRYOWFEc2tGQTdUbm9MSllDVzRqM0d0RkFzX2Z2Nkh0NXlrckdYaDVaUTQ0Xzd4anZn0gHuAUFVX3lxTE8yblZpTUk2U3R6UEZPLVZORXloclljaFRkN04yc3FjTHlpUThlcUpWSjZ2b0tsSnpKVmZ3UWJEMXpKbV9CS3psdUdpdzNfdndzMGY1amRXOWJ1OE1qa3Z4M0ZPSTlBVC01ZF9sSUNEQXdJb1RkUkxoNERidE5DVmw2WGFfbjA3T3c5ajhuRkp4WkRsRHR1ZEtLc0ttYzdzT09FQS14TWVKZVA1RzNMOUE4QVlubFlxd2kzbkNYdFg5YURza0ZBN1Rub0xKWUNXNGozR3RGQXNfZnY2SHQ1eWtyR1hoNVpRNDRfN3hqdmc?oc=5",
-          "pub_date": "2026-04-19T00:00:00Z",
-          "weight": 10,
-          "sentiment_score": 0.65,
-          "short_title": "Civic amenities push"
-        },
-        {
-          "id": "ac9c8c35e7e4",
-          "title": "Carcass of 13-foot whale washed ashore in Villupuram",
-          "source": "MSN",
-          "district": "Viluppuram",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUMwemNiZl83MDBjQ3hqdFZxV1p5WGdiaEdRcWtmUUNuUm4wOGpqbi1XdTBkRXJNLUs1Y0w4cUJpTGI1WlBMcUYzLU1lTzlqalNsRFE1MzN6eFJwUU1NZkZqWGptcldmc014Tk9wMG95S3hsTGtTR1ZQVWM3WTJGUnRqNWhBUFVFbEp6dDNncXVpNzVjVEJJemotaGNmV01HX09B?oc=5",
-          "pub_date": "2026-04-14T18:10:06Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Wildlife washed ashore"
+          "short_title": "Teen's mystery solved"
         },
         {
           "id": "0e4d2e9d927e",
@@ -118,51 +107,73 @@
           "pub_date": "2026-04-20T09:32:49Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Global educators gather"
+          "short_title": "Global teachers convene"
         },
         {
-          "id": "3e018cbfb61d",
-          "title": "| Tiruppur gains from FTA: Zero UK, EU duty to boost exports",
-          "source": "Fibre2Fashion",
+          "id": "1e73cc98dfa2",
+          "title": "From Microsoft exit to ₹600-crore activewear brand: Tiruppur’s Technosport story",
+          "source": "BusinessLine",
           "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1d0c3pjWTk4Vlk0Z0ZNLXBmR3U0U1c3c1JpMlUxWTN6WnBRY25wMGRpX05NWTE4WWxiYy1vOWdaaEZDbUlweUlQWjBFejByeUd4T1NHcDM3Zy0tX05WU3ZETHpQU1puSE9iWXpuS2dYYTZyaXljQXVaajlUaDB5M2xMZzhiR3lnU0EzYVd6RVlqbGNMUzlMZ1BDdEZFTEVkeDhHMGxLUnBKREUzNTdBVU9lNlZMb2UwN2ZwRzdYNDQzR1dLcGc?oc=5",
-          "pub_date": "2026-04-19T04:22:49Z",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUFpFbnZ3V0lwb3JmTkEzN2NOM0RuSVRPSDZJMlhNTXdtd3R1U3RnSTdwVlNZR0hXcFdoMG5lUXM0SmJFT0stclVMdy0zajVFSGZUMDZoNjdPZVc0Y0ZiaEhEd2JweVRSS203V1dWNnBhVDZ2Yl9VZWpJWnBLX19ZZkZXOElScGZDUXp3aWU1RWFMTjRQeHdXVmJpUU9IeERCU241S1lWU0l1YkNTWkx4dU44OGpzeUFINEFITENkbkRSU1lLMzlRTW5DQ19TRUlldmhEMHh30gHcAUFVX3lxTFBhVkh0NDdhdWlzNHBBVWpkVTluZWdoX2g3Z1hqNTc4NFNUR2pUOWowbTZhX1V3X0RxSzEtMmIwNHlBc05Ga0V2NUhaMXdhMXlzNm5ZYkVWRjRBaHVNRjF5OHZSVTJwalB5VW1LeGFBQjRBRFV0TE1FLURoT2FubDBjbUdMWW9BcTdfZUFDcmZRaFJSdzdQOFhWLWFsTklIUWJOemFoM1pHc29LVUNtYUowX29aVjJicjRGRXBVZ1RoNjNYbDlXU3hYWTV4UzJsMzRmMzBQblltY3VhZkg?oc=5",
+          "pub_date": "2026-04-20T13:48:03Z",
           "weight": 10,
-          "sentiment_score": 0.62,
-          "short_title": "FTA export boost"
+          "sentiment_score": 0.0,
+          "short_title": "Activewear brand soars"
         },
         {
-          "id": "27531cf36da4",
-          "title": "Over 4,700 web cameras installed to monitor polling stations in Erode district",
+          "id": "971ec82e0d5c",
+          "title": "Time limit extended for adding names to birth certificates",
           "source": "The Hindu",
           "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMlcxSXlYSHhxeGlCaS0xX1FTQllGaXp0LTBMZnRuLVJDU3paOEJvak1YQnpVbGtzTkc4UldZSUlUb01LNHZNRFdvZF9DVkwzMVZPOGJleGlPZkRmSklpMHplTEhwcUVfRER0eUtpQmpsY2RiYU1sTktoTWZ0MUllYmhBS2piYXU1UEs2QzZPUGNxOWxfeEtwbHQ1ci0yamFhcXpnN19WdUVDYm9obGxURW00bjlCbUlFYkpjLVEzeXBhRHRlemhBSFJkcWw1a0FlWGZLODUzUWFZM3VoLVBDd2oxcGZmVjjSAe4BQVVfeXFMTlNKVXJ3eXpwZHY1SzRRenBDMEYxUV91RTVFVng0djl2bXVKb2xZUW1rT1hMdHVCSFhIcUN6dVlWMXgweFE1Mk80bGdhWDdycmFiaWVjakczalVma3QzdGVoRGNOLXlFVHZyOWx3ZG5mczhuUGI3TnlXU1puV2FFMjEwVUpGWkxUcEdRZzdib2tXaWhfdGhJRDluRkFndmp0ZDlCemNKeGd6RFoyT2FIbi0xdnM3VGJCR1NHc3VMQmYxQWtwV0ZfeXJtTDNZczk1bGZjR2M4b0J4OVE3dzRPUGdabkpmYmFxc0pnSEhXZw?oc=5",
-          "pub_date": "2026-04-18T12:14:30Z",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlNLeFdHZ0lCX1ltU3lzYThKeGRaUWVLN01YSTVkbHRqekZPbVJ1UUR5ZldCa1c3RDJzaHN6dFN6RzZKdkcyc3VYMW41LU5XRTRZZFVaYmMtTjQxekI3OWpFX011a0dfZU5UM1lOb1lhcWRLNXJNNEpOOGtYclpNLXJUNjFqYnhjY3U4VGg0bHZYR19rQVpXOUJuWFBHT1VyOTNuNkVmVFVKWmYxUlRhXzlObVktenVXdmJuM0hPeEpEb19OX3RmV3JBY9IBywFBVV95cUxOTlNLeFdHZ0lCX1ltU3lzYThKeGRaUWVLN01YSTVkbHRqekZPbVJ1UUR5ZldCa1c3RDJzaHN6dFN6RzZKdkcyc3VYMW41LU5XRTRZZFVaYmMtTjQxekI3OWpFX011a0dfZU5UM1lOb1lhcWRLNXJNNEpOOGtYclpNLXJUNjFqYnhjY3U4VGg0bHZYR19rQVpXOUJuWFBHT1VyOTNuNkVmVFVKWmYxUlRhXzlObVktenVXdmJuM0hPeEpEb19OX3RmV3JBYw?oc=5",
+          "pub_date": "2026-04-20T13:29:08Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Polling security tech"
+          "short_title": "Birth certificate process eased"
         },
         {
-          "id": "f6a07e22e263",
-          "title": "Forest fires in Nilgiris largely under control, says Forest department",
+          "id": "de56cf8c7a98",
+          "title": "Salem C. Vijiaraghavachariar: the freedom fighter who fought against Kala Paani",
           "source": "The Hindu",
-          "district": "Nilgiris",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTF1alFCdXB4Q1VkZFYxVmZsOEJhVXBmWUdFUXFPNl9EbU9KZVlOd3lMNE5Lb0NwVjhVZlFlNnFYS21KeE9wdGdHa1BCTk1LdWJDUmxldjBwZlB0UVZrWmozdm5mQkV4Y3QtOFMzQVk0RlJOUnBoUzZKSGVxN0pMNzZ5MUczWWQ2aXpnT0ItSlRSUlk3azRKTXUyVGNxT0RQaUtUTHVhYWUyWGFsM0xoSHM3b0ZodWJUbEl1WHBSbXlwRFQxMDBZbDVFUWVFVU1NdG83ZTJR0gHcAUFVX3lxTE15S1JuYXZobzFkQnk4MUdfOFUxNHNzQUItdWFxUVZjM0hrTlVwdW9fak5Rdmo5SkR0Ql95QnlfRXNFbGU2cGg1TlRqeEtYVnAwLVlvY2lSelQ4OW5pX1F2QUZ0akdZMjF4NHNWWE1aazNYazdvNTRpdl85OFB2VjZaS1NHTk1uM0wxU0RiMGFpQTY3SXZZMnNSdm1Cd1l6eFlKLUFaN29fbmsxbTVyNERxa1VLaUlMbElsTDM1Z1NVREoyUEtRQVRoMW1zR29iZWxGWE5uajBzVC1ILUo?oc=5",
-          "pub_date": "2026-04-20T10:33:47Z",
+          "district": "Salem",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT05EOVpkTENyNEk0a3VKRENiQk5zWi1TTko3Y2I2T2tOOFJYdW5uUnVqNFFyM1luOXJKQTV4c2pPczR0Qkpid2pqTVBUR0tGQkhEcVp0dUlscEUwblNSZVVzWExuRDgwTEVmeFo2Q25yY0ZWRnoySS1yUVBxa2tjdVRpRzM2M29mWENWSnpnU3J4ekxUaWdSaG1SMDJIWkJSNE9BcExTbXR2TnZzZVdSYzBnX2lGSGMyN2pkdmlLRmViVERMenpza09QRGhwd1dSSV9Ka0xLYWZlRERHNjcwOdIB5wFBVV95cUxPampHYy1fTE5BQ0Vaa3hyejJ5aXFhemRUS0VDdWFMUENSdFYwSXJ4WGphUGNzdDNEbEJac3AzVG1aaWRGNnRIc2V0UF8wTFQ0TjJnUjN3cFdZckl4X25CTV9KNkNDUlYtZDNDSkxkbHFydmtBWFp6X3FuZWNlSHMyWmxRZENZS1hFZ0laSWVfc0ptNmFoMU1GbWZPVWZpbi0tdXh4bk55LW9XNUYtUmhaYzdZR0EwNEI0VDZrel9IMUJLRmVwbW9YanllUEhWZDM4SFFkb1oydU5xRVQxVGpYLWhvXzVvdHM?oc=5",
+          "pub_date": "2026-04-17T00:00:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Fires under control"
+          "sentiment_score": 0.54,
+          "short_title": "Freedom fighter remembered"
         },
         {
-          "id": "b8df988f6ed8",
-          "title": "Karur Vysya Bank announces bonus issue after 7 years; Q1 net profit rises 14%",
-          "source": "MSN",
-          "district": "Karur",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNLXhNSFo3Y19kYjRWVlh0cnVSbmxaOEFzRUMwTnktN1MzcVo4eml1NTUyeHVoMkRDTWdtZ1ZtZ3l0blFoTDZTTHJTdkozc0pHbzR5R1g0ZkcxOGhaU1c1R2l3eFRFaEU5NnNXeFN4NjRfdDdoTlRJNWtLWE50LTEzNE14alJ1WnF6d0djc2xfS3Vfa05nc2tfMlJMZDJOZDdITW5kY29oMmhrZUEweXczcnJUOTRCUUI3OUl5UF9IRm9XSV9BZkgyQk9MeWpsLTlnZnZVZmFjZHBndk5PTlJaaXpKYWE4WjJmLTVWX01McGE1WUtaRkVQbFpQWnZqcHpXb2lzcF95a05zNWFockc3dnJSWWpwNE4ya19GV1Ftb2pFczFZV1FXRUtZZEN2U21Cc0JROFM2ODB1N2F5NVMyckZFYVRSQ2FLVXJkejRzMzc5cldZY05sWWJsOTc5TkhS?oc=5",
-          "pub_date": "2026-04-15T15:54:48Z",
+          "id": "e52a1c325ca0",
+          "title": "New taluk, hospital upgrade, bus services prominent demands in Senthamangalam",
+          "source": "The Hindu",
+          "district": "Namakkal",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS1cxejFTSXpabXFZZEZ3VjZMTTRqZ3hpZnBTZlhzQjd3MkpUWU5nWkotd3lXSWpFNzc0UTRGSm1sZ24zQnZ0amFmc0Z1a0psWlh1YkQwbEwtdm5QZk5tT3dCdDlfdFY4R3A5NTVQT0ZjNUtKSmYxVXMzcWRqRTFPOVBpQnRJSFJtemwwVGY2YUVXTklSSUFWZHhtaXZPdHczdEZQblUxNUt3TmhvVlBkYVE3YlpDQlYwZ1U0akhISXZrVndnUUZFT3lVRWUwRkhIV2FndzRIdk94UmdFYUVuVndrMks1RGdqU29z0gHrAUFVX3lxTE9LVzF6MVNJelptcVlkRndWNkxNNGpneGlmcFNmWHNCN3cySlRZTmdaSi13eVdJakU3NzRRNEZKbWxnbjNCdnRqYWZzRnVrSmxaWHViRDBsTC12blBmTm1Pd0J0OV90VjhHcDk1NVBPRmM1S0pKZjFVczNxZGpFMU85UGlCdElIUm16bDBUZjZhRVdOSVJJQVZkeG1pdk90dzN0RlBuVTE1S3dOaG9WUGRhUTdiWkNCVjBnVTRqSEhJdmtWd2dRRkVPeVVFZTBGSEhXYWd3NEh2T3hSZ0VhRW5Wd2sySzVEZ2pTb3M?oc=5",
+          "pub_date": "2026-04-18T17:40:00Z",
           "weight": 10,
-          "sentiment_score": 0.75,
-          "short_title": "Bank bonus bonanza"
+          "sentiment_score": 0.32,
+          "short_title": "Hospital upgrade sought"
+        },
+        {
+          "id": "261164ab8ec0",
+          "title": "Nilgiris in Tamil Nadu Sees Tourism Surge in 2026 with Heavy Summer Rush in Ooty and Surrounding Hill Stations: All You Need to Know",
+          "source": "Travel And Tour World",
+          "district": "Nilgiris",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa1lMcTlxR2h3UjZzVTEwMGFiSm10d0pNWDZYcXZnTjlneUd0bVhBZWZacm83MVV2UVBqcGw0S19KNlA2NHBVZWgzNzQyNGNfbTZCVVVqemIyWS1qTHh5TTJodzY5U1ExTmtQMWJoX0tGN3NFdzZNNzlwWjh4RlQ4UXBJODZVY2tybXNVZURsOFh5TmFURXlGTGMyVXlfUWZ6dThnVlVlTWlxenUwb2RRZW5RZUtwOHpXcDA3OVExR3BEVWVyVEpuQlFtZy1wRDlGMWx3cEZPZ3VQbjR1dnNxelpxQ09BYmxUdXViZnB0UHlnQ1ZQU1oySnN5bFRnLXQ0cjFzZExYYUN5UlJt?oc=5",
+          "pub_date": "2026-04-21T00:02:19Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Tourism surge peaks"
+        },
+        {
+          "id": "4981d1ef55d1",
+          "title": "Dindigul campus connect",
+          "source": "The Hindu",
+          "district": "Dindigul",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUNqYTFsWldmbGtWLVJockpqd041N2p3ODg4d3VoaG9iRWNVTkR5UlptcGZlUmRwNWpnYTZpOUdLQ3BnNkdmd2Y5SGVmTEVJcW0xMzBBeEtBdktKWHk0Nkd5WnF5dDVaUkdNUERxbWhOdHVVY0pIR2VyeWw3amNlcnozMFFNSUpsNEZIZGpDVVlxTzdFZU4yX9IBmAFBVV95cUxQZUNqYTFsWldmbGtWLVJockpqd041N2p3ODg4d3VoaG9iRWNVTkR5UlptcGZlUmRwNWpnYTZpOUdLQ3BnNkdmd2Y5SGVmTEVJcW0xMzBBeEtBdktKWHk0Nkd5WnF5dDVaUkdNUERxbWhOdHVVY0pIR2VyeWw3amNlcnozMFFNSUpsNEZIZGpDVVlxTzdFZU4yXw?oc=5",
+          "pub_date": "2026-04-20T12:35:45Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Campus connects students"
         }
       ]
     },
@@ -172,26 +183,37 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "f168f47322f2",
-          "title": "Trichiites launch pot challenge to feed birds in summer",
+          "id": "89d6aa3cd5c0",
+          "title": "International conference on AI in life",
           "source": "The Times of India",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHRwVURIeVpDenhDOUNiMGdaemk0R3ZKVkd3ZUdwUzhDX25lS3BvVm9RS1Y2VjZ4S2hyb2RnZkd4azJMRW9sdmJuc1gwX2E1dmo3OTVVYVBDSXBuZ2p6VWVzbmp6NkxtRmw3Tm1BUUpLWm1PeU9NMHlBNThhSzhKVHJGQkNxVk5NUmxhbzV5SmxUOGF5alh0Y2N3MFZpRUFway1oaVRqMThwUWEwMDJsdTZiYzl1b0xSdU50em9kWjdWVXMybGpzWdIBzgFBVV95cUxOU2MybDc2TDZrZzJQT2xIbnVxYTlZWmJMSWpDM2tmRmJwLW9vOUxURHFVS2c0cV9sdGlEbzVMZWlHb21WTFVVSlpqZ0Jzdkd3eE1pU2wtXzUyWm9FdjR4SkhTa1RpN2lLN1JzeW9PWThuenJrekhHZmJjVzJSeFJGZEl2d2Nyd2VKZGtENW5keHUwd0ZsYm9kQmtWMEF2UFdZcVZYN0gtbGRrQ1F2anhYQUVJWkZ4UkdmX2h3Y3lLR1ZhXzd5eXZpMk03YTk2dw?oc=5",
-          "pub_date": "2026-04-19T14:46:00Z",
-          "weight": 10,
-          "sentiment_score": 0.08,
-          "short_title": "Pot challenge for birds"
-        },
-        {
-          "id": "a6626c9fb52a",
-          "title": "NIFTEM Thanjavur Empowers 82 Young Entrepreneurs Through Food Start-Up Training Programme",
-          "source": "businessnewsthisweek.com",
-          "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOamRLdWx3ckRSY0p5a09fYmJRWnJqMmY1QWZYSUpzLTlZZ2ZMaGhYalhqdkhsUElvYWZBN3pDMTZGdzF2WUZja2hzQ1VURUVOUVE3ajNhRUl4SUdJTFRSVmNXcTcxSTdibkxLaktrbHk0Rk0yTFF0M24yNnQxRTVld1FjNV9jRElUUjNkRUhMU2hSM3J2anZnQVpRcGpKeHBGNGJlcWpYbVFiWW9MZUhaZTNuNEs2YUFhdmhzUmp4MFo2djBkcjZvVDd3NGZWY0k?oc=5",
-          "pub_date": "2026-04-20T10:46:33Z",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1Y5OXQ1SGx1ZHhEZ0hnOWpvOFZhWU5uR2x4YnBKcDYteTlYTmJFOW01elJtbjBIb2Y5UXdPa3cyUUVrN3F0eENXWkplRmxjbWdUb3ZwUVhXb1VhNnZGYkw1RGNKdjZ2Q29XYlItcG5OT242QXBrMl9WYm4zWE9DMTVDUmRRbmtKM1VxUGgzMHRkY194M3JlcldUUmFzd2JERW94RnN2WEpxX2paSlhSU1JB0gG3AUFVX3lxTE1OLTNCYXhyVzRyaXJLT2tCQkV5QjdRbVlheTNqeVQ3SnVsdk1BZ3NxeWMxeXlhUjhWZ3JJV3lWeV9tSWgtM1FvYk94WktZSlU2YTh0NmhyX19ncW1mMGNucEtCQWFzWUk0a2Y0bTJlbmlwa21MV29FTVdFR3Niczc1T0lpdkU1SjVBdF85Y2s0Vm9mUzZZYkdid2xkSm5sZHVYTmcxRjRMWm85bEdENDBfLWUtWFhqaw?oc=5",
+          "pub_date": "2026-04-19T14:51:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Youth food entrepreneurs"
+          "short_title": "Pot challenge feeds birds"
+        },
+        {
+          "id": "98d681a07bc4",
+          "title": "KTM 390 Duke R Price in Perambalur",
+          "source": "BikeWale",
+          "district": "Perambalur",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOSTFfbGJpN0hySlEzc1lPX05qdEpCLWRQX1V2Z20xeVdKUXg2bl9HLWdBWFRZY1N3QXVWR1RCSmJKM2dUdUVtaG1IWUs2RENFcEJacjR2Y3dHbkpuOUJxQkhsbXFlNzNrSGctSVdmWU1IV3dJ?oc=5",
+          "pub_date": "2026-04-20T16:43:25Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Hospital upgrade underway"
+        },
+        {
+          "id": "eb6b08a5f312",
+          "title": "NIFTEM-Thanjavur trains 82 food start-up aspirants",
+          "source": "EdexLive",
+          "district": "Thanjavur",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0dOaGRyTE5ab1dDZHEtMUxmZU81aWIxbUh0eHhSdHdJRExZaWJvbVppbWowQ1BZMFc1WGNKaEZYSGt6dFBuNW1zUHIzZkxUNmVwenNjVUpVdzNUMEtpQ3NFOUxWbWpVQnhZS1FHTV9NZzF5eXlIb01pcS1XZUFpakM1WFFPZ0VFbTMzZl9HZlNkOHY0Zy11ajVtTjBfWFFBZkpUSzJ0M3F2bVRiSXczMk0ycjZ6QW9FUTdBd0tISVJaVEY3cXFaaEN30gHKAUFVX3lxTFBrR05oZHJMTlpvV0NkcS0xTGZlTzVpYjFtSHR4eFJ0d0lETFlpYm9tWmltajBDUFkwVzVYY0poRlhIa3p0UG41bXNQcjNmTFQ2ZXB6c2NVSlV3M1QwS2lDc0U5TFZtalVCeFlLUUdNX01nMXl5eUhvTWlxLVdlQWlqQzVYUU9nRUVtMzNmX0dmU2Q4djRnLXVqNW1OMF9YUUFmSlRLMnQzcXZtVGJJdzMyTTJyNnpBb0VRN0F3S0hJUlpURjdxcVpoQ3c?oc=5",
+          "pub_date": "2026-04-20T15:36:07Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Food entrepreneurs trained"
         }
       ]
     },
@@ -201,48 +223,48 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "ac60af144d23",
-          "title": "Well-designed courtroom will foster discipline, says CJI Kant at Madurai court inauguration",
-          "source": "The New Indian Express",
+          "id": "223ffefdde02",
+          "title": "1,171 out-of-school children across Madurai district restart education",
+          "source": "MSN",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORzRWOGNiZ2xzanAyV0dzOFpKQ0RjMk1HT2tSTVZsWkpnd2dSeksxTUR0V1o5ZDI0QXhJTzkzMGgzSWxmSnNWZHJzZDB5Y0Y0WWZ3b2JiT2ZxZldrQnJ1b1dLODRTQTRmX1pCQUZCOGVwNjZSblVJMkNYc01aVFhoMzBhNmdMN1BrWnRtRUdTaUVWeERYY3Y3WF9ZWXNnTTRZVlczanFVNzYtM2tjMjVzdUY1ZGhGWHB1TFNZNU54c3J0TW1SSVU1LWtGaEh4NzZPQkJ6RlNoVkVkYWU0a19TZFN0M2J0R2NLYXRqLTJkM3Axekp2UUHSAfYBQVVfeXFMTkc0VjhjYmdsc2pwMldHczhaSkNEYzJNR09rUk1WbFpKZ3dnUnpLMU1EdFdaOWQyNEF4SU85MzBoM0lsZkpzVmRyc2QweWNGNFlmd29iYk9mcWZXa0JydW9XSzg0U0E0Zl9aQkFGQjhlcDY2Um5VSTJDWHNNWlRYaDMwYTZnTDdQa1p0bUVHU2lFVnhEWGN2N1hfWVlzZ000WVZXM2pxVTc2LTNrYzI1c3VGNWRoRlhwdUxTWTVOeHNydE1tUklVNS1rRmhIeDc2T0JCekZTaFZFZGFlNGtfU2RTdDNidEdjS2F0ai0yZDNwMXpKdlFB?oc=5",
-          "pub_date": "2026-04-20T02:04:00Z",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVJlVDVVLWtDWXNsME55TURKNEZteXFaVFM5TjJXT1lQalZFVXhWRXZlcmFFWUQzbHFXSEhnT3p1WFFCTko5aXVyN0JvaTFHd2Q0cS1DamxHV3VsUkFDVVFydHJFQ2F1ZFJTdklHX3ItMVZ6cjJVSmVuWnVCbW9sS1E0TFRyV3pfWUZzU3g0dUU1aWdjT0k4NVpMcDY5M01raG9raEdXMjNUMmdXajY2dEdUWVZOYWwwZTFndzhfYTlUbnlDdWZoMWJJR09GRkRNeVFrVVhzUTZrMFQ3S3ltSXprMW56NUNrZUhuY1hkbkhobDAxQXprTEpQSEI2aUY5UWR5Z05PZTNDZngzckMyQWdaOGtiZDhjOTd2Ni1iMFMwQXp4SF85VmI3ZENhUHVlMkNJLWhQSkpBLXpXREItaDI3M2Q2Qkdkc21IMGd2cw?oc=5",
+          "pub_date": "2026-04-20T11:23:43Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Courtroom inauguration"
+          "short_title": "Out-of-school kids return"
         },
         {
-          "id": "89962d63586e",
-          "title": "DMDK candidate will bring dental college to Virudhunagar, says Premallatha",
-          "source": "The Hindu",
-          "district": "Virudhunagar",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOUR5azBOWVlFSjBXazdXSFhXQTNybDZCVDVrRmMwOWZibURXd05ZVDBsdXNBbmVfZTFXRXZoN2xJdC1LeEkxZmh2aC1CZlJudlBEX01RMVVMZjM0dUFad3RyM0R3cW92ZTc5djktcEpzcThldjdFOHc3djV1ZE5nZHIxRDdSNlI4ODNWeFhUTFVwQVJuZkVUUl9rczZvSklvYTJlM0xUMDY1VDFSM1RTMWhYam1UV1JYUk1KR19DMXRQdjZyMGVOTHZzaG5qeWxSeDhpUU0zVC1CVU1SRldJdWNB0gHoAUFVX3lxTFBJWnI0RjlHSk96Q3lueTNCS3o1R2U3MHVzeVlmaDdWN0Q0dk1CZ0lWNGszUWFEdkJQandJUDE1cVM3NElTd0h5Z1RVUF9iR0VDeUpSXzVvZEtKOTF5OS1BSGZWTEVRWkx4SDVlekNyRlQ0b3hIYnZVQWU1cFVVY0NLQ1FxcEt0dWpZVjZjV1dRUlBrT1Zxa0FvbDlnMlZwWl9oWnNOUzBlOVRuMjA1MVVKaWtMeFB3NDVPU0ppVVJLTlp2ejJuSzc4UHVLazNSWk5raVZsd0NVNkduY3pBbThnQ3lhRjhUbnc?oc=5",
-          "pub_date": "2026-04-16T16:42:59Z",
+          "id": "f1a40b317fb2",
+          "title": "Work for Kannagi temple festival begins",
+          "source": "The Times of India",
+          "district": "Theni",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3BwMmt0b1VZWlhlbm83ajQxeTlnR1MwdzdWb1QtU3Q4cU1jVno5cjFCdWhrcW8yS25iaHgtdnBza2ZiN2Z2d1A5eHZtQkVPdTNUal9uMWk1c20weVZJN3J6M3hSZkV3WkNJX0xSSzNTMkUzcmIwaEVxQ1NMd0tsMVdEb1pubmtONWlidm1IVS1SQldtc1pLT2NicUF3OGZTeDRRX2pVQTRsS1gxaVFKOVY4d0LSAboBQVVfeXFMT3h5aWJYWjNWaGRWSXQ1NFBWTmdMU2doTS1oV0lwMFlXbms0U3QxVU9MQ3lFVXV1NjZSLWxEajdLcnRiU25RZ05QYmJSYlVNNm9KMU1zTEZGNmI3b0YtVlVqRWI3QUtqMV9OZlVVZFo1clk5Z1Vsd0l4MjJ1cUpBd2RENzdYYlZkNXFndm5oN3dlV0s2NzJVcVBqZVJPTV9QMFNtcXRza2x6Uzk1VEM4SU1zRnN5T003OExR?oc=5",
+          "pub_date": "2026-04-18T22:36:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Dental college promise"
+          "sentiment_score": 0.64,
+          "short_title": "Temple festival begins"
         },
         {
-          "id": "32835204c807",
-          "title": "1K farm ponds to be set up in Thoothukudi with CSR funds",
+          "id": "4724002e57aa",
+          "title": "IOCL gets PNGRB nod for Kochi-Kanyakumari-Thoothukudi gas pipeline",
           "source": "MSN",
           "district": "Thoothukudi",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPVlR3VjE2Vmc4S1BmZU1KSldfaXZOS1hzZ0dhOFlWbEpKMFhqYkdIWk84UUFYdnk5Zml0ajlWT3VGWFY2VDdxLUNvMFFXaHJsaTZBUFFRNXg1X0tyRmc3aFVGLV9kaHh6VUpSN05OOXdiSkctSWU0Wl9BbnQyRG11eFVSanNLRi1ITE85UUlqc0h0MGwtbVoxSW5qeHMzYmkxNmNqRmtWTV9QODFQS0JoS0RvLXdiQ1VpYXMyQ0YzUlczdjdCdzVaUExVMnhqVzBET1Rtb1MwZDBoZlhTdlRabHNTWnQ0cWV4ampMVG1oMzZaenYtUml2LUF6d0pleHY4TkdPQ01SSHhYNVFTcWxDMFNZcUo4MDBCOExhck5jdk1rS1duaG93RkkxeUxuNGFjVmFTOUVNdWo3TDdVSzdj?oc=5",
-          "pub_date": "2026-04-18T14:37:17Z",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBNMzNEekY2YXlReXI3SUVhWnZSajlpZUJHX1JRUVdIdXc0N1hIaV83RDhGVTBPT3lqcjFwZWtISzNCcDlwVEstU1RnODdFZ1luem5kX0JOY0w3X0VMaEZvX1VqVDVyWkJ0TDE0OFczQm5hNU9STmhQX1NQVVVfU0gyTnZpWHZ2Wk5lRFlfZHd0NXc5bFpKVG9CclM0NlhTcTFidGJsM2ozR0RNOFc3bUNUNGd4QQ?oc=5",
+          "pub_date": "2026-04-20T09:47:31Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Farm ponds CSR"
+          "short_title": "Gas pipeline approved"
         },
         {
-          "id": "acae2edd5143",
-          "title": "Tirunelveli college to host bank exam as scheduled despite rat fever outbreak",
+          "id": "1e6fc04b8096",
+          "title": "Mysore-Tirunelveli special train announced for festival season",
           "source": "DT Next",
           "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXlyR1hOTkx4c2VCNDVncHEtN2RQcXRoeXJES2lqdHNQRnFRQ1hnRWNMZGItdkJtR2Rya1g5d1ZsUHhVMElEaENMZVpJb2hTdHh6WDZFLURia2k0eWNpd0xYUjRRU1VoZEFMWW5pOWZvSmd6SkgzWFpNcnJBQW9uYUFPVlA2LWhhUUVyV0ZIaGd6OGVsQ0VsN1NJUm1PdkY3ZHJGOVNfcGVBUzNtdTVJUElHWWpESGotRm1ULWoxNjA0Z0XSAcsBQVVfeXFMUFRWNUdzUjZiY1VMS2s3MUplem05LTZJeFFGcGFsY3VWUk1jRVZxeFM2LXUtZnZJbjZ3d2t1Y3EyVnR4SktubXViNUJXdlJveXNrUzh3MXYxYUhJRzRVZTJOWUlLRm9DOTQ0RmV0T1dycXdGcVRKdkNIMHRFajJJekdMb090X0l3b0xrVFQxazRJVDFmODB3aTFHdzBfNWZEdWhtTjZyTzhwczRkM0w3a2lfRTcxREJpSGNnZ0hRMkFNaTBoaC1VSHhiYnM?oc=5",
-          "pub_date": "2026-04-19T00:55:45Z",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQWRvNW11VTRvcm94RktvZEo2S1hpSkc0NVRSUDliSlFRanZaNWVtcjF2YlJ5bkZEWE5GcU1hbmRUZEhvRXNLMTRGWXVyM2g2c2hwYkNBZ1Y1a1dNLUpDLXY1SXo1MEJDT2ZhaTFfYWpUR2FJa2tXV295LXFsYTB6bzI5TkRBc2pKWXJBd1VIRFU2UlpnVGJrLVc5RW1SeElFVEtjM3k4ZHNmV2I2YlRB0gG3AUFVX3lxTE9kUHdELVloR3lvOFFRLVM5SV9ySkxiWGJLYjRKaEZtMHVRZnZtU2d1NG91QVQ0NHphRGFzYjBFVG1aeEJRWXlsalJLNHlQVS1CS2psU0hrNnN2eGRjVmpyaEpxSmpOWGl5TDhDYm50c3JYOUtud2tjckQxbTAxM2FUdXNEUl9LSXM1MjUzaFNWdHZfcWtsRE1vSEx0eGd0V2xhaXRnUmtVcURTX2ZTYzY4aFNhc2lVNA?oc=5",
+          "pub_date": "2026-04-18T20:17:32Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Exam held despite outbreak"
+          "sentiment_score": 0.86,
+          "short_title": "Special train service"
         },
         {
           "id": "371587dfcc00",
@@ -253,7 +275,7 @@
           "pub_date": "2026-04-20T03:51:28Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Deepam lighting promise"
+          "short_title": "Religious landmark pledge"
         },
         {
           "id": "778fe2dd2571",
@@ -264,7 +286,7 @@
           "pub_date": "2026-04-18T13:52:30Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Record train occupancy"
+          "short_title": "Express achieves record occupancy"
         }
       ]
     }
