@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-22T01:03:26.476997Z",
-  "article_count": 21,
+  "generated": "2026-04-22T12:49:04.422772Z",
+  "article_count": 20,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,37 +8,48 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "f0217dffcdd0",
-          "title": "VIT Chennai wins Exceed 3.0 Campus Challenge",
+          "id": "b99ee33c2c96",
+          "title": "At this Chennai pop-up, cheese meets coffee in unexpected Ways",
           "source": "The Hindu",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDJfUXdqVjF0NTJCSC1NYTRDQ01mY1BnRmJ5RkxaLUYzblFCNEtzTENIZUxrVlpUVlJtWkhPOVlYNDBfR21wWmRIbXpsX2R4QkloVlgyVzNGeWZ1X28yTzQ5SjlCWHNxdTBWNkJpWGtNREdnNEdkTlFiUHQ3WGExbTBvRXU1RGJiVld5U0lmYkN6SUZrVHZkUjNKT1BTSDdMcU1URW10dmJXVEJpajJNNk5Rb9IBugFBVV95cUxPV3IwU2NJN2pCV2VpNDljeXM0TFFNRGROSmRTMTR0UVJHcnBBOVhMYWxnUU5kWlpISmV0QmtkYzJ0MTNlU013YmJfNU1IZDRxYU9DeWM0MnlPX1JhX2s4NUVvaHh5VzBNMmFXM0dxZ0pfRnAxclVLQUVXVUJFc0tqOS13elVWQmhwSDdYTnpQSFdXS2h2ZjFaR1Fpb0Q0cFFObTVLa1NoeWQtUkZSMzE0YTlJelRfcW4xLXc?oc=5",
-          "pub_date": "2026-04-22T00:00:00Z",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckJPWVRDT0NoMTdKejE0Y3lEZ1k2blE4c1U4MTNVengtN3BTaXBUWmhCRnc5RmZVQVJQSC1wSnVuZmN5eXhMZmhGVHQySGYtNjBZdEx5MXN1alJCUEVwX2kxT1hUQmRjVjhlT1JZb1RrZ3RReXc1RTgza25tbUN6M2x2LVowSTZvWVRycml1bkVIS1gxeVdjQ29UNmtYNjNpSGwtUUw4UWE3RVBJSHM2V3o1aVk5RjJ2U3RqS9IBwwFBVV95cUxQT2FvalFtU0dWUzFkenFjMzU4Y2tycXRXU0hjWlAyRU92ckRtREhTbFA5cGJfZVZtWXFwbFRkdnVRNEtEY2ljNkZMN1UtQk1XZHVUYXRpWkhNYVI3VHNaTFN6ZFptQ2tTbU5ZMTVQcXZNLXY0Q250LTJCQVcyZjIwT0pmd1ZYZ21aU0ptMWdEbzNsOTdHMDdXMmpianNNYUNQcFhMdExGSGhNT3dSUHFEUnB2UjRFaHhDdzdSdXBPT2FHVUU?oc=5",
+          "pub_date": "2026-04-22T11:12:26Z",
           "weight": 10,
-          "sentiment_score": 0.76,
-          "short_title": "Mangrove champions"
+          "sentiment_score": 0.0,
+          "short_title": "Cheese meets coffee"
         },
         {
-          "id": "3bb618fd2bb3",
+          "id": "8728c40989e1",
           "title": "Kanchipuram silk sarees continue to symbolise tradition and craftsmanship",
           "source": "MSN",
           "district": "Kancheepuram",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVkN5bmsyeEk3VC10LTFTeWVQN0VONkJrNHBnaE5Sak1EU05sZVAtZ1pYdUpxX2VwMEN1OGFETkZ3cnR6a21sVVZSY0RrblJubUpWOTl1MnZBdmM3Q3FBOWtiM2VjZURXaGU0dVJEcG5zQ3NwSUs5b2xfcV95em50MUtOZTJqVXBLSTJOanBRVG5DMWlLeG4tWi1qY3U0WE5KNmVHcTF2YmJSdGY0cDdQVmdfdkJXMURPbGU5bzhJMGI3SmROblRSa0p1VVFCSkgzUE1VMkRGQnJmdFFwWkZhanRlS1JnLWdYUTI4WnZhRm5HY2RGeFFKVGpsOFhYSTlBQUVmVnY2aURfNENGVGtkUkdxR2ZJWUxmTEo2My1IdzJYTUhpWGUwd1hheTFSRlFKSlFzVWIxQktMeXlBTXctdnFobEJtX1FKb1JTM2hONlZhUy10Vnc?oc=5",
-          "pub_date": "2026-04-21T20:37:30Z",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkdtYTZObDJjdXFTcWVweWlVY0tXejNHaDFjbTFtNjVDNWlZOUlneWM3UUx1aGhTOFZIdGNzNUtzLTQ1UjBCRU5Gd2t2SDRNY084ck14WHJETFFHcmpsOW5jbEdrU1JoNHJMMnJLMzl4ZXpwZXV4NVpzMFdnanhuTWJNVmZlOU1scFh4S0RqV1RxQnFETDhZTXd0WVJSTVl2U0pveUJzWWNYUW55QU9zVU5GeGhOc01pbUlaZTVUMA?oc=5",
+          "pub_date": "2026-04-21T11:51:15Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Silk legacy thrives"
+          "short_title": "Silk heritage thrives"
         },
         {
-          "id": "f5865a8ac333",
-          "title": "VIT to offer BTech program for employees of Tata Motors Passenger Vehicles in Ranipet",
-          "source": "BusinessLine",
+          "id": "479452327be4",
+          "title": "Tiruvallur District: Rapid Growth, Basic Infrastructure Still Lagging",
+          "source": "The Hindu",
+          "district": "Tiruvallur",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGg1eGhoVEp0NE9qbFU2eUxhcmU0YVRHQ1ctY1A0VUVYODFXOTJFNUZxMTBGNDY1aG1nakIzRWUtRC1MSWN0Q0FSWGlYQ0p5YmxITGRWR2NKYmVObnZWelNhbE4xcWNXNWhPRWZITE9rVkg5Z0hDQVZZd0k1YXRpREh6LUE3RGljbncyNE5SRmlxend0Qm1BMzRia3htdDZKOVZnNTNKYlNsS2ZsbENRUVg1NFM4d09zYncw0gHCAUFVX3lxTE1yOE84bjVGRXdqSXBBdmZBcC1oUWtETF9sUThyUDhjVGJBQ2IxSTZ3NWh3LWtzSzA1TFc2RUZaMHZaS2lBd2J1OFBucm5YVWo4UGxnb1VDZjhEcWNZVmhfRUJBYXJhVzE1T2RiN1lfTFFHSndrWE9zQlRMdTE1U1JTLXU4V3JRUWN3NGV5TjdqR0tDaXU1QW1VVGhNODNsdFV2YkNxdzVSZXdOMnpfak4wa252bXFvOGRNZHdEQzFCN1hB?oc=5",
+          "pub_date": "2026-04-18T17:48:50Z",
+          "weight": 10,
+          "sentiment_score": 0.13,
+          "short_title": "Infrastructure catching up"
+        },
+        {
+          "id": "8a62a41c293f",
+          "title": "VIT partners with Tata Motors to offer BTech programme for Ranipet plant employees",
+          "source": "EdexLive",
           "district": "Ranipet",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTHNaN0ZrZzVvUHFYalZMcER1enhkWW1objBpTFN5c2hUc0pldTV1OVdjTS1mbDNRR0lOdjlTUE5JMVB3Wm9jMTBQSkxVa2NjSFhydDZlSnRzRDZQRFZ0TnpvcW9EU0ZyUF9sS1VaeVFIeW10dW8xVGFiNDRLSjZCeWNobkd0TF9ZZzBtVnRnSGVQV3pvbGlVYVRoV202WlJFc2hZOTZ5LTFLZlBWZHJCWnhTd2VjTFh1SElfeUxJTnQ0bXdDV21VeVVFbUExR0VQOWp4Y2VXWkEtamFnMXE0enZoRnlRX1RnYndretIB8wFBVV95cUxOakFUY25uMGFTbkNLRmR1WVNjQ3NYVGVQcUI4amVHVWlaaXlfUGh3bGF6OGtMTUJYWUR2UlhJdGtFbzhrTGFIZEZ6TmNvTWlwNkd1MnBDRTJIMXNRbm5Wa2pWX3BPN3AzTVpUWGlPZGdyUndsYVJHbUhMSFB3dkxkcEl0VW4xTFBOS0NVUnVhMWVUeVNoTHpLWlpzcmhiZWRlVkZjOUlobWNfbDBDeHBkejQ3UzBzM1V1Y1R6YlpGTnJvLUpuMXdXOTNJSU80SElUbHhuNWQ5bjFXX3FNWS11QzVRcHFuRnlsR2JuUnNndjJnZDQ?oc=5",
-          "pub_date": "2026-04-21T12:24:24Z",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUJnTU5zYm40T2E3R3JqeEtEWHY2Umw1RDd1TGp0QWNXMjZaYWJaYVB3cHhBMWIxVXBfUDhvV2MydEhOa0NJRnVJUzVDS0hXM1RHZUtBOEpQMS1ZZFR2Wkc5ajZ0cU9zRHVQUzA5Vkc1T0lhQVhvbjJYTlZMcmlnV2xoX2JyUDV5Mjh1ajlOaHJXeW5FcHNQMVRJZzFpN1Z4MS1ad1lYZXl4TlBxcUZLc0hB0gG_AUFVX3lxTE92Q3N6QndGMTN0V29OVnlyQ0dBQkh3ZGJINElEOERxeGdwQUNSNkYxWTJqckktNXpVMlgtV3ctVWJtaXoyQmYtWUdVTjFvX1NySU1rblJCU3kxQjJqT2hHVnEyOFpwMjdoZTBjR01wRXc4b3EtN0gzaDlleExfRXBwbnNpVWJLS3RucnpVYlo3d3IwN3ljRHZJZENYQkdFdEc2bTdBN0s3TXNIQ0Ztb29KRmZVa3REbW1VbUluTHFj?oc=5",
+          "pub_date": "2026-04-22T11:55:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "BTech for workers"
+          "short_title": "Tata partners upskill"
         }
       ]
     },
@@ -48,15 +59,15 @@
       "color": "#d4a057",
       "articles": [
         {
-          "id": "44cae10ecebe",
-          "title": "CMC Vellore doctor cracks the case of a 15-year-old who suddenly couldn’t walk. Blood tests were normal, MRI was clear. What happened?",
-          "source": "MSN",
+          "id": "84db903bd169",
+          "title": "VIT, Tata Motors sign MoU to offer B.Tech programme for employees",
+          "source": "Greater Kashmir",
           "district": "Vellore",
-          "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNNE9lT2lWOVI2UFRDRDVmeWNLYTQ4a0NOdFpIWVE0SUtDd1dteTNEdjhKNjRsYXdPeEVKa1RTNWVvU0JrR3luWXZ5MHd3TWoxaUxTLWc5TUhPOE5OYVlWR3o4OXNfVFBUdlRGSTJVWnplU1Yweko0c0NObVVsbkN5emJSQlhEbVg2OEVBM3VxSWhGUjhTdDhGWUZwczdxcG9lWE50RGY0RllObHgyYXlHTXJrYVBSZjZJTDhMVTVhNUk2XzJ4TXlIYjI5QTZmUUN2RG1Udm9jS3k0d1B2bXZYVlJpcVV2djZSMzRXRWxsWXZXYXFWWFJZaDd4ZHNwd3A2WkQ4bjA4TEJ4RGtGMERyTXZUdjRQSVdaUDh2SmVHc1htcGRYMFVUcWVqcUp4UU5kdXRaSVhIdnp4QUhwQWJBb00xaG4xQ2RKUzRLcVloWElZZ1M5VTVVWnE0c2tPZlhaRmUtdEZ3eGZ5SHJpNnVjSTBNRjd5RGNqNHEta1U5OGFZUHdqWUxHWkdhSmpBS1VnemMxVTdrTnFuNmI0bHhOb2o5ckZnOW01Z1lHZGtWblZ2emRIcUY0ZUVtSlFIRDJFX1ZJd1VKTGdHUVEtVEE2dWsyc25ZM05SMHR6R2h4YjBaTFZiR0RSVGphdERTMk0?oc=5",
-          "pub_date": "2026-04-19T02:51:49Z",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnd5V3hPYVVyLVU1ZGVZRnotTXNETnM0c1Zmb0xCSEwzOFl1a0piVTR1eXJGYVBnVUVBMlFPY1ByaGRtQ3o4Yjh6QVJKajFhNlg3d2cyVEgwMkZ4bFkyNENDcExWam5PWjd0b0ZKYWhkbFJFdDFLY3NLVmRzZlI0c2piQWFsWU9LYjljdWtfMmltWW9YbEZreTRRWFFxR2hWd1F1dWlCNlpqYlJFVGlYNHBhb9IBuAFBVV95cUxPYXMxR0ZQaWVTSFR3NVhxQUpoZWlPR0JmZmJQZHA0dFYwVHBYdkNKYnZVams1aWVrdDhZNm1IdFZ0dmZkaDc4U2hSSTFBZVhOajdfVl9OeGNRNUxTOGx5TXlpZXZvemVVQ0M2ZjdtWlVVMDFOaGlkQ0dua2FIdmpHWU5fVmF4T3V6V19wLVVma1d3T1czcFpZcFVXT2VJNEtWbVpPc2FuUjFzRmpTeWZiWVZhTjRZbngy?oc=5",
+          "pub_date": "2026-04-22T01:23:04Z",
           "weight": 10,
-          "sentiment_score": 0.38,
-          "short_title": "Diagnosis breakthrough"
+          "sentiment_score": 0.0,
+          "short_title": "MoU unlocks opportunity"
         },
         {
           "id": "4a4a591fb190",
@@ -67,7 +78,7 @@
           "pub_date": "2026-04-21T18:18:31Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Ancient tools found"
+          "short_title": "Ancient tools unearthed"
         },
         {
           "id": "0e4d2e9d927e",
@@ -78,7 +89,7 @@
           "pub_date": "2026-04-18T07:36:30Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Canal restored"
+          "short_title": "Canal restored alive"
         }
       ]
     },
@@ -88,15 +99,15 @@
       "color": "#8aab6e",
       "articles": [
         {
-          "id": "7dbb16afd1cb",
-          "title": "A gathering of Waldorf educators: Coimbatore set to host a global teachers conference",
+          "id": "cdc429f938ad",
+          "title": "Kongunadu cuisine: Malli by The Living Room in Coimbatore celebrates regional flavours",
           "source": "The Hindu",
           "district": "Coimbatore",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRFVMSHYzOE51d055TXB6UTNBZmxXcFFpeUNYcHJFLUZzdkVMakg1ellUSWZWekgzYk5melRLdjM4WHV3NlB4c0IyQThfYXR5MlVaOHZlQXBGZUNJa2l2akR0SHdUVjVnQUVsbjJYa3ZQVTlSbHFVS2NyNjhuRlY5b1FjUk5ydVFnemM5VWp3MlNFVnhueWdMU3hLWkNvT09TTlJTTzJLdUlkNkdDa2N5Z0FqZERZNTQzLUxXV3V4S3c2MEVNblRjdWtLSGkxZnBMck54QkZR0gHcAUFVX3lxTE9GR0duZTNETTZnMjRYYWZrckZ2cVYxOEVhS2hZNWFtLUxUcXhBT2dvUTRicjc5ZWRFSEI1RDROWmRPS3NacXBGRkZ3TnE5RWVfUWRNS1pNNXN6Z3pOOHpXb1p1RXlfcGRHbGdEYnAtaXpzTnlJSXpTaHJQZXVYay0zMG00blN5SzRzNzZnTlpUR3gyX215Q2lrdjE3aS1UT0g2eGI0TjZRbXdVQ3pSUERndFVET3ZDQjFydE84c0oycHhIby1rT3E5T1VIYm1xTUxTVFBNQTJoZkxPWTE?oc=5",
-          "pub_date": "2026-04-20T09:32:49Z",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR0h4enY3V2lHQWo2dGFUbE94LTl4bWNWLWpQRlZhcEdHVXE5NXdnMko0cnpxSnliMTA3U1B2RGRfeGY4M29ZRFpDZEd5MWlIdVVmN0REYjU2NE10ZV9MbThMU2JJWUxqWkpRY0dMeTliLU9RSFpsT1BOTmNmM3ozOHQ0Mmsybmp6R3NNVUpyajBoXzZkdlR0MWVmbld4aktCcy1CUFl3UDlFUQ?oc=5",
+          "pub_date": "2026-04-21T11:43:44Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Teachers unite global"
+          "sentiment_score": 0.72,
+          "short_title": "Regional flavours celebrated"
         },
         {
           "id": "1e73cc98dfa2",
@@ -107,18 +118,18 @@
           "pub_date": "2026-04-20T13:48:03Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Startup success story"
+          "short_title": "Activewear ascends"
         },
         {
-          "id": "d02dcf912bad",
+          "id": "2673b89553ef",
           "title": "Erode City Central School Scripts History with Twin Elite World Records to Champion Voter Awareness",
-          "source": "english.punjabkesari.com",
+          "source": "ThePrint",
           "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcDlSTERoYS1IMzg5VTY2NlZHY0wyZWZ4d1pPZVRZazdqeUlZQnVfVGt4QVVVQlZVQXJxdVprTXVBZ3piZGduWGxXTWJJNzhvczRwTFdqTm5aMXFwektWMG44aFBadmFObWg3d09maFdidGNCa0pBSmpJcF9vX2tPTHNWRDAzUGxRTHA3UlI5SUtiLXpITHVwelJ3cVVLY1huUWF5MHFFQlpOU3JEc3cybDU4akRxRUxNYVFmal9PQVJXMTNESnJEMExCeE0tLTFTbExBejJRLWo5QdIB3wFBVV95cUxOSWR2LW9XWi1yejkyWEplbE95WEctaElSckgzOUplVThVZ0FOMmVOWjdvRVJiUkhCOXY2cGxTdnlZaE9sOTAzRUNnTkt5QWdnQWh6a2RZQ2tDMm9YS0FQMWNpVnZSNDR3eE9LdVQ2OU05Qy1PdWhrZmhfbWVRWDRZWmphb25oaGFQaG1LUGJZeDVOT2xCOEFzTWoyY0NnR2M1UHZMbHQza2xOYnJyNHFnem1FalVzTlJSYTliVlJjSHNlLXRLYVhsRzVrbmkwN3JodnJ3NjlCTDlyMUNndE9F?oc=5",
-          "pub_date": "2026-04-21T06:35:05Z",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa1h5T3JMWFV6LVc1ZXFfMkJ6STRweC1OckhseTF1bFhEVFR1REF5TnhaNkNiOXQ3Wi1YdnQ1YmcyRDNvSk9GS1pxandTOGhIRVk4NlRKanRUNEtJOU5ybXliQjZNTHNJZnF2aXdfTlZac0xMcEhzc1lLalc4SG12TTZmQUJCeXhVVkV2VU5GbTRGbC1CYS13QTQ4TkdFQ0MxZWIwaXJIQmxPY2dTOGZRT1NDOFdPRzVKNzZZbXU2amJwVnRjSExHR0ZINEJIOUlBX3N1dGRJRlFnZThwYzdCTtIB5gFBVV95cUxOZ3BVV1ZZc09qNjRBUGJac2Z0cmVPaEhNUUd4ZVdxNkdZZFdSM2kycl9pZ3hpbE5TSDJSZ1FTRTMzVVRDZ09qNFlfczczNE9rSE1ueU1NS2xIVmczaTRxWV9uTHU4a185Zjg4MFVtb3U0ZHdWbzFxdFhIMEI2UllZU2IzVVdPa2I4M2JVQkNDQ0tqdlJIbkt6TGR0d3ZMSkZzU1pUaWlqU0xWQ0Rta05ocVlnQnBGdzJpa3pVOHoyNUFFbVlKU2VLSmFpMzFDQTdpTXpFeWd6RV9ocW05eXpmVXFQcHFmdw?oc=5",
+          "pub_date": "2026-04-21T06:31:15Z",
           "weight": 10,
           "sentiment_score": 0.75,
-          "short_title": "Dual world records"
+          "short_title": "Student records shine"
         },
         {
           "id": "de56cf8c7a98",
@@ -129,40 +140,29 @@
           "pub_date": "2026-04-17T00:00:00Z",
           "weight": 10,
           "sentiment_score": 0.54,
-          "short_title": "Freedom fighter legacy"
+          "short_title": "Freedom fighter honoured"
         },
         {
-          "id": "261164ab8ec0",
-          "title": "Nilgiris in Tamil Nadu Sees Tourism Surge in 2026 with Heavy Summer Rush in Ooty and Surrounding Hill Stations: All You Need to Know",
-          "source": "Travel And Tour World",
+          "id": "0e9de369fd0c",
+          "title": "15.5 Feet Python Rescued From Tamil Nadu Field, Released Into Forest",
+          "source": "NDTV",
           "district": "Nilgiris",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNa1lMcTlxR2h3UjZzVTEwMGFiSm10d0pNWDZYcXZnTjlneUd0bVhBZWZacm83MVV2UVBqcGw0S19KNlA2NHBVZWgzNzQyNGNfbTZCVVVqemIyWS1qTHh5TTJodzY5U1ExTmtQMWJoX0tGN3NFdzZNNzlwWjh4RlQ4UXBJODZVY2tybXNVZURsOFh5TmFURXlGTGMyVXlfUWZ6dThnVlVlTWlxenUwb2RRZW5RZUtwOHpXcDA3OVExR3BEVWVyVEpuQlFtZy1wRDlGMWx3cEZPZ3VQbjR1dnNxelpxQ09BYmxUdXViZnB0UHlnQ1ZQU1oySnN5bFRnLXQ0cjFzZExYYUN5UlJt?oc=5",
-          "pub_date": "2026-04-21T00:07:53Z",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlNJbjlLVEVGcERvaEplVDNkVUNuWWxidHkta1RUMGh1aDRPM1ZWbXlQU1ZGS3VadWFlTXA2QV9ISGxuRmdsM2FvbFdiSEw4QkU1QWxjQktKOEtEazAyel9nVmZ4bU9kUjNqeFZPeHFxMVJZUmVqRlhTaFcxakZ0ZFJ3cTlqOVJPZVJZLW9Ld2h0WVdCY3hMbHVsdE5BdXdzaDdBOGNMY21qUllRWllIdkl1Z01qSUdYY09Gd0k2S2wyZ9IBygFBVV95cUxNckNOWXFhaDE4ZFN4dktaYW1vTEJNZUdXczdFU3R1cGJ1SWVZZTVKYUN6OHNvWW5DZ0RtM3lVcUVMalNQazFaQ21TRTN4V3g5RHFvUTZaLU41NGZNNHl4a0I2XzNSbGstc3htNS05MmJFamY5NlhHVHJFWGlOdkZGdHJ0WldBU3Vyd3NRNE9URW5sZ0dZWjJjSGtPaTEtX1BNRkJ0UzNtUUF6LXZZSmRhX3ZyS0lxZU9rMWJ0eGxya0FpTmF6bFcyekVn?oc=5",
+          "pub_date": "2026-04-22T12:03:04Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Tourism surge"
+          "sentiment_score": 0.57,
+          "short_title": "Python rescued safely"
         },
         {
-          "id": "daf3412041f7",
-          "title": "Karur Vysya Bank Expects 2% More Credit Growth Than Industry In FY26",
-          "source": "MSN",
+          "id": "91ee5d23c59f",
+          "title": "Karur Vysya Bank Opens New Branch in Thirupuvanam on April 27, 2026",
+          "source": "scanx.trade",
           "district": "Karur",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPR0dqbXZ2ZVBHSUdHTHdheDlUazYwMTc3Y3loaXpVajVOOFo2TFozTFl1WlNEM0pCWjZFdEVxc0pNYjBWMUZfbzBzZTB1TFF2RktET1UzUFJDeENwMHctd3BVTlc0OHMxYXRJdVdJLW9xaVlQUzh2N2FqQ3R5YjR6OFkzcmc0V3RSUkNWWGdWZ1RaQ0xJNTEwbDhaTmRzS09obkx1RzhVRmxJaU9fZ1l3b1N2djVTYW9KUUhtdlR4NkhvRVN0TWthUjdwSUhlZ0lDX3h4VEx1ZjlERnZGSzBkeDBlMzR1TlF3SWZsNC0ydUNmSFhldEl4RjZYTnRyWTNqUGZ5T25nNEgybThacGNBT3JIMlVtV0FEV20zQ2hKVUxaU3QtaEhCNUFlVWR5d1BoUjRXRDRjUC1XdGlCNnVaRG9fMWlnT3p5SVhab2JBd2hDVTE2?oc=5",
-          "pub_date": "2026-04-21T06:27:59Z",
-          "weight": 10,
-          "sentiment_score": 0.7,
-          "short_title": "Bank growth forecast"
-        },
-        {
-          "id": "4981d1ef55d1",
-          "title": "Dindigul campus connect",
-          "source": "The Hindu",
-          "district": "Dindigul",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUNqYTFsWldmbGtWLVJockpqd041N2p3ODg4d3VoaG9iRWNVTkR5UlptcGZlUmRwNWpnYTZpOUdLQ3BnNkdmd2Y5SGVmTEVJcW0xMzBBeEtBdktKWHk0Nkd5WnF5dDVaUkdNUERxbWhOdHVVY0pIR2VyeWw3amNlcnozMFFNSUpsNEZIZGpDVVlxTzdFZU4yX9IBmAFBVV95cUxQZUNqYTFsWldmbGtWLVJockpqd041N2p3ODg4d3VoaG9iRWNVTkR5UlptcGZlUmRwNWpnYTZpOUdLQ3BnNkdmd2Y5SGVmTEVJcW0xMzBBeEtBdktKWHk0Nkd5WnF5dDVaUkdNUERxbWhOdHVVY0pIR2VyeWw3amNlcnozMFFNSUpsNEZIZGpDVVlxTzdFZU4yXw?oc=5",
-          "pub_date": "2026-04-20T12:35:45Z",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVYzNDZCVlRTTkJRWEtKZVhrRUhuX3luVC1UU3ZaUkFHemczbXR0aFlicVJMU2MyT3BXdU5DTUJnNk9RLU9mbzh6dy1aN2lDSjBJd1pKRENmYVg4X2tOT2dwWGpuN0p4eXYtcExpV3lHSjNZZ2F2VVdqaHBrM2p2TmZEd0RDcUlzdld2ZWpMVHVxYUdralNEUmowN1lIRWNkdWNjczRlRlpxMkhoSHotWlR6UjhNUHNCWHdHbHNFdGI?oc=5",
+          "pub_date": "2026-04-22T11:02:46Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Campus connection"
+          "short_title": "Bank branch opens"
         }
       ]
     },
@@ -172,26 +172,26 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "846f867d8e3b",
-          "title": "Sri Lankan Tamil votes for the first time in Tiruchirappalli, India",
-          "source": "The News Mill",
+          "id": "2578f2aefba7",
+          "title": "IndiGo pilot's 'every vote counts' message on Singapore-Trichy flight goes viral",
+          "source": "India Today",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUVoNU5wZFN3ZW9Qak15bzRWZ0c4eXlvbGdvX2JkNy1iR3dfb2tTbXREd1JQWTdJZDFGd3pRVFZzX2d0UkMxR3VSWWlKYUd1aGloanpPWGZWTkM1QnVvYzMxNXZUX1lvenhGX2NaRU1jeHhFWllMQjhsYkxvRXVPNlVPUmhjRnY4WVB3Q3RoRkpnTWh6Vm10TGdwNzJPMzJVaDBjR0ctdDZWUU1UajItTGcxRjVOdnVYRWxrWA?oc=5",
-          "pub_date": "2026-04-20T23:32:12Z",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNd1NfUG80QzE5NUhNTnd5Sjhva2hSdGhGUlR1Y1puZUNqb21HTXE3YkhVOTY1RUZzbjhqX1RtRTFUYk4yQTFKaEg3OGhzN2JiTUVWVzhrdDh3bmdBcDhxUVBpck5IOVNXVi1FeUdvdEVsai1MRmtVVHNmcVJUd25hdEhabUZuZTZ5SGZQcl9qVldkNU5SbDZvNGFWWVd1RXBHX1JsRHlsYmV4NVNPMHNqVFdwQlBJd01uMVRqamtGaU1CS2VLeEVQR1FRbU1xa2o1SVc5d2RhZE01eENtRzFPbTg3SVE1TWhVX1JZbzJjXzdvS05pX0NlUFJXeXZDRjJkY1hMSi1PQlNXem92OFHSAY4CQVVfeXFMTXdTX1BvNEMxOTVITU53eUo4b2toUnRoRlJUdWNabmVDam9tR01xN2JIVTk2NUVGc244al9UbUUxVGJOMkExSmhINzhoczdiYk1FVlc4a3Q4d25nQXA4cVFQaXJOSDlTV1YtRXlHb3RFbGotTEZrVVRzZnFSVHduYXRIWm1GbmU2eUhmUHJfalZXZDVOUmw2bzRhVllXdUVwR19SbER5bGJleDVTTzBzalRXcEJQSXdNbjFUamprRmlNQktlS3hFUEdRUW1NcWtqNUlXOXdkYWRNNXhDbUcxT204N0lRNU1oVV9SWW8yY183b0tOaV9DZVBSV3l2Q0YyZGNYTEotT0JTV3pvdjhR?oc=5",
+          "pub_date": "2026-04-22T08:17:04Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Sri Lankan votes"
+          "short_title": "Pilot spreads voting joy"
         },
         {
-          "id": "eb6b08a5f312",
+          "id": "7012aab9c262",
           "title": "NIFTEM-Thanjavur trains 82 food start-up aspirants",
-          "source": "EdexLive",
+          "source": "MSN",
           "district": "Thanjavur",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0dOaGRyTE5ab1dDZHEtMUxmZU81aWIxbUh0eHhSdHdJRExZaWJvbVppbWowQ1BZMFc1WGNKaEZYSGt6dFBuNW1zUHIzZkxUNmVwenNjVUpVdzNUMEtpQ3NFOUxWbWpVQnhZS1FHTV9NZzF5eXlIb01pcS1XZUFpakM1WFFPZ0VFbTMzZl9HZlNkOHY0Zy11ajVtTjBfWFFBZkpUSzJ0M3F2bVRiSXczMk0ycjZ6QW9FUTdBd0tISVJaVEY3cXFaaEN30gHKAUFVX3lxTFBrR05oZHJMTlpvV0NkcS0xTGZlTzVpYjFtSHR4eFJ0d0lETFlpYm9tWmltajBDUFkwVzVYY0poRlhIa3p0UG41bXNQcjNmTFQ2ZXB6c2NVSlV3M1QwS2lDc0U5TFZtalVCeFlLUUdNX01nMXl5eUhvTWlxLVdlQWlqQzVYUU9nRUVtMzNmX0dmU2Q4djRnLXVqNW1OMF9YUUFmSlRLMnQzcXZtVGJJdzMyTTJyNnpBb0VRN0F3S0hJUlpURjdxcVpoQ3c?oc=5",
-          "pub_date": "2026-04-20T15:36:07Z",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJ3WjhJREN1Zk9wN296azFPT3VxSGNRY0p0eXU3NG5nU0p1eXUxTU1KZ3NsZlBrZE1lT2JvcEZ1UU9raE9aMWZxVTN2SFZUNmJRd0hvT2o5NUw5T0RLYkg4dVA1d1RDendmVXQtc0R3U0NjX1ZfcmgyeGx5SlZsUG9ST3lZQjdIdXZlS1VDTG1ZNUR3aXdxVXNxbDFva2ktRnRRYjlxUlJReGM?oc=5",
+          "pub_date": "2026-04-21T08:16:10Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Food startup training"
+          "short_title": "Food startups trained"
         }
       ]
     },
@@ -201,15 +201,15 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "223ffefdde02",
-          "title": "1,171 out-of-school children across Madurai district restart education",
-          "source": "MSN",
+          "id": "468b8e4dfcec",
+          "title": "NDA To Prepare DPR For Metro Projects In Madurai And Coimbatore",
+          "source": "Construction World",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVVJlVDVVLWtDWXNsME55TURKNEZteXFaVFM5TjJXT1lQalZFVXhWRXZlcmFFWUQzbHFXSEhnT3p1WFFCTko5aXVyN0JvaTFHd2Q0cS1DamxHV3VsUkFDVVFydHJFQ2F1ZFJTdklHX3ItMVZ6cjJVSmVuWnVCbW9sS1E0TFRyV3pfWUZzU3g0dUU1aWdjT0k4NVpMcDY5M01raG9raEdXMjNUMmdXajY2dEdUWVZOYWwwZTFndzhfYTlUbnlDdWZoMWJJR09GRkRNeVFrVVhzUTZrMFQ3S3ltSXprMW56NUNrZUhuY1hkbkhobDAxQXprTEpQSEI2aUY5UWR5Z05PZTNDZngzckMyQWdaOGtiZDhjOTd2Ni1iMFMwQXp4SF85VmI3ZENhUHVlMkNJLWhQSkpBLXpXREItaDI3M2Q2Qkdkc21IMGd2cw?oc=5",
-          "pub_date": "2026-04-20T11:23:43Z",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWduMVdWYXNSUUh6UnFTUjBacXRWYjZtbVI2dUZiNlV6eDJoaTRXNHhiSHVaTmRnUjlsLVBpandmNU9PbVhoLTVzRl8xcTZVdHBlamEtMHdhN0hwOUZuSUEzWEp6RmRrdFlBVDRSMy1SZk9mcVFIc1NRQURKakhGU2FvZTkxRTU4YmIzUkZBZHM5aGtlcHUtVkk0VnNIVkpUckNRZFZjVmVPcEVlU091Ty1uckJOeHpVRmRJUklpM2p1WFUxZFhzUk5pSUdENENC?oc=5",
+          "pub_date": "2026-04-22T07:29:42Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Out-of-school kids return"
+          "short_title": "Metro DPR planned"
         },
         {
           "id": "f1a40b317fb2",
@@ -223,26 +223,15 @@
           "short_title": "Temple festival begins"
         },
         {
-          "id": "32835204c807",
-          "title": "1K farm ponds to be set up in Thoothukudi with CSR funds",
-          "source": "MSN",
-          "district": "Thoothukudi",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPVlR3VjE2Vmc4S1BmZU1KSldfaXZOS1hzZ0dhOFlWbEpKMFhqYkdIWk84UUFYdnk5Zml0ajlWT3VGWFY2VDdxLUNvMFFXaHJsaTZBUFFRNXg1X0tyRmc3aFVGLV9kaHh6VUpSN05OOXdiSkctSWU0Wl9BbnQyRG11eFVSanNLRi1ITE85UUlqc0h0MGwtbVoxSW5qeHMzYmkxNmNqRmtWTV9QODFQS0JoS0RvLXdiQ1VpYXMyQ0YzUlczdjdCdzVaUExVMnhqVzBET1Rtb1MwZDBoZlhTdlRabHNTWnQ0cWV4ampMVG1oMzZaenYtUml2LUF6d0pleHY4TkdPQ01SSHhYNVFTcWxDMFNZcUo4MDBCOExhck5jdk1rS1duaG93RkkxeUxuNGFjVmFTOUVNdWo3TDdVSzdj?oc=5",
-          "pub_date": "2026-04-21T02:11:07Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Farm ponds rising"
-        },
-        {
-          "id": "1e6fc04b8096",
-          "title": "Mysore-Tirunelveli special train announced for festival season",
+          "id": "acae2edd5143",
+          "title": "Tirunelveli college to host bank exam as scheduled despite rat fever outbreak",
           "source": "DT Next",
           "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQWRvNW11VTRvcm94RktvZEo2S1hpSkc0NVRSUDliSlFRanZaNWVtcjF2YlJ5bkZEWE5GcU1hbmRUZEhvRXNLMTRGWXVyM2g2c2hwYkNBZ1Y1a1dNLUpDLXY1SXo1MEJDT2ZhaTFfYWpUR2FJa2tXV295LXFsYTB6bzI5TkRBc2pKWXJBd1VIRFU2UlpnVGJrLVc5RW1SeElFVEtjM3k4ZHNmV2I2YlRB0gG3AUFVX3lxTE9kUHdELVloR3lvOFFRLVM5SV9ySkxiWGJLYjRKaEZtMHVRZnZtU2d1NG91QVQ0NHphRGFzYjBFVG1aeEJRWXlsalJLNHlQVS1CS2psU0hrNnN2eGRjVmpyaEpxSmpOWGl5TDhDYm50c3JYOUtud2tjckQxbTAxM2FUdXNEUl9LSXM1MjUzaFNWdHZfcWtsRE1vSEx0eGd0V2xhaXRnUmtVcURTX2ZTYzY4aFNhc2lVNA?oc=5",
-          "pub_date": "2026-04-18T20:17:32Z",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXlyR1hOTkx4c2VCNDVncHEtN2RQcXRoeXJES2lqdHNQRnFRQ1hnRWNMZGItdkJtR2Rya1g5d1ZsUHhVMElEaENMZVpJb2hTdHh6WDZFLURia2k0eWNpd0xYUjRRU1VoZEFMWW5pOWZvSmd6SkgzWFpNcnJBQW9uYUFPVlA2LWhhUUVyV0ZIaGd6OGVsQ0VsN1NJUm1PdkY3ZHJGOVNfcGVBUzNtdTVJUElHWWpESGotRm1ULWoxNjA0Z0XSAcsBQVVfeXFMUFRWNUdzUjZiY1VMS2s3MUplem05LTZJeFFGcGFsY3VWUk1jRVZxeFM2LXUtZnZJbjZ3d2t1Y3EyVnR4SktubXViNUJXdlJveXNrUzh3MXYxYUhJRzRVZTJOWUlLRm9DOTQ0RmV0T1dycXdGcVRKdkNIMHRFajJJekdMb090X0l3b0xrVFQxazRJVDFmODB3aTFHdzBfNWZEdWhtTjZyTzhwczRkM0w3a2lfRTcxREJpSGNnZ0hRMkFNaTBoaC1VSHhiYnM?oc=5",
+          "pub_date": "2026-04-19T00:55:45Z",
           "weight": 10,
-          "sentiment_score": 0.86,
-          "short_title": "Festival train runs"
+          "sentiment_score": 0.0,
+          "short_title": "College exams proceed"
         },
         {
           "id": "371587dfcc00",
@@ -253,18 +242,18 @@
           "pub_date": "2026-04-20T03:51:28Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Hill beacon promise"
+          "short_title": "Hill shrine promise"
         },
         {
-          "id": "98eb5c55bdd2",
-          "title": "Sustainable sectors can boost job opportunities in Kanniyakumari, says NTK candidate",
-          "source": "The Hindu",
+          "id": "0d44354adb99",
+          "title": "IOCL gets PNGRB nod for Kochi-Kanyakumari-Thoothukudi gas pipeline",
+          "source": "MSN",
           "district": "Kanyakumari",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOXczdDlUUlMwVWV2REMyQnA5dmNKR1VwNkRTNU5fanIyVXg1XzZHZkRnYXhLUFphTmU1N0NDWUFTMGVUdTRmTUNyejNJUGZhZjdtNGhZWU95cVc0ZTZhakpnbEExTE1DekhqUHBFQ29BbUpLbHJrNzZvWDlPZG1xZEM1SlZELUJjUFA5TnZuWTZSTS1xMDZmUGg0czhvcnBGZ2szaExSMTZHc25FWEI5ZEs4a212QWtiM080T1JNQ2JvWWNwNkZhb01HRlRBa2VIWWVzeWFVTTJrdENvM0doVENuOUlQUFAtaURSQVAwNNIB9gFBVV95cUxOd2t1a1RUWnhidEVmQ0ktMWl4VnhtWTZCZlc3ekROXzlTdUx0S21xanoxaWt2Y18zZzR4YTBXR3VwYW9ETlZ0djhLbm1acmJpMXdERWNoRHI1MVlCM2ZlbGVueDlaMi1UUjdMSXlWazR0bTR5U3ZLVERJV3ZvZzgzRmlwV2hIdU56Y1pXaEp6NkVZMi1NWlZNQTdKaWdPRmZIOXM1SnROLV9zU3hFb1M5V1ZqQmk5Q2FoRTBCZTN4U0ZwQ2hOY21GN0ZLRDRZRHpaLWlDMmU2MDJ2bkROVlFNNWFyRGlrTXpKUHgyOUVhZ0Z2QnV0aFE?oc=5",
-          "pub_date": "2026-04-21T12:54:12Z",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcm5tankyOE83SXJ5UFhoTmliUHFuZFM1UnBOaFkyV0t6RFliZklZWGdpQXdIYUk2UEVkNVFnc3NUN2JZQUVWYlJVbUEtVGlySnEtNXJTNVlEZWpfN21pRmZqbVQ0X1ZLT3VnY0poX1ZtcTVHUTg3Tlo0Q0dKRmxwak8ta3JaQ2pGU2pOR1pseTc0MElhV3R2Y3lNaUFrVWg3ZEEwNm1JWFkwZmRyTnNUc0R3cUFNdTlvZEpqcXVBZGNFbzAwQzVJZGZXYTRVTzZZWkQxQlZQMEhZTlRKb2c4X3ZKYmNwSXBJcHVYU3F6OEdQZnpTSzVqd3BmVFd1cDJXVTRiOEhyZU5HWkFqQTJwSnY0Yk5CMjhWU1V1eDZ1Qy1FSFQ3UndfaThQRjkwMVRnaHMzdDBjaFFYUWdMcUNNeWZ2cmw2WGRWZVA4OA?oc=5",
+          "pub_date": "2026-04-20T19:40:45Z",
           "weight": 10,
-          "sentiment_score": 0.65,
-          "short_title": "Sustainable job push"
+          "sentiment_score": 0.0,
+          "short_title": "Gas pipeline secured"
         }
       ]
     }
