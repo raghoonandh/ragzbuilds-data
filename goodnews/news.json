@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-25T06:57:24.733928Z",
-  "article_count": 30,
+  "generated": "2026-04-25T12:46:14.275387Z",
+  "article_count": 28,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,15 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "7a854369f350",
-          "title": "Cricket match squads | Chennai Super Kings vs Delhi Capitals, 18th Match, Indian Premier League 2026",
-          "source": "Cricbuzz",
+          "id": "790248bc0849",
+          "title": "Apollo Hospitals Chennai Achieves India’s First Adaptive Deep Brain Stimulation for Parkinson’s Disease",
+          "source": "Apollo Hospitals",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3AyUWVnS3pwOXVndm9FcXQ2UmtYUW1zcXZYdy1fcUotUjRrTHEzWEVnSE5NQjlULUFOa0NuWDltY0hKMFpOWk1Nc1F0N3NmQncxM2dyeXk5ZlljSHFFU29oVmExTXFBUHpnaHZibnptRzlkSzRBOEVRX1J0WmRsSzRHNl9JS3NUMTV6X1J5bFNJWlVJblFKamVSVTFDdWM3bmc?oc=5",
-          "pub_date": "2026-04-25T05:22:51Z",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlV5SjloekYzWl8waTFMdnRhWWtWR09vMjlLUjJXbXJLSFpzWEt6clZZXzJQc3dTV3BYaEwzWGxDakRKZEJMQ3VWaTdYMzFJMjc3S2JhRkhxN1lpeXc5b0dKUlFpNWlBR3M1bGdLbFEtUUtLTDBsTjB2YW9yMXRJMGNYeDNIUmZiOXdZVTFrSkxwV0U2YkhfakxLS0FXQVZRRDA3WHBMM1JMeW42bWFUUGxmY2t4cWpqbW9wZjl5YXFLNEpoa2V5eHZlY292eEpzSkFQei1Hdm5KUi11bVAyZzBLMDZ0VUE?oc=5",
+          "pub_date": "2026-04-25T03:44:50Z",
           "weight": 10,
-          "sentiment_score": 0.6,
-          "short_title": "Brain Brilliance"
+          "sentiment_score": 0.0,
+          "short_title": "Brain surgery breakthrough"
         },
         {
           "id": "0700a2b38ba7",
@@ -27,7 +27,7 @@
           "pub_date": "2026-04-24T06:17:46Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Temple Festival Time"
+          "short_title": "Temple festival begins"
         },
         {
           "id": "2f65107134c9",
@@ -38,7 +38,7 @@
           "pub_date": "2026-04-23T18:42:49Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Civic Spirit Strong"
+          "short_title": "Newlyweds vote together"
         },
         {
           "id": "8a62a41c293f",
@@ -49,7 +49,7 @@
           "pub_date": "2026-04-22T11:55:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Skills & Jobs"
+          "short_title": "Skills meet manufacturing"
         }
       ]
     },
@@ -59,48 +59,26 @@
       "color": "#d4a057",
       "articles": [
         {
-          "id": "f257280c8b0b",
-          "title": "CMC College of Nursing organises graduation day in Vellore",
-          "source": "The Hindu",
+          "id": "84db903bd169",
+          "title": "VIT, Tata Motors sign MoU to offer B.Tech programme for employees",
+          "source": "Greater Kashmir",
           "district": "Vellore",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTEU5YktTUXJsWlBDRWotQXVPeW9wdXRfc3VwMDF0OXdmTWl5djFiVF9iWEJMMk1VcVE1ZEozRUtOZFFFVzBOeVd5aVZ2cjdvRE9QQi0tSUlRbzkxSmF2bmF4QmxFQzAwWTNiVTBodlRneDZtRWxMc2stalJsSzJtU1AzdVhMMWlEQWJleS12NHRGbExhMjZQZDhWc0pYSTNubXNocFNCZjdMTldTTEVHQ2pQSm5DMzdaZDhWdll2QnREZXVRUFJF?oc=5",
-          "pub_date": "2026-04-22T18:20:43Z",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnd5V3hPYVVyLVU1ZGVZRnotTXNETnM0c1Zmb0xCSEwzOFl1a0piVTR1eXJGYVBnVUVBMlFPY1ByaGRtQ3o4Yjh6QVJKajFhNlg3d2cyVEgwMkZ4bFkyNENDcExWam5PWjd0b0ZKYWhkbFJFdDFLY3NLVmRzZlI0c2piQWFsWU9LYjljdWtfMmltWW9YbEZreTRRWFFxR2hWd1F1dWlCNlpqYlJFVGlYNHBhb9IBuAFBVV95cUxPYXMxR0ZQaWVTSFR3NVhxQUpoZWlPR0JmZmJQZHA0dFYwVHBYdkNKYnZVams1aWVrdDhZNm1IdFZ0dmZkaDc4U2hSSTFBZVhOajdfVl9OeGNRNUxTOGx5TXlpZXZvemVVQ0M2ZjdtWlVVMDFOaGlkQ0dua2FIdmpHWU5fVmF4T3V6V19wLVVma1d3T1czcFpZcFVXT2VJNEtWbVpPc2FuUjFzRmpTeWZiWVZhTjRZbngy?oc=5",
+          "pub_date": "2026-04-22T01:23:04Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Nursing Graduates"
+          "short_title": "Education partnership launched"
         },
         {
-          "id": "e64d24dddfa3",
-          "title": "Polling underway in Tamil Nadu, newlywed couples turn up in wedding attire to cast their votes",
-          "source": "Big News Network.com",
-          "district": "Tirupathur",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd1VfOHBIMkM3X1ZYaDRjV19xLWpXTllLdnhFYVJMMVV0aTVHNENqYTNsaHk1VXZGdDVwNk40U3h1d0c2YXgwSnJLTldwbm5fekxqWWh0eGJxekRzdU0yRTNtUEZDYzJXWnFycktJTEtuNFI2OGFnVFFpZjJwQUs3SE5qMWtpYmk3S1kzdWhKRGtrdmVtZUl2MXpRSFZldzFvUUdSUE9LdGdjM0JTczZ3VFg5b2tMTE5wb1Z4WEgzV0RXV1F4Zzc1SE5xNnVsWVlMRnBFc0NB?oc=5",
-          "pub_date": "2026-04-23T13:33:00Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "First-time Voters"
-        },
-        {
-          "id": "bff3cc917d1d",
-          "title": "Over 15.69 lakh people to cast their votes in Krishnagiri on April 23",
-          "source": "The Hindu",
-          "district": "Krishnagiri",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ3QyakQ0aTFzUDYwNTRIM2tGV0ZCWVJmX1JuMU5hbG1GRkprdWoxTkM2Z1doRlhLem54LXpISEpaSWdFMDVNQVFKUzhzVDdNQnJlSzhBNmVSR2YyUXpLcTVFb3RsT2t6a2xoN3cwSlA1M0E4OVdTemU3WVZWU0NSNm83TC1KcHduYzBxb2pxUjd4MWhoQ3c0U0trRjlqSVdBNExqbTFCcDdGcVdzeFk0ZlV5YVVoZEx3M1BPNzRUYWJNUTJZaGZsQ1pEVk9GOFB6c2UxYm9sd3BYSDDSAeIBQVVfeXFMTUJLLVM0UGtfYjFPWlJINmRZaVNxR0hrQ1lXSUNPbUw2Z0t4Yjk0emlRRDRxV250cFpoQ1lRcC1HVkJ4ejY5dUhienRCV0c0M1FKZi1aTHhiOU9hOTBvbWxWNjRIOS1NY1hRRHdma1djOUxBYTdnVnRBbXlNaTU1U3FPZHZrSnNjcDRteF9OdjQwTFhVdmFKWVdvM0lDdEJFQmlxSkdubnE4cmxTc1VRX3JNc3ktYVlfU3RrVUFBUTdVMGZPRzJvZlM1U1lKY2tjVlJfYWFUcmVXVGJDSU9ha3NlQQ?oc=5",
-          "pub_date": "2026-04-21T16:08:45Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Historic Turnout"
-        },
-        {
-          "id": "0f99ec6f7bb7",
-          "title": "Robots Welcome First-Time Voters in Dharmapuri",
-          "source": "IANS LIVE",
+          "id": "10514c747702",
+          "title": "Robots guide first-time voters at polling station in Dharmapuri",
+          "source": "The Times of India",
           "district": "Dharmapuri",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGlFeUpNNTZuNkZTUEw2ZU1YU09jR01tcUFTc0hseTg3bEhkWVBVa3A1a1V6LWhSV1gwaXBRMm1tUkZNa19iZzFublFJRkc4NEFYSkJsOURoUk00aS1ZenRBZDhBZU92dUFYckdxY1djdVhOMDdEdWNWQkhfLWpOSmlHcVctTEZCd1BYMzVLdndxQnkwSlk2TlJVQ29CVjl4cS1hZzJZTkotUQ?oc=5",
-          "pub_date": "2026-04-23T08:11:37Z",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajBKUW9Ia283VVg2RGl6VENzdDF2TFdHYXpZNFptT3lETEhDWER2QjZXN21PWksyWDZqWXZ3ejNKMTJLNEw1TElPNFo0TGZfX1ZFSHBkbDdsNDlIRkotaHQtbnJkMjE1RHh2TldqVV9ZeHMtUllPYk5QaGk3bmpBLU0xbDhRQXJfWWs1M1pHR25Db204UVUzU0dfQ05VaG9UWTBnOVJhZDBPSDd2MmJ2VGtXcmdJUHcwOXJLTlVnd2VvRF9EWVN6SVl5QXp2LW1QNHfSAdcBQVVfeXFMTXRGRjBfWDRqUTkwSWRxeDJMT0ZGa3VHRmxJUDRGMDdmTUZpN3BWSXJVWEdvM1ZMR2V2SWRzRkF6VWFEYWJmS2JNYlJiU3ZhQTJ3RGdVa21OTWNHMFJrWTRCYzE3c0ZSX0JqVDVwdzd3TmZXY2k3UEttOFhiLTZlaFBXeXhER2QxcDkzT2JVSk5xZnljUEZscml1SGRKNVNXVlNuUG9ISkZselNScWJPaGtRMUFoYmVBUXVPekpTUUZGWDNySHhVdnQ5MGEzaWNiZ0x6Q0tieXM?oc=5",
+          "pub_date": "2026-04-23T10:09:00Z",
           "weight": 10,
-          "sentiment_score": 0.46,
-          "short_title": "Tech-Savvy Voting"
+          "sentiment_score": 0.0,
+          "short_title": "Robots guide voters"
         },
         {
           "id": "5cf6af4fec50",
@@ -111,7 +89,7 @@
           "pub_date": "2026-04-21T18:18:32Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Ancient Discovery"
+          "short_title": "Ancient tools discovered"
         },
         {
           "id": "2c48c3b50b75",
@@ -122,7 +100,7 @@
           "pub_date": "2026-04-24T03:31:00Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Freedom & Voice"
+          "short_title": "Freedom, first vote"
         }
       ]
     },
@@ -140,40 +118,40 @@
           "pub_date": "2026-04-24T18:46:09Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Young Flyers"
+          "short_title": "Children's maiden flight"
         },
         {
-          "id": "d975dc7952c6",
-          "title": "Polling ends sans untoward incidents in Tiruppur district; highest ever 88.56% voter turnout recorded",
-          "source": "The Hindu",
+          "id": "bd76b56c2c9e",
+          "title": "Tiruppur: 88-year-old woman casts tendered vote after someone else cast vote in her name",
+          "source": "The New Indian Express",
           "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNXJkdVNjZzdDc2F5eHlxQTRKa0NQblkxdnNvMFdQWERXTUhXVjhaZmVhQ2hiWV9mSERxc1J6aHdQTUQyazRJVkdqNzBDSkl0NUNSaUVBYzFYemNEVm16THNULVhCcm4zVXhGNjVOMU9JbEJBZXNFSkdZcDhZNHdENllsVTg3SGZ0REtUcmlkaVpPTkcwVGRySkFMd05SQXZOTG1FQWl5MmlKTU5QLXh3cXB4QW0yRXVycDlJZmRVZWttSFItblM2aUQybjhnTmxUNTQyNmRqSGd1ZXNFRjh0V0p2QkV0eVBFNFZoRnRKa1RkeTZhQVpOZEZn0gGAAkFVX3lxTE1sMEd5Qmt6MG5PQUZjUUxYLUoweUk4aDlRbWY5NmVHTjA3VUotRWE2Sm5XM1gzSjdrWlR6VmxtQlpLZ2VnZmFHV0kwYnBoR21jdF82QkF3empVQXpiakRKcU5DUG12ajF6bjJPVXUxR3E1UHh6VTh0QldQdEhGeGtDXzlMdWFYcWM1dnJHdG9OenVmcDVvTzhFTGVySDBMTHgyWnBWaTdjR2J5aVlULVpaZ2VORkc3RXkza2JGUXM0akZJRFk2akdmeFVXbG1PamI4UDdFT1dVZUlUczd0bXowbVlpckFFY0pVNTdONlNRNVdrdmFDejlTa0Z3UWVlb0E?oc=5",
-          "pub_date": "2026-04-23T15:48:51Z",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaGd3akxNejkxYlJjV1RicFFxSTV5YWtJOEZHRmpJTzVwbVRDSWt6NnloV0tmOGFseFo5ei1Da3BaN3g4RTlMbHJPLU9vaUpNV3FEQTJ5LWplR1pwaG9NN3VPTC1LQnVaV0ZrT1dXbHRTMmhaSEUyZWk3TjRKbG5pQkxxRkN2djhQLVFUUGxNamNVRktfcTNVYm40Z3hUTDBFeVROTjNvaVZSUWpSWlhnQXRYNDg4amxkNU9xWEVQb2VRdExNZEd1WjJhUFJ1LUNkX1ZhTTBEOFppWkpkbU5hd3pJdFZ0MnBhblYzWEFxRWw3UdIB8gFBVV95cUxPaGd3akxNejkxYlJjV1RicFFxSTV5YWtJOEZHRmpJTzVwbVRDSWt6NnloV0tmOGFseFo5ei1Da3BaN3g4RTlMbHJPLU9vaUpNV3FEQTJ5LWplR1pwaG9NN3VPTC1LQnVaV0ZrT1dXbHRTMmhaSEUyZWk3TjRKbG5pQkxxRkN2djhQLVFUUGxNamNVRktfcTNVYm40Z3hUTDBFeVROTjNvaVZSUWpSWlhnQXRYNDg4amxkNU9xWEVQb2VRdExNZEd1WjJhUFJ1LUNkX1ZhTTBEOFppWkpkbU5hd3pJdFZ0MnBhblYzWEFxRWw3UQ?oc=5",
+          "pub_date": "2026-04-24T04:10:00Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Record Participation"
+          "sentiment_score": 0.13,
+          "short_title": "Elder's vote honored"
         },
         {
-          "id": "349a7b8fdc85",
-          "title": "Erode City Central School Scripts History with Twin Elite World Records to Champion Voter Awareness",
-          "source": "Dailyhunt",
+          "id": "8ebaa5ab0b40",
+          "title": "Erode's Annavaasal completes 1000 days, feeding 2.5 lakh",
+          "source": "The Chenab Times",
           "district": "Erode",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVjhYbUI0b252c0k4NFhRS2VEekdBSXVhUU1ERHl5LXVpYXU3QXZRcHN5V3Q1eUtfb19yNGVndHJLMkxTRUdOcUlIc1ZvOHlidmNURlgxeWxmc0l3YlpyVW9xVUltQUpDaDQ5clFqOVdleGUxRVMyRnFyeVhrZ1lGU29POFFoYUpuNjg2SDcxV0tfcGU4WjhmNXdHMDU1T1BBcWlvakZSTjZoSUtvaGo5cVM3V1VHRWxhajJfVVZWME5BcVhBRUxFM3VGdGo2OHZnSi1iUHlhNlF1Yk53c2p0UHdkN2tmbm5MTFpXZEs3TmFqUlhITlJKSm5fT2g0OFltc2tPdVVmMWFTUmlpcXpIZ3F3RGhtZFdR?oc=5",
-          "pub_date": "2026-04-21T07:00:00Z",
-          "weight": 10,
-          "sentiment_score": 0.75,
-          "short_title": "School's World Records"
-        },
-        {
-          "id": "55778bf4d770",
-          "title": "163 CCTV cameras to monitor counting centre in Namakkal: Collector",
-          "source": "The Hindu",
-          "district": "Namakkal",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWlZXMTVsYWlDT1BFVElsOWVySDVCRDFJcEZubDBKTDdrMUwwdkR1ZE1xOGlVMWdXVGRFTi1rOTJrbk9rV0dlVFVfWldXTTRmOHQ0MXNhTGR5aHNJWnM4QVlhcS1PMG1fNkVBdFlCQnlvZ1VfcHYwWER0a0VIaW1GX2pMYkkxLVdJZ3Ribk94bHdCend0Zk8yb2hnR1RLR1FtNVNYUEtoUEhnRUx3Ml9ad2twQ2RfZlRuTUk0cF9uLXhQNU1sMkJOZU9XNVhoSUlMTEg2ZGNtS0xJZjJBNnfSAd4BQVVfeXFMTlpWVzE1bGFpQ09QRVRJbDllckg1QkQxSXBGbmwwSkw3azFMMHZEdWRNcThpVTFnV1RkRU4tazkya25Pa1dHZVRVX1pXV000Zjh0NDFzYUxkeWhzSVpzOEFZYXEtTzBtXzZFQXRZQkJ5b2dVX3B2MFhEdGtFSGltRl9qTGJJMS1XSWd0Ym5PeGx3Qnp3dGZPMm9oZ0dUS0dRbTVTWFBLaFBIZ0VMdzJfWndrcENkX2ZUbk1JNHBfbi14UDVNbDJCTmVPVzVYaElJTExINmRjbUtMSWYyQTZ3?oc=5",
-          "pub_date": "2026-04-24T13:45:51Z",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWRaSm9MUExYS0ctVnBDSWl3aEhWVDFTbkxoeXBxWk5aYmlobEdNZFRuQmZZX0xmNVVuOGh1RUZ3VzVHRlU2aVJNTGpkbDdPYjV1VmZYWFVQUXpqTUdpYjRwOTZkNkFmeUJuTTRiQkJwQ1NIcTZDSG5hNWczQ1BkbTJYTTdzSFlmVzRmWHZUTUpBVWVLSC0tVU5GTU9BNVhiUlNqYTFvRUlUeWF0SDBuQWd0WFk5WE45UUw4WF9XMNIBvwFBVV95cUxQTWRaSm9MUExYS0ctVnBDSWl3aEhWVDFTbkxoeXBxWk5aYmlobEdNZFRuQmZZX0xmNVVuOGh1RUZ3VzVHRlU2aVJNTGpkbDdPYjV1VmZYWFVQUXpqTUdpYjRwOTZkNkFmeUJuTTRiQkJwQ1NIcTZDSG5hNWczQ1BkbTJYTTdzSFlmVzRmWHZUTUpBVWVLSC0tVU5GTU9BNVhiUlNqYTFvRUlUeWF0SDBuQWd0WFk5WE45UUw4WF9XMA?oc=5",
+          "pub_date": "2026-04-25T09:33:54Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Security & Counting"
+          "short_title": "Community feeds thousands"
+        },
+        {
+          "id": "66cce06f576c",
+          "title": "Bride casts her vote in Namakkal, heads to Tirupur with groom where he would exercise his franchise",
+          "source": "The Times of India",
+          "district": "Namakkal",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaUt2WWVNdEdnTXhpT2lNNjk3UEZhTHRObzJsa0hGMnNoalE2LWtpVzZlWE1EcGRVMjYxdTMwSldHdEhfNk5TVkM3ZDJxQVVRSmhjaHlOYlcxZ3MyN1VfbU1OYmltZDFfVW9DMDlmWmtYRFZHcFZjUVp6MXdCT2VjWlJENjJlUk40MnRwSDFNejctQ0Q2YkhZTEw1Y0pvUjdaUURhdHlXbTgtYUY0VGpONWROTng1X0NNa0FXa2ItSS1MbjhlWTBKT1p4WG5YMmg0dHZ5ZnFneTJ2NGQzUEtsSjA3c3QxcHBremttUWJJM2w1WE84WG82Zmlzc19KVHNjWWVEelEyYzB2eTVt0gGMAkFVX3lxTFBpS3ZZZU10R2dNeGlPaU02OTdQRmFMdE5vMmxrSEYyc2hqUTYta2lXNmVYTURwZFUyNjF1MzBKV0d0SF82TlNWQzdkMnFBVVFKaGNoeU5iVzFnczI3VV9tTU5iaW1kMV9Vb0MwOWZaa1hEVkdwVmNRWnoxd0JPZWNaUkQ2MmVSTjQydHBIMU16Ny1DRDZiSFlMTDVjSm9SN1pRRGF0eVdtOC1hRjRUak41ZE5OeDVfQ01rQVdrYi1JLUxuOGVZMEpPWnhYblgyaDR0dnlmcWd5MnY0ZDNQS2xKMDdzdDFwcGt6a21RYkkzbDVYTzhYbzZmaXNzX0pUc2NZZUR6UTJjMHZ5NW0?oc=5",
+          "pub_date": "2026-04-23T07:46:00Z",
+          "weight": 10,
+          "sentiment_score": 0.0,
+          "short_title": "Bride's voting journey"
         },
         {
           "id": "5149020f4688",
@@ -184,18 +162,18 @@
           "pub_date": "2026-04-22T20:37:19Z",
           "weight": 10,
           "sentiment_score": 0.87,
-          "short_title": "Python Rescued"
+          "short_title": "Python rescued safely"
         },
         {
-          "id": "12df1542b374",
-          "title": "All-time high polling recorded in Karur dist with 92.6% turnout",
-          "source": "PressReader",
+          "id": "b24dafb7fda0",
+          "title": "RBI approves reappointment of B Ramesh Babu as MD & CEO of Karur Vysya Bank for third term",
+          "source": "BusinessLine",
           "district": "Karur",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oS0FoQUdrM0tPYVV5Skx6dWpVZkRmZXlWWVlSNl9lUEEzQ2RMNmFhTmNabjVoRkJ6VHlFcFowTk1DME84ZHIyYTJHS09NWElpM3JuOU9CNWlGZ0pXR2paSENTM09vRHRKVTJMNk9jakFBakFK?oc=5",
-          "pub_date": "2026-04-23T21:21:40Z",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcEFGb1Q3TXBHZDlrcWR0WGI4SWRuSV82cVVWVXBxSHNBS1dqaXB2UTB5MDEwazNTVjRWb0RSRWVlWTdEMlhYZVJtZzFrbFk2T0lBZ01Xc1o2NEZleFlwWEEtb0FPUU9aQkhSNjNRSHhpLVZmR1BUd1BabHJZUmVXUDZicmFQZDREaGtVNndGWUVPaW9WSzM3Y2dIRFJzeDNEcVY0aHlXSTRGNV9WT2x1a0RDMWc4WC04UjhnamdHcUtOaEtMODFZdDVlNkhGNVpMRzBLekgwWGZwaGxzeHVsNl9xekpOUVQ4NXpHVDNHTjZJcWY4WnfSAfwBQVVfeXFMUGZFS2VLQWwtT2ZuajZpZ1ZKb3F2VDhLSEpvb19qcmNEUTRFaVltY0F0NVg0TUJxZGo2QVRpdUJmR2hhdFd6ajFSMjNycmU0TldaWTVwelhiaDVGSXpDelRSc0h2R2JWdnNfTWtkSzJKWXdJNDlhcmczZEtEcGMtbDFVcEVPRUFHQ0VmeWFhZXFIWThhYmpreW1ET3QySzVzS0syMDN1VXVVclhVeGFrRll0S0JJVjhnRmNEaXJjSVl3ZkM1NUV4eXpxRTl5Mzc3QTdhampwSGc4VWVYRk1vNl93ejJXa0JIUkZWYzlGYXlCVTlyMXpaZEFCbUNH?oc=5",
+          "pub_date": "2026-04-25T10:59:21Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Record Turnout"
+          "sentiment_score": 0.4,
+          "short_title": "Bank leadership reappointed"
         },
         {
           "id": "989a89ccb984",
@@ -206,7 +184,7 @@
           "pub_date": "2026-04-24T15:28:57Z",
           "weight": 10,
           "sentiment_score": 0.03,
-          "short_title": "High Participation"
+          "short_title": "Record turnout achieved"
         }
       ]
     },
@@ -216,26 +194,26 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "64d7f3ac40d3",
-          "title": "Zero Shadow Day observed in Trichy",
-          "source": "The Times of India",
+          "id": "9f1c65c798bf",
+          "title": "Tamil Nadu’s first Dolby Cinema opens at LA Cinema in Trichy",
+          "source": "FoneArena.com",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0RHdVZZVmtSLTZ3WVVsSTJUQmQ5M2xBMzlYSTI1aVR4cG5ta0VCQ1J4QlNWcE5HS0tEWHh4Y3V3MExkamliQmk1a1l6LTRTMUl1dV85YXQxMzVNS21XQ2NOTDhDSDBTX2h5T0RzTUVYT0pvN0wzTWV3S0NhVlZzMEZhRFZCdkZ1SXE5djhiUWt6Y2tMUFBOLTBCbzNmcF9BV3NNTU1UZWtESXN50gGyAUFVX3lxTE5RU3hOdDQzNTEtblc2ek1LUGtZMWRMNHRNcEZCYmtXTjY0TGRwZUVMVk0tNkwyR3dmLWJXOE9HWEIyaENEaW5tMEkwTkM5N0prNGg2ZGtHbVViSFlRREtoZ2hHTHNBSTUzdnozWDFqMlA4UVRCTFJlQVhJalpJTEJoVnU3RDdaN3N0VWl0SzNlR2RKcmhWTFJSRjlFbDI0ZDlTYm42Q2toelFNRFlYcUdUX3c?oc=5",
-          "pub_date": "2026-04-24T17:26:00Z",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUVzeG5KR0x5WkZFNmF5RjNsWFpja0g1SVNINHg4RE9xMTRFS1lpQnE3R1N0R0xjdFBrVVJYejRJU0ljV3RRSXpjZUhCWHY0VWEza05objU0aGdLenpXLWZpbHBFejQyVDhjZGk3NElRaWI2a1hibk9HZ1F6bmcyTXRGNXfSAYoBQVVfeXFMTzNSbUQzdTM0Y2VhbTQtY0lMQ3hYcGFaVk5FbXJXWTQxY3JEMTNyNUtGNWwyRDFSSWhOVW04UGNvX3R2R2IyM1lhZ05IX2RBTzFGNHJOOEdyVENac0NvTkJNaGVYMXl6Wkxkb1RIQW9GLTBsUHpOSGR3SXBHZ19nWnMwd1ZKSmdyYWR3?oc=5",
+          "pub_date": "2026-04-25T08:49:14Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Science Moment"
+          "short_title": "Dolby Cinema opens"
         },
         {
-          "id": "92fa71b99ab5",
-          "title": "Heavy polling in Pudukottai, Perambalur districts",
+          "id": "4a0a478348e3",
+          "title": "Perambalur district records 85.39 % polling",
           "source": "The Hindu",
           "district": "Perambalur",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYTJjV28xenJZd0M2ck1EMDVnZDBYaFVZNzhJYnBDMjZVMVh2bXpzQmlqQl91eTZiSUlKTGc1Nk9Fb190ZmZiQmIxNjBGdGp0Zy1hQ2VadHhac191T3BaWGJfb056LXlPQ2kwWE14LVRCRl9sYXc1U1diQ0tUVmZPczNzalkyNWhhYlBYZTB0TkgxQnBTczZnTWFzUnhzQXRiRmM5aG8yTUFwMUk0aXFNNVlsU1FRVG5Jay1iSks4YmfSAccBQVVfeXFMTV95QVVsSVotQlRxMUVBZ2p4dXBvc01qQ1pra3YtWHV0Z2RMX0h2NkozRFNTekFpM2RRUERpclhYSXQzQk5PVk1jMThSak92S05IaTFfMWlLX0wwd0V1OGZQejBKWThEellmZ2FvUWU0UFVYOFItV3NsZ1dJOEk4U0FDMndmR281c2lLRXFpR1kzWG54NGtiM2UtMFB1cWl4SWFvQWxrWWVfaU5JLTI4VnZPMjA3a01lYndaeVV4Z1dOeUJZeU9Tdw?oc=5",
-          "pub_date": "2026-04-23T15:44:40Z",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2hZN0h3MlpPcXNZV2hCMlV5blRSNFBCaXpnMzhUSC13Nm9VTzdBcVBoWVlUdDBLbWF5YzVjYmtMN29rMEY3cWdlNE5FU1p2cjFEeVV5MGZtdmxVUTczcVFUMndEVHA3ZmMyV21DUExYc1JkT3ZWUGVlaWd1Z3ZrRUE4T3V5Q1UzaVJJNlh6SnJET3B5YzQ4aE14Ym5RV2kwNHdrbC05cmR5aU04ZEpKbDl30gG4AUFVX3lxTE9EYVFwWWd6Si1janFQUmpXU2ozUEdYa1RNelFCNkp3WjVudzFHMU9rTzhkUkwtczctd3NaTjJUOGZ3QWxVWjkycGpIX1k5aXFwODhsY0wyWGIwOE94NXp1NHNZbjZUTHEzTUtHVlhmTG05RWNZQ1Y1X0pUUE5hMDA4Zk1GUmk3R1lUMlltT0VwZ0JtZjAwa3oyYTU0aVpBWnF4X3loeU5sdTJmWFJnYU8xQW4xTzY4ekE?oc=5",
+          "pub_date": "2026-04-25T11:27:49Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Community Voting"
+          "short_title": "Strong voter participation"
         },
         {
           "id": "11ba66d107c9",
@@ -246,18 +224,18 @@
           "pub_date": "2026-04-20T15:14:14Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Entrepreneur Training"
+          "short_title": "Food startup program"
         },
         {
-          "id": "920a629808bc",
-          "title": "EVMs sealed under multi-layer security in Mayiladuthurai, Nagapattinam",
-          "source": "The Hindu",
-          "district": "Nagapattinam",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLXhKMzJ3WVFjZUEwVmZMU0czR0Z5RU1WSHAyMHZrVHhGcFdMMDJwWWMxekhseGFjUXE4MmxBeHBCUXZGNXIxN3NpOUxFaTB4WkdXUTRRdlZrWGNQcU5tWVVTSTFWOFlKelpaSWU2c3A2XzZvbDl0bE9jOFNhWlc2RFZWd0hIRE1ycFZZdHlTNGpsNmczc1RkaGhWLVZnYWxCblJHSGV6NUcxOTk1c041aWJ0OWV2aThUYnlOV2RXWFZlQW1ZazB3d0Fld1RLbnpadDNBVFU3emN5QWRaWkJR0gHfAUFVX3lxTE8teEozMndZUWNlQTBWZkxTRzNHRnlFTVZIcDIwdmtUeEZwV0wwMnBZYzF6SGx4YWNRcTgybEF4cEJRdkY1cjE3c2k5TEVpMHhaR1dRNFF2VmtYY1BxTm1ZVVNJMVY4WUp6WlpJZTZzcDZfNm9sOXRsT2M4U2FaVzZEVlZ3SEhETXJwVll0eVM0amw2ZzNzVGRoaFYtVmdhbEJuUkdIZXo1RzE5OTVzTjVpYnQ5ZXZpOFRieU5XZFdYVmVBbVlrMHd3QWV3VEtuelp0M0FUVTd6Y3lBZFpaQlE?oc=5",
-          "pub_date": "2026-04-24T13:37:14Z",
+          "id": "8f6d52612d5c",
+          "title": "Tamil Nadu: Schools, colleges shut in Mayiladuthurai district amid rain alert",
+          "source": "The News Mill",
+          "district": "Mayiladuthurai",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmNPUXprbFpoVnJ4VG53QWdCZ1kyUGRNNmdWOTd6ZkpfeXNDLU80Q3NQaTFQN0xkY21adGlUV1o2ek9OeU9ObVE1cXRWRTRSdXN1c08xaTZ5WVFjNHlpWnRVa2gySmI5UzNSS3VZMUZpWnVldE1fXzZ1VlNpVXRoZVVKZE56dFQyVTNaMlZHY2ZNZG11bjlhZzF0NzdBYUV3UmRZenA0RWhOeXNZ?oc=5",
+          "pub_date": "2026-04-24T10:42:48Z",
           "weight": 10,
-          "sentiment_score": 0.34,
-          "short_title": "Election Security"
+          "sentiment_score": 0.3,
+          "short_title": "Schools prepare for weather"
         }
       ]
     },
@@ -275,7 +253,7 @@
           "pub_date": "2026-04-24T14:41:23Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Festival Flow"
+          "short_title": "Festival water released"
         },
         {
           "id": "1f65469125fe",
@@ -286,7 +264,7 @@
           "pub_date": "2026-04-24T00:43:13Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Perfect Turnout"
+          "short_title": "Booth hits 100%"
         },
         {
           "id": "8688f04d695c",
@@ -297,7 +275,7 @@
           "pub_date": "2026-04-23T17:19:16Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Youth Triumphs"
+          "short_title": "Youth overcomes barriers"
         },
         {
           "id": "225460e7b7e9",
@@ -308,7 +286,7 @@
           "pub_date": "2026-04-23T14:39:50Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wedding Day Votes"
+          "short_title": "Newlyweds in celebration"
         },
         {
           "id": "8bff2621874f",
@@ -319,7 +297,7 @@
           "pub_date": "2026-04-24T15:51:04Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Women Lead Voting"
+          "short_title": "Women voters lead"
         },
         {
           "id": "62afff0b5889",
@@ -330,29 +308,29 @@
           "pub_date": "2026-04-25T01:26:51Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Fossil Discovery"
+          "short_title": "Marine fossils unearthed"
         },
         {
-          "id": "dea205d1b806",
+          "id": "a8649b6286c0",
           "title": "Special MEMU Train from Chennai Egmore railway station to Tirunelveli Announced by Southern Railway",
           "source": "LiveChennai",
           "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWjJTUnFQVmxaaXdROFZNLWg1bDV2UDIxbEhwbjlBd3ZzYVpSNDBZN0FzT3RSdHFoanZkQlc1YkpFTDdiSVliXzR1OVlneExucUhuT0RVVHF5OUl5MnVqbFd1WnRkSlpaa2hjNXhidXk0Zw?oc=5",
-          "pub_date": "2026-04-25T05:40:40Z",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zQmtuX3lSeFV3M2RCRGlROXNoTlEyb1k3ZnJWT3QyVGZjX0tTemlpUlNVbm9hem02ajJxalItTU9jX3c3RU4zRTlyNTl6U19HaFZQQzNYSTN0TjQ4WDQ0TE15MTNMQQ?oc=5",
+          "pub_date": "2026-04-25T05:06:43Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Train Connectivity"
+          "short_title": "New train service"
         },
         {
-          "id": "4a2d243ca9d2",
-          "title": "Tenkasi records 82% voter turnout in incident-free polling; Alangulam segment tops the list with 85%",
+          "id": "7d21026c2ca3",
+          "title": "Over 10 lakh electorate cast votes in Tenkasi district",
           "source": "The Hindu",
           "district": "Tenkasi",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkpkc2otdDM0YVNJTHVXNUQ0RFY4bmtqNHZ2TVh1YXJDY1ZNb1JOVWNvOURfR0oxcEVuVnhGZHFRT3REa1R2aHgzbWY3T1h2NVlfZTZzR2J3Z2R1YlBRYVlmZWU2QldRamh5YUdMSzE3R05ERFA2LWUzZVA5cXRSUE1lX0Q4d3dReTlSSW91WjIxUUJtWWhYNmdCaDg0RTNFWXluanZpeTBPOVVyTEhFWDRZNUdrSU1zWTNMdDYxSmMwV0M0WWdfWFRzd0J4d1JSMlZvaXdFQXd6Z2hSVHdaeWFQa0pUOGx0X2kxbkZCYkI4NDRic2JEdS1vSFQ3VnNnOHfSAYgCQVVfeXFMTUJHREk1RFVwWDRsYk84T0Y0OUZZZmNxTmlNdTBURXd5T1BRdVRqRUpTQlRlUkNnX0RyblM5WjJVQTFRUTMtRnZqMmU5SzNmdE41TnJKN2F5ejV1bVBNUU5WcDBRTktOaHBnazd1emlFcHJValRmcm1wbEp0bGF4LWxCNEpKYVd3SUpIYWVaTXd1ZWJHdVJ6clpGYWZZakxONGhWelBSa3RwQ1ozQlo0N3hKX1RTVS1Rc2ZENERyOXNUWEpLUVJ1Q2VjbE1QM0d5c0VETFdBbUJMdTBHZjVKLUtTMUxLMXo4WUZFcnZzUG5nNkRHR1NkbzNkLXc1cDU5WE12S3hEcFFh?oc=5",
-          "pub_date": "2026-04-23T16:36:38Z",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORG1nN2tDUFczZUdRbjFpaHp2OWJJcWo2dWNzdlNWYWtIank2YVk3SmtRZVF4T3QzRkFqdElqZmlmYlJaRlpSYjBOeF9RZTBBZ1NGQ0pnMGpKNjFSQ1BDTC1UQU9GX1JWRXV0VHgyUUFkUjhiVTgyTkhfQnJjblFVS0RsUHdZSUI2WVQ2YnBlNWZmcjJXM2JVZDZYNmU0NG5Ud3l1d0xtcWdWa1MwMEF5RG9ZTlhsSXppMVRJcURhVkI2cDZwMWd0NEhVdldRYWfSAc8BQVVfeXFMTkRtZzdrQ1BXM2VHUW4xaWh6djliSXFqNnVjc3ZTVmFrSGp5NmFZN0prUWVReE90M0ZBanRJamZpZmJSWkZaUmIwTnhfUWUwQWdTRkNKZzBqSjYxUkNQQ0wtVEFPRl9SVkV1dFR4MlFBZFI4YlU4Mk5IX0JyY25RVUtEbFB3WUlCNllUNmJwZTVmZnIyVzNiVWQ2WDZlNDRuVHd5dXdMbXFnVmtTMDBBeURvWU5YbEl6aTFUSXFEYVZCNnA2cDFndDRIVXZXUWFn?oc=5",
+          "pub_date": "2026-04-24T12:41:59Z",
           "weight": 10,
-          "sentiment_score": 0.51,
-          "short_title": "Strong Turnout"
+          "sentiment_score": 0.0,
+          "short_title": "Strong poll participation"
         },
         {
           "id": "510e71d7ee77",
@@ -363,7 +341,7 @@
           "pub_date": "2026-04-24T15:26:22Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Youth Runs for Cause"
+          "short_title": "Athlete runs for cause"
         }
       ]
     }
