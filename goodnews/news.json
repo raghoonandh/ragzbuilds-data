@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-26T07:08:04.083384Z",
+  "generated": "2026-04-26T12:45:54.152652Z",
   "article_count": 32,
   "categories": [
     {
@@ -8,37 +8,37 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "72ee7c29e7e4",
-          "title": "Engineers’ association urges State govt. to delegate more powers to Greater Chennai Corporation",
-          "source": "The Hindu",
+          "id": "e35b7cdf617a",
+          "title": "Tamil Nadu plants 20,000 mangroves along Buckingham canal to boost Chennai’s climate resilience",
+          "source": "DD News",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNjNGVnFvUkNvWk9fNTdMRTh4SVBsdy1HbGdZN1dJWUhIOFBucS1DWFdLX1F4aWRKRlR2MlJWTkl5bHBoT2ZNVkZnb21zbk1FVmNDbjNQVHhZY2NJTENxUHNnbTdnd01WME8wT3NXN2lvemdTRzhfWmxGWHR2S0ZoUXljZEtOd0hHckRtT1RHZFNzVUJpdDBUQThhb1AwZFppNWVMZS1PUUx2ellDdkE1VEZzZTYzN0NtbTNDTzBZczV6cF9WUU41amNwXzRNdHZTUi1yVXNaa1J5ZVBueHpiR0QxeDNzLVZvM0xvNGZOSdIB9gFBVV95cUxNcFQ5eUlQdVUyZTl2QXlKbXpaZk5leEpXVWFWcDM2RFRURDREZTFWMVFSbFFQcHQ4RGM0LVRPOTRTSjdlejdXb05nNU5PUU1ISHl0eWd6TFBKdlMtdXJsRWdFZERJaUVraGZPUVM1WjQyVk1oaUluamxuMzJhT2xBTEF0Z01VZkZ0by14VHNidFlMNnV5QTgwLU1sZnVJT3d3aHE1R0RhMGgyMGpDVlZVaFRYdmVWaV9DQ0pITG9MQkNTTTRjRENkbTJQYVh5S04xRmxxOXpqV01KTmc5TWtRZzNlOW9jQUhYbUoyLTlRbTYxYXhnMkE?oc=5",
-          "pub_date": "2026-04-25T23:30:00Z",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1ZjNHlxWUZfZkRHQXUxUFUwVk56VlBHQWtxazNMOWtfbml0ZGJVVE95ZVlwMVRsalVGSF96UGJRMmVuUTFGamR2YkQtQUNSZVMta3F1Z3FJZllwTF9uSlV5YXozVFhQN2E4MnRfVDNhMVZrTW56eEY0Wkh0Mk9QUFZreVZkUzY1M0hkVUpCNF9ZRHJsalVRNHA5UDRUTnFRUDNkeGRGZnVjTlJaLXo5RzFYWF9ldUo5aERj?oc=5",
+          "pub_date": "2026-04-26T04:32:58Z",
           "weight": 10,
-          "sentiment_score": 0.41,
-          "short_title": "Corporation empowerment"
+          "sentiment_score": 0.4,
+          "short_title": "Mangrove resilience"
         },
         {
-          "id": "8d94e3a4bca3",
+          "id": "627ec227bc32",
           "title": "Beach-Chengalpattu line to get Kavach cover",
           "source": "MSN",
           "district": "Chengalpattu",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQjJsT2F1QktNMmJ5dkhrcUdPdnE1cGUzcEpfb05lamZadHNhM0JqbnZoRUx1ZEE1RlMtMkJuYXhvX203Y2pGc1Y1RVBVNTNkUHVQMHJUUXFPR1B6VmRiSG8wNjdYLV94ejlUZk5ESVNINmZaM05MclhfdS14SHJUTnZFRTB3eVE2b1hxbTZRZXhXNTAzdGEtY09Wd09abzdtTVZBY3Y0cHNVRmtITTdsN3FGQkkwaDFxcWx3OEdDbzg4Qkw1cmlsUHFjUzNMVFFvTDk2REJBTFBxRTQ5Q1JhQW9mYjNrXzNCUEZTbWpDSnFkSHJLcENUWm1ZTHFkT015RTZHbWhzTTlYSktLYWlONm44c3R5TF9sb043VHY3SVRJcjRrampuMHRwYUJ1UQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOejFzNEtnc1Bocno4WmFpOVBERndoR2pUMVd6VTRCM1M3d1BCcjRsQUwtTG9rN1FJVFg0OTlfZmlYVUloX3pBRkJIT3ZJRG8wU2x5VWphS0JiWXV4LTM1N1NLNEgxTEJ4UVFNZXVoNDhlUncxUGFKeXJhMEJxSnd0TXVmc0Rta2ViNGtwNWpBc0kwdUVNaElSVDBqaHFRQmUwWDJacHk4N3VFYTRUZWMwWjl2SlpCUG5ZekVNSFI0TUx3QU8wWlU4djBBcGhsQ2JTV0xLN09KNHV0X3EwekpJQ0M4U2QySFVzOERMakpRZV9IYzFWbjd0QjRGLUxPdzN3QUFBOFdlU3duZXRNT2dJa2dOTUxHMWRlLW5MNFpfTlNrRzhQb0l2X0VtSDg?oc=5",
           "pub_date": "2026-04-26T02:10:01Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Safety infrastructure upgrade"
+          "short_title": "Railway safety upgrade"
         },
         {
-          "id": "0700a2b38ba7",
-          "title": "Kanchipuram Kachabeswarar Temple Chithirai Uthira Festival Begins with Flag Hoisting",
-          "source": "indiaherald.com",
+          "id": "e7184795c789",
+          "title": "Meenakshi-inspired Kancheepuram sari weaves Madurai’s heritage into silk",
+          "source": "EdexLive",
           "district": "Kancheepuram",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONENYcy03RWlwWTczMGh5dWxfa0FKN01CdTF2LVF3TnFTTmVNX0dqLURDcVZ3SmMyaU94eHBTSURKXzNacy1PNFpTaU1rVExrcm5QWlF4R0NiOXpJcjY4SUpYQ0J0WkVZNmpRd05DOUNyc2s5NGZ1Y1FpTmhLbllvNFBGTG9TX1hsMXRqNkdyUlpDZUR0T3ZHenlyRzFTVFJHQWszdUVRWlRhbnYxYTUybTBPVVZkb19xU05adlBWc2hSUHBOUkJ4RHU0N0tyX1lTR0NJR0U5WQ?oc=5",
-          "pub_date": "2026-04-24T06:17:46Z",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnZ5NV9ONXBMSHhRRUlZMnFHOGxxX212OWZJWklkREVDMGd6eEJycy1VblEzc08wMklVYVJJX0F2ampSUXJwLVJobWljTmJ5dlgtOHIzRGZySTc2QzdKSng0LS1xZ243a3g3YnV0ei0tWW13b0dQNWlFMGpKQjNUQVpmMWlGUXBSbi1nYmFwZDdoWE91TF9nZHFITlVUbUhJaHdZ0gGwAUFVX3lxTE5UUlE3SFhuWmhrOXVxSWtCV0VqQml6V185MFhGMkQyRUc0eVlqb25QU2t0ajVWb1BKSWxHdTJaYlV0UUlOc0l6S2FzVlFhNjZCblExcUVKQ3liZFZSSjNSNTRTT0JDNm5SR3FLTEdfQVJLU0txWjBZcHoxSnc3LUtKV25NQTltYzM0YTE5OXJlTkllVFdMWkFlUEZhbzRMb2g2ZFhLYXhfUmptTUZGSlI5?oc=5",
+          "pub_date": "2026-04-26T10:00:00Z",
           "weight": 10,
-          "sentiment_score": 0.64,
-          "short_title": "Festival heritage begins"
+          "sentiment_score": 0.15,
+          "short_title": "Silk heritage weaves"
         },
         {
           "id": "e93507cb5152",
@@ -49,7 +49,7 @@
           "pub_date": "2026-04-25T18:54:37Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Green polling initiative"
+          "short_title": "Greener polling booths"
         },
         {
           "id": "8a62a41c293f",
@@ -60,7 +60,7 @@
           "pub_date": "2026-04-22T11:55:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Skills training partnership"
+          "short_title": "VIT-Tata partnership"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "pub_date": "2026-04-22T18:20:43Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Nursing milestone celebration"
+          "short_title": "Nursing excellence"
         },
         {
           "id": "e64d24dddfa3",
@@ -89,29 +89,18 @@
           "pub_date": "2026-04-23T13:33:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Civic duty in style"
+          "short_title": "Civic duty celebrated"
         },
         {
-          "id": "c1c5809425e3",
-          "title": "IRCTC’s 12-Day Yatra via Pune Covers Hampi, Mysore, Coimbatore, Tiruvannamalai, Vellore, Tirupati, Mallikarjuna; Fare Rs 21,690 Onwards",
-          "source": "Punekar News",
-          "district": "Tiruvannamalai",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUJXeEpTMnVlLUlCa3I4SVZSR0tNLUduSGV4dDZ3MnRRMkh2WXI0SE9ic2QtcUd3R1lvck1aOFIwRFlkU1VrcXlpSnlNanRMdnJ4bkFTOHJGNEoyLVVsdWpaRGp3RW9ZYzRXM2ZUeDAxWlJ2dHlJcW1jdktXaHVqVTJ0NTFvM1pMNzNUZTJocGlsaVBuLXEwYlA2T3FvVkR4U2M1QjBMWXhmamlFTENqN09KTUJxSkMwRk51UXRrdHh1UGZheVh0b0hONlJKR05NSnZmWVhBQV9xVzh6X2pjbDU2QWpxRVdpQnc?oc=5",
-          "pub_date": "2026-04-21T12:34:10Z",
+          "id": "10514c747702",
+          "title": "Robots guide first-time voters at polling station in Dharmapuri",
+          "source": "The Times of India",
+          "district": "Dharmapuri",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajBKUW9Ia283VVg2RGl6VENzdDF2TFdHYXpZNFptT3lETEhDWER2QjZXN21PWksyWDZqWXZ3ejNKMTJLNEw1TElPNFo0TGZfX1ZFSHBkbDdsNDlIRkotaHQtbnJkMjE1RHh2TldqVV9ZeHMtUllPYk5QaGk3bmpBLU0xbDhRQXJfWWs1M1pHR25Db204UVUzU0dfQ05VaG9UWTBnOVJhZDBPSDd2MmJ2VGtXcmdJUHcwOXJLTlVnd2VvRF9EWVN6SVl5QXp2LW1QNHfSAdcBQVVfeXFMTXRGRjBfWDRqUTkwSWRxeDJMT0ZGa3VHRmxJUDRGMDdmTUZpN3BWSXJVWEdvM1ZMR2V2SWRzRkF6VWFEYWJmS2JNYlJiU3ZhQTJ3RGdVa21OTWNHMFJrWTRCYzE3c0ZSX0JqVDVwdzd3TmZXY2k3UEttOFhiLTZlaFBXeXhER2QxcDkzT2JVSk5xZnljUEZscml1SGRKNVNXVlNuUG9ISkZselNScWJPaGtRMUFoYmVBUXVPekpTUUZGWDNySHhVdnQ5MGEzaWNiZ0x6Q0tieXM?oc=5",
+          "pub_date": "2026-04-23T10:09:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Spiritual pilgrimage options"
-        },
-        {
-          "id": "0f99ec6f7bb7",
-          "title": "Robots Welcome First-Time Voters in Dharmapuri",
-          "source": "IANS LIVE",
-          "district": "Dharmapuri",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGlFeUpNNTZuNkZTUEw2ZU1YU09jR01tcUFTc0hseTg3bEhkWVBVa3A1a1V6LWhSV1gwaXBRMm1tUkZNa19iZzFublFJRkc4NEFYSkJsOURoUk00aS1ZenRBZDhBZU92dUFYckdxY1djdVhOMDdEdWNWQkhfLWpOSmlHcVctTEZCd1BYMzVLdndxQnkwSlk2TlJVQ29CVjl4cS1hZzJZTkotUQ?oc=5",
-          "pub_date": "2026-04-23T08:11:37Z",
-          "weight": 10,
-          "sentiment_score": 0.46,
-          "short_title": "Voter tech innovation"
+          "short_title": "Robots guide voters"
         },
         {
           "id": "5cf6af4fec50",
@@ -122,7 +111,7 @@
           "pub_date": "2026-04-21T18:18:32Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Ancient discovery unearthed"
+          "short_title": "Ancient tools found"
         },
         {
           "id": "2c48c3b50b75",
@@ -133,7 +122,7 @@
           "pub_date": "2026-04-24T03:31:00Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Freedom, first vote"
+          "short_title": "Freed, voting first"
         }
       ]
     },
@@ -151,7 +140,7 @@
           "pub_date": "2026-04-25T13:43:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Youth hockey tournament"
+          "short_title": "Hockey tournament hosted"
         },
         {
           "id": "d975dc7952c6",
@@ -173,7 +162,7 @@
           "pub_date": "2026-04-25T09:33:54Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Community feeding milestone"
+          "short_title": "Feeding thousands daily"
         },
         {
           "id": "55778bf4d770",
@@ -184,7 +173,7 @@
           "pub_date": "2026-04-24T13:45:51Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Security oversight strengthened"
+          "short_title": "CCTV monitoring secure"
         },
         {
           "id": "f585539a20bb",
@@ -195,7 +184,7 @@
           "pub_date": "2026-04-25T23:56:03Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Scenic access opens"
+          "short_title": "Watchtower opens public"
         },
         {
           "id": "6017539733e1",
@@ -206,7 +195,7 @@
           "pub_date": "2026-04-25T18:44:01Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Historic participation record"
+          "short_title": "Historic turnout leads"
         },
         {
           "id": "989a89ccb984",
@@ -217,7 +206,7 @@
           "pub_date": "2026-04-24T15:28:57Z",
           "weight": 10,
           "sentiment_score": 0.03,
-          "short_title": "Record polling turnout"
+          "short_title": "Record participation rate"
         }
       ]
     },
@@ -235,7 +224,7 @@
           "pub_date": "2026-04-25T08:49:14Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Cinema technology arrives"
+          "short_title": "Dolby cinema arrives"
         },
         {
           "id": "b03f87e01d80",
@@ -246,7 +235,18 @@
           "pub_date": "2026-04-25T11:27:49Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Strong voter engagement"
+          "short_title": "Strong voter turnout"
+        },
+        {
+          "id": "8de5a51f5230",
+          "title": "Brisk and peaceful polling in Karur and Ariyalur districts",
+          "source": "The Hindu",
+          "district": "Ariyalur",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR2JYY2R3dFlHMjZDRzVhZGNqWC1JT19EZEItRHp3VmZQU0RxNktRQ2hKR0l1dlVJOUE1QlRSaTF0Z1AzNl9mOC1Wa2VzVGkzM1JtZFRNY3hCRDh3NHFTVmVFTlBiZ2w0MkpOdDRpYmpnTjZDTnhia09xS3ZOQ0RpVEhpN2ppcE14dnRBcEZyMklGdjRERVh2T2UwTmdjeGh0bXR6cXFWOFR0TjhaekpnMG9GRndKaDNEWV9GUU5qZ2t4ekRNUTJ0MFAzWWFXUdIB1AFBVV95cUxNS1NmQWxhb3gzdFhLSWxZbzB5ajIwZ1gwNVBFQ2REXzB1aG5jODl1VFloTDRiY2RXRGwzU0NoYnZyUGlEazE3RVdDeU8xX3pnMnF6b2g4eF9EYWwxNXFIQWRGNEZib0MtNU5vTFBJNHE4U3BPcGJEbFdsYXl0N1ZFUVhqZGtfMmpVZmw5QnNlY3ZTbUZOdFFIOWFXQnpEQURDUEFlbUVtUjdiV2xvQ01BMGwyOU51WllTVUxoMXprQTZ1ZFpIZUUzazlKYWdoUkFyUHNWMA?oc=5",
+          "pub_date": "2026-04-23T16:35:46Z",
+          "weight": 10,
+          "sentiment_score": 0.59,
+          "short_title": "Peaceful polling brisk"
         },
         {
           "id": "11ba66d107c9",
@@ -257,7 +257,7 @@
           "pub_date": "2026-04-20T15:14:14Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Food business support"
+          "short_title": "Food startup program"
         },
         {
           "id": "ba6e4542ee0c",
@@ -268,7 +268,7 @@
           "pub_date": "2026-04-25T14:05:58Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Tourism season thrives"
+          "short_title": "Tourist rush peaks"
         },
         {
           "id": "8f6d52612d5c",
@@ -279,7 +279,7 @@
           "pub_date": "2026-04-24T10:42:48Z",
           "weight": 10,
           "sentiment_score": 0.3,
-          "short_title": "Safety precautions active"
+          "short_title": "Schools shut alert"
         }
       ]
     },
@@ -297,7 +297,7 @@
           "pub_date": "2026-04-26T02:05:06Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Festival coronation day"
+          "short_title": "Meenakshi coronation buzzes"
         },
         {
           "id": "1c2b41d11b93",
@@ -308,7 +308,7 @@
           "pub_date": "2026-04-22T19:50:00Z",
           "weight": 10,
           "sentiment_score": 0.03,
-          "short_title": "Remote voting ingenuity"
+          "short_title": "Remote stations served"
         },
         {
           "id": "9594853e0fd1",
@@ -319,18 +319,18 @@
           "pub_date": "2026-04-22T17:55:06Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Banking expansion growth"
+          "short_title": "Bank branch opens"
         },
         {
-          "id": "225460e7b7e9",
+          "id": "0256287abc2f",
           "title": "Newlywed couples in wedding attire cast votes in Ramanathapuram",
           "source": "The Hindu",
           "district": "Ramanathapuram",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaWl5Y3JxQktIOHRSZ2hGcmJmQ3lIQ0RYQ1VrMk9xZWdITGVsUHUzZTRSbDJ6NlhIOUM2Q3gzSmd6VldieFp0SGJsVGF6Y0hSWE1hOGI4V1BEMV9BaEpzYjNPY3c5RzRfTUdPc0VPRmhpME5nUUhFcWk0YU1CMkJ0ajhUNW95dUZYckdNaW0xQ1RFdXVFWTgxTXpQa1pudGduamVNNVZfRWFlbUdHNTR6SHh0eksyTlpyclpGN0Rhd1dpNmJEYWlPN2c2U3ZwWlI4Tzhuczd5YUhpbVnSAdsBQVVfeXFMUGlpeWNycUJLSDh0UmdoRnJiZkN5SENEWENVazJPcWVnSExlbFB1M2U0UmwyejZYSDlDNkN4M0pnelZXYnhadEhibFRhemNIUlhNYThiOFdQRDFfQWhKc2IzT2N3OUc0X01HT3NFT0ZoaTBOZ1FIRXFpNGFNQjJCdGo4VDVveXVGWHJHTWltMUNURXV1RVk4MU16UGtabnRnbmplTTVWX0VhZW1HRzU0ekh4dHpLMk5acnJaRjdEYXdXaTZiRGFpTzdnNlN2cFpSOE84bnM3eWFIaW1Z?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQmpZbFluVmJQVHBzY1NKTmhMMDdvTW4tX09xTDFOZDJuazVlbHpIMThURjlKSk9qTGZPY0NyS1BJN3o5R2VzbTlpWkM1VmY4cDlXN09abkNVMXpicGstNm9ZT29mZUNIczlRdDBlRXRVbWFiVFJFc0FXOTJqZ0ZtR1p4ekthZlFVRmN0QTdBV1FYQkxiRDhPZHFNWU5SMG1uVUw2eGpKWG9aQ1RJNHRGWDhNOF9YcFhUN2NXb1I4by1WaDBTOUZwY2wyUTM5bW1xbzdNNtIB2wFBVV95cUxQaWl5Y3JxQktIOHRSZ2hGcmJmQ3lIQ0RYQ1VrMk9xZWdITGVsUHUzZTRSbDJ6NlhIOUM2Q3gzSmd6VldieFp0SGJsVGF6Y0hSWE1hOGI4V1BEMV9BaEpzYjNPY3c5RzRfTUdPc0VPRmhpME5nUUhFcWk0YU1CMkJ0ajhUNW95dUZYckdNaW0xQ1RFdXVFWTgxTXpQa1pudGduamVNNVZfRWFlbUdHNTR6SHh0eksyTlpyclpGN0Rhd1dpNmJEYWlPN2c2U3ZwWlI4Tzhuczd5YUhpbVk?oc=5",
           "pub_date": "2026-04-23T14:39:50Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wedding day voting"
+          "short_title": "Newlyweds vote together"
         },
         {
           "id": "8bff2621874f",
@@ -341,7 +341,7 @@
           "pub_date": "2026-04-24T15:51:04Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Women's participation surge"
+          "short_title": "Women voter surge"
         },
         {
           "id": "62afff0b5889",
@@ -352,18 +352,18 @@
           "pub_date": "2026-04-25T01:26:51Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Fossil discovery dated"
+          "short_title": "Marine fossils found"
         },
         {
-          "id": "9c33dc1ddc57",
-          "title": "Easter celebrated with fervour at Tirunelveli's Sacred Heart Church",
-          "source": "MSN",
+          "id": "a8649b6286c0",
+          "title": "Special MEMU Train from Chennai Egmore railway station to Tirunelveli Announced by Southern Railway",
+          "source": "LiveChennai",
           "district": "Tirunelveli",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNcUMwcWZ3YXhDdE9GMktCQ0lpM3p5cm5NVmJsbk1BSkxzWDUtdGl6dkFsYVdhWHcwVmxoN3QxU2lmM1dzSndfOUlydUNVQ0dZRVdQVUdvcHh6STJuOTY5N3VaVW9BR1JIajlrbVlvcmdYeDhHc1p5cUJFM3NDY0RQZkUyVjNEZUNiRGRXQ3Fpb2w5SWtWdW9oeUxXMDlVbmdhX1RPTHNwdlgtRFJudi1id1hKc0ZmMnR6blZNam1UYkZvaWo2djhuSWFkY1hnRkt2TlNkUnYtanhfR25nNUpvZ21rVnB3cGU0VVM3eng1b3FoWHpCNTdMVHphU0w2N19XWGIwWHpZLTZuTUZDN2dXQUdKemtIeF9uYmZfSDhNYVFvOFpHNUhlcDNRMkFVM0o3ZjdpdTFfeDJLLWZtUTV0ejVBTk50S2NzaWkyOFl0THZqWThWb3RtUk1wWWk4OHJreWhKemk5b0UwZw?oc=5",
-          "pub_date": "2026-04-24T12:00:01Z",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zQmtuX3lSeFV3M2RCRGlROXNoTlEyb1k3ZnJWT3QyVGZjX0tTemlpUlNVbm9hem02ajJxalItTU9jX3c3RU4zRTlyNTl6U19HaFZQQzNYSTN0TjQ4WDQ0TE15MTNMQQ?oc=5",
+          "pub_date": "2026-04-25T05:06:43Z",
           "weight": 10,
-          "sentiment_score": 0.84,
-          "short_title": "Easter celebration spirit"
+          "sentiment_score": 0.4,
+          "short_title": "Special train launched"
         },
         {
           "id": "7d21026c2ca3",
@@ -374,7 +374,7 @@
           "pub_date": "2026-04-24T12:41:59Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Electoral participation strong"
+          "short_title": "Strong voter turnout"
         },
         {
           "id": "510e71d7ee77",
@@ -385,7 +385,7 @@
           "pub_date": "2026-04-24T15:26:22Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Youth charity marathon"
+          "short_title": "Youth runs for charity"
         }
       ]
     }
