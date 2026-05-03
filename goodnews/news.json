@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T07:19:22.042042Z",
-  "article_count": 31,
+  "generated": "2026-05-03T12:46:55.380238Z",
+  "article_count": 32,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,15 +8,15 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "353e281e22b0",
-          "title": "Ruturaj Gaikwad’s 67 guides Chennai to easy win over Mumbai in Indian Premier League",
-          "source": "Big Rapids Pioneer",
+          "id": "0fb3587809c9",
+          "title": "Chennai Metro ridership at 90 lakh in April",
+          "source": "BusinessLine",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaEVwU1ZucDhsU2ltLWtBTzZKdU5NWTMxYlR6VVQtM2t2NFpWcVVUcU1sVnc4dDlmVHlmWVpJMVNDZXdKa3F5c09vc2N6amZCSGgwVlN2LW5WaGg4eFhBQUhlOGpTTnpvSFRpRVJDYXRNd2d2dHRvalF4SjZ6Ym1sc1JqT21KM1RkQmlKR25KTjZQTHd6YXVRbXdpR3lmOUEwd0RXWGlSNF8?oc=5",
-          "pub_date": "2026-05-03T06:44:28Z",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3BwRzhWMlE3UmxOMEl3aGtySnJTa1V3dkdEdEhBcnFydmR4TGV6OEZOWHBseFkxeXhSNmMyWkhZN1RqcHVOUGhONVZMX0lfbkxfSEphc0NOWE81S21aaXdiR0QyRkVJQWoxVzVyMDhrb0hfb0VrUFNVN2htakM1dkZkemZtMkFmcWJQVC1mVmZxN2I5OHFCbnJPZ0Qwam90MkE2V3BETDNUb0p0WXAtdGdxcERraUQxT1HSAcABQVVfeXFMUDY5N3dDdk93WHlmUW1neWpsSjVadUlTbXFJcW16LTRhZVc2dkM3djRDUTNtLUJNSTMtVmlad04xSE10MVYyTmc4N1B6SnRFeVFxekhtNV9yRUswTFVZRkc0cGNyYWQ0c0NsSmZmTHJlZ2Zxa0pXb01NMTdGNWdhdHBjVng5MkhHd0NDcjFwbU1vN3A3dDlUYi0xQXlEX0lHc0xJWXVFaWZtOXc3eUtybVF1RURndEpCREVNM2xrb2Ry?oc=5",
+          "pub_date": "2026-05-03T03:24:04Z",
           "weight": 10,
-          "sentiment_score": 0.77,
-          "short_title": "Metro Momentum"
+          "sentiment_score": 0.0,
+          "short_title": "Metro momentum"
         },
         {
           "id": "8728c40989e1",
@@ -27,7 +27,7 @@
           "pub_date": "2026-05-01T09:53:22Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Silk Heritage"
+          "short_title": "Silk legacy"
         },
         {
           "id": "4b1a6ec4f39b",
@@ -38,7 +38,7 @@
           "pub_date": "2026-04-27T02:04:37Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Highway Opens"
+          "short_title": "Expressway opens"
         },
         {
           "id": "f69756dda625",
@@ -49,7 +49,7 @@
           "pub_date": "2026-05-02T14:31:19Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Student Success"
+          "short_title": "Placement success"
         }
       ]
     },
@@ -67,7 +67,7 @@
           "pub_date": "2026-05-03T02:09:00Z",
           "weight": 10,
           "sentiment_score": 1.01,
-          "short_title": "Bee Innovation"
+          "short_title": "Smart hives"
         },
         {
           "id": "6cc5f7591796",
@@ -78,7 +78,7 @@
           "pub_date": "2026-04-30T19:37:31Z",
           "weight": 10,
           "sentiment_score": 0.48,
-          "short_title": "Hail Relief"
+          "short_title": "Hailstorm relief"
         },
         {
           "id": "012c8e14119b",
@@ -89,7 +89,7 @@
           "pub_date": "2026-05-03T02:18:33Z",
           "weight": 10,
           "sentiment_score": 0.13,
-          "short_title": "Devotion Flows"
+          "short_title": "Devotion thrives"
         },
         {
           "id": "13a686564adc",
@@ -100,7 +100,7 @@
           "pub_date": "2026-05-01T17:12:15Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wind Resilience"
+          "short_title": "Wind resilience"
         },
         {
           "id": "c714d1ec86fa",
@@ -111,7 +111,7 @@
           "pub_date": "2026-05-03T02:24:22Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Health Schemes"
+          "short_title": "Health schemes"
         },
         {
           "id": "c2392bc6a2dc",
@@ -122,7 +122,7 @@
           "pub_date": "2026-05-02T12:54:32Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Heat Ward Ready"
+          "short_title": "Heat ward"
         },
         {
           "id": "bcd91d9b14d7",
@@ -133,7 +133,7 @@
           "pub_date": "2026-05-01T13:23:31Z",
           "weight": 10,
           "sentiment_score": 0.66,
-          "short_title": "Care Capacity"
+          "short_title": "Heatstroke care"
         }
       ]
     },
@@ -151,18 +151,18 @@
           "pub_date": "2026-05-02T13:36:18Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "AI Education"
+          "short_title": "AI education"
         },
         {
-          "id": "18c2c01ca838",
-          "title": "Forest department fills water at 58 locations in Tiruppur, Erode divisions",
+          "id": "65a3acaeec1c",
+          "title": "Tiruppur district records 88.28% voter turnout",
           "source": "MSN",
           "district": "Tiruppur",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOdGg1cHUtWlNzaFZCVTBKV3ZQaDduUUxhNTBtY1VlRzV4VjAwV2h3dk1MeVppeGtRRmwwTnFGMUhfYmNKbkZKdGNEYnZZUmtIVUtFeWdjejNyWWZVTzAyemhqcEdjeGl0bWtDc1Z6RVVSb2RxVDctODlxNVdYd2swZVY2TTBJMU9XZHU0Zk1zSWFwWXVmS1UyVmpsQm9MVFR1LXE3X3l5dGZzUHpxcnpwS056cVl5elRwM2V6SDhyQmtKWEhSZUxDNW5na2FuNWtvcGJ0NlQ2c3JCRlgtT00zNnlvQkFBamRjUWZxcVVTYjZxdHEzNXJkSHhwNjUzQzdvVEdOQWlfcklTcnZELUxzNXFqQU9GTUgzeGRLbmVBemVEVXhnbjg4MC1Zd1QxR290SHNfTnhJUWhZVVNnTVcxd3RhdkF4eVhhdmEzd1ZDZEYtbW9wN0E?oc=5",
-          "pub_date": "2026-05-02T02:53:36Z",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPLTBVZlk0cm84bEk4MFI1MWE3QVVGTGNDb2h2TFA2VmIwUFQ3Ukp4TnFnTkZQOTFWTTA5azd3ZVR5Qk1qTndaN2hXOFpzQ3hXTVZfNnlBYlRtOTNUNVZyTGlXa19HVzR5MFNNSmNxV2IxdkwtRmtNa19OYXVIdV9mOHgwUTFmaVFsajMtRzlUS0dPZTlBanBUMlVvb3puUmNVandCMVJ3UFRYLWk1M2s0bjFueE5OZHRyZ3F0UzlnQThzM3dUb0llWGIwZHhiQXhRQUJPREQyVVJGUndtUFREYlF2WHBHVy1DZHF6NXgtRjA1bXhoTFdTUGIzY1dsVV9GWTFCSEFEdHFoRldSVm9Scm5pcnAtNkM2OHdvYk5kLUVnY1BKekROMjRzQ2QyV1o4?oc=5",
+          "pub_date": "2026-05-02T14:38:23Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Water Works"
+          "short_title": "Voter turnout"
         },
         {
           "id": "96033a37b56e",
@@ -173,18 +173,18 @@
           "pub_date": "2026-04-30T10:28:15Z",
           "weight": 10,
           "sentiment_score": 0.95,
-          "short_title": "Achievers Shine"
+          "short_title": "Iconic achievers"
         },
         {
-          "id": "41366cd0d3c3",
+          "id": "5243ccaefee0",
           "title": "Meet Rithika Sri: Tamil Nadu’s first transgender cricket umpire breaking barriers",
           "source": "MSN",
           "district": "Salem",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR2g4cmRyXzJLR1JINm1SNjByc2FqSWJrcEZJUGhFUmJ2UHpyUkxvXzFENS1LU0o0ZjlKYVdtaWlHcXlnUnNjeFBzX0xKekhaNnFldmg1RVE5dEpLVVZLZEhhUncwMldXVUdYLXlzYXpLYnlabDZuaTRhMnA4YWpvaGNqbmZCUUVhVXpaNnBWalljanhmU3ItVHBrTGs1QjUteG9SUnFIcjJ3N05WRjdmT3Q4T05kMHUtU1BVaGthTWhENUNMWm15ZTdXQ3FCTmlzUUJHWXlWLS1qYkJGLXc2RV8tdS0tZw?oc=5",
-          "pub_date": "2026-05-01T14:39:44Z",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPUW1oNkljb1RfcURid0VwM184TWp5Z1g4eWpXNFpUQkt5cExhT1c2dEFwbXNuSElrckIzcjVRbGRpVWJwbFV4SjZSb2tKcFdhSFRTLU11T09ZSFkxaDJtdGNad0JudXMyUUhRVzBxTTZ1cVU0OEtMaWVYSjFTSTkyclNWVl9lZXBwdktVSU1qYldrbzliWTZRNU9Tdnp3WmVKcFA3dVhBcE1EckNwb2lBR24zSDRVby0zUm1FcjQtd0N3ZU5PTDNuOEhYNlNETnVDc21JSE9obmtrTVpLVDZqT25QWC13aVd0RjY4aDlXRXh0WmVUcXI0MU5UVWx0bDdodGhPeDhKeXFYdUFMYmhkQy1kTjhDR08xbTRISEZfLS1RUmktSi1wVE5hWTBNUG84SEktZlN5a3VzbmoycnlETjJBSms1elpReUNqT2VyZWZtU0w4SkF0bzJBMUg3akVkS0VRX09ZZVFmUTVtU25NcWhjN3BUalMtbmUzMQ?oc=5",
+          "pub_date": "2026-05-03T05:48:45Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Umpire Breaks Barriers"
+          "short_title": "Umpire breaks"
         },
         {
           "id": "2946581d990a",
@@ -195,7 +195,7 @@
           "pub_date": "2026-04-28T02:16:38Z",
           "weight": 10,
           "sentiment_score": 0.02,
-          "short_title": "Strike Resolved"
+          "short_title": "Strike ends"
         },
         {
           "id": "2a32ec1dd2d3",
@@ -206,7 +206,7 @@
           "pub_date": "2026-05-01T11:39:26Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wildfire Tamed"
+          "short_title": "Wildfire tamed"
         },
         {
           "id": "5344532f0e7b",
@@ -217,18 +217,18 @@
           "pub_date": "2026-04-28T03:50:20Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Branch Expansion"
+          "short_title": "Branch opens"
         },
         {
-          "id": "fbced5b008c2",
-          "title": "Hundreds of devotees participate in car festival in Dindigul",
+          "id": "f045da8802d3",
+          "title": "Lord Perumal enters river as part of Chithirai festival",
           "source": "The Hindu",
           "district": "Dindigul",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVF0TEE3VWIxQmthWmdXN2c3V19kRDZYbUJEeVdudmdPcTdNU3dLRDk1ZkxQUk56bkIzTGJEZVVfcWNKM2ZMWnlJb1l3UjdOb2I3Wm1oWjhSbGFnZlBHbUFLWmRQbU5UNno2TlcyMTQ4T3ZSNzVzWU9IX0VpZ3NCdEpxUEphZHdfY2xoX0Q1bXpBcUYwLWNNdm1LVnp6dm1nVmJUM0JaMjhkZlEyOUtwZGJpWm40eXhvNWg1eFN4LVV6dEnSAcoBQVVfeXFMT0FOUWM4OVBCUEZQbFJPb0FUUnUxbDRzX1JGZGx3ZVNPRy1sT2JodEVHMTNwNmxMeEU1MEREVnM2RnRzYVY3TWdqQUZyMHdiNkpIYm1sVFNkUkdZYlZZNHpLc1V5YUtuc3RKOElQemszTGh4UTlGX18wU1gtRjVDc1NQOVVVWUZYUXF0WFdnb04tOVdJN2l0QXFXX3hvYXFPaVVFYzRZLUFERkRpc0RjSmF5SkstWTd0SGQ0dW9SRktIUlI1S054dVFSQQ?oc=5",
-          "pub_date": "2026-04-29T15:53:35Z",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUY1R2JKYzBMMndwRmluemZmbnRSUEpBV0hlb2szRDBoMFU5MEN4RGU5VkhCZjVSS3JTdEtfWlBtWWF2QzlzdnoxQXV5Q2xrOVZmaGdfNE8wQ3FBNDRkTkpqb1BzRE1Cei1FWDVqaFFNeEU3NUVxMFJIeGpzQjZ6ZXdGN2RKYWdOeE0tSEFiY1BxV3IxTkZjUW5IaDM1Z1AzMTFBQm1SdWxvcHBtYmN6Z1U4OGNpMGJTU2xjMkppaElPMFXSAcMBQVVfeXFMTVlGNUdiSmMwTDJ3cEZpbnpmZm50UlBKQVdIZW9rM0QwaDBVOTBDeERlOVZIQmY1UktyU3RLX1pQbVlhdkM5c3Z6MUF1eUNsazlWZmhnXzRPMENxQTQ0ZE5Kam9Qc0RNQnotRVg1amhRTXhFNzVFcTBSSHhqc0I2emV3RjdkSmFnTnhNLUhBYmNQcVdyMU5GY1FuSGgzNWdQMzExQUJtUnVsb3BwbWJjemdVODhjaTBiU1NsYzJKaWhJTzBV?oc=5",
+          "pub_date": "2026-05-01T16:23:44Z",
           "weight": 10,
-          "sentiment_score": 0.72,
-          "short_title": "Festival Cars"
+          "sentiment_score": 0.64,
+          "short_title": "Perumal procession"
         }
       ]
     },
@@ -238,15 +238,26 @@
       "color": "#5a9e8f",
       "articles": [
         {
-          "id": "62f721b4461e",
-          "title": "Ecologist in Tiruchirappalli develops sustainable packaging from water hyacinth",
-          "source": "The News Mill",
+          "id": "eefd93e40992",
+          "title": "Dharmapuram Adheenam reclaims 1.5 acre encroached temple land",
+          "source": "The Times of India",
           "district": "Tiruchirappalli",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzJUdEJVNjI4dmNBc05Zb2lJZl82VGNuaHhpb2xCT3RPa1ozYzJQNXJBaWk5VF9LY1kwNEdGV3JER01hbThwTmh0Vm9pRnFiTEdFMm10T2l5T0VLRERFYWRjOXlIWWYtVFNOSGRIRnlieTFwaHl4Q0lQQlRXUFZsNGlKYlQtQ3hoQ05jWTFPN0h3cW1rNXgyTThTMFFmR0FQRTJfR1U4RDVtUDl4YTNhclE4bnEzUQ?oc=5",
-          "pub_date": "2026-04-30T18:57:25Z",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU2VHY1dzSHROZzJET2NYUXA1YXZMM3ZNVFJjeW1yNU8wUTFXUXh1Q1kzUFYwMDVObFpxSTBuaUNIcWJJYkt5N0d1ZkR0ZnBiby0xald1Mi1DbDJQY09YZ2xDbVpoY1Y3RWJiWW1fOW5SYUhsUjJNbjA0WjBma3FFOXp3OUx6enhKTmwtVjNlMUIybTZ4b3hTSFRrZE5CSjlMa1Q5M0ctYXVXcTVmZmd1WW5lOEh3bDNBYnQ0MGJ6VDBNZFdNUWo5NHFzOGpkMTBu0gHWAUFVX3lxTE5LUkszNDcydHVSOUNYRWZkYXFlci1lNTV0QzNuZEd6S2djcnVURjZ2NEhBUjJ0d0pqQW5JYmFaaU5McDNNNzd4cTNySXB6N1NIQ081ZnRKRC1mQ0l0aTRydFdvRXhEbk42TlB1WUt0X1Q2aHFLM0pZZ1NpZEtyeG52ODA2WFpPNHExQnlYYzFVcm9pRUFRam44S1k3NXk3TldhLTVfU04yZW1MRU1fQjdTblV4a0R0NjBwYmdzZWJJa1VhYUdsM1VpT0hUalppdVZsLVdMR2c?oc=5",
+          "pub_date": "2026-05-02T18:22:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Flights Resume"
+          "short_title": "Temple reclaims"
+        },
+        {
+          "id": "edd7fa531c8a",
+          "title": "Adaikala Madha Shrine car festival celebrated with grandeur",
+          "source": "The Hindu",
+          "district": "Ariyalur",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXFpdjBLVUQ0ZGZmSlJYUUtLdmh2NXh3Q2ZiSWxCQi1FeUZHNmJ2b3dCM0k1dm5PV2F2SGxyTHlaaWlzTi1aSjJVQWYtYkpQbGdNUDBIOHFXaWk0WE84ZHZnejk4THFiY19DakhUOGFDMmtQU2h0dWVtTTNCVTZtSmpqY3lDU3FQT3RSYlZXQUJEUHlFbGR0TDZwVHQ2ckVfeVlKMGJRT0tSNGplcGN6MDlXS1NMNG1Jb2dUYzNXblRkTGI2RjdaNk90Z9IB0gFBVV95cUxPSFhQc3p3aGZzel93cTlUWWxjTThvUmg2elRoYVVUTkNDSWZzRE1NVkplSW82dnlMWG5lRmdJR3ltZjBaZHoxdmx4S2JiemhxQ25fQm02Ml9DQ2dRZHJaSm9wSTFRUV9rVDR4VllnUDVNWms4UEFaUGpJSS16djc5ZUdUUUMwSS1mbFVoQmhzbWsxQjg4TlowSXJOVml5dTRmZUtJRl8xV25ucEktQUlZSy15akJjQmJ6R1NScl9ZcWZ5MmYwWmd5TUJ2dGRHakZma3c?oc=5",
+          "pub_date": "2026-04-26T13:33:33Z",
+          "weight": 10,
+          "sentiment_score": 1.03,
+          "short_title": "Car festival"
         },
         {
           "id": "102d79916f0d",
@@ -257,7 +268,7 @@
           "pub_date": "2026-05-01T14:40:08Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Drama Festival"
+          "short_title": "Drama festival"
         },
         {
           "id": "b124984e3680",
@@ -268,18 +279,18 @@
           "pub_date": "2026-05-02T09:57:03Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Airship Trial"
+          "short_title": "Airship trial"
         },
         {
-          "id": "97b4974dd565",
-          "title": "Thiruvarur Bakthavathsalam: The Rhythmic Maestro of Carnatic Music awarded Padma Shri 2026",
-          "source": "HinduPost",
+          "id": "ac4d450e3cd4",
+          "title": "Son builds 'Taj Mahal' in TN's Thiruvarur out of love for his late mother",
+          "source": "IANS LIVE",
           "district": "Tiruvarur",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHpLbVh3VDNONUdtQmdJNVp3WVdzQjlzTno2TjFDMjYtZ2FtNzFndk5zUm5OeGRwakFSZFRyLW5BeW15Qk9BVmZITjRMRHdKWTVZa0hRdVZtS0FpZ0F3VFJaanMwSDFaRkhYWEhyeWg0b29UOEZwTWNnSmtRSWtKRw?oc=5",
-          "pub_date": "2026-04-27T16:00:00Z",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1pEM05zYzh1dWxQMVJkWjlmRmROT2RTU0haVzhpMktfczJKY21tVjdnRkVRUEs5N0x2SVRQVzJyX2pmck51cUlhbHN1QlFiVkNWTFFxek9GTG1iLU1paGp3dmJBMTNydkFTX2VNcjNzWS0xNUFnTEpiVThNRXRuYWpWN1cwWkZRanhia0R0QUVmOHZzUjVWdzA3VjU0TUdYejJJa3czQ0o5UQ?oc=5",
+          "pub_date": "2026-04-27T04:33:00Z",
           "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "Maestro Honored"
+          "sentiment_score": 0.64,
+          "short_title": "Taj Mahal"
         },
         {
           "id": "4a3ac5cd0a10",
@@ -290,7 +301,7 @@
           "pub_date": "2026-04-30T16:16:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Crocodile Caught"
+          "short_title": "Crocodile caught"
         }
       ]
     },
@@ -308,7 +319,7 @@
           "pub_date": "2026-05-02T18:37:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Festival Witness"
+          "short_title": "Kallazhagar ritual"
         },
         {
           "id": "32fc05d69499",
@@ -319,18 +330,18 @@
           "pub_date": "2026-05-02T13:50:47Z",
           "weight": 10,
           "sentiment_score": 0.08,
-          "short_title": "Waterfalls Flow"
+          "short_title": "Waterfalls flow"
         },
         {
-          "id": "3bfd2bd5bbff",
-          "title": "Over 43,000 benefited by 108 ambulance service in Ramanathapuram in 2025",
-          "source": "The Hindu",
+          "id": "cfb493c6f34d",
+          "title": "Rameswaram: Devotees witness unique 'Net-throwing' Shiva ritual",
+          "source": "Asianet Newsable",
           "district": "Ramanathapuram",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWo2cFNXZGw2TjRyTk1PZGpWWlphdll3ZnltaXdtdGs3ZVp1RWJfeUJUZkVVRENzQjhYaWdhUFVvb2JGa3ZzUXAzdWktMzN6Tzg4MFBZVUV3RHJhbWphYUc5d2RvNUNic05ORnc5SndodDVLTk1xYWlvUkJ3Z0JGTWJPd2pUYU04SnhzUURfYjEtX29YWGJwdGJMTE5RX0lGTVB2U3dXN3h6R3VEcnJubjY2Z3JESERpbnZBTTYyZVN5a0hMX0ktcXhabVQ3YUs0b1HSAdgBQVVfeXFMTWZxNkpvSXNBU2YwcTFNNHp5eDZOcXotaHY3MDNwaTZnVWdHUllHUUEzcDZlV0RUU09wdE5kc2o3MHhsR3dJOEdQMlJKNk1TM19rTU53bWxpcTExazNqWVBxTHRJWERHdXNOOWEtUkZpaC1pN3YxNU9IYUZzZU90eXFRYVB0dDMtNnloWHY4cmNkMUZKb3RDMUtxUUtLVHJ1VUVYVXMxUFBBSFY2OXBJZjVKTHdqMmJSOFY4SXdjbHNReEFDcy1md01XUVVrOXl2QkRMVW10RXEx?oc=5",
-          "pub_date": "2026-05-02T13:41:13Z",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkZjd3ZVZ1hxaTJ0RnBmV2huVzZDNzJleWdGVlNHTnpRZ2w5d0d5RDdKVFp6d0ZLU284dGtmaHBKTnVUZkNOMkVQSzdSQ1FQcGtrUEw1Q25wWnVJWWF0NC1iWnQxd0xuMU5MLWplRmEta0hWX1VuRElMS2hYOU1MM0laSG5JZUdxb3M3VHcyaGFEeEo0ZFp0NlRNS2RNcDBIMzJfdEQwZ25SNDFhdExiS05iSk9meVV3VUHSAb8BQVVfeXFMTy1RcjNmdXJaX3NnM2tXLWtOVkN2WUl6X1VPS3hBOGp0dERzUjdoR1JlanNiQWhzUzFFMmtmbE5JRlFJNnN1bUozUXdiRmRlSzhYTUlUd3c5YVZHYzFBb0FhcVlhTXRYQWhVMjNhMjZsNnhwd0hscnl1allsRDloMkIxdjNseWV4c05VNmhqaloxVFdOSTFiZngzeF9UNUpOTEtiV2hJS21kNzFGRUV3RkU2c19DTXRyb2xla0FvM00?oc=5",
+          "pub_date": "2026-05-02T09:30:24Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Ambulance Success"
+          "sentiment_score": 0.13,
+          "short_title": "Net-throwing ritual"
         },
         {
           "id": "e911529a8ac6",
@@ -341,18 +352,18 @@
           "pub_date": "2026-04-28T12:41:55Z",
           "weight": 10,
           "sentiment_score": 0.66,
-          "short_title": "Heat Ward Open"
+          "short_title": "Heat ward"
         },
         {
-          "id": "4724002e57aa",
-          "title": "IOCL gets PNGRB nod for Kochi-Kanyakumari-Thoothukudi gas pipeline",
-          "source": "MSN",
+          "id": "b8c3304c587b",
+          "title": "Thoothukudi Corporation sets up ‘green cover’ at traffic signals amid scorching heat",
+          "source": "The Hindu",
           "district": "Thoothukudi",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBNMzNEekY2YXlReXI3SUVhWnZSajlpZUJHX1JRUVdIdXc0N1hIaV83RDhGVTBPT3lqcjFwZWtISzNCcDlwVEstU1RnODdFZ1luem5kX0JOY0w3X0VMaEZvX1VqVDVyWkJ0TDE0OFczQm5hNU9STmhQX1NQVVVfU0gyTnZpWHZ2Wk5lRFlfZHd0NXc5bFpKVG9CclM0NlhTcTFidGJsM2ozR0RNOFc3bUNUNGd4QQ?oc=5",
-          "pub_date": "2026-05-02T09:17:11Z",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObHBkYVUxMXozV3NYQUFpdThBd256TllKZmU5cDdodjBickFtRk9TU1JEV05qVFduSnVZcW0wMW1SSmpkUDB3UGxZLUpvQXZqNElJcDZPX2xGbnhlY2tOMS1IVGlUVHdUX3Q4RzBzTjhEOXdZNUh4ejNoamJCX0JYS001ckxUeU90Vk8wVzM1SEV1NU5pQ09pYU9JSVJrOUQ5MjVxX3BTT1Myb0hodDVkQU9haVV2VGhGV2d0TzZ5LVVTT2dSclRKR2l1SDd6NnlVX05fS3Q0ZFhnM0Q0dlJPUV8yNmxfSGvSAecBQVVfeXFMTmxwZGFVMTF6M1dzWEFBaXU4QXduek5ZSmZlOXA3aHYwYnJBbUZPU1NSRFdOalRXbkp1WXFtMDFtUkpqZFAwd1BsWS1Kb0F2ajRJSXA2T19sRm54ZWNrTjEtSFRpVFR3VF90OEcwc044RDl3WTVIeHozaGpiQl9CWEtNNXJMVHlPdFZPMFczNUhFdTVOaUNPaWFPSUlSazlEOTI1cV9wU09TMm9IaHQ1ZEFPYWlVdlRoRldndE82eS1VU09nUnJUSkdpdUg3ejZ5VV9OX0t0NGRYZzNENHZST1FfMjZsX0hr?oc=5",
+          "pub_date": "2026-05-01T14:23:34Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Gas Pipeline Green"
+          "sentiment_score": 0.15,
+          "short_title": "Green cover"
         },
         {
           "id": "f9112bba8ffb",
@@ -363,18 +374,18 @@
           "pub_date": "2026-05-03T02:02:00Z",
           "weight": 10,
           "sentiment_score": 0.72,
-          "short_title": "Girls Sweep Wins"
+          "short_title": "Kabaddi wins"
         },
         {
-          "id": "3bacc2e4dd5b",
-          "title": "Rare sunset, moonrise spectacle to be witnessed in Kanniyakumari on Chitra Pournami",
-          "source": "DT Next",
+          "id": "a48cf124a33e",
+          "title": "Thirparappu Falls | Kanyakumari Tourism | திற்பரப்பு அருவியில் திடீரென குவிந்த சுற்றுலாப் பயணிகள்!",
+          "source": "News18 Tamil",
           "district": "Kanyakumari",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQblhPRUt5QkJycnFUdnRpMURaQ0JndE1jWklZdUhFLTdhUFFsRlpuS1UwMlU3Q1JNNWp2ZHpmSlZoQWI0cTRKWWVacGNNQnVYaHZJTlpFOTh6cXdjaXpTLW9uWVZoTTFPUTdDOExTU0kwMWVMVlo3ZUdnVnYxYVl1UjNsMFFKRWJLbnNGbmx5c1J4Mm9RN0ZCLXdUQlJnZVhHc05zSFE3amVRWkJYR08xbXU2d2VfSVZ1TDVZ0gHIAUFVX3lxTE1XTWFXY29RVUt2Sy1PQ2lnMmdHMnhxMmJYZTZwVklmRl9SX1FCMDFXVTE1TTV2b0xNazQtMEs2RUgxVFZFdUp5Y1ZNQUVBMVNxWGMyRlNROUFEM090dGFfemw5eXdsNW9hTW5vMTN6MlFWMkR4ZWVWVEphZDZTVlpvVlVVU3NQRWgxSlJIU2J2Q1hicG9jdmVFTnc0SjA3djBSdVJFOEJzX2RLT2dPMXF2OTFuWHdPLW52M1JNcjNqYU9YXzVoeGpY?oc=5",
-          "pub_date": "2026-04-30T06:34:22Z",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTUhNdnFjTGE0SGRYOGhDaEZseVFhY181eGNHVl9lTzNhZXhxM29xeURzd0NNQ09vXzVQcXVXc1k4SzZJNXZZalFkV3FPMHFVVHJXdFgwaVBjcFV0OU1MeFNnUEkyUm03WUZLSFJtQjd5MVJ6V1VDUy1ZNlJzVzBTTHBLNGl6WERWU05LckU4ZURUNElLOVl0VElNR0VOUnRSQVV5aFk0WnNBb3RKYmsxZjNzaVNuU0tTdjhyM1ZqYi03cWpmTm1XUGtjcEo5OUlwaVU0dtIB2gFBVV95cUxQN2QxSW1TUFRsQkxRaU45dHRqQkl1ZVZHTDg4NVp5MTJfaU5EYk5EY3ByYXJLNjZCZjZNb0E3UmhCalBMUnQtMG9YUjBlVmJLNGJoZlBjRldRMTFaNGhQbkVQTFFrdUNQWVZ4VnlPd1lPTVI4QzExUEo5Wm5uZ1BIV1gzLXFBMkpnd2JKdUxvLWgxQW1JYW52VE9BcTctbm1ZTGg4NkhtVzBLZnZTTzFhSmVoRUo2WndlenJvZjlCS0gyR2tIcUJfLV9WYWtQUnJSZXpWcHQybEF6dw?oc=5",
+          "pub_date": "2026-05-02T06:09:21Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Cosmic Spectacle"
+          "short_title": "Falls flow"
         }
       ]
     }
