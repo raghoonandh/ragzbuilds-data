@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-05T07:19:36.245002Z",
-  "article_count": 36,
+  "generated": "2026-05-05T12:53:44.000092Z",
+  "article_count": 34,
   "categories": [
     {
       "id": "chennai_metro",
@@ -8,26 +8,37 @@
       "color": "#c96d4f",
       "articles": [
         {
-          "id": "8b3c009eb87b",
-          "title": "Delhi Capitals Set to Take on Chennai Super Kings in High-Stakes Encounter",
-          "source": "Delhi Capitals",
+          "id": "0eb819248134",
+          "title": "VBJ Opens Premium Flagship Jewellery Store In Chennai",
+          "source": "Entrepreneur India",
           "district": "Chennai",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm5oNU1DVmZmQTM0VHozT2ZfTTJjTHdQQ2IxaWtMdUVna2JITThsekxKSHRaY05MZE9ndmZmM1lJWFhJcDFsaV9vS0V3R0Z2bzBUX1RnUWo5alZPTVlKa08xLTdtWFR1VXZ0UWpFVVpFR1o2eDM4dmhPOS1vTlpmcXlrVVpGNmkxNTRoWG1tM183U3V6aVVtTVNXTldIbF9MbzF3S2ZTQl9uNGdr?oc=5",
-          "pub_date": "2026-05-05T06:11:21Z",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczNYeENSLXNxWmVONk9BQmVONXZjeDR0VVp3RVpEeXFqSVh5VjdGVDVYUW85VUJVcEJ2X1ZZZlhYY25uc0d2N0FLT1kyMTFnUW1TMW4xSFdGcHdVMGFaRTVjTUdhZGwwRV9Hc0pZUnJ5ZVRJbDluSjhDNXkwS1JoZFpad2VKNVNmNldVU0hKLUtuZ1ZWWTFnNmhjZkZqbG44U1A0S1FRVGtoQQ?oc=5",
+          "pub_date": "2026-05-04T13:57:52Z",
           "weight": 10,
-          "sentiment_score": 0.6,
-          "short_title": "Cricket Glory"
+          "sentiment_score": 0.1,
+          "short_title": "Flagship jewellery opens"
         },
         {
-          "id": "2e5a3fb266db",
-          "title": "Kanchipuram CNG Price Today (04 May 2026) – Per Kg Rate & Latest CNG Price Updates",
-          "source": "The Times of India",
-          "district": "Kancheepuram",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0toeTF3SVRPUHVrbUlvenZYeDRzYUtjS1M5YzkzdjB1UWZIVlF3dTRvQnNEc24tUzhxd0pOVk1hRUg5SXViWm05cEw1aGpGbGNvRXlBd2xMUVZPcDFTTHJEelYxU1lGNjVDanh1TVlCVGR4RDJ3eklJcVpkMUJwazdfVENHQnVGelg5Qi10X1VWTno0?oc=5",
-          "pub_date": "2026-05-04T20:41:02Z",
+          "id": "9553e0ec970c",
+          "title": "Tamil Nadu Weather: Hotter Days Ahead For Chennai, Chengalpattu; Heavy Rains Likely In Coimbatore, Erode",
+          "source": "Oneindia",
+          "district": "Chengalpattu",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNldmNWgyc0pEUFB2WHJGb0xTUFozU3NnZDJkUDV2OVpBWmN0SWh3SU9yM095VngyaGtTTlB4R1FuWF9FdnI2VS1yNVd2T3QySW10Qjg3WHFUekVxOVZiMkNDbzlPcnJOVzBuN3BROGRyNm03SUdtb3pBZDYwam5PQmZxWlFFeC1seTh1NFNPN05DMU9jWUZPakRGNVZINGVjYl9xbU9MTTRhSjAzQnBBWk9qR1dkRWs1dDZhY2tSd0U4NUg0eDhRd0N3blBLSWpldTNOLWx1djBGdw?oc=5",
+          "pub_date": "2026-04-29T10:26:18Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Silk Heritage"
+          "short_title": "Monsoon rains ahead"
+        },
+        {
+          "id": "3e2a825596ba",
+          "title": "Kanchipuram silk sarees sustain heritage and generate ₹200 crore annually",
+          "source": "The News Mill",
+          "district": "Kancheepuram",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdERfNlg4Rzc0TTZRZDl5Z1hyd1UwcUlHa2Y5Z1Q0ZFZMZjU4bEhMdVVfa2U3dG9iSkc1RlNqOFhEcE9QNmFuVTFGYjU3RU1hcEg1UGF5TjRQaW1nanRhV3FwdFV2NTQ0TnRZRHltWU9YZTdVLWNNOGhUendKVlJOV0FBMGtJSWZyMFp3eE1uWXEzMTJmWnNadi05WlBmMjN2QVBuTWxaLVZpNVJCclg2Q3pUZG8?oc=5",
+          "pub_date": "2026-05-03T06:12:35Z",
+          "weight": 10,
+          "sentiment_score": 0.15,
+          "short_title": "Silk sarees thrive"
         },
         {
           "id": "7ed3f811030c",
@@ -38,7 +49,7 @@
           "pub_date": "2026-05-03T05:59:10Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Voter Turnout"
+          "short_title": "Strong voter turnout"
         },
         {
           "id": "f69756dda625",
@@ -49,7 +60,7 @@
           "pub_date": "2026-05-02T14:31:19Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Placement Success"
+          "short_title": "Placement day success"
         }
       ]
     },
@@ -67,7 +78,7 @@
           "pub_date": "2026-05-03T02:09:48Z",
           "weight": 10,
           "sentiment_score": 1.01,
-          "short_title": "Sweet Beekeeping"
+          "short_title": "Beekeeping innovation"
         },
         {
           "id": "6cc5f7591796",
@@ -78,7 +89,7 @@
           "pub_date": "2026-04-30T19:37:31Z",
           "weight": 10,
           "sentiment_score": 0.48,
-          "short_title": "Hailstorm Relief"
+          "short_title": "Hailstorm relief"
         },
         {
           "id": "f350a701437f",
@@ -89,29 +100,29 @@
           "pub_date": "2026-05-04T18:53:51Z",
           "weight": 10,
           "sentiment_score": 0.54,
-          "short_title": "Peace Torch Lights"
+          "short_title": "Peace torch lit"
         },
         {
-          "id": "13a686564adc",
-          "title": "Heavy winds uproot nearly 3,000 plantain trees in Namakkal and Krishnagiri",
-          "source": "DT Next",
+          "id": "e86f288fa318",
+          "title": "Review meeting on NEET arrangements held in Krishnagiri",
+          "source": "The Hindu",
           "district": "Krishnagiri",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDh2enVCczlMZ0hIakhaencyc3lRcllabHBpUl83SFBMZzU3bTViLWM4RVdOdWxYSWN6ZHR1V1lrSGdNdkFzSnZRTHdHTHFpR01fS1pOLUNPMnBvWXM0Ry0yQTlnZ290Z3NVLTlna3g3Y1NEcGhhcFhjZ2QtcG5POHR6Qmp0Uk1tdTIzSl9HcVBUd3dTT2RTblNib1RDSlFPSm9KdVROUHdRYlBvVXVR0gG8AUFVX3lxTFBDd3JNTndIVVExWlJOR0FIcU9ibWlfT2Yxa3hLa3JodHd1Y2pvS2c1OHN6WENFMnlfdjlwb2ljNzhISHpnRnRVeUVzMXlDSExjVV9SNnJkUE5sWURrVzVzSlBmT2dDUi1JdFVpdUJlQzdzQjB3WHI3RmFVbDk0UmhVUEdKcDFmVTdkRDhGZmZkdGZzRC1tekYtUlJRbHFMczhIOC13LWJKZEtVemxFaU9xM1lnWHF6eklZdVA5?oc=5",
-          "pub_date": "2026-05-01T17:12:15Z",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWpWMUpWR0xvaXNCQWQ2am1pTFM4ckZmWExTdWstZzQyVy1FaGVtaThuYVFIdnhXd05vUHRnTUpKeHNnSy1VcFVDRVJHWF9GVTJobTFBbGtrM1VONUlUc1p6ZTB1T0Vzak9UQ0dJOHRJLVJ6QXpZRWJMVzZXZ1NTWXBFcXJpbWlsVVdtQ1p4M3NiZEFsYUVCaVpGMVBHNkQxR3BPY2lSMmFVN2RESVJLSHlqVWFNS3pLN25ieEgxOFXSAccBQVVfeXFMUEZNOHJKVWxkR2ZuS0hnWU8zdE9MN3RwVDJtdGcwY0Z4ek5sOUxEWFFNU1FDUDZjbHB5YWhLeVlrQkUyU2NYb3pKN3J4RFpZTm1uSlNTVklpVllMWnlCUnNHYV9qT0xuMUU3SFlfWk1WaUdQQlQyZWFRdlBBZmg2SVJOTDBGSHU5TTJJZnZ1RmdCT2oxSngzeF9ZOXpna2dYM2dwMG4zejJ6WkYtTWpNVERsM01jNWFCVkxEWElQN2cyWElvVUM5VQ?oc=5",
+          "pub_date": "2026-04-29T15:03:38Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wind Resilience"
+          "short_title": "NEET prep review"
         },
         {
-          "id": "3cc9cc98f53b",
-          "title": "Southern Railway And Tamil Nadu Transport Department Deploys Special Trains And 11,823 Buses For Tiruvannamalai Chithra Pournami Rush",
-          "source": "Swarajyamag",
+          "id": "c714d1ec86fa",
+          "title": "Villupuram collector reviews health schemes, passes resolutions",
+          "source": "MSN",
           "district": "Viluppuram",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHZFVlJOQlpERDAyVFgwY1NDMXlDb3o0bE9TZ1BuRWQzVlpXRlo5WW80LUxfRWU5d1RDY2k5XzFwZ1NSTkpWR1UtRTBXakpTSzhmczFoVk8tWlpKQk1VanJmNjRDMUFOS3l6ZloybzhmYnJSanpUSTJJeWYza1NrMjFRWnZtQUlEUlRHUzVlT1lKWDNDSkFfem10MFkwYUlpQkxIMGFjNk4xWEtNcWdwMml6U1QycUx0cnZ1Xy1lcVM0T3VhUldOWm4yYVNRN00yTWt1dHBkNmk5SjFveEg2UWZGbW9YNVh5NzFoT1NXcGxFV09hXzBpMV84c9IBiwJBVV95cUxPWHNyWmZmSzJKTnd0eGxLUG9aclFxYUNfNUJkN1ZlZDNqMWd5eU94dGZCQXlYa28wZEhOaGZtazVlMDJsY1hIT2l6Wmpua2M0T3d3WUJHQjYwUnRwYzZHSE9QMUtjVE5vbUhXa0pHanFVOEN5YkxxWFpnaDVsUzU5czYwUWtlTDc2N1VNbnp2QzB5VzFSZER6MUU0bktMY1MxWGJxRFFTa252RmZvM1ZzaTU2ejg0TVlhVkJ0SzVUcEttMlFCOGoxUnRtQ3VNZ3pGSFpWRzVFTWNlV05US2F5RUVZTWdvREc0dUlRZkhjVnN1N3JPT3k3WmFybW0tek9sTVd6NFNZVHN6aTg?oc=5",
-          "pub_date": "2026-04-30T07:32:02Z",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRFROQlFrdTg2d2tJQkNRWkNJbnZFSi1mMXNVUFI1VGZMZnJMeERaQzA0YURJQjN4QlJXaTlhcUFzVy1CRzJ6T1Iyd3p5MXJQOUtJQ0Z1U2ctRUhHMTRrNkxRME5ZTExZODJra2dqN0hCX1FNdWcyRkh5RFRTMklQdlVZRFl4dG1RT0NxaFhWanc4OVgtZkpMZW9UMmFraTlubmlERmxXdlBuQVFyVWFRRmtPekt6eGNZZGxVakE3dVRrQWtOclZfMHZOWWFaa2twM1NKSDFsZVZiRDI2NmxyV2cyMURJSmI2d3J0RTdteDE4cHJKNTZEMW9CRmdDTFpuRnJqYkhXWk9wOHhIUEpKcVJ4dnkxbjJVazRTZE90RWFlRnVyeWVfaVZTNTFJWlFqN0NnME9LZEVIMjVTNkxxV1l2MVJoaFg0Z21ZaU9Ud1puZw?oc=5",
+          "pub_date": "2026-05-04T12:11:57Z",
           "weight": 10,
-          "sentiment_score": 0.4,
-          "short_title": "Festival Express"
+          "sentiment_score": 0.0,
+          "short_title": "Health schemes reviewed"
         },
         {
           "id": "73e7d6aada62",
@@ -122,7 +133,7 @@
           "pub_date": "2026-05-03T00:19:15Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Heat Ward Opens"
+          "short_title": "Heat ward opens"
         },
         {
           "id": "0ac313afed84",
@@ -133,7 +144,7 @@
           "pub_date": "2026-05-01T13:23:31Z",
           "weight": 10,
           "sentiment_score": 0.66,
-          "short_title": "Heat Care Ready"
+          "short_title": "Heatstroke ward set"
         }
       ]
     },
@@ -151,7 +162,7 @@
           "pub_date": "2026-05-04T02:21:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Neolithic Discovery"
+          "short_title": "Neolithic discoveries"
         },
         {
           "id": "94239fcf8e50",
@@ -162,7 +173,7 @@
           "pub_date": "2026-05-04T08:08:35Z",
           "weight": 10,
           "sentiment_score": 0.4,
-          "short_title": "Industrial Harmony"
+          "short_title": "Industrial harmony celebrated"
         },
         {
           "id": "0f597d14b52c",
@@ -173,40 +184,40 @@
           "pub_date": "2026-04-30T04:36:54Z",
           "weight": 10,
           "sentiment_score": 0.38,
-          "short_title": "Devotion Rewards"
+          "short_title": "Temple devotion rewards"
         },
         {
-          "id": "afd2b187af60",
-          "title": "Mangoes 2026: In search of Salem’s sweetest fruit",
-          "source": "The Hindu",
+          "id": "41366cd0d3c3",
+          "title": "Meet Rithika Sri: Tamil Nadu’s first transgender cricket umpire breaking barriers",
+          "source": "MSN",
           "district": "Salem",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZEp6MnByQzk3RThCSXpzdXJYME5MYnFraEN6ZnlCQkhKdkdrUFB4T0VEb3ZoNDViX09zUXBOT0VUUFdVSERDRTlpajVMTUxKUWgwbnNMNldJZEVCNVdaTzJQc0NsSElYaUdtUGlFMWhWRXNmb2JQT2h4c1RkdGRnVlh2TGVqd09xd1Zsa1pXYzdHdzRKVnB4djdVY1AwR1pCbllDNXlqRmNzZ9IBsAFBVV95cUxQeVZYRUxUVTBYTy1JMFk1OHAyVjhjaGI4NW5EckliRTQ5TmVSZ09lNVMtcHY4MTBDZURLTkVobDFxREl6YUI5c3RhcmNHblJSeEZBQjZxWm02SFJKdGV0bUlTVkJtS2xQZ2xiZmE2elJlRGlmMmJTUUlkRzlvMGZ6UzJaNVJMX0pxNENyeVdWSFBSdWFXZGw2WXlwUTVrby1vUnhSSldrTEdkWGNDZEdnYg?oc=5",
-          "pub_date": "2026-04-29T10:17:35Z",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR2g4cmRyXzJLR1JINm1SNjByc2FqSWJrcEZJUGhFUmJ2UHpyUkxvXzFENS1LU0o0ZjlKYVdtaWlHcXlnUnNjeFBzX0xKekhaNnFldmg1RVE5dEpLVVZLZEhhUncwMldXVUdYLXlzYXpLYnlabDZuaTRhMnA4YWpvaGNqbmZCUUVhVXpaNnBWalljanhmU3ItVHBrTGs1QjUteG9SUnFIcjJ3N05WRjdmT3Q4T05kMHUtU1BVaGthTWhENUNMWm15ZTdXQ3FCTmlzUUJHWXlWLS1qYkJGLXc2RV8tdS0tZw?oc=5",
+          "pub_date": "2026-05-01T14:39:44Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Mango Season"
+          "short_title": "Transgender umpire breaks barriers"
         },
         {
-          "id": "9029eb9d4708",
-          "title": "Gold Rate Today in Namakkal 5th May 2026 : 22 & 24 Carat, Gold Price in Namakkal",
-          "source": "Business Today",
+          "id": "cc5fbbc4e7ae",
+          "title": "Over 4,700 candidates to appear for NEET in Namakkal",
+          "source": "The Hindu",
           "district": "Namakkal",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQMWVqLTZMblFCNF9Id0dJTncxV3dFNDVOTXBhcUx6TFpYdkFjLXFjdVYxWnJ4YmVsQU1wVUU2WjNuRXc3YUxwaEktLXh4cWM4SHFDdjYyUkJFekFNcFY3Z1JwVmJUdUVKcDFERVM5ZUlWSmpM?oc=5",
-          "pub_date": "2026-05-05T01:09:24Z",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdW5kazJHbUN6V1dFdWZVLTR0czRhZXlWRG5Fa0hadWVHYkJRU3RqN2IxWS1rcmVCZnBWT3A5bTM1NHpTZ2Y3NFFjN2h4YVJZRzktVy1YVUJkRkJuaFBGYk14TFh1WGs0c1F5eXFhNDJ2WThTZUNkT1NWb01WbGdmWU5NTGdFcmNTSXA1dVBvQUVRcnBuYldfckFQWjA0VDFzUGYyX3JITUFQS0tuQTdDVkRzRnF6Rzh2YkJ30gHCAUFVX3lxTFBSX3JaYWFucnl2MVBDdnFtRGctTDRsTXJTUF9SOTFwZ3g2d2RFQWZsRDIzUWp4UFZXUEktQjRXNDdMWVZrVWdjUW92N25xTGFobzBfR2RQMi1iS21XdEU4M3Q4S3VjNkN4TFJiOW5Ybzk1X29UbDdwWXRlX0R4cGpFeEtkY1FoODJodjl4TlpHNjJUbk5TRkZzaWJOUENBOElyN0xUUEZvYUgxZjdEQ2E0VFNlbjNjdjVlLTlqWVlCN2dn?oc=5",
+          "pub_date": "2026-04-30T13:32:07Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Gold Market"
+          "short_title": "NEET candidates gather"
         },
         {
-          "id": "241aefc0895c",
+          "id": "69bd83a439ea",
           "title": "Flag march held in The Nilgiris",
           "source": "The Hindu",
           "district": "Nilgiris",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzRuT2UyUnJpc3dJeVYwYWJMdi1mRGdqMUc5MFRVU0VpS1EybzMzMXdDRUNTMUIyNkFlb1dsaXpyWHN0WVNtYXR2aEh2RTU3ci1LR0pIaVo4UTVCYWthV0VDY2xqdVlFVHlqMlNKQlRSWWRYSm9yWE4wajh6ci1VbWlzelBDcGFOQXFxRlVKV205bUxsSy1qRFh4cGM5MV83b2VPVEExd9IBpwFBVV95cUxQSzRuT2UyUnJpc3dJeVYwYWJMdi1mRGdqMUc5MFRVU0VpS1EybzMzMXdDRUNTMUIyNkFlb1dsaXpyWHN0WVNtYXR2aEh2RTU3ci1LR0pIaVo4UTVCYWthV0VDY2xqdVlFVHlqMlNKQlRSWWRYSm9yWE4wajh6ci1VbWlzelBDcGFOQXFxRlVKV205bUxsSy1qRFh4cGM5MV83b2VPVEExdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONC1GemdDMVZaWVItT0hBZkhGSkpYbUs2ci1mb0RlUWlLU2IxMXpoNGJKbjRVVldmbDdvUEM4aXV2WlRQQWtrSjFxSU5jaHhVZU9UUzAza3BrUzFiaUE3dXBtVDZ6bFRoRVc2VTNoMF9wWTZSeUR1RFhZNzExamtTVTNhYjFMNGRIZ2pjTko5TERTT2k3NFA5VmUxSl90MTdG0gGnAUFVX3lxTFBLNG5PZTJScmlzd0l5VjBhYkx2LWZEZ2oxRzkwVFVTRWlLUTJvMzMxd0NFQ1MxQjI2QWVvV2xpenJYc3RZU21hdHZoSHZFNTdyLUtHSkhpWjhRNUJha2FXRUNjbGp1WUVUeWoyU0pCVFJZZFhKb3JYTjBqOHpyLVVtaXN6UENwYU5BcXFGVUpXbTltTGxLLWpEWHhwYzkxXzdvZU9UQTF3?oc=5",
           "pub_date": "2026-05-03T13:37:08Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Flag March"
+          "short_title": "Flag march held"
         },
         {
           "id": "197304305c80",
@@ -217,7 +228,7 @@
           "pub_date": "2026-04-28T15:46:05Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Historic Turnout"
+          "short_title": "Record voter turnout"
         },
         {
           "id": "fbced5b008c2",
@@ -228,7 +239,7 @@
           "pub_date": "2026-04-29T15:53:35Z",
           "weight": 10,
           "sentiment_score": 0.72,
-          "short_title": "Temple Festival"
+          "short_title": "Car festival crowds"
         }
       ]
     },
@@ -246,18 +257,18 @@
           "pub_date": "2026-05-04T18:41:21Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Wetland Haven"
+          "short_title": "Wetland bird haven"
         },
         {
-          "id": "88fa1701038a",
-          "title": "Gold Rate Today in Perambalur 5th May 2026 : 22 & 24 Carat, Gold Price in Perambalur",
-          "source": "Business Today",
+          "id": "c75671397c6f",
+          "title": "Tamil Nadu's 'Saas-Damaad' Duo Creates History, First In 35 Years To...",
+          "source": "News18",
           "district": "Perambalur",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TWElKRS1Pby1ZUDdXVlByUlNHbUxiS2xwN0F1eXBuVXZ0S0hCUWRXSXNrZ1diOGtyVXhfUDlVZmFPeTBXT2JJbmlKMURqYmI5bTBGcXBHb0tYeGdwT01jcUJRQ2xUV2JGOXpIY21kQmZHQ2g1S093?oc=5",
-          "pub_date": "2026-05-04T22:23:08Z",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3FvTVNzU1hJOERuYVBmWHM3Q2JLMUpkczBra3k3a2xSeTAxOXpCMHV1OUdpVkM0LVQ2SUZIOEp0aDRZY09jNUpRcVhJYlZvYk1HMTZFV2U1T1Y4dElIYnlkTzJVWGY2dFFZazdkLUVYNFZDRnFCSVIxYzMtSXlKcWJaS0Mwa2R1V19pLWdsQW93bENjUWU5R2hna0N2emxOYTFJb0xsemZvZw?oc=5",
+          "pub_date": "2026-05-05T05:50:53Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Gold Market"
+          "sentiment_score": 0.27,
+          "short_title": "Historic family victory"
         },
         {
           "id": "0df33598412b",
@@ -268,18 +279,7 @@
           "pub_date": "2026-05-03T14:57:56Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Vote Ready"
-        },
-        {
-          "id": "0a575bb23a59",
-          "title": "Gold Rate Today in Pudukkottai 5th May 2026 : 22 & 24 Carat, Gold Price in Pudukkottai",
-          "source": "Business Today",
-          "district": "Pudukkottai",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KSVZXM0hWWlRVYW9qVUtfNVFJVWk0QlJReXk1RndMS1ZfSHJYbnNuWkFiV3FfOFVkRjlzeDE0b0xScFMzajJzSWtaN0dnejhzc2Y4Sk1YOUlhcldKc0w5SVFTQkFZUlVZeTQ3WFFMcGh0eGRkV1dobw?oc=5",
-          "pub_date": "2026-05-05T05:35:42Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Gold Market"
+          "short_title": "Vote counting ready"
         },
         {
           "id": "102d79916f0d",
@@ -290,7 +290,7 @@
           "pub_date": "2026-05-01T14:40:08Z",
           "weight": 10,
           "sentiment_score": 0.64,
-          "short_title": "Bhagavata Festival"
+          "short_title": "Bhagavata Mela begins"
         },
         {
           "id": "b124984e3680",
@@ -301,18 +301,7 @@
           "pub_date": "2026-05-02T09:57:03Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Airship Innovation"
-        },
-        {
-          "id": "37338f02a320",
-          "title": "Gold Rate Today in Tiruvarur 5th May 2026 : 22 & 24 Carat, Gold Price in Tiruvarur",
-          "source": "Business Today",
-          "district": "Tiruvarur",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44dXhVeVdJU05vM3BRODQwX2MtbUhobVp6RWJrZDFLUFg2Y2k4OUJ2dUY5Q2NUQ0NpSGtCWUFnNFlCOWVMVFBSREY3RkdLWHNkZnFmdDJ5T0RXc0dwZHd5VnRtM2RwSzJBVVVJLUlmdEd5R3E4VVE?oc=5",
-          "pub_date": "2026-05-05T01:40:38Z",
-          "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Gold Market"
+          "short_title": "Airship prototype trial"
         },
         {
           "id": "4a3ac5cd0a10",
@@ -323,7 +312,7 @@
           "pub_date": "2026-04-30T16:16:00Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Crocodile Rescue"
+          "short_title": "Crocodile rescue"
         }
       ]
     },
@@ -333,37 +322,26 @@
       "color": "#2e7d8c",
       "articles": [
         {
-          "id": "643f448b77bc",
-          "title": "TN's Madurai all set for Thirukalyanam, ceremonial meal on 28th April",
+          "id": "818479e2a828",
+          "title": "Madurai Chithirai festival: Lord Kallazhagar enters Vaigai river amid a sea of devotees",
           "source": "MSN",
           "district": "Madurai",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0p4Q1NoZ2ZSdGlyUlBxNDhzd0x3ZEhCZ252ajJYTlNENmlHNjZUNTVRWC1LbHQxUVdqaTQ0N0xHaG4zRWdXSzZqWlZJVnExOER6OG1MT1VMU1JiQ29aUXZFQkVzblctRmp4SmpqSS15N20tQVpENmR4b3BCYlNENXMzbmlPeEdaa21xam5WZ2hicDFjRFVFMllvWWZheWxER21lQ2V3Y0hvQVBsdUFWMExkRXljWjFT?oc=5",
-          "pub_date": "2026-05-04T07:24:06Z",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXctTTF2X0JJYlRQV0ZjSTNHS1B3OXlrZDRxNmoxYVBmcFE3eGlUeU55V3hFQUJ5eFNyZWpwcFlLS0pVbDJURk54S0lMUlVlaDR2V19pRWNWQ2dLc0RneGpMUnVWMnk1T1BLcVpoNWFSc1gxanY1QjRiZUVJdzI1UHc4SGhUV0hJcDl2SXA5dlZrTHBiN1YyT3QxcWszV1JzNTNJb3VFeERoMmNGa3poSF9yWG5jVXJlNlJPNUQtbWF2NXRIaXJqRnBnbGQ0aTFHdlE?oc=5",
+          "pub_date": "2026-05-05T05:24:16Z",
           "weight": 10,
-          "sentiment_score": 0.0,
-          "short_title": "Thirukalyanam"
+          "sentiment_score": 0.72,
+          "short_title": "Chithirai festival thrives"
         },
         {
-          "id": "0c1e5c7fe9ec",
-          "title": "Suruli waterfalls draws large number of visitors",
-          "source": "The Hindu",
+          "id": "b707e2dd8f17",
+          "title": "Tamil Nadu weather: IMD forecast heavy rain from May 4 to May 9 – full district list",
+          "source": "MSN",
           "district": "Theni",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTVjai1SUk5TbW16UHV4Vmt2ZGNRX1JpQmloZnZfTzRuVUhzTEVLM1NDS3oyZWZuWmVWT3pNRi14bk84MnRDSC1iQmI3SjVibWNNc1lUQWd5MXQ5UklVWlNBQmxMQlpqUTFPNmRPM0ZxVkhpZDQwckJLY0lqTkJESTlwdGVHUWpvVkg5azRjS01HdUNBZmptOWtlTFNOT3hoYnBVQkhxcGowT2htNlFJU3NoMNIBugFBVV95cUxQQlRWN2RIVzJra1EzeFlwMXBRVEhtWlhXeHJoNDh5VG5vNXlleFFadDFoWUYwZlR3THJyYWRuSldyckhCUmdIZ2x5b0c4TUgzM1V4SFhPaWJnbW95U3ZUa1VEdVlpNG9jOHRxd0MtRm1yMDdEMXV3V1dPSUhYb250eHdVUEZsanl2WlNCaWE3NDcwQm9ORmxNMVNkaFlOYlhfYUdqUlAzQl9OdzR1blB0Q0xHS04xNjA3anc?oc=5",
-          "pub_date": "2026-05-02T13:50:47Z",
-          "weight": 10,
-          "sentiment_score": 0.08,
-          "short_title": "Waterfall Tourism"
-        },
-        {
-          "id": "060e912205dc",
-          "title": "Gold Rate Today in Sivagangai 5th May 2026 : 22 & 24 Carat, Gold Price in Sivagangai",
-          "source": "Business Today",
-          "district": "Sivagangai",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IRVlVZ0pXYkprNVVld3lmaWdnYmwtaGtwZWp4eFB3Y0R1YXlUTVpGdWtGa2VaaTloUEJGZHFjZHN4QkkzanQtQXYzT2s4cjJiNTFqRnJVV0xxR09VdXFiMDJFRGVuS0dFb19SdmhZTEpLMDhZeU5B?oc=5",
-          "pub_date": "2026-05-04T23:35:15Z",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFVOVjFwMkRySC10TTc4Z1FzUE9wYnFWNjdRVTdCMHo4c2ZYRlhWUVRjSC1IZTlrbEszWmNObzZ5dWZWYWFCNlFMcjVGc0Q0NzlHVTEyNnlyRmJFa1diUDFPY3pSMHY2LTBJTWZQREw2WmRzTlZHSWVrME1seEVJcTVlcjNvelhpdXFtWWZYXzlxRWUxOW10LWpqd1oyWFh4ZDVFTFQwbkMzMHBVY2tldjNuU0t3Q2l0YVNOakRTb2ZaaGhFMWg2eGV3?oc=5",
+          "pub_date": "2026-05-03T19:54:04Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Gold Market"
+          "short_title": "Rain forecast announced"
         },
         {
           "id": "2f7b80ae6313",
@@ -374,7 +352,7 @@
           "pub_date": "2026-05-02T06:57:07Z",
           "weight": 10,
           "sentiment_score": 0.15,
-          "short_title": "Sculpture Discovery"
+          "short_title": "Ancient sculpture found"
         },
         {
           "id": "bbb631ac6c16",
@@ -385,7 +363,7 @@
           "pub_date": "2026-05-04T15:10:12Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Record Results"
+          "short_title": "Election records set"
         },
         {
           "id": "b6c22fe9804e",
@@ -396,7 +374,7 @@
           "pub_date": "2026-05-03T22:43:10Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Fossil Discovery"
+          "short_title": "Fossil bed confirmed"
         },
         {
           "id": "781b11e2d928",
@@ -407,7 +385,7 @@
           "pub_date": "2026-05-03T17:48:00Z",
           "weight": 10,
           "sentiment_score": 0.7,
-          "short_title": "Growth Powered"
+          "short_title": "Skills & growth plan"
         },
         {
           "id": "d6a557ff2b9b",
@@ -418,7 +396,7 @@
           "pub_date": "2026-05-03T02:02:30Z",
           "weight": 10,
           "sentiment_score": 0.72,
-          "short_title": "Girls Triumph"
+          "short_title": "Girls sweep 100 wins"
         },
         {
           "id": "0d260f28ca85",
@@ -429,7 +407,7 @@
           "pub_date": "2026-05-04T11:28:03Z",
           "weight": 10,
           "sentiment_score": 0.0,
-          "short_title": "Marathon For Change"
+          "short_title": "Youth runs for cause"
         }
       ]
     }
